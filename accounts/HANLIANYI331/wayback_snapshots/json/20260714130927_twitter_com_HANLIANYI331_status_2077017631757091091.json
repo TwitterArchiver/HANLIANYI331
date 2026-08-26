@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2076919237239853293",
+    "created_at": "2026-07-14T13:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077017631757091091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893148722927935490",
+          "start": 0,
+          "username": "miomiokawai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/18792…",
+          "end": 142,
+          "expanded_url": "https://x.com/i/status/1879265587433816458",
+          "start": 119,
+          "url": "https://t.co/6uZwSsZJEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077017631757091091",
+    "in_reply_to_user_id": "1893148722927935490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879265587433816458",
+        "type": "quoted"
+      },
+      {
+        "id": "2076982506663100582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomiokawai 如果你真的关心当事人的痛苦，应该做的是像我们一样，把你的金钱投入到反家庭暴力，反校园霸凌，提供就业岗位，提供住处，提供医疗，提供学业补助等各种救助活动当中，不说一年多少钱，哪怕是几千块钱平均下来也足以救一个人\n\nhttps://t.co/6uZwSsZJEZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2076919237239853293",
+        "created_at": "2026-07-14T13:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077017631757091091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893148722927935490",
+              "start": 0,
+              "username": "miomiokawai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/18792…",
+              "end": 142,
+              "expanded_url": "https://x.com/i/status/1879265587433816458",
+              "start": 119,
+              "url": "https://t.co/6uZwSsZJEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077017631757091091",
+        "in_reply_to_user_id": "1893148722927935490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879265587433816458",
+            "type": "quoted"
+          },
+          {
+            "id": "2076982506663100582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomiokawai 如果你真的关心当事人的痛苦，应该做的是像我们一样，把你的金钱投入到反家庭暴力，反校园霸凌，提供就业岗位，提供住处，提供医疗，提供学业补助等各种救助活动当中，不说一年多少钱，哪怕是几千块钱平均下来也足以救一个人\n\nhttps://t.co/6uZwSsZJEZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585145286598483968",
+        "conversation_id": "1879265587433816458",
+        "created_at": "2025-01-14T20:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T21:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879265587433816458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879265587433816458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "五年工作简报：\n\n2020年1月1日至2025年1月1日，寒涟漪（包括涟漪危机干预小组，成立于2023年12月）共计在助人工作中投入了约1907539元。\n\n其中包括了约126万元的房租，电，水，燃气，网络，物业费用，家具家电，搬家搬运等成本，约31万元的医药成本，约17万元的人员工资，志愿者津贴及人员交通，食宿等成本（工作人员存在大量义务劳动，所有工作人员的实际劳动力价值按市场价计算约85万元人民币），约16万元的出于救助目的而出借资金的借贷成本。\n\n以下是各年份的累计支出：\n\n2020年：约271253元，2021年：约348240元，2022年：约380461元，2023年：约320859元，2024年：约586726元\n\n收入方面\n\n2020年1月1日至2025年1月1日期间，我（包括涟漪危机干预小组）共计收到赞赏约611656元，其中491400元来自于四位跨性别女性，其中两位是寒涟漪的亲密关系，第三位是一个透支了自己75％以上工作收入用于救助，将自己生存质量压缩到极限的工薪阶层的跨性别女性，第四位是寒涟漪的一位挚交故友。\n\n共计收到救助返还（如庇护所住户分摊的房租，对对方进行救助后其本人或家属返还医疗费用，偿还的借贷，受助者因为救助而拥有了独立工作的能力后将自己的工资返还给救助者等各种情况）共计约194257元。\n\n寒涟漪本人支出救助费用共计约1101626元（不包含寒涟漪本人的劳动力成本），其中寒涟漪的社交圈和人脉关系网络向寒涟漪本人进行的借贷款项共计416000元。\n\n共计收到热心人士所提供的房屋，工作岗位，法律援助，医疗援助，物资等各种以非现金形式赞赏，但是最终又实际投入到救助中的各种物质或非物质救助资源，折合市场价大约在30万元（估算价格），其中不包括一笔出于为跨性别女性提供就业岗位为目的的7位数投资。\n\n共计得到工作人员，志愿者，友善律师，友善医师，友善心理咨询师等各个为救助活动付出劳动力的人员的劳动力价值，按市场价估算约85万元（不包含我本人）。\n\n工作成果：\n\n共计为2116人提供各种形式的救助（只计算直接性的救助，不包含间接性的救助），并向其中1738人提供了心理咨询，信息咨询，资源链接和陪聊服务，向其中1563人提供了危机干预和自杀干预服务（其中550人包含线下干预），向其中714人提供了2天以上的住宿和线下帮助，为其中577人提供了工作岗位或收入来源，向其中497人提供了家庭暴力干预和家庭工作，向其中462人提供，带看和帮助介绍了医疗资源服务，其中330人在救助下成功从休学或辍学状态成功回归到了高等教育学历的修读状态或完成了高等教育学历，向其中170人提供了法律相关服务或介绍了相关法律资源，向其中51人提供了非法暴力监禁机构的救援。\n\n截止2025年1月1日，在自杀干预的案例中，包含线下干预的550个干预对象有546人确认存活，4人确认死亡，其中包含1个工作人员。仅线上干预的1013个干预对象，确认死亡的案例共有37人，其中包含2个工作人员和志愿者。\n\n与之相对，根据工作人员和社群经验估算，中国跨性别女性社群在完全未经专业危机干预的情况下，当事人的首次尝试自杀行为发生后，其接下来三年的存活率约为55％，远低于各个研究数据中同等条件下一般人群的存活率，且中国跨性别女性群体整体的存活率也仍然大幅度低于一般人群。\n同时寒涟漪（包括涟漪危机干预小组）共计展开了41次学术合作，包含个人，机构和高校。共计为105位志愿者和工作人员提供了危机干预和心理咨询的督导，撰写了大量社群工作经验相关的文献，统计和手册。\n\n庇护所项目曾在广东，福建，浙江，江苏，上海，湖北，四川，江西，山东，北京，沈阳等地开展，共计租赁房屋34次，向714人提供了2天以上的住宿和线下帮助。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 259130,
+          "like_count": 532,
+          "quote_count": 35,
+          "reply_count": 59,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "五年工作简报：\n\n2020年1月1日至2025年1月1日，寒涟漪（包括涟漪危机干预小组，成立于2023年12月）共计在助人工作中投入了约1907539元。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893148722927935490",
+        "conversation_id": "2076919237239853293",
+        "created_at": "2026-07-14T10:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076982506663100582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076982506663100582",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076979066092355774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 所以你这是\n打算站在道德制高点上当撒旦？\n还是当一个合法的撒旦？\n就像那些虐狗致死的\n反正也没有法律惩治他们\n你救了人你就是对的？\n让别人继续活在痛苦里\n这是你很想看到的？\n如果不让别人通过极端方式解决痛苦\n还要强加给别人痛苦\n并且还不管不顾对方的痛苦\n那您可真是当代撒旦王叻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41948,
+          "following_count": 3937,
+          "like_count": 1879,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 3065
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T04:00:17.000Z",
+        "description": "我不想成为孤独的神\n我只想成为你身边的人",
+        "id": "1893148722927935490",
+        "location": "Your heart",
+        "name": "想成为人的神",
+        "pinned_tweet_id": "1983224062693511450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963515355265208320/borYDv6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 138,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1959
+        },
+        "url": "",
+        "username": "miomiokawai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3799,
+          "following_count": 6,
+          "like_count": 54,
+          "listed_count": 6,
+          "media_count": 38,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      }
+    ]
+  }
+}

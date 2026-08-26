@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1893535363605381134",
+    "created_at": "2025-02-23T05:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T06:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893535363605381134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 29,
+          "id": "1499436856630521865",
+          "start": 18,
+          "username": "priest0724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893535363605381134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893487656006508805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: @priest0724 国内的租赁相关法律主要参考发达国家，所以会和主要发达国家一样偏向租客，但是在实际执行上就完全是另一回事了：因为很多条款缺乏惩罚机制，很多一线城市的本地房东各种各样的霸道行为不受任何制约。例如断水断电，上门骚扰，强行换锁…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1893535363605381134",
+        "created_at": "2025-02-23T05:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T06:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893535363605381134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 29,
+              "id": "1499436856630521865",
+              "start": 18,
+              "username": "priest0724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893535363605381134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893487656006508805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: @priest0724 国内的租赁相关法律主要参考发达国家，所以会和主要发达国家一样偏向租客，但是在实际执行上就完全是另一回事了：因为很多条款缺乏惩罚机制，很多一线城市的本地房东各种各样的霸道行为不受任何制约。例如断水断电，上门骚扰，强行换锁…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1893020079283204188",
+        "created_at": "2025-02-23T02:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T03:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893487656006508805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1499436856630521865",
+              "start": 0,
+              "username": "priest0724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893487656006508805",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "国内的租赁相关法律主要参考发达国家，所以会和主要发达国家一样偏向租客，但是在实际执行上就完全是另一回事了：因为很多条款缺乏惩罚机制，很多一线城市的本地房东各种各样的霸道行为不受任何制约。例如断水断电，上门骚扰，强行换锁，推搡轰人，派出所也仅仅是“调解”，不会有任何的强制管束行为。法院成本又臭又长，维权成本高昂。租赁纠纷能走到法院流程的少之又少。\n\n最终就变成了“谁拳头大谁就有理”。遵守规则，讲文明，讲礼貌的租客最终的结局就是被欺负，被骗钱。现在在绝大多数情况下，房东的拳头比租客大的多。租客大部分单身一人，房东往往在当地有本地势力。租客对抗房东的唯一快速的合法有效手段只剩下“在房屋坚持居住，房屋内365天24小时都要有人”。一旦搬走，押金不退，那走法院流程起诉房东，各项成本非常高昂，且无任何惩罚措施。\n但是作为房东视角，假如碰到无良租客，惩治手段就太多了。最有效的手段永远不是“法院判决”，而是找社会混混上门，堵锁眼，找到租客工作单位，强行换锁清东西，雇佣人强行堵在房屋内。\n\n这些手段在发达国家会直接被判为“房东违法犯罪，非法入室骚扰，警方会直接把房东抓去坐牢”\n\n但在国内，这些手段虽然理论上违法，但也只能到了法院流程才算违法。派出所会把这些法律上该管的刑事案件以“民事纠纷”的理由和稀泥。不管不管，睁一只眼闭一只眼。\n\n这就是国内社会的荒唐之处，也是国内租赁关系不平等的根本原因。因为很多基层，根本不是在“按法律办事”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 547,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893481584113918281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@priest0724 国内的租赁相关法律主要参考发达国家，所以会和主要发达国家一样偏向租客，但是在实际执行上就完全是另一回事了：因为很多条款缺乏惩罚机制，很多一线城市的本地房东各种各样的霸道行为不受任何制约。例如断水断电，上门骚扰，强行换锁，推搡轰人，派出所也仅仅是“调解”，不会有任何的强制管束行为。法…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询｜语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883897989900701855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35968,
+          "following_count": 3570,
+          "like_count": 560,
+          "listed_count": 59,
+          "media_count": 307,
+          "tweet_count": 2227
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T17:29:48.000Z",
+        "description": "🌈sw/brat？ 姐控",
+        "id": "1499436856630521865",
+        "location": "Toronto, Ontario",
+        "name": "priestZZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836123767254454273/2xJCM9iS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 513,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 378
+        },
+        "username": "priest0724",
+        "verified": false
+      }
+    ]
+  }
+}

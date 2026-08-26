@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076743496862748672",
+        "3_2076743513941889024",
+        "3_2076743525568589824",
+        "3_2076743545109766144"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "2076743553473257911",
+    "created_at": "2026-07-13T19:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T20:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076743553473257911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y1CfNYqNjQ",
+          "end": 152,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2076743553473257911/photo/1",
+          "media_key": "3_2076743496862748672",
+          "start": 129,
+          "url": "https://t.co/y1CfNYqNjQ"
+        },
+        {
+          "display_url": "pic.x.com/y1CfNYqNjQ",
+          "end": 152,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2076743553473257911/photo/1",
+          "media_key": "3_2076743513941889024",
+          "start": 129,
+          "url": "https://t.co/y1CfNYqNjQ"
+        },
+        {
+          "display_url": "pic.x.com/y1CfNYqNjQ",
+          "end": 152,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2076743553473257911/photo/1",
+          "media_key": "3_2076743525568589824",
+          "start": 129,
+          "url": "https://t.co/y1CfNYqNjQ"
+        },
+        {
+          "display_url": "pic.x.com/y1CfNYqNjQ",
+          "end": 152,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2076743553473257911/photo/1",
+          "media_key": "3_2076743545109766144",
+          "start": 129,
+          "url": "https://t.co/y1CfNYqNjQ"
+        },
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 176,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1837137608385905066",
+          "start": 153,
+          "url": "https://t.co/oxZGri5LOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076743553473257911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在我最极限逼迫自己的几年时间里，我几乎平均每天消耗的时间都超过八小时，平均每年花费的金钱都在三十万元以上，救助的人数都超过了一百人\n\n我常常说，这些经历给我带来的负面影响远大于正面影响\n\n我受到的伤害和遭受到的恶意要远远大于得到的善意\n\n我几乎什么都失去了\n\n但是每当我看到我曾经帮助过的人如今的生活，哪怕她们绝大多数都怎么活跃在网络，也绝大多数都和我不再有联系。\n\n哪怕是十分之一，百分之一，我也能感受到我这么多年坚持下来的微弱的意义"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837137608385905066",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在我最极限逼迫自己的几年时间里，我几乎平均每天消耗的时间都超过八小时，平均每年花费的金钱都在三十万元以上，救助的人数都超过了一百人\n\n我常常说，这些经历给我带来的负面影响远大于正面影响\n\n我受到的伤害和遭受到的恶意要远远大于得到的善意\n\n我几乎什么都失去了 https://t.co/y1CfNYqNjQ https://t.co/oxZGri5LOM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2076743496862748672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNITNRQbUAAjcW3.jpg",
+        "width": 701
+      },
+      {
+        "height": 4123,
+        "media_key": "3_2076743513941889024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNITOQ4aUAAYjuh.jpg",
+        "width": 591
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2076743525568589824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNITO8MbsAAyqbs.jpg",
+        "width": 995
+      },
+      {
+        "height": 1386,
+        "media_key": "3_2076743545109766144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNITQE_aYAAoTpR.jpg",
+        "width": 1275
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076743496862748672",
+            "3_2076743513941889024",
+            "3_2076743525568589824",
+            "3_2076743545109766144"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2076743553473257911",
+        "created_at": "2026-07-13T19:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076743553473257911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1CfNYqNjQ",
+              "end": 152,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2076743553473257911/photo/1",
+              "media_key": "3_2076743496862748672",
+              "start": 129,
+              "url": "https://t.co/y1CfNYqNjQ"
+            },
+            {
+              "display_url": "pic.x.com/y1CfNYqNjQ",
+              "end": 152,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2076743553473257911/photo/1",
+              "media_key": "3_2076743513941889024",
+              "start": 129,
+              "url": "https://t.co/y1CfNYqNjQ"
+            },
+            {
+              "display_url": "pic.x.com/y1CfNYqNjQ",
+              "end": 152,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2076743553473257911/photo/1",
+              "media_key": "3_2076743525568589824",
+              "start": 129,
+              "url": "https://t.co/y1CfNYqNjQ"
+            },
+            {
+              "display_url": "pic.x.com/y1CfNYqNjQ",
+              "end": 152,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2076743553473257911/photo/1",
+              "media_key": "3_2076743545109766144",
+              "start": 129,
+              "url": "https://t.co/y1CfNYqNjQ"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1837137608385905066",
+              "start": 153,
+              "url": "https://t.co/oxZGri5LOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076743553473257911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在我最极限逼迫自己的几年时间里，我几乎平均每天消耗的时间都超过八小时，平均每年花费的金钱都在三十万元以上，救助的人数都超过了一百人\n\n我常常说，这些经历给我带来的负面影响远大于正面影响\n\n我受到的伤害和遭受到的恶意要远远大于得到的善意\n\n我几乎什么都失去了\n\n但是每当我看到我曾经帮助过的人如今的生活，哪怕她们绝大多数都怎么活跃在网络，也绝大多数都和我不再有联系。\n\n哪怕是十分之一，百分之一，我也能感受到我这么多年坚持下来的微弱的意义"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837137608385905066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我最极限逼迫自己的几年时间里，我几乎平均每天消耗的时间都超过八小时，平均每年花费的金钱都在三十万元以上，救助的人数都超过了一百人\n\n我常常说，这些经历给我带来的负面影响远大于正面影响\n\n我受到的伤害和遭受到的恶意要远远大于得到的善意\n\n我几乎什么都失去了 https://t.co/y1CfNYqNjQ https://t.co/oxZGri5LOM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1837137608385905066",
+        "created_at": "2024-09-20T14:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T15:03:41.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837130512563077221",
+          "1837130589864087850",
+          "1837136812768473495",
+          "1837137608385905066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837137608385905066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/question/48945…",
+                "end": 450,
+                "expanded_url": "https://www.zhihu.com/question/489459808?utm_psn=1820590150788464640",
+                "start": 427,
+                "url": "https://t.co/ZANdeCHA3n"
+              }
+            ]
+          },
+          "text": "经常有无数的人问询我的救助经历，若谈论我的救助经历，就避不开钱，若谈论钱，就避不开我的个人经历。我的个人经历和救助经历，认识我多年的人都很熟悉，但这些东西真要细讲，怕是从早上八点讲到第二天早上八点都讲不完，我的历史推文和私人频道其实也谈论极多，此次是看最近问的人多了，再说一点。\n\n我做救助若真要论“开端”，非常模糊，毕竟我早在小学时期就曾有过“见义勇为”的行为，结果好坏都有。\n\n而在我中学时期，除了做跨性别社群的救助以外，还做过相当一部分普通人的救助，其中还包括云贵川和江西偏远地区的顺女救助。为她们提供非法拘禁援救，生活、医疗和就业帮助（十年前很多偏远地区的顺女十一二岁就会被非法拘禁起来，逼着嫁人强奸生孩子，现在这种情况已经大幅度减少，这些事情细讲要极长篇幅，此处略）。\n\n最早期我的主要活动空间在QQ，微信，贴吧，还有某些论坛，后来到了知乎。最后才到墙外活跃。如果在知乎搜索“如何评价寒涟漪”，除了被知乎屏蔽掉的一些提问，还遗留了一个提问：\n\nhttps://t.co/ZANdeCHA3n\n\n我幼年和童年时期是在山东一个县级市的偏远农村和外祖父母一起长大的。幼年时期经常帮外祖父母买菜和生活用品，因此从四五岁开始就养成了扣扣索索的消费习惯。那时我有好几个攒钱罐，经常会有囤钱的习惯。\n\n当然，与之形成鲜明对比的是我父母在我童年时期，给我报各种补习班还有上“贵族学校”花费的学费可不少，甚至一度想过把我送到“戒网瘾学校”去。\n\n在我父母破产之前，一直是个“大忙人”，即使到了小学时期，也是在深圳的北大附中全程寄宿。很少和父母相处。\n\n从我初中时期开始，通过游戏代练，闲鱼二手物品倒卖，写游戏攻略和小说赚取稿费，在网络上接陪聊给人提供情绪价值等方式，我就有了每月千元的收入。同时因为我从小学一年级开始就全程在学校寄宿，即使到了高中时期，我每个月的个人开销仍然不超过600元。\n\n中学时期最大的几次个人开销是玩cosplay，和人聚餐吃饭，买电脑买手机买平板。以及谈恋爱时期被我的几个顺女和一个顺男前任狂爆好几万金币给她们买手机买电脑买平板再拿我的钱去养她们私下找的其他恋人（当然，这并不全是，我曾经有过一个已故的顺女前任，反而是她给我爆了无数金币让我去做救助）。\n\n因此在我接触社群以前的初中时期和淡圈一段时间后的高中，我的支付宝余额一度达到数万元。而钱，资源，劳动力，是做救助的前提，这些完全够我过上花天酒地的富二代生活的钱奠定了我做救助的资源基础。\n\n自从深度接触了跨性别社群，开始做了救助，我的钱袋子就再也不是我自己的了。我这五年的经济收入，近九成都“花在了别人身上”。至2020年，在累积花了三十万元救助款后，甚至背下了十几万元的网贷。那时期为了平账，通过各种方式要求我家里人帮我还了几万以外，还被迫通过“援交”等方式还了几万元（那时我还不出名，现在不援交是顾虑对我社交圈和救助网络的公共影响）。\n\n若非后来遇到很多好心人竭尽全力的经济帮助，可能我至今仍在“援交”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 39210,
+          "like_count": 145,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "经常有无数的人问询我的救助经历，若谈论我的救助经历，就避不开钱，若谈论钱，就避不开我的个人经历。我的个人经历和救助经历，认识我多年的人都很熟悉，但这些东西真要细讲，怕是从早上八点讲到第二天早上八点都讲不完，我的历史推文和私人频道其实也谈论极多，此次是看最近问的人多了，再说一点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41928,
+          "following_count": 3928,
+          "like_count": 1849,
+          "listed_count": 3,
+          "media_count": 405,
+          "tweet_count": 3054
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

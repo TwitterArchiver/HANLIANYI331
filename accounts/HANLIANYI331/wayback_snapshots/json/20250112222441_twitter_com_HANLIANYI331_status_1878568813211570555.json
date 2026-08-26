@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1878568813211570555",
+    "created_at": "2025-01-12T22:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T23:24:30.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878568765136462174",
+      "1878568813211570555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1878365650089046178",
+          "start": 106,
+          "url": "https://t.co/D0olYWkRf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878568813211570555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "因为千雪的事件，从今天开始，我将拒绝向造谣、传谣、信谣的人提供帮助和救助。\n\n王安黛和我的聊天记录所叙述的当事人是安黛的前对象，且从未入住过我开设的庇护所，我和当事人的“透过”也属于数年前的一次“约炮”行为。\n\n而剩下的那些更是谈不上任何可信性的单方面叙述的所谓“聊天记录证据”，我已经没有耐心再去进行解释。\n\n就和我以前一直重复的一样：如果我想要每天找人做爱，不做救助才是最好的选择。\n\n“如果我不做救助，我可以365天每天约一个人做爱甚至都不带重样的。”\n“早在十年前至今，无论是在顺性别社交圈还是跨性别社交圈，在恋爱和感情方面，我就是那个很受欢迎的角色，情感经历也异常丰富”。\n\n甚至哪怕在我最狼狈的时期——很多年前我为了给一个孤儿垫付ICU费用，再加上当时其他的无数巨额救助开销，欠下了六位数的网贷，不得不通过援交来维持经济状况时。我援交一晚的收入也是大幅度高于市场价，且附带大量苛刻的体检条件。\n\n在逻辑上；「我做救助是为了找人做爱」就是不成立的，因为我如果想找人做爱，最佳选择是「不做救助」。\n\n自2019年以来，我做救助的金钱成本长期在年均30万元以上，光是维持庇护所运营所需，成本就高达每个月2万元以上。而我每个月能收回的房租和救助还款甚至才只有平均三千元不等，每个月收到的资助也才平均五千元不等。而剩下的这些钱，如果我不做救助，我本可以过上非常优渥的生活。而为了救助，我几乎牺牲了我的一切。\n\n我的认知，生存环境决定了我从一开始就无需从跨性别社群获取任何资源。所有尽可能获取资源的行为几乎都是为了弥补救助带来的巨额亏空。\n\n我对大量恩将仇报行为容忍的前提，是当事人的行为造成的恶劣后果可控。但如果超出了这个限度，我将不再容忍。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878365650089046178",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为千雪的事件，从今天开始，我将拒绝向造谣、传谣、信谣的人提供帮助和救助。\n\n王安黛和我的聊天记录所叙述的当事人是安黛的前对象，且从未入住过我开设的庇护所，我和当事人的“透过”也属于数年前的一次“约炮”行为。… https://t.co/D0olYWkRf4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1878568765136462174",
+        "created_at": "2025-01-12T22:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T23:24:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878568765136462174",
+          "1878568813211570555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1878365650089046178",
+              "start": 106,
+              "url": "https://t.co/D0olYWkRf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878568765136462174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因为千雪的事件，从今天开始，我将拒绝向造谣、传谣、信谣的人提供帮助和救助。\n\n王安黛和我的聊天记录所叙述的当事人是安黛的前对象，且从未入住过我开设的庇护所，我和当事人的“透过”也属于数年前的一次“约炮”行为。\n\n而剩下的那些更是谈不上任何可信性的单方面叙述的所谓“聊天记录证据”，我已经没有耐心再去进行解释。\n\n就和我以前一直重复的一样：如果我想要每天找人做爱，不做救助才是最好的选择。\n\n“如果我不做救助，我可以365天每天约一个人做爱甚至都不带重样的。”\n“早在十年前至今，无论是在顺性别社交圈还是跨性别社交圈，在恋爱和感情方面，我就是那个很受欢迎的角色，情感经历也异常丰富”。\n\n甚至哪怕在我最狼狈的时期——很多年前我为了给一个孤儿垫付ICU费用，再加上当时其他的无数巨额救助开销，欠下了六位数的网贷，不得不通过援交来维持经济状况时。我援交一晚的收入也是大幅度高于市场价，且附带大量苛刻的体检条件。\n\n在逻辑上；「我做救助是为了找人做爱」就是不成立的，因为我如果想找人做爱，最佳选择是「不做救助」。\n\n自2019年以来，我做救助的金钱成本长期在年均30万元以上，光是维持庇护所运营所需，成本就高达每个月2万元以上。而我每个月能收回的房租和救助还款甚至才只有平均三千元不等，每个月收到的资助也才平均五千元不等。而剩下的这些钱，如果我不做救助，我本可以过上非常优渥的生活。而为了救助，我几乎牺牲了我的一切。\n\n我的认知，生存环境决定了我从一开始就无需从跨性别社群获取任何资源。所有尽可能获取资源的行为几乎都是为了弥补救助带来的巨额亏空。\n\n我对大量恩将仇报行为容忍的前提，是当事人的行为造成的恶劣后果可控。但如果超出了这个限度，我将不再容忍。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878365650089046178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为千雪的事件，从今天开始，我将拒绝向造谣、传谣、信谣的人提供帮助和救助。\n\n王安黛和我的聊天记录所叙述的当事人是安黛的前对象，且从未入住过我开设的庇护所，我和当事人的“透过”也属于数年前的一次“约炮”行为。… https://t.co/D0olYWkRf4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1878568813211570555",
+        "created_at": "2025-01-12T22:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T23:24:30.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878568765136462174",
+          "1878568813211570555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1878365650089046178",
+              "start": 106,
+              "url": "https://t.co/D0olYWkRf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878568813211570555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因为千雪的事件，从今天开始，我将拒绝向造谣、传谣、信谣的人提供帮助和救助。\n\n王安黛和我的聊天记录所叙述的当事人是安黛的前对象，且从未入住过我开设的庇护所，我和当事人的“透过”也属于数年前的一次“约炮”行为。\n\n而剩下的那些更是谈不上任何可信性的单方面叙述的所谓“聊天记录证据”，我已经没有耐心再去进行解释。\n\n就和我以前一直重复的一样：如果我想要每天找人做爱，不做救助才是最好的选择。\n\n“如果我不做救助，我可以365天每天约一个人做爱甚至都不带重样的。”\n“早在十年前至今，无论是在顺性别社交圈还是跨性别社交圈，在恋爱和感情方面，我就是那个很受欢迎的角色，情感经历也异常丰富”。\n\n甚至哪怕在我最狼狈的时期——很多年前我为了给一个孤儿垫付ICU费用，再加上当时其他的无数巨额救助开销，欠下了六位数的网贷，不得不通过援交来维持经济状况时。我援交一晚的收入也是大幅度高于市场价，且附带大量苛刻的体检条件。\n\n在逻辑上；「我做救助是为了找人做爱」就是不成立的，因为我如果想找人做爱，最佳选择是「不做救助」。\n\n自2019年以来，我做救助的金钱成本长期在年均30万元以上，光是维持庇护所运营所需，成本就高达每个月2万元以上。而我每个月能收回的房租和救助还款甚至才只有平均三千元不等，每个月收到的资助也才平均五千元不等。而剩下的这些钱，如果我不做救助，我本可以过上非常优渥的生活。而为了救助，我几乎牺牲了我的一切。\n\n我的认知，生存环境决定了我从一开始就无需从跨性别社群获取任何资源。所有尽可能获取资源的行为几乎都是为了弥补救助带来的巨额亏空。\n\n我对大量恩将仇报行为容忍的前提，是当事人的行为造成的恶劣后果可控。但如果超出了这个限度，我将不再容忍。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878365650089046178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为千雪的事件，从今天开始，我将拒绝向造谣、传谣、信谣的人提供帮助和救助。\n\n王安黛和我的聊天记录所叙述的当事人是安黛的前对象，且从未入住过我开设的庇护所，我和当事人的“透过”也属于数年前的一次“约炮”行为。… https://t.co/D0olYWkRf4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878364883177365504",
+            "3_1878364883953307648",
+            "3_1878364885467426816"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1878365650089046178",
+        "created_at": "2025-01-12T08:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T09:54:22.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878364888302747828",
+          "1878365313643037073",
+          "1878365486825787689",
+          "1878365650089046178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/awtXaJ2Ydg",
+              "end": 170,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1878365650089046178/photo/1",
+              "media_key": "3_1878364883177365504",
+              "start": 147,
+              "url": "https://t.co/awtXaJ2Ydg"
+            },
+            {
+              "display_url": "pic.x.com/awtXaJ2Ydg",
+              "end": 170,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1878365650089046178/photo/1",
+              "media_key": "3_1878364883953307648",
+              "start": 147,
+              "url": "https://t.co/awtXaJ2Ydg"
+            },
+            {
+              "display_url": "pic.x.com/awtXaJ2Ydg",
+              "end": 170,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1878365650089046178/photo/1",
+              "media_key": "3_1878364885467426816",
+              "start": 147,
+              "url": "https://t.co/awtXaJ2Ydg"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1799707187922813309",
+              "start": 171,
+              "url": "https://t.co/QDflV5N01t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878365650089046178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在2014年至2019年，跨性别社群曾经存在大量的助人工作者。\n\n这些助人工作者陆陆续续的退出助人工作，陆陆续续的死亡，有很重要的一部分原因，就是因为存在大量截图中这样随意信谣传谣，没有逻辑思考能力的人。\n\n我是因为重度AS，不在乎这些谣言，才留了下来。也因此，这些谣言最终伤害的并非是我。\n\n甚至申请来庇护所，却又交不起房租的人越少，对我的压力反而越轻松。\n\n真正的受害者，是那些因为谣言导致信息面缩窄，得不到救助，最终死亡的人！\n\n截图中这位人物听风就是雨的逻辑思考能力，也怪不得会被诈骗金钱了！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 20779,
+          "like_count": 191,
+          "quote_count": 5,
+          "reply_count": 13,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799707187922813309",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在2014年至2019年，跨性别社群曾经存在大量的助人工作者。\n\n这些助人工作者陆陆续续的退出助人工作，陆陆续续的死亡，有很重要的一部分原因，就是因为存在大量截图中这样随意信谣传谣，没有逻辑思考能力的人。\n\n我是因为重度AS，不在乎这些谣言，才留了下来。也因此，这些谣言最终伤害的并非是我。… https://t.co/awtXaJ2Ydg https://t.co/QDflV5N01t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1877041388342395074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34667,
+          "following_count": 3423,
+          "like_count": 311,
+          "listed_count": 58,
+          "media_count": 272,
+          "tweet_count": 2044
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}
