@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1931090846247682405",
+    "created_at": "2025-06-07T11:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T12:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931312850641014786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1451001299873325064",
+          "start": 0,
+          "username": "creeperwhite2"
+        },
+        {
+          "end": 26,
+          "id": "1629688098505510912",
+          "start": 15,
+          "username": "Unknow_CVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931312850641014786",
+    "in_reply_to_user_id": "1451001299873325064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931310833016918317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@creeperwhite2 @Unknow_CVC 哈尔滨没有跨性别友善行业相关的工作机会。且哈尔滨的精神科医疗环境更加恶劣并且不达标。再加上冬天的取暖，总生活成本也不会比武汉更低。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1931090846247682405",
+        "created_at": "2025-06-07T11:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T12:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931312850641014786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1451001299873325064",
+              "start": 0,
+              "username": "creeperwhite2"
+            },
+            {
+              "end": 26,
+              "id": "1629688098505510912",
+              "start": 15,
+              "username": "Unknow_CVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931312850641014786",
+        "in_reply_to_user_id": "1451001299873325064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931310833016918317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@creeperwhite2 @Unknow_CVC 哈尔滨没有跨性别友善行业相关的工作机会。且哈尔滨的精神科医疗环境更加恶劣并且不达标。再加上冬天的取暖，总生活成本也不会比武汉更低。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451001299873325064",
+        "conversation_id": "1931090846247682405",
+        "created_at": "2025-06-07T11:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T12:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931310833016918317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 25,
+              "id": "1629688098505510912",
+              "start": 14,
+              "username": "Unknow_CVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931310833016918317",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931257254801457196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @Unknow_CVC 不考虑把避难所搬到哈尔滨这种花销极小但基础设施完备的地方吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38088,
+          "following_count": 3624,
+          "like_count": 733,
+          "listed_count": 61,
+          "media_count": 327,
+          "tweet_count": 2382
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-21T01:44:23.000Z",
+        "description": "梦里写诗，醒时眼红。\n花眼里看见，花满楼。\n @_9D3CE_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "_9D3CE_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Internet.Overdo.se",
+                "end": 23,
+                "expanded_url": "http://Internet.Overdo.se",
+                "start": 0,
+                "url": "https://t.co/J9PBSEcAuX"
+              }
+            ]
+          }
+        },
+        "id": "1451001299873325064",
+        "location": "距你0.5公里",
+        "name": "蓟野菁菁",
+        "pinned_tweet_id": "1894294576115913060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800584797217058816/8kuPANQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 690,
+          "like_count": 7130,
+          "listed_count": 8,
+          "media_count": 631,
+          "tweet_count": 9057
+        },
+        "url": "https://t.co/J9PBSEcAuX",
+        "username": "creeperwhite2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-Coder|Qt|粤|穷B|郭楠|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|\n私帐：@CenKawaru21120|CenVCee@gmail.com|学业淡码|缺爱仔，和我互动我会很高兴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "CenKawaru21120"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/unknow…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/unknow-cvc.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8qaP9KHnPL"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "Inm Republic of Cantonia_黃埔大道東",
+        "name": "超中专級のCenVCee",
+        "pinned_tweet_id": "1895494338777678179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895493569437118464/7ORNSbbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 1252,
+          "like_count": 15890,
+          "listed_count": 2,
+          "media_count": 1499,
+          "tweet_count": 12003
+        },
+        "url": "https://t.co/8qaP9KHnPL",
+        "username": "Unknow_CVC",
+        "verified": false
+      }
+    ]
+  }
+}

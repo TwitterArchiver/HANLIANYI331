@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1901161257983779143",
+    "created_at": "2025-03-16T06:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T07:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901161257983779143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1879429958277439995",
+          "start": 116,
+          "url": "https://t.co/tuV3L0UXUO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901161257983779143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "近三个月时间又出现了新增的受害者，出现了有受害者被王孝天诈骗金钱，导致自杀倾向加重的情况。\n\n我准备3月21日～22日去一趟北京，聚集所有被王孝天诈骗过钱财的人到王孝天户籍地所在的辖区派出所报案，如果有谁是受害者可以和我一起去。\n\n同时做两手准备，在报案向辖区派出所要求对方彻查诈骗情况的同时，我会帮助联系北京地区的律师，有意向的受害者如果出现报案失败不予立案的情况，可以在报案完以后委托律师起诉。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879429958277439995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "近三个月时间又出现了新增的受害者，出现了有受害者被王孝天诈骗金钱，导致自杀倾向加重的情况。\n\n我准备3月21日～22日去一趟北京，聚集所有被王孝天诈骗过钱财的人到王孝天户籍地所在的辖区派出所报案，如果有谁是受害者可以和我一起去。… https://t.co/tuV3L0UXUO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1901161257983779143",
+        "created_at": "2025-03-16T06:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T07:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901161257983779143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1879429958277439995",
+              "start": 116,
+              "url": "https://t.co/tuV3L0UXUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901161257983779143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近三个月时间又出现了新增的受害者，出现了有受害者被王孝天诈骗金钱，导致自杀倾向加重的情况。\n\n我准备3月21日～22日去一趟北京，聚集所有被王孝天诈骗过钱财的人到王孝天户籍地所在的辖区派出所报案，如果有谁是受害者可以和我一起去。\n\n同时做两手准备，在报案向辖区派出所要求对方彻查诈骗情况的同时，我会帮助联系北京地区的律师，有意向的受害者如果出现报案失败不予立案的情况，可以在报案完以后委托律师起诉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879429958277439995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近三个月时间又出现了新增的受害者，出现了有受害者被王孝天诈骗金钱，导致自杀倾向加重的情况。\n\n我准备3月21日～22日去一趟北京，聚集所有被王孝天诈骗过钱财的人到王孝天户籍地所在的辖区派出所报案，如果有谁是受害者可以和我一起去。… https://t.co/tuV3L0UXUO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1879429958277439995",
+        "created_at": "2025-01-15T07:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T08:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879429958277439995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1877041388342395074",
+              "start": 88,
+              "url": "https://t.co/mpx8PRMyWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879429958277439995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 975,
+                "id": "1547422909135613954",
+                "start": 964,
+                "username": "JMcGee3697"
+              }
+            ]
+          },
+          "text": "以下是一位被骗受害者的聊天记录，当事人是王孝天的同学：\n\n以下为受骗资金往来证据（部分），但由于均为线下行骗所以并无聊天记录。但有其他受骗者可以证明我确实被骗\n\n被骗过程：\n此人称其银行卡限额并展示给我看（界面全是英文一开始出于信任没看，最后发觉不对劲才知道是信用卡透支空了），出于好心借了50，之后将来路不明的一千五百元人民币存于我名下支付宝账户。第二天向我索要两千元，其中500为我个人财产，其目的用途为在“桔子酒店（北京荣昌街店）”续费其订购的房间（与一位顺女，同样为受害者，是wxt的“闺女”）因其声称自己为阿里员工并承诺发工资后会如数奉还（指我个人的500元）遂出借，随后在当天上完课后其向我索要800元，但我账户上仅有877元，我需要留出自己的饭费，所以向其说明我仅剩677元，其全部索要。上述金额（500+677=1177）元至今未还。\n至于这250元，系为其“闺女”（上述顺女受害者）所花费使用，仅存在于我名下账户，我本人并未使用。\n\n以及上述两条网约车订单记录，系其要求我陪同其一起去六院开劳拉并要求由我先行垫付，与上文提到的1177元同样至今未还（1177+180.52+143.72=1501.24）\n\n其余还有若干条往返于学校以及其订购的“桔子酒店”的网约车订单以及其他已无从考证的资金支出（如我方先行垫付的餐饮费以及在学校学生卡中的余额等）因较为琐碎且数额较小，我方暂无精力以及处理能力进行整理。故我方仅对其中1501.24元人民币进行追究\n\n已知其罪行：\n1.在上文所述酒店房间内以“检查身体”为由，在上文所述顺女受害者不知情（指被骗）的情况下将其猥亵（或qj？不确定）\n2.给同校但不同专业的某正常顺性别男性注射日雌\n3.令上述顺男受害者参与网贷或刷透支了信用卡\n4.在所述酒店内将上述顺男受害者扒光并拍照（在其私密相册，此受害者的身份证照片同样在其手中）\n5.甚至欠了宿管阿姨的钱\n6.全班几乎所有人都借了个遍然后休学了\n7.诱导我服用过2mg劳拉西泮(多次)以及50mg的富马酸喹硫平\n\n补充一些其造的谣：\n1.有加拿大医学生学位\n2.在六院有导师（与1.呼应）\n3.其母亲承接大型园林绿化种植工作，在近些年因口罩原因破产后准备“东山再起”\n4.父亲看大门是给其母亲的产业所效力\n\n当事人希希，@JMcGee3697"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15969,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877041388342395074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以下是一位被骗受害者的聊天记录，当事人是王孝天的同学：\n\n以下为受骗资金往来证据（部分），但由于均为线下行骗所以并无聊天记录。但有其他受骗者可以证明我确实被骗\n\n被骗过程：… https://t.co/mpx8PRMyWo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883897989900701855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36543,
+          "following_count": 3586,
+          "like_count": 595,
+          "listed_count": 59,
+          "media_count": 313,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

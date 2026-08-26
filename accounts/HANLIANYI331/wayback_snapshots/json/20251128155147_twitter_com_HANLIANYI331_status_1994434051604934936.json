@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1993716801637851191",
+    "created_at": "2025-11-28T15:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T16:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994434051604934936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1839658906538442753",
+          "start": 0,
+          "username": "mizusumi_"
+        },
+        {
+          "end": 27,
+          "id": "1917988927409143812",
+          "start": 11,
+          "username": "OverSpeed_Wiki2"
+        },
+        {
+          "end": 38,
+          "id": "1926307161480568832",
+          "start": 28,
+          "username": "banzaixyg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 86,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1962631348105158955?t=CPkdA37hcazQ6k7k-A23wA&s=19",
+          "start": 63,
+          "url": "https://t.co/SZZhg7WRcY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994434051604934936",
+    "in_reply_to_user_id": "1839658906538442753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962631348105158955",
+        "type": "quoted"
+      },
+      {
+        "id": "1993860517988061520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizusumi_ @OverSpeed_Wiki2 @banzaixyg 建议你不要和这几个人浪费口舌，这几个人可不无辜\nhttps://t.co/SZZhg7WRcY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 983,
+        "media_key": "3_1962631342749032448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzyqzsmaoAA06tT.jpg",
+        "width": 1277
+      },
+      {
+        "height": 1917,
+        "media_key": "3_1962631343671758848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzyqzwCaUAAgEkY.jpg",
+        "width": 1277
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962631343445286914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzyqzvMaoAIljXS.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962631345106231297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzyqz1YaoAE-eoD.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1993716801637851191",
+        "created_at": "2025-11-28T15:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994434051604934936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839658906538442753",
+              "start": 0,
+              "username": "mizusumi_"
+            },
+            {
+              "end": 27,
+              "id": "1917988927409143812",
+              "start": 11,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 38,
+              "id": "1926307161480568832",
+              "start": 28,
+              "username": "banzaixyg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 86,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962631348105158955?t=CPkdA37hcazQ6k7k-A23wA&s=19",
+              "start": 63,
+              "url": "https://t.co/SZZhg7WRcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994434051604934936",
+        "in_reply_to_user_id": "1839658906538442753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962631348105158955",
+            "type": "quoted"
+          },
+          {
+            "id": "1993860517988061520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizusumi_ @OverSpeed_Wiki2 @banzaixyg 建议你不要和这几个人浪费口舌，这几个人可不无辜\nhttps://t.co/SZZhg7WRcY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962631342749032448",
+            "3_1962631343671758848",
+            "3_1962631343445286914",
+            "3_1962631345106231297"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1962631348105158955",
+        "created_at": "2025-09-01T21:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T22:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962631348105158955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nv6VfJsNMP",
+              "end": 171,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962631348105158955/photo/1",
+              "media_key": "3_1962631342749032448",
+              "start": 148,
+              "url": "https://t.co/Nv6VfJsNMP"
+            },
+            {
+              "display_url": "pic.x.com/Nv6VfJsNMP",
+              "end": 171,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962631348105158955/photo/1",
+              "media_key": "3_1962631343671758848",
+              "start": 148,
+              "url": "https://t.co/Nv6VfJsNMP"
+            },
+            {
+              "display_url": "pic.x.com/Nv6VfJsNMP",
+              "end": 171,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962631348105158955/photo/1",
+              "media_key": "3_1962631343445286914",
+              "start": 148,
+              "url": "https://t.co/Nv6VfJsNMP"
+            },
+            {
+              "display_url": "pic.x.com/Nv6VfJsNMP",
+              "end": 171,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962631348105158955/photo/1",
+              "media_key": "3_1962631345106231297",
+              "start": 148,
+              "url": "https://t.co/Nv6VfJsNMP"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1890724432500625683",
+              "start": 172,
+              "url": "https://t.co/29MWJufv3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962631348105158955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 91885,
+          "like_count": 222,
+          "quote_count": 13,
+          "reply_count": 35,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890724432500625683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来说一下图中这位小鱼干（程梓语）：\n1.在庇护所居住期间制毒贩毒（包括但不限于精二注射剂）\n2.殴打医院护士，同时试图用武器重伤警察（被我对象阻止）\n3.盗窃大量物品，价值超过五千元\n4.在武汉庇护所药物滥用，滥用几十片氯硝西泮后吃亚硝酸钠，被我对象报120抢救，事后还赖掉我对象垫付的抢救费 https://t.co/Nv6VfJsNMP https://t.co/29MWJufv3O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839658906538442753",
+        "conversation_id": "1993716801637851191",
+        "created_at": "2025-11-27T01:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T02:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993860517988061520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917988927409143812",
+              "start": 0,
+              "username": "OverSpeed_Wiki2"
+            },
+            {
+              "end": 27,
+              "id": "1926307161480568832",
+              "start": 17,
+              "username": "banzaixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993860517988061520",
+        "in_reply_to_user_id": "1917988927409143812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993858857182089559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki2 @banzaixyg 1.  潘佳彤是顺女，从没说过她MtF。\n2.  我从来没说“光靠父母就行”，我说的是家庭+专业+社会三缺一不可，放任才真害命。\n3.  我没捧任何人当神，也没下结论。发视频只是还原现场，不想他被两边骂到死。\n真心疼他，就一起推正规医疗和资源，别急着给人扣“害命”帽子。谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40297,
+          "following_count": 3663,
+          "like_count": 1297,
+          "listed_count": 69,
+          "media_count": 360,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T13:31:01.000Z",
+        "description": "✨みずすみ | 出生于中国🇨🇳 | 理性阴湿鬼🤫 | 不太会社交却妄想力爆棚🧠 | 绘画是我的宇宙🎨 | 躲在角落偷偷观察型👀 | 不谈政治❌ | 欢迎所有人🚪 | 一起聊聊艺术与日常吧〜！里垢→@mizusumi123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "mizusumi123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizusumi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizusumi",
+                "start": 0,
+                "url": "https://t.co/OdsrQVbmce"
+              }
+            ]
+          }
+        },
+        "id": "1839658906538442753",
+        "name": "溪墨",
+        "pinned_tweet_id": "1961455391017243112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969702445904474112/sLYwDxch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 248,
+          "like_count": 29,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2045
+        },
+        "url": "https://t.co/OdsrQVbmce",
+        "username": "mizusumi_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 251,
+          "like_count": 21439,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 4027
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T16:00:09.000Z",
+        "description": "我是天使/双性人/药物制剂专业/身高179/130/姐姐@rik0yuki 对象@NakaharaBulbel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "rik0yuki"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "NakaharaBulbel"
+              }
+            ]
+          }
+        },
+        "id": "1926307161480568832",
+        "location": "所罗门遗迹",
+        "name": "小鱼干九世🍥💊(温水版)",
+        "pinned_tweet_id": "1962214153810227650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984801229315428352/KZoss5zF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 513,
+          "like_count": 4327,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2327
+        },
+        "username": "banzaixyg",
+        "verified": false
+      }
+    ]
+  }
+}

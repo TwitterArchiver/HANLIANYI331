@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1947720945495642324",
+    "created_at": "2025-07-23T07:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T08:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947924616330285489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1451001299873325064",
+          "start": 0,
+          "username": "creeperwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947924616330285489",
+    "in_reply_to_user_id": "1451001299873325064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947745449374585031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@creeperwhite2 外包管理工作的话有个麻烦点就是“管理人得同时是庇护所的金主或者提供资源的人”。否则如果只是指定一个管理人，甚至是给发工资的话，实际的信服力会大幅度下降。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1947720945495642324",
+        "created_at": "2025-07-23T07:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T08:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947924616330285489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1451001299873325064",
+              "start": 0,
+              "username": "creeperwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947924616330285489",
+        "in_reply_to_user_id": "1451001299873325064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947745449374585031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@creeperwhite2 外包管理工作的话有个麻烦点就是“管理人得同时是庇护所的金主或者提供资源的人”。否则如果只是指定一个管理人，甚至是给发工资的话，实际的信服力会大幅度下降。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451001299873325064",
+        "conversation_id": "1947720945495642324",
+        "created_at": "2025-07-22T19:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T20:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947745449374585031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947745449374585031",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947720945495642324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 答案是你专注搞钱，把避难所的一部分放在租金便宜的地方的同时面向社群把管理工作外包出去，规范化避难所的管理制度并且对住客根据精神状态和社会化程度进行评级，对于需长期居住且一定时间内无工作能力/工作可满足居家办公的住客进行分流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38653,
+          "following_count": 3625,
+          "like_count": 829,
+          "listed_count": 65,
+          "media_count": 341,
+          "tweet_count": 2488
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-21T01:44:23.000Z",
+        "description": "梦里写诗，醒时眼红。\n花眼里看见，花满楼。\n @_9D3CE_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "_9D3CE_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Internet.Overdo.se",
+                "end": 23,
+                "expanded_url": "http://Internet.Overdo.se",
+                "start": 0,
+                "url": "https://t.co/J9PBSEcAuX"
+              }
+            ]
+          }
+        },
+        "id": "1451001299873325064",
+        "location": "距你0.5公里",
+        "name": "蓟野菁菁",
+        "pinned_tweet_id": "1894294576115913060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800584797217058816/8kuPANQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 694,
+          "like_count": 7098,
+          "listed_count": 7,
+          "media_count": 632,
+          "tweet_count": 9154
+        },
+        "url": "https://t.co/J9PBSEcAuX",
+        "username": "creeperwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

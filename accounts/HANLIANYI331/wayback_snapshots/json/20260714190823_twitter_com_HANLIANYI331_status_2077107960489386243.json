@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2077107960489386243",
+    "created_at": "2026-07-14T19:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077107960489386243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1568268459674574848",
+          "start": 3,
+          "username": "calsys456"
+        },
+        {
+          "end": 120,
+          "id": "1680247071608303616",
+          "start": 107,
+          "username": "AsdQWD358224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077107960489386243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077106392486523371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @calsys456: 关于“自杀的自由”，我有些想说的。我是支持自杀的自由的，但是我仍旧在做自杀干预，是因为大多数时候自杀并非自杀者的本意。倘若给予良好的支撑，许多自杀者会（甚至是迅速地）重拾生活的希望。 @AsdQWD358224…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2077107960489386243",
+        "created_at": "2026-07-14T19:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077107960489386243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1568268459674574848",
+              "start": 3,
+              "username": "calsys456"
+            },
+            {
+              "end": 120,
+              "id": "1680247071608303616",
+              "start": 107,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077107960489386243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077106392486523371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @calsys456: 关于“自杀的自由”，我有些想说的。我是支持自杀的自由的，但是我仍旧在做自杀干预，是因为大多数时候自杀并非自杀者的本意。倘若给予良好的支撑，许多自杀者会（甚至是迅速地）重拾生活的希望。 @AsdQWD358224…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "conversation_id": "2077106392486523371",
+        "created_at": "2026-07-14T19:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077106392486523371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 105,
+              "id": "1680247071608303616",
+              "start": 92,
+              "username": "AsdQWD358224"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2077099169412743376",
+              "start": 106,
+              "url": "https://t.co/qkQAxbh71K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077106392486523371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 105,
+                "id": "1680247071608303616",
+                "start": 92,
+                "username": "AsdQWD358224"
+              }
+            ]
+          },
+          "text": "关于“自杀的自由”，我有些想说的。我是支持自杀的自由的，但是我仍旧在做自杀干预，是因为大多数时候自杀并非自杀者的本意。倘若给予良好的支撑，许多自杀者会（甚至是迅速地）重拾生活的希望。 @AsdQWD358224 就是其中之一，我陪着她从两次吞盐抢救到手上的疤痕逐渐淡化。她自杀的尝试从来到避难所就停止了。\n\n举她的例子只是因为她授权我这么做。事实上，那些真的不想留下来的人，我是不去留她们的（避难所有过这样的住户）。但是，在我亲自经手的个案里，尚且没有一例这样的人。\n\n所以我尊重自杀的自由，但自杀干预我还是会继续做。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077099169412743376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于“自杀的自由”，我有些想说的。我是支持自杀的自由的，但是我仍旧在做自杀干预，是因为大多数时候自杀并非自杀者的本意。倘若给予良好的支撑，许多自杀者会（甚至是迅速地）重拾生活的希望。 @AsdQWD358224 https://t.co/qkQAxbh71K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41962,
+          "following_count": 3938,
+          "like_count": 1890,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 3077
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ADHD & BPD & C-PTSD & DID & MDD & Schizophrenia | Write in Lisp | Sister @Simone_Luxem @AsdQWD358224, Lover @HANLIANYI331 @wired_hero @Caroline_9870 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "wired_hero"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "calsys.org",
+                "end": 23,
+                "expanded_url": "https://calsys.org",
+                "start": 0,
+                "url": "https://t.co/MUWDEAOVp9"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Wuhan",
+        "name": "北雁月月「月历系统」🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010619340497043456/kc6DVAN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 1134,
+          "like_count": 49856,
+          "listed_count": 8,
+          "media_count": 276,
+          "tweet_count": 5031
+        },
+        "url": "https://t.co/MUWDEAOVp9",
+        "username": "calsys456",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 3011,
+          "like_count": 102662,
+          "listed_count": 13,
+          "media_count": 2317,
+          "tweet_count": 18100
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

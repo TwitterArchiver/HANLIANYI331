@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989584510372167680"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "1989584521545879642",
+    "created_at": "2025-11-15T06:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T07:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989584521545879642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g5CvHyALMH",
+          "end": 166,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1989584521545879642/photo/1",
+          "media_key": "3_1989584510372167680",
+          "start": 143,
+          "url": "https://t.co/g5CvHyALMH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989584521545879642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这两天发烧了，病情急剧变严重，只好回武汉之前先在北大医院看诊。\n然后心电图做出来个这个。做心电图的操作医生摆出危机的样子，让我先去主治医生那复诊看看。刚看完后我以为我命不久矣。\n然后复诊时医生问我“有没有胸闷气短”\n我想了想：“不明显”\n“那应该问题不大，如果感觉胸闷气短可以再细查” https://t.co/g5CvHyALMH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1299,
+        "media_key": "3_1989584510372167680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xskidaQAABAOj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989584510372167680"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1989584521545879642",
+        "created_at": "2025-11-15T06:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989584521545879642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5CvHyALMH",
+              "end": 166,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1989584521545879642/photo/1",
+              "media_key": "3_1989584510372167680",
+              "start": 143,
+              "url": "https://t.co/g5CvHyALMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989584521545879642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这两天发烧了，病情急剧变严重，只好回武汉之前先在北大医院看诊。\n然后心电图做出来个这个。做心电图的操作医生摆出危机的样子，让我先去主治医生那复诊看看。刚看完后我以为我命不久矣。\n然后复诊时医生问我“有没有胸闷气短”\n我想了想：“不明显”\n“那应该问题不大，如果感觉胸闷气短可以再细查” https://t.co/g5CvHyALMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40259,
+          "following_count": 3674,
+          "like_count": 1286,
+          "listed_count": 69,
+          "media_count": 358,
+          "tweet_count": 2613
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

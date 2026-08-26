@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1876159117984931938",
+    "created_at": "2025-01-07T10:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T11:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876577328706585052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1419403960696385546",
+          "start": 0,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876577328706585052",
+    "in_reply_to_user_id": "1419403960696385546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876574574516506872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaiFu8964 森茶已经报过警，但是结果是“等通知”，其他受害者则是看森茶报警没用，最终就没报了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1876159117984931938",
+        "created_at": "2025-01-07T10:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T11:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876577328706585052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1419403960696385546",
+              "start": 0,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876577328706585052",
+        "in_reply_to_user_id": "1419403960696385546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876574574516506872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaiFu8964 森茶已经报过警，但是结果是“等通知”，其他受害者则是看森茶报警没用，最终就没报了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876574545970167808"
+          ]
+        },
+        "author_id": "1419403960696385546",
+        "conversation_id": "1876159117984931938",
+        "created_at": "2025-01-07T10:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T11:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876574574516506872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xijucheasq",
+              "end": 179,
+              "expanded_url": "https://x.com/WaiFu8964/status/1876574574516506872/photo/1",
+              "media_key": "3_1876574545970167808",
+              "start": 156,
+              "url": "https://t.co/xijucheasq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876574574516506872",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好了，这次又是一个敢报案有种的都没有。这就说明她们还是不缺钱。自己去想想，贷款平台为什么给她们那么多的额度？还不是因为有钱？底层鼠鼠是没办法理解上层人的生活的，对于你来说一百万可能是你一辈子的积蓄，对于她们来说一百万可能也就是一次普通的公务机旅行，一个月收的房租。所以鼠鼠们，收收你的怜悯之心，自己都不为自己争取，下水道鼠鼠你急个球啊"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876159117984931938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 好了，这次又是一个敢报案有种的都没有。这就说明她们还是不缺钱。自己去想想，贷款平台为什么给她们那么多的额度？还不是因为有钱？底层鼠鼠是没办法理解上层人的生活的，对于你来说一百万可能是你一辈子的积蓄，对于她们来说一百万可能也就是一次普通的公务机旅行，一个月收的房租。所以鼠鼠们，收收… https://t.co/xijucheasq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1809660678439063736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34538,
+          "following_count": 3421,
+          "like_count": 306,
+          "listed_count": 59,
+          "media_count": 265,
+          "tweet_count": 2022
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "我键政出壬乐壬嗑药赌博玩黑产，但我是个好mtf! |雌墮中|姓老名婆所以你們叫我老婆好了| 小名fufu|个人频道 https://t.co/G1WLyLh0Rj\n |aff成交金额10%返现|网站 https://t.co/GpjdUCMYn8\n |虱子多了不咬，案子多了不愁|❤️  @Mionostand",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "Mionostand"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 81,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 58,
+                "url": "https://t.co/G1WLyLh0Rj"
+              },
+              {
+                "display_url": "chakaifang.org",
+                "end": 123,
+                "expanded_url": "http://chakaifang.org",
+                "start": 100,
+                "url": "https://t.co/GpjdUCMYn8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/waifu2x",
+                "end": 23,
+                "expanded_url": "https://t.me/waifu2x",
+                "start": 0,
+                "url": "https://t.co/G1WLyLh0Rj"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu 🏳️‍⚧️卖数据的小女孩",
+        "pinned_tweet_id": "1754504973918900509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733661370220941312/ZfY5xhjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6462,
+          "following_count": 1910,
+          "like_count": 4876,
+          "listed_count": 17,
+          "media_count": 613,
+          "tweet_count": 4844
+        },
+        "url": "https://t.co/G1WLyLh0Rj",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2021829124063736197",
+    "created_at": "2026-02-12T10:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021887433340866777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1361856317703393282",
+          "start": 0,
+          "username": "ThrumboABBBAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021887433340866777",
+    "in_reply_to_user_id": "1361856317703393282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021886331908239487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThrumboABBBAA 如果能容忍本金存在30％以内的最大回撤，且在投资过程当中不额外提取投资导致投资逻辑变形的话，10％的收益不算难（假定投资标底期望增长为0而非负数，以黄金或工商银行股票为例）。\n\n如果是可以随时提取资金的无风险收益率，那5％的期望收益则是极限。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2021829124063736197",
+        "created_at": "2026-02-12T10:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021887433340866777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1361856317703393282",
+              "start": 0,
+              "username": "ThrumboABBBAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021887433340866777",
+        "in_reply_to_user_id": "1361856317703393282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021886331908239487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThrumboABBBAA 如果能容忍本金存在30％以内的最大回撤，且在投资过程当中不额外提取投资导致投资逻辑变形的话，10％的收益不算难（假定投资标底期望增长为0而非负数，以黄金或工商银行股票为例）。\n\n如果是可以随时提取资金的无风险收益率，那5％的期望收益则是极限。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361856317703393282",
+        "conversation_id": "2021829124063736197",
+        "created_at": "2026-02-12T09:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021886331908239487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021886331908239487",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829124063736197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 无风险印钞机就像永动机那样不可能。\n特别是你的目标是10％的时候。\n怎么总有人想象投资赚钱很容易？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40987,
+          "following_count": 3675,
+          "like_count": 1416,
+          "listed_count": 68,
+          "media_count": 383,
+          "tweet_count": 2741
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-17T01:54:59.000Z",
+        "description": "使用暗属性魔法和破墙斧的萝莉控大叔 | 渥金和安博里的信徒 | 地摊经济学 | 长期主义的短线交易者 | 严重神经质 意志动荡 聪明过人 | @Sana_Volfield@alive.bar",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tempes…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tempestmaiden.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EmVVDphQs6"
+              }
+            ]
+          }
+        },
+        "id": "1361856317703393282",
+        "location": "Cepheus",
+        "name": "猫目敲子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932677285402058752/8Q0iwHKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3060,
+          "following_count": 2439,
+          "like_count": 46311,
+          "listed_count": 10,
+          "media_count": 287,
+          "tweet_count": 10591
+        },
+        "url": "https://t.co/EmVVDphQs6",
+        "username": "ThrumboABBBAA",
+        "verified": false
+      }
+    ]
+  }
+}

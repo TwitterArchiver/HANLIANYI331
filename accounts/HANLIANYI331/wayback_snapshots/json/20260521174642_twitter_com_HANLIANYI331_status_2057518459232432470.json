@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2057517160872964321",
+    "created_at": "2026-05-21T17:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057518459232432470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20560…",
+          "end": 64,
+          "expanded_url": "https://x.com/i/status/2056059073683218888",
+          "start": 41,
+          "url": "https://t.co/NvM3OaoFaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057518459232432470",
+    "in_reply_to_user_id": "193648759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056059073683218888",
+        "type": "quoted"
+      },
+      {
+        "id": "2057517160872964321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 可以关注一下我这篇文章，里面概括总结了中国跨性别者的困境。\n\nhttps://t.co/NvM3OaoFaB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2057517160872964321",
+        "created_at": "2026-05-21T17:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057518459232432470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20560…",
+              "end": 64,
+              "expanded_url": "https://x.com/i/status/2056059073683218888",
+              "start": 41,
+              "url": "https://t.co/NvM3OaoFaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057518459232432470",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056059073683218888",
+            "type": "quoted"
+          },
+          {
+            "id": "2057517160872964321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 可以关注一下我这篇文章，里面概括总结了中国跨性别者的困境。\n\nhttps://t.co/NvM3OaoFaB"
+      },
+      {
+        "article": {
+          "title": "中国跨性别群体生存困境概括"
+        },
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2056059073683218888",
+        "created_at": "2026-05-17T17:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056059073683218888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2056054882550050816",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056054882550050816",
+              "url": "https://t.co/s7TA2UyY2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056059073683218888",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 35570,
+          "like_count": 309,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s7TA2UyY2F"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2057517160872964321",
+        "created_at": "2026-05-21T17:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057517160872964321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057517160872964321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我正在使用 AI 翻译。\n\n其实今天我听了一些关于中国跨性别者处境的事情，发现有些地方的情况真的相当糟糕。特别是法律保障、反歧视规定、进一步完善医疗体系、缩小医疗资源差距等问题都堆积如山。\n老实说，有些地方甚至让我觉得日本看起来还算好一点。\n可是，在这样的情况下，不知道为什么，偏偏只有欧美的反跨性别意识形态被输入进来了。即使当事人想要与之抗争，中国国内跨性别社群能够使用的资源也非常有限……。\n\n与其说是反跨性别意识形态，不如说是像 MAGA 那种混蛋群体说的话，居然在中国也有人会当真，这真的让我很震惊。\n为什么在中国也会有一定数量的人，正面看待特朗普所做的事情！？\n那些通过把跨性别者的存在和阴谋论联系起来赚钱的人，理应受到轻蔑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我正在使用 AI 翻译。\n\n其实今天我听了一些关于中国跨性别者处境的事情，发现有些地方的情况真的相当糟糕。特别是法律保障、反歧视规定、进一步完善医疗体系、缩小医疗资源差距等问题都堆积如山。\n老实说，有些地方甚至让我觉得日本看起来还算好一点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41607,
+          "following_count": 3762,
+          "like_count": 1647,
+          "listed_count": 73,
+          "media_count": 390,
+          "tweet_count": 2867
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11521,
+          "following_count": 1408,
+          "like_count": 73080,
+          "listed_count": 131,
+          "media_count": 4359,
+          "tweet_count": 54482
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

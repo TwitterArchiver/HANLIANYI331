@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1864361913423155435",
+    "created_at": "2024-12-05T12:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T13:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864641422282117561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1272099250638254080",
+          "start": 0,
+          "username": "Lincle6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864641422282117561",
+    "in_reply_to_user_id": "1272099250638254080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这些课程有很多课时都在128个课时以上，你再算算专业课总计是多少个课时？\n扣除大四的实习年，且不算认知实习，创业实践等形式主义活动，大一至大三一共只有96个学习周480个学习日，即使按照一天6个课时计算，也只有2880个课时，光是政治相关课程就刨去一千多个课时，你认为这正常？\n实际上有人做过统计，中国的大学课程，平均公共课的课时就占到40％甚至还要更多。仅有医学专业能维持在25％以下。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864638851547058389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lincle6 这些课程有很多课时都在128个课时以上，你再算算专业课总计是多少个课时？\n扣除大四的实习年，且不算认知实习，创业实践等形式主义活动，大一至大三一共只有96个学习周480个学习日，即使按照一天6个课时计算，也只有2880个课时，光是政治相关课程就刨去一千多个课时，你认为这正常？…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-05T12:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T13:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864641422282117561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1272099250638254080",
+              "start": 0,
+              "username": "Lincle6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864641422282117561",
+        "in_reply_to_user_id": "1272099250638254080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这些课程有很多课时都在128个课时以上，你再算算专业课总计是多少个课时？\n扣除大四的实习年，且不算认知实习，创业实践等形式主义活动，大一至大三一共只有96个学习周480个学习日，即使按照一天6个课时计算，也只有2880个课时，光是政治相关课程就刨去一千多个课时，你认为这正常？\n实际上有人做过统计，中国的大学课程，平均公共课的课时就占到40％甚至还要更多。仅有医学专业能维持在25％以下。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864638851547058389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lincle6 这些课程有很多课时都在128个课时以上，你再算算专业课总计是多少个课时？\n扣除大四的实习年，且不算认知实习，创业实践等形式主义活动，大一至大三一共只有96个学习周480个学习日，即使按照一天6个课时计算，也只有2880个课时，光是政治相关课程就刨去一千多个课时，你认为这正常？…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272099250638254080",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-05T11:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T12:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864638851547058389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864638851547058389",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864631933000679670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 就这么点很多吗。。。。很多本身就属于工具课，还会根据你实际专业再做区分，认为通识类课程占时间的要么是四年玩下来然后怪通识课占模，要么是学都学不明白上啥都一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33895,
+          "following_count": 3425,
+          "like_count": 296,
+          "listed_count": 60,
+          "media_count": 264,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-14T09:31:21.000Z",
+        "description": "play play",
+        "id": "1272099250638254080",
+        "name": "Lincle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432571610616123402/ii7xkOhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 296,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 259
+        },
+        "username": "Lincle6",
+        "verified": false
+      }
+    ]
+  }
+}

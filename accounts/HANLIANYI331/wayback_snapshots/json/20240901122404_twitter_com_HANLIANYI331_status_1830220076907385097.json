@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1830220076907385097",
+    "created_at": "2024-09-01T12:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T13:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830220076907385097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1829748514882273496",
+          "start": 115,
+          "url": "https://t.co/k043AetN6l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830220076907385097",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829748514882273496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当然，这种情况也不是绝对的，武汉有一个mtf有极高自杀风险，我今天报警送她去武汉精神卫生中心走非自愿住院流程的时候遇到了巨大阻碍。\n\n这个mtf父母，祖父母都去世了，家里没有任何一个联系上的亲属。导致这孩子住院没有监护人签字。… https://t.co/k043AetN6l"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1830220076907385097",
+        "created_at": "2024-09-01T12:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T13:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830220076907385097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1829748514882273496",
+              "start": 115,
+              "url": "https://t.co/k043AetN6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830220076907385097",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829748514882273496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当然，这种情况也不是绝对的，武汉有一个mtf有极高自杀风险，我今天报警送她去武汉精神卫生中心走非自愿住院流程的时候遇到了巨大阻碍。\n\n这个mtf父母，祖父母都去世了，家里没有任何一个联系上的亲属。导致这孩子住院没有监护人签字。… https://t.co/k043AetN6l"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1829748514882273496",
+        "created_at": "2024-08-31T05:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T06:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829748514882273496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829748514882273496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 27474,
+          "like_count": 265,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "在我帮扶的跨性别者中，孤儿（指户口本只有对方一个人）是最“可持续”的帮扶对象。\n\n因为户口本只有一个人这种情况，意味着只要这个人没有工作，名下无资产，就可以直接申请低保，然后享受政府的贫困帮扶补贴，医疗全报销，还能申请保障房。\n\n但是孤儿往往存在着严重的童年性创伤。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜庇佑所入住请联系 telegram账号@hanlianyi331｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 110,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 87,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1715942183382180330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31540,
+          "following_count": 3435,
+          "like_count": 249,
+          "listed_count": 58,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

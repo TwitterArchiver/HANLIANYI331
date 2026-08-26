@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2056059073683218888",
+    "created_at": "2026-05-18T02:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T03:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056194593847464237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1424540748033101826",
+          "start": 0,
+          "username": "ycy52757947"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056194593847464237",
+    "in_reply_to_user_id": "1424540748033101826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056187787456766342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ycy52757947 一般问题已经严重到需要社工救助的mtf，绝大多数性别焦虑已经严重到自杀的地步了，这种情况在整个医学界都已经远远超过了诊断标准。\n目前国内对易性症诊断的核心门槛不在于“当事人的情况是否属于易性症”，更多是害怕家长医闹的产物，实质上无法起到任何筛选“是否真的是易性症”的作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2056059073683218888",
+        "created_at": "2026-05-18T02:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056194593847464237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1424540748033101826",
+              "start": 0,
+              "username": "ycy52757947"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056194593847464237",
+        "in_reply_to_user_id": "1424540748033101826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056187787456766342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ycy52757947 一般问题已经严重到需要社工救助的mtf，绝大多数性别焦虑已经严重到自杀的地步了，这种情况在整个医学界都已经远远超过了诊断标准。\n目前国内对易性症诊断的核心门槛不在于“当事人的情况是否属于易性症”，更多是害怕家长医闹的产物，实质上无法起到任何筛选“是否真的是易性症”的作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424540748033101826",
+        "conversation_id": "2056059073683218888",
+        "created_at": "2026-05-18T01:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056187787456766342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056187787456766342",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056059073683218888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 整体说的很好，但是偏向于帮助和支持进行srs或者hrt，存在一个问题究竟如何界定帮扶对象是否真的存在性别焦虑，文中提到对于开具易性证证明应当简化步骤降低门槛，这是否会变相鼓励部分人没有经过深思熟虑就做出这样一个重大的抉择。是否会成为药代兜售药物牟利的帮凶。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41592,
+          "following_count": 3752,
+          "like_count": 1641,
+          "listed_count": 73,
+          "media_count": 390,
+          "tweet_count": 2865
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T01:19:29.000Z",
+        "description": "现在居住在东京，ACGer，4i/sub，推特上会发一些臭美的图片，感谢您的关注，另外熟人刷到可以当做没看到吗uwu",
+        "id": "1424540748033101826",
+        "name": "Yeung",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933961596117889024/WnaFDK86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 166,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 202
+        },
+        "username": "ycy52757947",
+        "verified": false
+      }
+    ]
+  }
+}

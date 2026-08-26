@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2065323198053335481",
+    "created_at": "2026-06-14T19:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066247701319307641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517437669449547776",
+          "start": 0,
+          "username": "YumiChow916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066247701319307641",
+    "in_reply_to_user_id": "1517437669449547776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "警察穿上制服，是國家壟斷暴力機器的授權代表。他手裡有合法使用強制力的權力（抓人、搜查、開槍），這種權力天生就有濫用風險，所以必須接受嚴格、持續、制度化的監督。\n而我們討論的「普通人互助」（陪聊、拉精神危機者、給予情感支持），是完全自願、無公權力、無強制性的私人行為。他既不能強迫對方接受幫助，也沒有任何制度背書。\n把「無權無勢的普通人自願幫忙」等同於「有槍有權的國家代理人」，這本身就是荒謬的類比。\n警察不當了，還有國家機器在，社會秩序短期不會崩。而且警察有薪水、編制、工會、法律豁免等多重保護。\n普通互助者呢？完全是零報酬、高風險、純自願。他們隨時可以選擇「關我屁事」，而且這是當前社會最理性、最低成本的選擇。把審視門檻拉到極高，最後只會加速「好人退出」：  留下來的只有骗子。\n這個類比把「希望降低普通人做好事的非必要風險」偷換成了「權力不受制衡」。兩者根本不在同一個層次。\n不要用最高道德標準把所有自願幫忙的人嚇跑。因為在制度真空底下，這些零散的、可能不完美的善意，仍然是很多底層人唯一的救濟通道。  把「所有行動者」一律視為潛在權力濫用者的偏執心態就是互助文化最大的殺手之一。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066246314438938625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumiChow916 警察穿上制服，是國家壟斷暴力機器的授權代表。他手裡有合法使用強制力的權力（抓人、搜查、開槍），這種權力天生就有濫用風險，所以必須接受嚴格、持續、制度化的監督。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T19:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066247701319307641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066247701319307641",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "警察穿上制服，是國家壟斷暴力機器的授權代表。他手裡有合法使用強制力的權力（抓人、搜查、開槍），這種權力天生就有濫用風險，所以必須接受嚴格、持續、制度化的監督。\n而我們討論的「普通人互助」（陪聊、拉精神危機者、給予情感支持），是完全自願、無公權力、無強制性的私人行為。他既不能強迫對方接受幫助，也沒有任何制度背書。\n把「無權無勢的普通人自願幫忙」等同於「有槍有權的國家代理人」，這本身就是荒謬的類比。\n警察不當了，還有國家機器在，社會秩序短期不會崩。而且警察有薪水、編制、工會、法律豁免等多重保護。\n普通互助者呢？完全是零報酬、高風險、純自願。他們隨時可以選擇「關我屁事」，而且這是當前社會最理性、最低成本的選擇。把審視門檻拉到極高，最後只會加速「好人退出」：  留下來的只有骗子。\n這個類比把「希望降低普通人做好事的非必要風險」偷換成了「權力不受制衡」。兩者根本不在同一個層次。\n不要用最高道德標準把所有自願幫忙的人嚇跑。因為在制度真空底下，這些零散的、可能不完美的善意，仍然是很多底層人唯一的救濟通道。  把「所有行動者」一律視為潛在權力濫用者的偏執心態就是互助文化最大的殺手之一。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066246314438938625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 警察穿上制服，是國家壟斷暴力機器的授權代表。他手裡有合法使用強制力的權力（抓人、搜查、開槍），這種權力天生就有濫用風險，所以必須接受嚴格、持續、制度化的監督。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517437669449547776",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T19:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066246314438938625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7d2673c3623fe492"
+        },
+        "id": "2066246314438938625",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066243906317254919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 妳這和警察穿上那身黑皮，然後說沒有警察的存在社會秩序就會崩壞，所以警察不應該被苛責，警察做什麼都是合理的，不然就沒人當警察了，這個社會就亂套了，有啥區別？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41744,
+          "following_count": 3807,
+          "like_count": 1753,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2975
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Markham, Ontario",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 313,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3918
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

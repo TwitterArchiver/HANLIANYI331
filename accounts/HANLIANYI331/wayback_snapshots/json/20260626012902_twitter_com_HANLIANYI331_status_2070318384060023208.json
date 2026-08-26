@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2070298986385490417",
+    "created_at": "2026-06-26T01:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070318384060023208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725736838143639552",
+          "start": 0,
+          "username": "qtdevlop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070318384060023208",
+    "in_reply_to_user_id": "1725736838143639552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070298986385490417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtdevlop 这个费用太贵了，达到每年1.4％，这个费用可不会因为亏损而少收\n\n支付宝上最便宜的纳斯达克100的基金每年的费用是0.6％，足足0.8％的差距\n\n时间久了对复利的侵吞会非常明显"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070296155330850816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsrYmZaMAAEsDH.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070296155326746624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsrYmYbkAAIPuk.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070296155335057408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLsrYmaaYAAjXju.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2070298986385490417",
+        "created_at": "2026-06-26T01:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070318384060023208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725736838143639552",
+              "start": 0,
+              "username": "qtdevlop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070318384060023208",
+        "in_reply_to_user_id": "1725736838143639552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070298986385490417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtdevlop 这个费用太贵了，达到每年1.4％，这个费用可不会因为亏损而少收\n\n支付宝上最便宜的纳斯达克100的基金每年的费用是0.6％，足足0.8％的差距\n\n时间久了对复利的侵吞会非常明显"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070296155330850816",
+            "3_2070296155326746624",
+            "3_2070296155335057408"
+          ]
+        },
+        "author_id": "1725736838143639552",
+        "conversation_id": "2070298986385490417",
+        "created_at": "2026-06-26T00:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:00:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070296178265342429",
+          "2070298986385490417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8L2d1l6MV",
+              "end": 176,
+              "expanded_url": "https://x.com/qtdevlop/status/2070298986385490417/photo/1",
+              "media_key": "3_2070296155330850816",
+              "start": 153,
+              "url": "https://t.co/O8L2d1l6MV"
+            },
+            {
+              "display_url": "pic.x.com/O8L2d1l6MV",
+              "end": 176,
+              "expanded_url": "https://x.com/qtdevlop/status/2070298986385490417/photo/1",
+              "media_key": "3_2070296155326746624",
+              "start": 153,
+              "url": "https://t.co/O8L2d1l6MV"
+            },
+            {
+              "display_url": "pic.x.com/O8L2d1l6MV",
+              "end": 176,
+              "expanded_url": "https://x.com/qtdevlop/status/2070298986385490417/photo/1",
+              "media_key": "3_2070296155335057408",
+              "start": 153,
+              "url": "https://t.co/O8L2d1l6MV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070298986385490417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 183,
+                "start": 178,
+                "tag": "广发全球"
+              },
+              {
+                "end": 190,
+                "start": 184,
+                "tag": "易方达全球"
+              },
+              {
+                "end": 196,
+                "start": 191,
+                "tag": "纳斯达克"
+              },
+              {
+                "end": 202,
+                "start": 197,
+                "tag": "QDII"
+              }
+            ]
+          },
+          "text": "纳斯达克信徒们，一个重要信息差：\n\n易方达全球成长精选混合（QDII）目前稳坐第一主动QDII基金的位置，基金经理能力很强。\n\n但它一直限购**10块钱**，基本等于暂停申购了……\n\n想曲线救国的话，可以换现在不限购的：\n\n**广发全球精选股票(QDII)F**\n\n每日限购500万，渠道合适的话能买到。\n\n以上纯属个人观点，仅供参考，不构成投资建议。\n\n#广发全球 #易方达全球 #纳斯达克 #QDII\n\n以上纯属个人观点供参考\n不构成任何投资建议"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 958,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "纳斯达克信徒们，一个重要信息差：\n\n易方达全球成长精选混合（QDII）目前稳坐第一主动QDII基金的位置，基金经理能力很强。\n\n但它一直限购**10块钱**，基本等于暂停申购了……\n\n想曲线救国的话，可以换现在不限购的：\n\n**广发全球精选股票(QDII)F**\n\n每日限购500万，渠道合适的话能买到。 https://t.co/O8L2d1l6MV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41815,
+          "following_count": 3872,
+          "like_count": 1813,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 3015
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-18T04:45:23.000Z",
+        "description": "中年老码农 | 纳斯达克信仰者 | 喜欢发点生活段子和吐槽 | X上踩坑无数还在继续摸索 | 欢迎同频朋友一起聊",
+        "id": "1725736838143639552",
+        "name": "中年码农程序员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060211144745476096/oNBRdoyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5211,
+          "following_count": 4935,
+          "like_count": 673,
+          "listed_count": 17,
+          "media_count": 91,
+          "tweet_count": 1610
+        },
+        "url": "",
+        "username": "qtdevlop",
+        "verified": true
+      }
+    ]
+  }
+}

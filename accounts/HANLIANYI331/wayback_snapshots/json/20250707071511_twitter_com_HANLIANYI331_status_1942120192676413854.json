@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1941678002078875670",
+    "created_at": "2025-07-07T07:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T08:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942120192676413854"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1942120192676413854",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941678002078875670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此次京东赖掉我的保洁服务总时长为24次共48小时，目前已经通过12315微信小程序，北京12345，武汉12345，黑猫投诉全投诉了一遍，并且在知乎，微博，小红书各大平台都发了一遍。如果这些投诉还不起效果。后续我会再通过北京互联网法院提交诉讼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1941678002078875670",
+        "created_at": "2025-07-07T07:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T08:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942120192676413854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942120192676413854",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941678002078875670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此次京东赖掉我的保洁服务总时长为24次共48小时，目前已经通过12315微信小程序，北京12345，武汉12345，黑猫投诉全投诉了一遍，并且在知乎，微博，小红书各大平台都发了一遍。如果这些投诉还不起效果。后续我会再通过北京互联网法院提交诉讼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1941678002078875670",
+        "created_at": "2025-07-06T01:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T02:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941678002078875670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941678002078875670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "京东彻底恶心到我了。\n有一些京东平台上的商品会有“买商品赠送京东保洁”的活动，这些商品卖的一般会比同类型的商品贵很多。同时赠送的保洁一般会显示“签收后8天可用，有效期7天”。\n但是实际上在使用这些赠送的保洁的时候，经常会提示“活动火爆，请稍后再约。”最后就会出现保洁有效期过期的情况。\n然后这时就会出现：购买商品后赠送的京东保洁服务无法预约，无法使用，赠送保洁的商品也因为超出退款时间无法退款，联系京东客服后无法延期也无法解决问题，最终导致保洁服务过期。\n本来我趁着京东618囤了大量的赠送保洁的驱蚊水、纸巾、洗衣液等日用品，但是现在合计48小时的保洁全过期了。\n购买的商品服务不能兑现，这属于消费诈骗，目前我在北京消费者热线投诉京东，但仍然没有解决问题。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14398,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "京东彻底恶心到我了。\n有一些京东平台上的商品会有“买商品赠送京东保洁”的活动，这些商品卖的一般会比同类型的商品贵很多。同时赠送的保洁一般会显示“签收后8天可用，有效期7天”。\n但是实际上在使用这些赠送的保洁的时候，经常会提示“活动火爆，请稍后再约。”最后就会出现保洁有效期过期的情况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38467,
+          "following_count": 3628,
+          "like_count": 810,
+          "listed_count": 65,
+          "media_count": 336,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      }
+    ]
+  }
+}

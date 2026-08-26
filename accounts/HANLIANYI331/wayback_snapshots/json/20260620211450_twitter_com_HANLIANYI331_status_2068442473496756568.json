@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2068427392628949446",
+    "created_at": "2026-06-20T21:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T22:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068442473496756568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20003…",
+          "end": 183,
+          "expanded_url": "https://x.com/i/status/2000307397743837544",
+          "start": 160,
+          "url": "https://t.co/xvgZ7urkVn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068442473496756568",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/status/20598…",
+            "end": 279,
+            "expanded_url": "https://x.com/i/status/2059801421500014971",
+            "start": 256,
+            "url": "https://t.co/0AdPnGB7cL"
+          },
+          {
+            "display_url": "x.com/i/status/20003…",
+            "end": 304,
+            "expanded_url": "https://x.com/i/status/2000307397743837544",
+            "start": 281,
+            "url": "https://t.co/xvgZ7urkVn"
+          }
+        ]
+      },
+      "text": "你不能只在自己被造谣的时候谈论造谣的危害性，或者放任关于我的谣言的产生，谣言是可以被拼接的，哪怕是谈论伦理问题，不基于事发时的具体情景，只对“部分的事实”和“真空球形下的抽象行为本身”的讨论也同样可以被拼接。多年下来，我从未在任何人面前说过你的坏话或者放任过关于你的虚假指控（哪怕我明知道你曾经做过的大量争议性行为），因为你是少有的有在真正冒风险做实事的人。但是你非常不厚道的地方在于，你常常在你的社交圈子里放任关于我的谣言的流传，以及迟迟不和小二这类人的造谣行为（哪怕近两年你已经不再和对方合作）进行切割。\n\nhttps://t.co/0AdPnGB7cL\n\nhttps://t.co/xvgZ7urkVn"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000307397743837544",
+        "type": "quoted"
+      },
+      {
+        "id": "2068427392628949446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 你不能只在自己被造谣的时候谈论造谣的危害性，或者放任关于我的谣言的产生，谣言是可以被拼接的，哪怕是谈论伦理问题，不基于事发时的具体情景，只对“部分的事实”和“真空球形下的抽象行为本身”的讨论也同样可以被拼接。多年下来，我从未在任何人面前说过你的坏话或者放任过关于你的虚假指控（哪怕我明 https://t.co/xvgZ7urkVn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2000305470566014976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8KDOjdboAAuWUz.png",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2068427392628949446",
+        "created_at": "2026-06-20T21:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068442473496756568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20003…",
+              "end": 183,
+              "expanded_url": "https://x.com/i/status/2000307397743837544",
+              "start": 160,
+              "url": "https://t.co/xvgZ7urkVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068442473496756568",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20598…",
+                "end": 279,
+                "expanded_url": "https://x.com/i/status/2059801421500014971",
+                "start": 256,
+                "url": "https://t.co/0AdPnGB7cL"
+              },
+              {
+                "display_url": "x.com/i/status/20003…",
+                "end": 304,
+                "expanded_url": "https://x.com/i/status/2000307397743837544",
+                "start": 281,
+                "url": "https://t.co/xvgZ7urkVn"
+              }
+            ]
+          },
+          "text": "你不能只在自己被造谣的时候谈论造谣的危害性，或者放任关于我的谣言的产生，谣言是可以被拼接的，哪怕是谈论伦理问题，不基于事发时的具体情景，只对“部分的事实”和“真空球形下的抽象行为本身”的讨论也同样可以被拼接。多年下来，我从未在任何人面前说过你的坏话或者放任过关于你的虚假指控（哪怕我明知道你曾经做过的大量争议性行为），因为你是少有的有在真正冒风险做实事的人。但是你非常不厚道的地方在于，你常常在你的社交圈子里放任关于我的谣言的流传，以及迟迟不和小二这类人的造谣行为（哪怕近两年你已经不再和对方合作）进行切割。\n\nhttps://t.co/0AdPnGB7cL\n\nhttps://t.co/xvgZ7urkVn"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000307397743837544",
+            "type": "quoted"
+          },
+          {
+            "id": "2068427392628949446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 你不能只在自己被造谣的时候谈论造谣的危害性，或者放任关于我的谣言的产生，谣言是可以被拼接的，哪怕是谈论伦理问题，不基于事发时的具体情景，只对“部分的事实”和“真空球形下的抽象行为本身”的讨论也同样可以被拼接。多年下来，我从未在任何人面前说过你的坏话或者放任过关于你的虚假指控（哪怕我明 https://t.co/xvgZ7urkVn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000305470566014976"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2000296715874869410",
+        "created_at": "2025-12-14T20:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T21:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000307397743837544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/luqTimspmk",
+              "end": 157,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2000307397743837544/photo/1",
+              "media_key": "3_2000305470566014976",
+              "start": 134,
+              "url": "https://t.co/luqTimspmk"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 181,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1798706855885287702?s=20",
+              "start": 158,
+              "url": "https://t.co/i6aPE1A86S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000307397743837544",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/HANLIANYI331/s…",
+                "end": 527,
+                "expanded_url": "https://x.com/HANLIANYI331/status/1798706855885287702?s=20",
+                "start": 504,
+                "url": "https://t.co/i6aPE1A86S"
+              }
+            ]
+          },
+          "text": "你这话问题很大，我原推文说的是：\n\n我只和我的亲密关系在庇护所（甚至严格来说都不一定算是庇护所，只是收容了其他房子塞不下的人，属于我自己的常住地）发生过性关系，以及我唯一一次和受助者发生性关系是在2020年。\n\n结果到你把“寒涟漪和受助者发生过性关系”和“寒涟漪在庇护所和人发生过性关系”这两个“事实”拼在了一起，最终在别人看来就会被解读为“你在指认寒涟漪在庇护所和受助者发生过性关系”。\n\n我上次电话都和你强调过三件事情：\n1.我只在2020年和某危机干预对象（且当时我刚成年，对方还比我大几岁，而且是在该受助者的自杀胁迫下）发生性关系，并且，这个受助者从未入住过我开的庇护所。\n2.我只和我的亲密关系在庇护所发生过性关系，而且仅限于我自己常住的房间\n3.我的所有亲密关系都不是通过庇护所认识的。\n\n我再给你举个例子：假如说我要和别人介绍牧鸳\n1.牧鸳被警察行政处罚过\n2.牧鸳经常抢人打人\n3.牧鸳经常喜欢拿别人的悲剧开玩笑\n4牧鸳沟通境外势力\n这里我说的每一点都可以是事实，但是我完全不提发生这些事情的背景，而是一味的把这些所谓“事实”拼在一起，那别人就会建构出一个和实际情况偏差极大的牧鸳的形象。\n\nhttps://t.co/i6aPE1A86S"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11374,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798706855885287702",
+            "type": "quoted"
+          },
+          {
+            "id": "2000296715874869410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @Si1entW4ve 你这话问题很大，我原推文说的是：\n\n我只和我的亲密关系在庇护所（甚至严格来说都不一定算是庇护所，只是收容了其他房子塞不下的人，属于我自己的常住地）发生过性关系，以及我唯一一次和受助者发生性关系是在2020年。 https://t.co/luqTimspmk https://t.co/i6aPE1A86S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068427392628949446",
+        "created_at": "2026-06-20T20:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T21:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068427392628949446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068427392628949446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然回顾一下往昔，发现给我带来最大困难的永远不是教官或者警察\n依稀记得当年\n救人的时候北燕书在引战\n汤弋韬带着他的小团体还有跨卫兵、寒卫兵，\n因为我指责潘不该跟救助对象发生性关系\n造谣迫害我说我诈骗别人\n还想取代寒涟漪。\n😅要问一路来最麻烦得是什么恐怕这群畜带来的麻烦比我工作上的多多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41764,
+          "following_count": 3826,
+          "like_count": 1777,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 2997
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 3195,
+          "like_count": 3345,
+          "listed_count": 18,
+          "media_count": 464,
+          "tweet_count": 3050
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

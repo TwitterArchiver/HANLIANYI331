@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2024364723266080817",
+    "created_at": "2026-02-19T06:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024364723266080817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 143,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1764273320995033463",
+          "start": 120,
+          "url": "https://t.co/iQ3BeSDKIW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024364723266080817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "每一次出现造谣行为时，我都会重复表达一次我的立场：\n\n我不会针对任何一个具体的谣言去做任何公开的“澄清和解释”。\n\n「辟谣一次等于辟谣每次」\n\n「因为我怀疑你有，不需要我证明你有，但是你需要证明自己没有」\n\n「剖开腹部证明自己吃了几碗粉」\n\n如果不采取这个态度，只需要任意一个方式恶意针对一个稍有名气的人，那任何事情就都不用干了。\n\n“想让我陷入自证陷阱，没门。”\n\n想避免缠上这些烂人烂事也非常简单，那就是不做任何实事，当一个“不粘锅”。\n\n当整个社会都缺乏对造谣和诬告行为的惩戒机制以后，做实事的人被烂人烂事缠上造谣诬告也只是时间和概率问题，我认识的无数曾经做实事的人最终都是因为这个原因黯然退出。\n\n还在做事的，最终要么就是当一个“不粘锅”，要么就是干脆不做，敬而远之。\n\n当整个社会的恶性机制在“惩罚”做实事的人，那自然就会有无数本能得到帮助的人最终因为得不到帮助而死去。\n\n但是他们的死活，无人在乎，尤其是这些造谣的人。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1764273320995033463",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每一次出现造谣行为时，我都会重复表达一次我的立场：\n\n我不会针对任何一个具体的谣言去做任何公开的“澄清和解释”。\n\n「辟谣一次等于辟谣每次」\n\n「因为我怀疑你有，不需要我证明你有，但是你需要证明自己没有」\n\n「剖开腹部证明自己吃了几碗粉」 https://t.co/iQ3BeSDKIW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2024364723266080817",
+        "created_at": "2026-02-19T06:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024364723266080817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1764273320995033463",
+              "start": 120,
+              "url": "https://t.co/iQ3BeSDKIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024364723266080817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每一次出现造谣行为时，我都会重复表达一次我的立场：\n\n我不会针对任何一个具体的谣言去做任何公开的“澄清和解释”。\n\n「辟谣一次等于辟谣每次」\n\n「因为我怀疑你有，不需要我证明你有，但是你需要证明自己没有」\n\n「剖开腹部证明自己吃了几碗粉」\n\n如果不采取这个态度，只需要任意一个方式恶意针对一个稍有名气的人，那任何事情就都不用干了。\n\n“想让我陷入自证陷阱，没门。”\n\n想避免缠上这些烂人烂事也非常简单，那就是不做任何实事，当一个“不粘锅”。\n\n当整个社会都缺乏对造谣和诬告行为的惩戒机制以后，做实事的人被烂人烂事缠上造谣诬告也只是时间和概率问题，我认识的无数曾经做实事的人最终都是因为这个原因黯然退出。\n\n还在做事的，最终要么就是当一个“不粘锅”，要么就是干脆不做，敬而远之。\n\n当整个社会的恶性机制在“惩罚”做实事的人，那自然就会有无数本能得到帮助的人最终因为得不到帮助而死去。\n\n但是他们的死活，无人在乎，尤其是这些造谣的人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1764273320995033463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每一次出现造谣行为时，我都会重复表达一次我的立场：\n\n我不会针对任何一个具体的谣言去做任何公开的“澄清和解释”。\n\n「辟谣一次等于辟谣每次」\n\n「因为我怀疑你有，不需要我证明你有，但是你需要证明自己没有」\n\n「剖开腹部证明自己吃了几碗粉」 https://t.co/iQ3BeSDKIW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1764273320995033463",
+        "created_at": "2024-03-03T12:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-03T13:52:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1764272558457909741",
+          "1764273320995033463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1764273320995033463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "自2022年以后，除了向我私信求证以外，我再也没有公开澄清和辟谣过任何一条关于我的谣言\n\n常有人会向我疑问：放任谣言传播，放任造谣者造谣，难道不会对你的声誉造成影响吗？万一有人听信了这些谣言，然后以讹传讹，并且对你抱有看法怎么办？万一因为这个原因，很多人不信任你做的救助怎么办？\n\n我回答：谣言止于智者，轻易听信谣言，会因为谣言而对我有看法的人，本身就不值得做我的朋友。在意我的人，自然而然会向我私信进行求证。\n\n也因此，我也懒得浪费时间精力去和任何造谣传谣我的人对线\n\n如果有人相信这些谣言，那就让他们相信就好了\n\n在他们的世界里，自然有属于他们的活法"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 92817,
+          "like_count": 210,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "自2022年以后，除了向我私信求证以外，我再也没有公开澄清和辟谣过任何一条关于我的谣言\n\n常有人会向我疑问：放任谣言传播，放任造谣者造谣，难道不会对你的声誉造成影响吗？万一有人听信了这些谣言，然后以讹传讹，并且对你抱有看法怎么办？万一因为这个原因，很多人不信任你做的救助怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41059,
+          "following_count": 3678,
+          "like_count": 1448,
+          "listed_count": 67,
+          "media_count": 385,
+          "tweet_count": 2768
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

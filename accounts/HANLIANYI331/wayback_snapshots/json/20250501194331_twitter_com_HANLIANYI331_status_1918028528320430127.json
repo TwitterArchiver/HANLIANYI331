@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1918028528320430127",
+    "created_at": "2025-05-01T19:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T20:39:43.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918027572652429406",
+      "1918028528320430127"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1918028528320430127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "经常会发现很多人喝的饮料最后都变质了。轻则浪费，重则拉肚子去医院。\n\n饮料如果不能一次性喝完的话，一个是要倒着喝。不然口腔里的细菌会跑进饮料里繁殖，另一个是要冷藏。\n\n直接对嘴饮用会将唾液中的细菌带入瓶内。瓶装饮料开盖后，瓶口与唇部接触时会残留食物残渣或微生物。对嘴饮用时，液体流速加快导致空气难以同步进入瓶内，形成负压区。这会使瓶口残留液体在反复开合时被吸入瓶内。\n\n将饮料倒入杯子或使用吸管饮用，可阻断口腔细菌进入饮料。瓶口暴露时间也会短于对嘴饮用。倒入透明杯子后也会更容易发现悬浮物、变色或气泡异常。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经常会发现很多人喝的饮料最后都变质了。轻则浪费，重则拉肚子去医院。\n\n饮料如果不能一次性喝完的话，一个是要倒着喝。不然口腔里的细菌会跑进饮料里繁殖，另一个是要冷藏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1918027572652429406",
+        "created_at": "2025-05-01T19:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T20:39:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918027572652429406",
+          "1918028528320430127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918027572652429406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经常会发现很多人喝的饮料最后都变质了。轻则浪费，重则拉肚子去医院。\n\n饮料如果不能一次性喝完的话，一个是要倒着喝。不然口腔里的细菌会跑进椰子水里繁殖，另一个是要冷藏。\n\n直接对嘴饮用会将唾液中的细菌带入瓶内。瓶装饮料开盖后，瓶口与唇部接触时会残留食物残渣或微生物。对嘴饮用时，液体流速加快导致空气难以同步进入瓶内，形成负压区。这会使瓶口残留液体在反复开合时被吸入瓶内。\n\n将饮料倒入杯子或使用吸管饮用，可阻断口腔细菌进入饮料。瓶口暴露时间也会短于对嘴饮用。倒入透明杯子后也会更容易发现悬浮物、变色或气泡异常。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常会发现很多人喝的饮料最后都变质了。轻则浪费，重则拉肚子去医院。\n\n饮料如果不能一次性喝完的话，一个是要倒着喝。不然口腔里的细菌会跑进椰子水里繁殖，另一个是要冷藏。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1918028528320430127",
+        "created_at": "2025-05-01T19:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T20:39:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918027572652429406",
+          "1918028528320430127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1918028528320430127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经常会发现很多人喝的饮料最后都变质了。轻则浪费，重则拉肚子去医院。\n\n饮料如果不能一次性喝完的话，一个是要倒着喝。不然口腔里的细菌会跑进饮料里繁殖，另一个是要冷藏。\n\n直接对嘴饮用会将唾液中的细菌带入瓶内。瓶装饮料开盖后，瓶口与唇部接触时会残留食物残渣或微生物。对嘴饮用时，液体流速加快导致空气难以同步进入瓶内，形成负压区。这会使瓶口残留液体在反复开合时被吸入瓶内。\n\n将饮料倒入杯子或使用吸管饮用，可阻断口腔细菌进入饮料。瓶口暴露时间也会短于对嘴饮用。倒入透明杯子后也会更容易发现悬浮物、变色或气泡异常。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经常会发现很多人喝的饮料最后都变质了。轻则浪费，重则拉肚子去医院。\n\n饮料如果不能一次性喝完的话，一个是要倒着喝。不然口腔里的细菌会跑进饮料里繁殖，另一个是要冷藏。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37595,
+          "following_count": 3640,
+          "like_count": 715,
+          "listed_count": 61,
+          "media_count": 325,
+          "tweet_count": 2343
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

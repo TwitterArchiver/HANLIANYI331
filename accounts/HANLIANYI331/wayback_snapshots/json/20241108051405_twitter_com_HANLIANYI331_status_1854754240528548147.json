@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1854754240528548147",
+    "created_at": "2024-11-08T05:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T06:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854754240528548147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DarkEye495/sta…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/DarkEye495/status/1853784095949766824",
+          "start": 142,
+          "url": "https://t.co/0S6S8746mj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854754240528548147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "近年来，一些利用同情心骗取捐款的情况时有发生，甚至引发了一些非常恶劣的事件，比如说捐款者因为被诈骗所以自杀。为了确保爱心之举能够真正帮助到需要的人，建议大家在捐助前尽量核实相关信息，确认受助者的真实情况。捐助发起人也可以提供尽可能详细的资料，这样会让更多人了解情况，从而更有信心地伸出援手。\n\n在捐助时，请您务必留意多项关键的医疗信息，比如病历、收据、科室、床位、住院手环、负责的医生名称、医院名称等。适当的信息公开不仅能增加透明度，还能让捐助者安心。我们共同努力，帮助那些真正需要帮助的人。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853784095949766824",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "近年来，一些利用同情心骗取捐款的情况时有发生，甚至引发了一些非常恶劣的事件，比如说捐款者因为被诈骗所以自杀。为了确保爱心之举能够真正帮助到需要的人，建议大家在捐助前尽量核实相关信息，确认受助者的真实情况。捐助发起人也可以提供尽可能详细的资料，这样会让更多人了解情况，从而更有信心地… https://t.co/0S6S8746mj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1854754240528548147",
+        "created_at": "2024-11-08T05:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T06:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854754240528548147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DarkEye495/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/DarkEye495/status/1853784095949766824",
+              "start": 142,
+              "url": "https://t.co/0S6S8746mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854754240528548147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近年来，一些利用同情心骗取捐款的情况时有发生，甚至引发了一些非常恶劣的事件，比如说捐款者因为被诈骗所以自杀。为了确保爱心之举能够真正帮助到需要的人，建议大家在捐助前尽量核实相关信息，确认受助者的真实情况。捐助发起人也可以提供尽可能详细的资料，这样会让更多人了解情况，从而更有信心地伸出援手。\n\n在捐助时，请您务必留意多项关键的医疗信息，比如病历、收据、科室、床位、住院手环、负责的医生名称、医院名称等。适当的信息公开不仅能增加透明度，还能让捐助者安心。我们共同努力，帮助那些真正需要帮助的人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853784095949766824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近年来，一些利用同情心骗取捐款的情况时有发生，甚至引发了一些非常恶劣的事件，比如说捐款者因为被诈骗所以自杀。为了确保爱心之举能够真正帮助到需要的人，建议大家在捐助前尽量核实相关信息，确认受助者的真实情况。捐助发起人也可以提供尽可能详细的资料，这样会让更多人了解情况，从而更有信心地… https://t.co/0S6S8746mj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495809415030591490",
+        "conversation_id": "1853675001360331234",
+        "created_at": "2024-11-05T12:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T13:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853784095949766824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1762110357613805568",
+              "start": 0,
+              "username": "Youww6668"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853784095949766824",
+        "in_reply_to_user_id": "1762110357613805568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853761824019386693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youww6668 類似利用同情心詐騙導致被騙人自殺的前車之鑒已經有太多了，私訊里我已經告訴你了你只需要很簡單的辦法就可以證明你不是在騙人，為什麼已讀不回呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33215,
+          "following_count": 3428,
+          "like_count": 288,
+          "listed_count": 56,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-21T17:15:43.000Z",
+        "description": "聪明的，你告诉我，我们的日子为什么一去不复返呢？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dark495.com",
+                "end": 23,
+                "expanded_url": "https://dark495.com",
+                "start": 0,
+                "url": "https://t.co/jxdDjEY0uN"
+              }
+            ]
+          }
+        },
+        "id": "1495809415030591490",
+        "location": "Monitor",
+        "name": "DarkEye",
+        "pinned_tweet_id": "1835644689095045148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771654962692648960/Zt5w0RSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19253,
+          "following_count": 4914,
+          "like_count": 4958,
+          "listed_count": 32,
+          "tweet_count": 4403
+        },
+        "url": "https://t.co/jxdDjEY0uN",
+        "username": "DarkEye495",
+        "verified": true
+      }
+    ]
+  }
+}

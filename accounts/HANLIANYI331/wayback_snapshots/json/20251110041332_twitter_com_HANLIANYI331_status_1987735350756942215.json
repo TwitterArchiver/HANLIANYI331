@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987735340682203137",
+        "3_1987735340816515072"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "1987434653599613243",
+    "created_at": "2025-11-10T04:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T05:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987735350756942215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1712373177089945600",
+          "start": 0,
+          "username": "kaaiiuh"
+        },
+        {
+          "end": 21,
+          "id": "1628357323944239105",
+          "start": 9,
+          "username": "AkumaKusane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xH6x8dgJA",
+          "end": 189,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1987735350756942215/photo/1",
+          "media_key": "3_1987735340682203137",
+          "start": 166,
+          "url": "https://t.co/7xH6x8dgJA"
+        },
+        {
+          "display_url": "pic.x.com/7xH6x8dgJA",
+          "end": 189,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1987735350756942215/photo/1",
+          "media_key": "3_1987735340816515072",
+          "start": 166,
+          "url": "https://t.co/7xH6x8dgJA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987735350756942215",
+    "in_reply_to_user_id": "1712373177089945600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "医学界关于性别肯定药物的实验数据极少，如果把文献数据仅局限在“跨性别女性hrt”这个框架下，实际上能找到的文献数据并不多，目前我找到的专门限定在跨女激素治疗领域的研究基本上都是以雌二醇口服药或凝胶+醋酸环丙孕酮为主，关于比卡鲁胺，雌二醇注射液等方面的实验数据更是几乎空白（大部分文献还是近几年的，其中也并没有专门关于雌激素受体破坏相关的详细研究，更多是直接引用了出现过大激素波动带来弊端的综述），放在20年以前更是几乎没有了。因此所有关于药物和人体相关受体的研究都只能顺着不同的受体位点跨领域向上检索，如果对早期非相关领域的激素受体研究有怀疑，只能等日后更前沿的科研数据。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987718969923698983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaaiiuh @AkumaKusane 医学界关于性别肯定药物的实验数据极少，如果把文献数据仅局限在“跨性别女性hrt”这个框架下，实际上能找到的文献数据并不多，目前我找到的专门限定在跨女激素治疗领域的研究基本上都是以雌二醇口服药或凝胶+醋酸环丙孕酮为主，关于比卡鲁胺，雌二醇注射液等方面的实验数据更是几乎空白（大部分文献还是 https://t.co/7xH6x8dgJA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1987735340682203137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XawsjaUAEaXXI.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1987735340816515072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XawtDbwAAwiPl.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987735340682203137",
+            "3_1987735340816515072"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1987434653599613243",
+        "created_at": "2025-11-10T04:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987735350756942215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1712373177089945600",
+              "start": 0,
+              "username": "kaaiiuh"
+            },
+            {
+              "end": 21,
+              "id": "1628357323944239105",
+              "start": 9,
+              "username": "AkumaKusane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xH6x8dgJA",
+              "end": 189,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1987735350756942215/photo/1",
+              "media_key": "3_1987735340682203137",
+              "start": 166,
+              "url": "https://t.co/7xH6x8dgJA"
+            },
+            {
+              "display_url": "pic.x.com/7xH6x8dgJA",
+              "end": 189,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1987735350756942215/photo/1",
+              "media_key": "3_1987735340816515072",
+              "start": 166,
+              "url": "https://t.co/7xH6x8dgJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987735350756942215",
+        "in_reply_to_user_id": "1712373177089945600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "医学界关于性别肯定药物的实验数据极少，如果把文献数据仅局限在“跨性别女性hrt”这个框架下，实际上能找到的文献数据并不多，目前我找到的专门限定在跨女激素治疗领域的研究基本上都是以雌二醇口服药或凝胶+醋酸环丙孕酮为主，关于比卡鲁胺，雌二醇注射液等方面的实验数据更是几乎空白（大部分文献还是近几年的，其中也并没有专门关于雌激素受体破坏相关的详细研究，更多是直接引用了出现过大激素波动带来弊端的综述），放在20年以前更是几乎没有了。因此所有关于药物和人体相关受体的研究都只能顺着不同的受体位点跨领域向上检索，如果对早期非相关领域的激素受体研究有怀疑，只能等日后更前沿的科研数据。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987718969923698983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaaiiuh @AkumaKusane 医学界关于性别肯定药物的实验数据极少，如果把文献数据仅局限在“跨性别女性hrt”这个框架下，实际上能找到的文献数据并不多，目前我找到的专门限定在跨女激素治疗领域的研究基本上都是以雌二醇口服药或凝胶+醋酸环丙孕酮为主，关于比卡鲁胺，雌二醇注射液等方面的实验数据更是几乎空白（大部分文献还是 https://t.co/7xH6x8dgJA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712373177089945600",
+        "conversation_id": "1987434653599613243",
+        "created_at": "2025-11-10T03:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T04:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987718969923698983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 26,
+              "id": "1628357323944239105",
+              "start": 14,
+              "username": "AkumaKusane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987718969923698983",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987663180936655132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @AkumaKusane 你说的文献和论证内容没有关系啊最主要的是。另外你给的这一篇也是 乳腺癌 细胞系：其实我没查到原文用了多少浓度雌激素孵育细胞，但人体的浓度可是0.1μg/L级别的，变化的上下限也只有数倍之差。这篇文献参考意义可以几乎认为没有。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40144,
+          "following_count": 3675,
+          "like_count": 1287,
+          "listed_count": 69,
+          "media_count": 357,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-12T07:43:35.000Z",
+        "description": "永不相忘",
+        "id": "1712373177089945600",
+        "name": "Νύμφοσι",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886832976773984256/7autpJUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 352,
+          "like_count": 9714,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 2570
+        },
+        "username": "kaaiiuh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:33:52.000Z",
+        "description": "@AkemiKusane 的华语账号 喝多了也会写这儿 冬天滑雪夏天爬山",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "AkemiKusane"
+              }
+            ]
+          }
+        },
+        "id": "1628357323944239105",
+        "name": "恶魔草",
+        "pinned_tweet_id": "1771290516493345087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668650823369334784/ru16sD0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 213,
+          "like_count": 779,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 2772
+        },
+        "username": "AkumaKusane",
+        "verified": false
+      }
+    ]
+  }
+}

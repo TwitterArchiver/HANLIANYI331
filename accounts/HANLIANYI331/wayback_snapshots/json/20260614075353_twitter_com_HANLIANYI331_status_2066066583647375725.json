@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2065323198053335481",
+    "created_at": "2026-06-14T07:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066066583647375725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517437669449547776",
+          "start": 0,
+          "username": "YumiChow916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20388…",
+          "end": 36,
+          "expanded_url": "https://x.com/i/status/2038880741363519991",
+          "start": 13,
+          "url": "https://t.co/Mt3nuLXXjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066066583647375725",
+    "in_reply_to_user_id": "1517437669449547776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/status/20388…",
+            "end": 23,
+            "expanded_url": "https://x.com/i/status/2038880741363519991",
+            "start": 0,
+            "url": "https://t.co/nukwOdorlQ"
+          }
+        ]
+      },
+      "text": "https://t.co/nukwOdorlQ\n\n如果“会产生额外伤害就不应该介入”，第一时间先关停的应该是全球所有的精神科医院住院部。\n在帕累托法则、艾森豪威尔矩阵的情况下，在高不确定性、高情绪负载的助人场景里，把“不出任何错误”当作首要目标，会把成本推到不可持续的程度。现实中，任何真实行动都会产生副作用，这是熵增定律的体现，不是“道德不够高尚”的问题。\n纯德ontology（原则优先）在抽象讨论里听起来高尚，但在“拉不拉杆都会死人”的现场，只会变成“不拉杆的人眼睁睁看着更多人死去，却觉得自己干净”。这不是道德相对主义，而是结果主义在高 stakes 环境下的必然选择。历史上无数次人道主义灾难（战争、灾荒、公共卫生危机）都证明：只求“自己不犯错”往往等于间接害人。\n“做的不完美就不要做”→ 最终没人做事：这是真实发生的动态。“大量付出者因被指责不完美而退出”，在全球志愿/公益/互助社群里都反复上演（effective altruism 圈子里也反复讨论过“purity spiral”——纯洁性螺旋，导致行动力内耗至零）。\n只有骗子能“完美”：真正做实事的人必须不断妥协、试错、迭代；而骗子只需要“表演完美”——包装故事、零差评、永远正确，就能在信息不对称的社群里收割信任。\n在扭曲、资源匮乏、情绪高涨的助人环境中，“不拉拉杆”的洁癖，客观上就是在用别人的命换自己的道德洁净感。而真正有效的人，必须学会在“次优解”和“可接受的副作用”之间反复权衡，同时保持自我修正能力。\n这不是“效益至上”的冷血功利主义，而是把有限精力真正用在救人而不是表演正确的现实主义。\n只停留在“正确的废话”里。\n把主要矛盾和次要矛盾分清楚、敢做事、敢承担副作用，真正需要帮助的人才会少受点罪。\n只会喊“做的不完美就别做”的人，历史会证明：他们最后只会剩下完美无缺的空话，和一个空荡荡、没人敢再伸手的社群。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038880741363519991",
+        "type": "quoted"
+      },
+      {
+        "id": "2066055532725617080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumiChow916 https://t.co/Mt3nuLXXjE\n\n如果“会产生额外伤害就不应该介入”，第一时间先关停的应该是全球所有的精神科医院住院部。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1607,
+        "media_key": "3_2066055526782242816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKwajiAWkAAYqQX.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T07:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066066583647375725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20388…",
+              "end": 36,
+              "expanded_url": "https://x.com/i/status/2038880741363519991",
+              "start": 13,
+              "url": "https://t.co/Mt3nuLXXjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066066583647375725",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20388…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2038880741363519991",
+                "start": 0,
+                "url": "https://t.co/nukwOdorlQ"
+              }
+            ]
+          },
+          "text": "https://t.co/nukwOdorlQ\n\n如果“会产生额外伤害就不应该介入”，第一时间先关停的应该是全球所有的精神科医院住院部。\n在帕累托法则、艾森豪威尔矩阵的情况下，在高不确定性、高情绪负载的助人场景里，把“不出任何错误”当作首要目标，会把成本推到不可持续的程度。现实中，任何真实行动都会产生副作用，这是熵增定律的体现，不是“道德不够高尚”的问题。\n纯德ontology（原则优先）在抽象讨论里听起来高尚，但在“拉不拉杆都会死人”的现场，只会变成“不拉杆的人眼睁睁看着更多人死去，却觉得自己干净”。这不是道德相对主义，而是结果主义在高 stakes 环境下的必然选择。历史上无数次人道主义灾难（战争、灾荒、公共卫生危机）都证明：只求“自己不犯错”往往等于间接害人。\n“做的不完美就不要做”→ 最终没人做事：这是真实发生的动态。“大量付出者因被指责不完美而退出”，在全球志愿/公益/互助社群里都反复上演（effective altruism 圈子里也反复讨论过“purity spiral”——纯洁性螺旋，导致行动力内耗至零）。\n只有骗子能“完美”：真正做实事的人必须不断妥协、试错、迭代；而骗子只需要“表演完美”——包装故事、零差评、永远正确，就能在信息不对称的社群里收割信任。\n在扭曲、资源匮乏、情绪高涨的助人环境中，“不拉拉杆”的洁癖，客观上就是在用别人的命换自己的道德洁净感。而真正有效的人，必须学会在“次优解”和“可接受的副作用”之间反复权衡，同时保持自我修正能力。\n这不是“效益至上”的冷血功利主义，而是把有限精力真正用在救人而不是表演正确的现实主义。\n只停留在“正确的废话”里。\n把主要矛盾和次要矛盾分清楚、敢做事、敢承担副作用，真正需要帮助的人才会少受点罪。\n只会喊“做的不完美就别做”的人，历史会证明：他们最后只会剩下完美无缺的空话，和一个空荡荡、没人敢再伸手的社群。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038880741363519991",
+            "type": "quoted"
+          },
+          {
+            "id": "2066055532725617080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 https://t.co/Mt3nuLXXjE\n\n如果“会产生额外伤害就不应该介入”，第一时间先关停的应该是全球所有的精神科医院住院部。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2038880741363519991",
+        "created_at": "2026-03-31T07:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038880741363519991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1875469290453004344",
+              "start": 94,
+              "url": "https://t.co/KsEes5H8Q0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038880741363519991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个人的精力是有限的，把每一件事情都做的完美且滴水不漏，同时又效率极高，永远是一种不切实际的空想。\n\n因此如果想要真的做某一件实事，分清每一件事情的主要矛盾和次要矛盾，永远是必备的技能。\n\n否则，当做某一件事的主要精力不再是“尽可能高效率的完成这件事情”，而是“如何在做这件事情的过程当中不出任何错误”。那最终的结果就是完成这件事情的成本极高，以至于几乎不可能完成这件事情。这种事情放在助人工作当中最为明显。\n\n“不应该效益至上，应当优先遵循原则和准则”，永远是一种站着说话不腰疼的论调，在本就极端和扭曲的环境当中，在无数电车难题的残酷现实环境当中，如果只是一味着去当那个“不拉拉杆的人”，一味的去当一个“不粘锅”。对不起，那你只能眼睁睁的看着无数人在在你眼前死去（当然，他们的死也和你没有任何关系，你也没有伤害他们，因为你为了避免伤害他们，所以选择从一开始就不去做能救到他们但是可能伤害他们的事情）\n\n如果和任何一个人交互都力求“在各种意义上的规则上都做到完美”，那唯一的办法就是和这个人不交互，或者只去说“正确的废话”。\n\n“我抨击是为了他们能做的更好”，这当然没有问题，但是如果真的严格遵循这个准则，请提出更优方案，且不要因为“他们没有遵循你提出的更优方案”而去进行攻击（除非你自己愿意去亲身参与这件事情并且执行自己的更优方案）\n\n这也是为什么我在做任何事情的时候，一般只会将同样深入过相同事情的一线实务工作的人的意见纳入考虑。因为只有限定在“具体实务、具体问题、具体讨论、最优解决”的范围当中，讨论才会有实际意义。（当然，除此之外还有一个例外，就是虽然不懂实务，但是真的愿意在助人工作当中付出金钱，资源和精力的人，这种情况下我会详细的和他们说清楚一线实务工作的真实情况，一直到他们彻底明白为止。）\n\n否则，只会迷失在无数无用的无用的争议当中。十多年来，社群本来有无数个付出了海量时间精力金钱的助人者，最终都是因为这个原因退出的。\n\n因为他们在做实事的时候，经常会被指责“做的有问题，既然你不能避免问题那你就不要做”，所以最终他们都黯然退出。\n\n“做的不完美就不要做”最终的结果就是：没有人做事。\n\n或者只有像王孝天这样的“声称自己已经把事情做完美的骗子”活跃在社群当中大肆骗钱。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5038,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875469290453004344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个人的精力是有限的，把每一件事情都做的完美且滴水不漏，同时又效率极高，永远是一种不切实际的空想。\n\n因此如果想要真的做某一件实事，分清每一件事情的主要矛盾和次要矛盾，永远是必备的技能。 https://t.co/KsEes5H8Q0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066055526782242816"
+          ]
+        },
+        "author_id": "1517437669449547776",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T07:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066055532725617080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iGTbOWi4AT",
+              "end": 165,
+              "expanded_url": "https://x.com/YumiChow916/status/2066055532725617080/photo/1",
+              "media_key": "3_2066055526782242816",
+              "start": 142,
+              "url": "https://t.co/iGTbOWi4AT"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7d2673c3623fe492"
+        },
+        "id": "2066055532725617080",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 155,
+                "id": "1300828282061877249",
+                "start": 142,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 171,
+                "id": "786464617031733248",
+                "start": 156,
+                "username": "QueerMasculism"
+              }
+            ]
+          },
+          "text": "如果指向的是介入的同時產生了新的傷害，這種情況下是不能功過相抵的，不然人口販運就不是犯罪，而是成了對脆弱人群提供住房和飲食的救助了\n\n傷害與傷害之間是不能比較大小的，不然就不會有電車難題了，更不用說如果這個新傷害是介入者主動造成的，那就成了我替你解決了一個傷害，所以我就有資格加害你\n@HANLIANYI331 @QueerMasculism"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065323198053335481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果指向的是介入的同時產生了新的傷害，這種情況下是不能功過相抵的，不然人口販運就不是犯罪，而是成了對脆弱人群提供住房和飲食的救助了\n\n傷害與傷害之間是不能比較大小的，不然就不會有電車難題了，更不用說如果這個新傷害是介入者主動造成的，那就成了我替你解決了一個傷害，所以我就有資格加害你 https://t.co/iGTbOWi4AT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41747,
+          "following_count": 3808,
+          "like_count": 1753,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2963
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Markham, Ontario",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 313,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3906
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

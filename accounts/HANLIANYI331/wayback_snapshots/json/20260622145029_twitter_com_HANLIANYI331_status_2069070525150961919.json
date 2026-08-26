@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069070516229709824"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "2068938978716459510",
+    "created_at": "2026-06-22T14:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T15:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069070525150961919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368145803424899075",
+          "start": 0,
+          "username": "General_5339"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20598…",
+          "end": 123,
+          "expanded_url": "https://x.com/i/status/2059801421500014971",
+          "start": 100,
+          "url": "https://t.co/BkMAVwX2KT"
+        },
+        {
+          "display_url": "pic.x.com/xTnMoDdwOL",
+          "end": 147,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2069070525150961919/photo/1",
+          "media_key": "3_2069070516229709824",
+          "start": 124,
+          "url": "https://t.co/xTnMoDdwOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069070525150961919",
+    "in_reply_to_user_id": "1368145803424899075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059801421500014971",
+        "type": "quoted"
+      },
+      {
+        "id": "2069064539451404617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@General_5339 我这段话的重点并非是“以德报怨”，而是“不因为某一部分人品恶劣的受助者而去放弃大多数善良的受助者”。说白了就是“把每一个受助者当做个体看待，而不是把他们看作是一个整体”\n\nhttps://t.co/BkMAVwX2KT https://t.co/xTnMoDdwOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_2069070516229709824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbQrA8bIAAkmO9.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069070516229709824"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2068938978716459510",
+        "created_at": "2026-06-22T14:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069070525150961919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368145803424899075",
+              "start": 0,
+              "username": "General_5339"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20598…",
+              "end": 123,
+              "expanded_url": "https://x.com/i/status/2059801421500014971",
+              "start": 100,
+              "url": "https://t.co/BkMAVwX2KT"
+            },
+            {
+              "display_url": "pic.x.com/xTnMoDdwOL",
+              "end": 147,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2069070525150961919/photo/1",
+              "media_key": "3_2069070516229709824",
+              "start": 124,
+              "url": "https://t.co/xTnMoDdwOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069070525150961919",
+        "in_reply_to_user_id": "1368145803424899075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059801421500014971",
+            "type": "quoted"
+          },
+          {
+            "id": "2069064539451404617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@General_5339 我这段话的重点并非是“以德报怨”，而是“不因为某一部分人品恶劣的受助者而去放弃大多数善良的受助者”。说白了就是“把每一个受助者当做个体看待，而不是把他们看作是一个整体”\n\nhttps://t.co/BkMAVwX2KT https://t.co/xTnMoDdwOL"
+      },
+      {
+        "article": {
+          "title": "造谣，栽桩陷害，偷盗财物，教唆药物滥用，挑拨离间，敲诈勒索......关于对一些造谣者的行为的态度与回应"
+        },
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2059801421500014971",
+        "created_at": "2026-05-28T00:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059801421500014971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2056054544581394432",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056054544581394432",
+              "url": "https://t.co/QG6R7Kr91h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059801421500014971",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 33985,
+          "like_count": 134,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QG6R7Kr91h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368145803424899075",
+        "conversation_id": "2068938978716459510",
+        "created_at": "2026-06-22T14:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069064539451404617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069064539451404617",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068938978716459510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 建议你复习一下以德报怨和子路受牛的典故，你这么做本质上只是为了感动你自己而已，而且会让其他人对帮助被网瘾学校迫害的人这件事望而生畏。\n因为一个正常人去帮助别人然后被别人背刺之后他产生愤怒的情绪才是合理的，如果他甘之若饴那说明他有精神病。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41816,
+          "following_count": 3873,
+          "like_count": 1796,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 3006
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-06T10:26:01.000Z",
+        "description": "100111100111110110001101",
+        "id": "1368145803424899075",
+        "location": "涅菲里姆星区 阈值研磨机主控室",
+        "name": "火星机械神教大贤者 贝利撒留.考尔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823613629410787328/wnQ23awz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 3,
+          "like_count": 173,
+          "listed_count": 7,
+          "media_count": 426,
+          "tweet_count": 4432
+        },
+        "url": "",
+        "username": "General_5339",
+        "verified": false
+      }
+    ]
+  }
+}

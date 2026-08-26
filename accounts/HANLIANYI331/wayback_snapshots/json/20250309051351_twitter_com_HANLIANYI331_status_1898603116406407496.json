@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1898306749549146504",
+    "created_at": "2025-03-09T05:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T06:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898603116406407496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1235393475266228225",
+          "start": 0,
+          "username": "GuiEmo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898603116406407496",
+    "in_reply_to_user_id": "1235393475266228225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898602548229259558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuiEmo_ 之前炸过培根，混了猪油进去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1898306749549146504",
+        "created_at": "2025-03-09T05:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T06:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898603116406407496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1235393475266228225",
+              "start": 0,
+              "username": "GuiEmo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898603116406407496",
+        "in_reply_to_user_id": "1235393475266228225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898602548229259558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuiEmo_ 之前炸过培根，混了猪油进去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235393475266228225",
+        "conversation_id": "1898306749549146504",
+        "created_at": "2025-03-09T05:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T06:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898602548229259558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898602548229259558",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898417362879279585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 炸鸡用的油都是植物油脂，熔点都比较低，4摄氏度下很难凝固呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询｜语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883897989900701855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36386,
+          "following_count": 3583,
+          "like_count": 582,
+          "listed_count": 59,
+          "media_count": 310,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-05T02:35:38.000Z",
+        "description": "普普通通男学生。Usually do part-time work in Los Angeles. Love anything that is lovely. 爱国🇨🇳。❤️#Jazz and #RnB English, 廣東話, 中文。支持中国特色社会主义，拥护党的领导，在海外发出中国声音！曾日本交换，现居LA。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "Jazz"
+              },
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "RnB"
+              }
+            ]
+          }
+        },
+        "id": "1235393475266228225",
+        "location": "Los Angeles, CA",
+        "name": "GuiEmo🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1365570472549576705/BEcD3aK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 512,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 294
+        },
+        "username": "GuiEmo_",
+        "verified": false
+      }
+    ]
+  }
+}

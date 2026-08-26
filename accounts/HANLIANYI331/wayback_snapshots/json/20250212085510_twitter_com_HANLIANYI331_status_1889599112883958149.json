@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889579811498328064"
+      ],
+      "media_source_tweet_id": [
+        "1889579818838270051"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "1889599112883958149",
+    "created_at": "2025-02-12T08:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T09:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889599112883958149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1544285787495157760",
+          "start": 3,
+          "username": "FFFFJUN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JyD8LRbRuX",
+          "end": 102,
+          "expanded_url": "https://x.com/FFFFJUN/status/1889579818838270051/photo/1",
+          "media_key": "3_1889579811498328064",
+          "start": 79,
+          "url": "https://t.co/JyD8LRbRuX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889599112883958149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889579818838270051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FFFFJUN: 关于小鱼干自称寒涟漪强奸自己，并因为此事自杀，被关精神病院一事。\n\n作为事情的全部亲历者，寒涟漪亲密关系之一，我在透露几点事情吧～ https://t.co/JyD8LRbRuX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889579811498328064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjki078bgAAMMoX.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889579811498328064"
+          ],
+          "media_source_tweet_id": [
+            "1889579818838270051"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1889599112883958149",
+        "created_at": "2025-02-12T08:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T09:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889599112883958149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1544285787495157760",
+              "start": 3,
+              "username": "FFFFJUN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyD8LRbRuX",
+              "end": 102,
+              "expanded_url": "https://x.com/FFFFJUN/status/1889579818838270051/photo/1",
+              "media_key": "3_1889579811498328064",
+              "start": 79,
+              "url": "https://t.co/JyD8LRbRuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889599112883958149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889579818838270051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FFFFJUN: 关于小鱼干自称寒涟漪强奸自己，并因为此事自杀，被关精神病院一事。\n\n作为事情的全部亲历者，寒涟漪亲密关系之一，我在透露几点事情吧～ https://t.co/JyD8LRbRuX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889579811498328064"
+          ]
+        },
+        "author_id": "1544285787495157760",
+        "conversation_id": "1889579818838270051",
+        "created_at": "2025-02-12T07:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T08:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889579818838270051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JyD8LRbRuX",
+              "end": 89,
+              "expanded_url": "https://x.com/FFFFJUN/status/1889579818838270051/photo/1",
+              "media_key": "3_1889579811498328064",
+              "start": 66,
+              "url": "https://t.co/JyD8LRbRuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889579818838270051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于小鱼干自称寒涟漪强奸自己，并因为此事自杀，被关精神病院一事。\n\n作为事情的全部亲历者，寒涟漪亲密关系之一，我在透露几点事情吧～ https://t.co/JyD8LRbRuX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35660,
+          "following_count": 3570,
+          "like_count": 491,
+          "listed_count": 59,
+          "media_count": 296,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-05T11:43:32.000Z",
+        "description": "你好，也可以叫我芙芙(fufu)或者米糊哦～坐标湖北和广州～会玩一些摄影器材～（讨厌争吵，讨厌站队）",
+        "id": "1544285787495157760",
+        "location": "廣州",
+        "name": "F菌-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752825326810636288/CY7rCNkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 66,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 177
+        },
+        "username": "FFFFJUN",
+        "verified": false
+      }
+    ]
+  }
+}

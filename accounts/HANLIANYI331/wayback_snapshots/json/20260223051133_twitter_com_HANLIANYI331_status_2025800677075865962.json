@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2025796410109522149",
+    "created_at": "2026-02-23T05:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025800677075865962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1135512851873845252",
+          "start": 0,
+          "username": "ctomservice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025800677075865962",
+    "in_reply_to_user_id": "1135512851873845252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025796410109522149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ctomservice 以太坊创始人卖的几百万美元的以太坊相比起以太坊每天几十亿元的成交量微不足道，他更多是象征意义上的打击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2025796410109522149",
+        "created_at": "2026-02-23T05:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025800677075865962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1135512851873845252",
+              "start": 0,
+              "username": "ctomservice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025800677075865962",
+        "in_reply_to_user_id": "1135512851873845252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025796410109522149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ctomservice 以太坊创始人卖的几百万美元的以太坊相比起以太坊每天几十亿元的成交量微不足道，他更多是象征意义上的打击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135512851873845252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2025796410109522149",
+        "created_at": "2026-02-23T04:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T05:52:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025795793089617993",
+          "2025796410109522149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025796410109522149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 1158,
+                "id": "295218901",
+                "start": 1143,
+                "username": "VitalikButerin"
+              }
+            ]
+          },
+          "text": "背刺之下，不死不休：我的ETH坚守与求援\n\n我从以太坊高位一路扛到现在，现货拿了这么多年，从4200扛到如今。\n我抵押了自己的房子，借了钱，哪怕只是低倍质押借币，也一路死扛到底。\n\n我谁都不怪，就怪我自己。\n怪我太信、太执着，太把别人的项目当成信仰；\n怪我太重感情，太相信所谓的理想、愿景、价值主义、长期主义；\n怪我明明已经遍体鳞伤，还在傻傻坚持，以为只要守得住，就会有希望。\n\n可到最后才发现：\n我把它当一生的事业，别人只把它当套现的工具；\n我把创始人当信仰，他却在寒冬里拼命砸盘；\n我押上了全部身家，押上了房子，押上了安稳，\n换来的，却是被自己最信任、最信仰的人，狠狠背刺。\n\n我不是输在市场，\n是输在太真、太信、太忠诚；\n是输在，把别人的梦想，活成了我自己的人生。\n\n战场上，士兵拼到满身是伤，最绝望的从来不是敌人有多狠，\n而是主帅自己先跑了，是你深信不疑的人，在你最惨的时候，亲手把你往泥里踩。\n\n我真正在意的，从来不是币价，\n而是信仰被彻底辜负。\n\n大家跟着以太坊，信的是愿景，是去中心化，是“我们一起扛过寒冬”。\n结果寒冬真的来了，散户死扛、流血、套牢、负债，\n创始人却在地板价拼命砸盘套现。\n\n这哪里是创业？\n这是把信徒当接盘侠，把事业当成提款机。\n\n高位卖，叫合理变现；\n地板砸，叫收割自己人。\n\n一个真正把项目当孩子的人，绝不会在它快断气的时候，还在抽它的血。\n现在很多人难受，不是亏了钱，是心死了——\n曾经深信的理想、正义、长期主义、价值主义，在真金白银面前，碎得一文不值。\n\n这种被自己人背刺的滋味，比被市场收割痛一万倍。\n\n1011 那天，我几乎所有的山寨仓位全部被清算，一无所有。\n唯一死扛下来的，只有以太坊这一单。\nETH这单，我拿了这么多年，是1011之后，我拼了命守住的最后一根稻草和希望。\n从4200扛到现在，我抵押了房子，借了钱，一路死扛。\n\n我承认，使用低倍质押借币是我的错，\n我不该碰任何杠杆，哪怕最低的倍数，都不该碰。因为这个圈太无情和无底线了！\n\n但你们问我，为什么还要死扛到底？\n我扛的从来不是币价，\n我扛的，是我自己这么多年的信仰。\n\n哪怕主帅跑了，我也不会当逃兵。\n我会和以太坊生态里所有还在坚持、还没放弃的人站在一起，\n并肩同行，死战不退，战斗到底！哪怕创始人他跑了退了！\n\n我现在，只需要 5 万美金，\n就能还清所有借款，把全部以太仓位彻底解锁。\n哪怕当下有人暂时援借6 个以太坊，\n也能把我的清算价压到肩膀以下，让我真正喘一口气、逃过这个坎！\n\n行军打仗，哪怕国破家亡，\n作为精神领袖，作为王者，\n都不应该逃跑，不应该当逃兵。\n哪怕战死、哪怕以身殉道，也该站着死，\n而不是在最危难的时候，抛弃子民，抛弃追随者，丢下所有人独自逃命。@VitalikButerin"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "背刺之下，不死不休：我的ETH坚守与求援\n\n我从以太坊高位一路扛到现在，现货拿了这么多年，从4200扛到如今。\n我抵押了自己的房子，借了钱，哪怕只是低倍质押借币，也一路死扛到底。\n\n我谁都不怪，就怪我自己。\n怪我太信、太执着，太把别人的项目当成信仰；"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41137,
+          "following_count": 3681,
+          "like_count": 1459,
+          "listed_count": 67,
+          "media_count": 385,
+          "tweet_count": 2774
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-03T11:45:35.000Z",
+        "description": "No worries, no fear, no expectations. Live full, create daily.  WeChat ： yun_duo2818",
+        "id": "1135512851873845252",
+        "name": "ctomservice",
+        "pinned_tweet_id": "2020110091081466140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571164652364496896/08dchtEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5980,
+          "following_count": 5109,
+          "like_count": 2511,
+          "listed_count": 27,
+          "media_count": 571,
+          "tweet_count": 15512
+        },
+        "username": "ctomservice",
+        "verified": true
+      }
+    ]
+  }
+}

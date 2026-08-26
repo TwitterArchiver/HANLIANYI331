@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2047000379238572487",
+    "created_at": "2026-04-23T04:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047167969973960729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1600124685026562052",
+          "start": 0,
+          "username": "j12ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047167969973960729",
+    "in_reply_to_user_id": "1600124685026562052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047164801747661300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j12ev 腰斩是最极端的情况，08年金融危机跌了70％，20年疫情跌了40％。但是无论跌多少，网格玩法也一样可以分批抄底。哪怕只跌10％，也只是买多买少的区别。也可以留个20％的底仓。或者同时持有黄金美债现金和标普500进行再平衡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2047000379238572487",
+        "created_at": "2026-04-23T04:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047167969973960729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1600124685026562052",
+              "start": 0,
+              "username": "j12ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047167969973960729",
+        "in_reply_to_user_id": "1600124685026562052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047164801747661300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j12ev 腰斩是最极端的情况，08年金融危机跌了70％，20年疫情跌了40％。但是无论跌多少，网格玩法也一样可以分批抄底。哪怕只跌10％，也只是买多买少的区别。也可以留个20％的底仓。或者同时持有黄金美债现金和标普500进行再平衡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600124685026562052",
+        "conversation_id": "2047000379238572487",
+        "created_at": "2026-04-23T04:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047164801747661300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047164801747661300",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047000379238572487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 一定会在“某个时刻”腰斩，这个时刻也许是下个月，也许是十年后，那时候指数都到上万点，你等着腰斩意味着如果没有腰斩，那么这个机会损失你是无法承受的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40856,
+          "following_count": 3705,
+          "like_count": 1607,
+          "listed_count": 70,
+          "media_count": 390,
+          "tweet_count": 2838
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T13:47:42.000Z",
+        "description": "",
+        "id": "1600124685026562052",
+        "name": "imisshk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600125105451016194/9gONRIF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 196,
+          "like_count": 269,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 383
+        },
+        "username": "j12ev",
+        "verified": false
+      }
+    ]
+  }
+}

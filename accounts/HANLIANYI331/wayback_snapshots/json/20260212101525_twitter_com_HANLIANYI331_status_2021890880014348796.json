@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2021829124063736197",
+    "created_at": "2026-02-12T10:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021890880014348796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20218…",
+          "end": 38,
+          "expanded_url": "https://x.com/i/status/2021882108147593266",
+          "start": 15,
+          "url": "https://t.co/8ZcUh9sOxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021890880014348796",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021882108147593266",
+        "type": "quoted"
+      },
+      {
+        "id": "2021858064295690449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl https://t.co/8ZcUh9sOxi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2021829124063736197",
+        "created_at": "2026-02-12T10:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021890880014348796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20218…",
+              "end": 38,
+              "expanded_url": "https://x.com/i/status/2021882108147593266",
+              "start": 15,
+              "url": "https://t.co/8ZcUh9sOxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021890880014348796",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021882108147593266",
+            "type": "quoted"
+          },
+          {
+            "id": "2021858064295690449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl https://t.co/8ZcUh9sOxi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2021882108147593266",
+        "created_at": "2026-02-12T09:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T10:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021882108147593266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2021829124063736197",
+              "start": 140,
+              "url": "https://t.co/l9Zm5i06fw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021882108147593266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829124063736197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说到这个，又会回到我早在七年前就面临的问题：到底是“先变富”，还是“先救人”\n\n也许在冰冷的数学模型里，利益最大化的选择永远是“先变富”，但是这究竟要富到什么时候才是个头？\n\n人的生命只有一次，人死不能复活，在人最需要钱活命的时候没钱\n\n即使最后有几亿元，这和她们又有什么关系？ https://t.co/l9Zm5i06fw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2021829124063736197",
+        "created_at": "2026-02-12T08:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021858064295690449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021858064295690449",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829124063736197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 你没有300万？你不是都花出去几百万了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40988,
+          "following_count": 3676,
+          "like_count": 1416,
+          "listed_count": 68,
+          "media_count": 383,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "985本 QS50硕在读，04女留|I'm a Good girl. Please don't hurt me.👧|洪水将至🌈|女诬退散！|喜阴冷潮湿||打舞萌的MTF永远是男人，AI计算机理工MTF永远是男人公跨子。|男娘拯救世界，公跨恶心世界|公跨滚出时间线，刷到全部屏蔽！",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "pinned_tweet_id": "1987920278366941404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977019999081709568/Vs0ILDtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 702,
+          "like_count": 10549,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 5377
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      }
+    ]
+  }
+}

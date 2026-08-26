@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2061346693849952390",
+    "created_at": "2026-06-02T03:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061652378244538647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "918593759121690625",
+          "start": 0,
+          "username": "hu_qin_"
+        },
+        {
+          "end": 22,
+          "id": "1439113707338928128",
+          "start": 9,
+          "username": "mantou233520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061652378244538647",
+    "in_reply_to_user_id": "918593759121690625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "前后一年多的时间，从小瞳跟我处于亲密关系阶段时在庇护所和众人一起认识开始，再到小瞳向F表白但是F一直没接受，再到小瞳后来找来三崎跟着三崎一直吸毒致幻剂，再到信了三崎的鬼话和“爱的承诺”要跟着要一起“打倒寒涟漪”，再到小瞳和另外这几个所谓要一起“打倒寒涟漪”的人彻底闹掰决裂，最后被三崎背刺在悲愤交加和长期滥用致幻剂下死亡。小瞳一直是f巨大的创伤，你如果再这么跟这几个烂人一样喜欢拿自己完全不了解任何事情经过，冯虚御风的甚至拿害了她的这几个人烂人的鬼话，拿不会说话的死人炒作，对你彻底失去所有正面评价的就不再是我一个了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061564408673767863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hu_qin_ @mantou233520 前后一年多的时间，从小瞳跟我处于亲密关系阶段时在庇护所和众人一起认识开始，再到小瞳向F表白但是F一直没接受，再到小瞳后来找来三崎跟着三崎一直吸毒致幻剂，再到信了三崎的鬼话和“爱的承诺”要跟着要一起“打倒寒涟漪”，再到小瞳和另外这几个所谓要一起“打倒寒涟漪”的人彻底闹掰决裂，最后被三崎背刺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2061346693849952390",
+        "created_at": "2026-06-02T03:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061652378244538647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "918593759121690625",
+              "start": 0,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 22,
+              "id": "1439113707338928128",
+              "start": 9,
+              "username": "mantou233520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061652378244538647",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前后一年多的时间，从小瞳跟我处于亲密关系阶段时在庇护所和众人一起认识开始，再到小瞳向F表白但是F一直没接受，再到小瞳后来找来三崎跟着三崎一直吸毒致幻剂，再到信了三崎的鬼话和“爱的承诺”要跟着要一起“打倒寒涟漪”，再到小瞳和另外这几个所谓要一起“打倒寒涟漪”的人彻底闹掰决裂，最后被三崎背刺在悲愤交加和长期滥用致幻剂下死亡。小瞳一直是f巨大的创伤，你如果再这么跟这几个烂人一样喜欢拿自己完全不了解任何事情经过，冯虚御风的甚至拿害了她的这几个人烂人的鬼话，拿不会说话的死人炒作，对你彻底失去所有正面评价的就不再是我一个了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061564408673767863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_qin_ @mantou233520 前后一年多的时间，从小瞳跟我处于亲密关系阶段时在庇护所和众人一起认识开始，再到小瞳向F表白但是F一直没接受，再到小瞳后来找来三崎跟着三崎一直吸毒致幻剂，再到信了三崎的鬼话和“爱的承诺”要跟着要一起“打倒寒涟漪”，再到小瞳和另外这几个所谓要一起“打倒寒涟漪”的人彻底闹掰决裂，最后被三崎背刺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "conversation_id": "2061346693849952390",
+        "created_at": "2026-06-01T21:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T22:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061564408673767863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1439113707338928128",
+              "start": 0,
+              "username": "mantou233520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061564408673767863",
+        "in_reply_to_user_id": "1439113707338928128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061515502359560318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mantou233520 几位公开站出来说寒涟漪强奸的人都报过案的，然后其中一位在武汉报案未果之后反正跳楼然后死了。这些指控都不是随便能说出来的，也不是寒抛出的那些“污点”所能抵消的。\n\n中国在性暴力方面的司法远没有那么进步，我身边就有一位自己本身还很懂法的朋友也是在武汉被（其他人）性侵，立案一年后仍未侦查。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41645,
+          "following_count": 3800,
+          "like_count": 1734,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2935
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2058661675612663945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1822,
+          "like_count": 21100,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 5376
+        },
+        "username": "hu_qin_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T06:27:11.000Z",
+        "description": "个人色文主页直达https://t.co/dhkI2hPheb\n167/60/可爱白丝小正太~\n不太会拍照~但绝对是原图\n546047231咱群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/36945455",
+                "end": 31,
+                "expanded_url": "https://www.pixiv.net/users/36945455",
+                "start": 8,
+                "url": "https://t.co/dhkI2hPheb"
+              }
+            ]
+          }
+        },
+        "id": "1439113707338928128",
+        "location": "阵线中心星 2号别墅3楼3~",
+        "name": "馒头233",
+        "pinned_tweet_id": "1999053447778406430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439113879921905664/HJJ_ylbQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 949,
+          "like_count": 1327,
+          "listed_count": 5,
+          "media_count": 672,
+          "tweet_count": 8450
+        },
+        "username": "mantou233520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851827698894802944"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "1851827713998532962",
+    "created_at": "2024-10-31T03:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T04:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851827713998532962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iPMMTApWyx",
+          "end": 151,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1851827713998532962/photo/1",
+          "media_key": "3_1851827698894802944",
+          "start": 128,
+          "url": "https://t.co/iPMMTApWyx"
+        },
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1839590902962242035",
+          "start": 152,
+          "url": "https://t.co/bqGH0NqwrG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851827713998532962",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839590902962242035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在美国洛杉矶，一个跨性别者离家出走后有完整的社会支持系统。据洛杉矶LGBT中心官网信息，他们为18-24岁无家可归的青少年提供多项住房计划。跨性别经济赋权项目(TEEP)为跨性别、性别多元化和双性人提供就业准备和职业发展服务，可以为他们联系包容性雇主。… https://t.co/iPMMTApWyx https://t.co/bqGH0NqwrG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2081,
+        "media_key": "3_1851827698894802944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbMDexHakAA4sZu.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851827698894802944"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1851827713998532962",
+        "created_at": "2024-10-31T03:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T04:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851827713998532962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPMMTApWyx",
+              "end": 151,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1851827713998532962/photo/1",
+              "media_key": "3_1851827698894802944",
+              "start": 128,
+              "url": "https://t.co/iPMMTApWyx"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1839590902962242035",
+              "start": 152,
+              "url": "https://t.co/bqGH0NqwrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851827713998532962",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839590902962242035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在美国洛杉矶，一个跨性别者离家出走后有完整的社会支持系统。据洛杉矶LGBT中心官网信息，他们为18-24岁无家可归的青少年提供多项住房计划。跨性别经济赋权项目(TEEP)为跨性别、性别多元化和双性人提供就业准备和职业发展服务，可以为他们联系包容性雇主。… https://t.co/iPMMTApWyx https://t.co/bqGH0NqwrG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1839590902962242035",
+        "created_at": "2024-09-27T09:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T10:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839590902962242035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xinluan1112/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Xinluan1112/status/1839585957466833133",
+              "start": 142,
+              "url": "https://t.co/dVaPmaCtHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839590902962242035",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 25926,
+          "like_count": 208,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839585957466833133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这正是我们一直在做的。\n\n而且卓有成效，90％以上的人都从贫病交加的状态下最终实现了经济独立。\n\n但是剩下的百分之十的属于最严重的情况，会产生“滞留”。\n\n陆陆续续来了五百多人，每来十个，就会滞留一个。\n\n时间长了，滞留的人就产生了“囤积”。\n\n我咨询过在澳洲和欧洲做社工的朋友。… https://t.co/dVaPmaCtHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33041,
+          "following_count": 3434,
+          "like_count": 288,
+          "listed_count": 56,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

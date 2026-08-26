@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1987434653599613243",
+    "created_at": "2025-11-09T12:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T13:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987492648396132561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580893568675106817",
+          "start": 0,
+          "username": "reveriennn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987492648396132561",
+    "in_reply_to_user_id": "1580893568675106817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987490694005662028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reveriennn 规律饮食作息和保持稳定的较低雌二醇水平状态（如2～3毫克补佳乐或半到一标尺雌二醇凝胶或贴片+每天3.125／6.25毫克醋酸环丙孕酮）可以逐渐修复雌激素的相关受体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1987434653599613243",
+        "created_at": "2025-11-09T12:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987492648396132561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580893568675106817",
+              "start": 0,
+              "username": "reveriennn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987492648396132561",
+        "in_reply_to_user_id": "1580893568675106817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987490694005662028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reveriennn 规律饮食作息和保持稳定的较低雌二醇水平状态（如2～3毫克补佳乐或半到一标尺雌二醇凝胶或贴片+每天3.125／6.25毫克醋酸环丙孕酮）可以逐渐修复雌激素的相关受体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580893568675106817",
+        "conversation_id": "1987434653599613243",
+        "created_at": "2025-11-09T12:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987490694005662028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987490694005662028",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987434653599613243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 大师我已经打了两年的雌针了还有救吗😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40131,
+          "following_count": 3676,
+          "like_count": 1287,
+          "listed_count": 69,
+          "media_count": 356,
+          "tweet_count": 2597
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-14T12:09:43.000Z",
+        "description": "这里什么也没有哦...",
+        "id": "1580893568675106817",
+        "name": "梦梦#心宿二",
+        "pinned_tweet_id": "1916116852817989637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581873239374319616/8uAOm084_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1716,
+          "like_count": 22189,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 4615
+        },
+        "username": "reveriennn",
+        "verified": false
+      }
+    ]
+  }
+}

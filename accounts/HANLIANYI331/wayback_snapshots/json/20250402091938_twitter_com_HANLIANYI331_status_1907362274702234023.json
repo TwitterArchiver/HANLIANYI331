@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1907311089039314983",
+    "created_at": "2025-04-02T09:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T10:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907362274702234023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "893141157395316736",
+          "start": 0,
+          "username": "Shion_Glad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907362274702234023",
+    "in_reply_to_user_id": "893141157395316736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907357162781003965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shion_Glad 借贷合同无效一般是用于针对金融机构违规放贷，或者套取金融机构违规转贷的，我本人目前并非为失信被执行人也并非属于违规放贷的情况，同时也并非存在套取金融机构转贷的情况。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1907311089039314983",
+        "created_at": "2025-04-02T09:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907362274702234023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "893141157395316736",
+              "start": 0,
+              "username": "Shion_Glad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907362274702234023",
+        "in_reply_to_user_id": "893141157395316736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907357162781003965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shion_Glad 借贷合同无效一般是用于针对金融机构违规放贷，或者套取金融机构违规转贷的，我本人目前并非为失信被执行人也并非属于违规放贷的情况，同时也并非存在套取金融机构转贷的情况。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "893141157395316736",
+        "conversation_id": "1907311089039314983",
+        "created_at": "2025-04-02T08:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T09:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907357162781003965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907357162781003965",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907311089039314983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 姐姐你应该没有背贷款吧，不然法院会判定民间借贷合同无效的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1904488778196283819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37124,
+          "following_count": 3630,
+          "like_count": 656,
+          "listed_count": 60,
+          "media_count": 324,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-03T16:07:00.000Z",
+        "description": "👀呜喵..||好困呀...||是一只日睡眠12h+的大猫猫||为了变温柔，我活在当下。怀着能比昨天的我，变得更温柔一点的希望，活在今天|| 大姐姐@quitee123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "quitee123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Shion_Glad",
+                "end": 23,
+                "expanded_url": "https://t.me/Shion_Glad",
+                "start": 0,
+                "url": "https://t.co/N02WIQQ2zF"
+              }
+            ]
+          }
+        },
+        "id": "893141157395316736",
+        "location": "被鲨鲨吃掉了（",
+        "name": "时零喵🌱（每天困困版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/894924665608577024/6TiDLpjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 523,
+          "like_count": 6614,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 3373
+        },
+        "url": "https://t.co/N02WIQQ2zF",
+        "username": "Shion_Glad",
+        "verified": false
+      }
+    ]
+  }
+}

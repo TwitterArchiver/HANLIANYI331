@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2079918478077939845",
+    "created_at": "2026-07-22T13:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:09:38.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079916780173336919",
+      "2079918478077939845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 152,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1940042896243318880",
+          "start": 129,
+          "url": "https://t.co/InQjHZCB9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079918478077939845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "只要不遇到高温、潮湿、暴晒等情况，醋酸环丙孕酮（色普龙），戊酸雌二醇（补佳乐），雌二醇（诺坤复），雌二醇凝胶（爱斯妥）等HRT药物的实际保质期均在商品保质期的两倍以上，甚至理论上在阴凉、干燥（如冷藏冰箱）的环境下，储存十年仍然对药效难以产生统计学上的影响。\n\n无需对hrt药物的过期问题产生过度忧虑，药品的储存条件才是重中之重。\n\n依据来源：\n\n1. 关于HRT药物（醋酸环丙孕酮/色普龙、戊酸雌二醇/补佳乐、雌二醇等）的实际保质期远超标示日期\n支持证据：大量科学研究和FDA的Shelf Life Extension Program (SLEP) 显示，许多固体口服药物和某些制剂在适当储存条件下**（阴凉、干燥、避光、无高温/潮湿/暴晒）， potency（效力）可保留90%以上多年。SLEP测试显示88%的药物批次可延长有效期，平均延长66个月（约5.5年），最长可达15年以上甚至更久。\n口服片剂（如色普龙/Androcur）和雌激素制剂（如Estradiol valerate）通常属于较稳定的类别。社区和有限临床讨论中提到，正确储存的estradiol valerate注射剂或片剂可能在过期后2-5年仍保持良好稳定性（前提是外观无变化、无污染）。\n“储存十年仍难以产生统计学影响”（尤其是冷藏干燥环境下）\n\n关键限制：\n注射剂开封后通常仅推荐28天内使用（无菌考虑）。\n外观检查重要：变色、结块、异味等即丢弃。\n\n2. 储存条件远比“是否过期”重要**，过度焦虑过期标签不必要，许多药物实际耐用性强。储存时保持阴凉干燥是通用好习惯。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940042896243318880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只要不遇到高温、潮湿、暴晒等情况，醋酸环丙孕酮（色普龙），戊酸雌二醇（补佳乐），雌二醇（诺坤复），雌二醇凝胶（爱斯妥）等HRT药物的实际保质期均在商品保质期的两倍以上，甚至理论上在阴凉、干燥（如冷藏冰箱）的环境下，储存十年仍然对药效难以产生统计学上的影响。 https://t.co/InQjHZCB9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1940042389491535872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuxqRkLX0AA4r4r.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1940042388761669632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuxqRhdW8AAZfNE.jpg",
+        "width": 864
+      },
+      {
+        "height": 1870,
+        "media_key": "3_1940042389994799104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuxqRmDXAAAwv3a.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1272,
+        "media_key": "3_1940042892778631168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guxqu3EXcAAK_Tc.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2079916780173336919",
+        "created_at": "2026-07-22T13:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:09:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079916780173336919",
+          "2079918478077939845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1940042896243318880",
+              "start": 129,
+              "url": "https://t.co/InQjHZCB9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079916780173336919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "只要不遇到高温、潮湿、暴晒等情况，醋酸环丙孕酮（色普龙），戊酸雌二醇（补佳乐），雌二醇（诺坤复），雌二醇凝胶（爱斯妥）等HRT药物的实际保质期均在商品保质期的两倍以上，甚至理论上在阴凉、干燥（如冷藏冰箱）的环境下，储存十年仍然对药效难以产生统计学上的影响。\n\n无需对hrt药物的过期问题产生过度忧虑，药品的储存条件才是重中之重。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940042896243318880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要不遇到高温、潮湿、暴晒等情况，醋酸环丙孕酮（色普龙），戊酸雌二醇（补佳乐），雌二醇（诺坤复），雌二醇凝胶（爱斯妥）等HRT药物的实际保质期均在商品保质期的两倍以上，甚至理论上在阴凉、干燥（如冷藏冰箱）的环境下，储存十年仍然对药效难以产生统计学上的影响。 https://t.co/InQjHZCB9n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2079918478077939845",
+        "created_at": "2026-07-22T13:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:09:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079916780173336919",
+          "2079918478077939845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1940042896243318880",
+              "start": 129,
+              "url": "https://t.co/InQjHZCB9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079918478077939845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "只要不遇到高温、潮湿、暴晒等情况，醋酸环丙孕酮（色普龙），戊酸雌二醇（补佳乐），雌二醇（诺坤复），雌二醇凝胶（爱斯妥）等HRT药物的实际保质期均在商品保质期的两倍以上，甚至理论上在阴凉、干燥（如冷藏冰箱）的环境下，储存十年仍然对药效难以产生统计学上的影响。\n\n无需对hrt药物的过期问题产生过度忧虑，药品的储存条件才是重中之重。\n\n依据来源：\n\n1. 关于HRT药物（醋酸环丙孕酮/色普龙、戊酸雌二醇/补佳乐、雌二醇等）的实际保质期远超标示日期\n支持证据：大量科学研究和FDA的Shelf Life Extension Program (SLEP) 显示，许多固体口服药物和某些制剂在适当储存条件下**（阴凉、干燥、避光、无高温/潮湿/暴晒）， potency（效力）可保留90%以上多年。SLEP测试显示88%的药物批次可延长有效期，平均延长66个月（约5.5年），最长可达15年以上甚至更久。\n口服片剂（如色普龙/Androcur）和雌激素制剂（如Estradiol valerate）通常属于较稳定的类别。社区和有限临床讨论中提到，正确储存的estradiol valerate注射剂或片剂可能在过期后2-5年仍保持良好稳定性（前提是外观无变化、无污染）。\n“储存十年仍难以产生统计学影响”（尤其是冷藏干燥环境下）\n\n关键限制：\n注射剂开封后通常仅推荐28天内使用（无菌考虑）。\n外观检查重要：变色、结块、异味等即丢弃。\n\n2. 储存条件远比“是否过期”重要**，过度焦虑过期标签不必要，许多药物实际耐用性强。储存时保持阴凉干燥是通用好习惯。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940042896243318880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要不遇到高温、潮湿、暴晒等情况，醋酸环丙孕酮（色普龙），戊酸雌二醇（补佳乐），雌二醇（诺坤复），雌二醇凝胶（爱斯妥）等HRT药物的实际保质期均在商品保质期的两倍以上，甚至理论上在阴凉、干燥（如冷藏冰箱）的环境下，储存十年仍然对药效难以产生统计学上的影响。 https://t.co/InQjHZCB9n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940042389491535872",
+            "3_1940042388761669632",
+            "3_1940042389994799104",
+            "3_1940042892778631168"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1940042896243318880",
+        "created_at": "2025-07-01T13:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T14:38:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940042393962607094",
+          "1940042896243318880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44laGnlPnb",
+              "end": 90,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1940042896243318880/photo/1",
+              "media_key": "3_1940042389491535872",
+              "start": 67,
+              "url": "https://t.co/44laGnlPnb"
+            },
+            {
+              "display_url": "pic.x.com/44laGnlPnb",
+              "end": 90,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1940042896243318880/photo/1",
+              "media_key": "3_1940042388761669632",
+              "start": 67,
+              "url": "https://t.co/44laGnlPnb"
+            },
+            {
+              "display_url": "pic.x.com/44laGnlPnb",
+              "end": 90,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1940042896243318880/photo/1",
+              "media_key": "3_1940042389994799104",
+              "start": 67,
+              "url": "https://t.co/44laGnlPnb"
+            },
+            {
+              "display_url": "pic.x.com/44laGnlPnb",
+              "end": 90,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1940042896243318880/photo/1",
+              "media_key": "3_1940042892778631168",
+              "start": 67,
+              "url": "https://t.co/44laGnlPnb"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1598621449493020673",
+              "start": 91,
+              "url": "https://t.co/gG46wKuL2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940042896243318880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 44477,
+          "like_count": 229,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1598621449493020673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前仍然有mtf因为受到无良药商蛊惑每天吃50毫克的色普龙，实际上推荐剂量是每2天12.5毫克（平均每天6.25毫克）再次再次强调！ https://t.co/44laGnlPnb https://t.co/gG46wKuL2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42040,
+          "following_count": 3952,
+          "like_count": 1927,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 3089
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

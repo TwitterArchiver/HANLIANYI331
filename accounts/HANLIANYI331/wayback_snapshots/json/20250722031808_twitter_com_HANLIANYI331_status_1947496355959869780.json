@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1947418098728157602",
+    "created_at": "2025-07-22T03:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947496355959869780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1523537773143236608",
+          "start": 0,
+          "username": "Homulilly_Alter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 157,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1862216223788081429?s=19",
+          "start": 134,
+          "url": "https://t.co/KZQKuH5LBe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947496355959869780",
+    "in_reply_to_user_id": "1523537773143236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862216223788081429",
+        "type": "quoted"
+      },
+      {
+        "id": "1947418098728157602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homulilly_Alter 10年代的时候，是真的有一部分热心公益的女性会为了解救被人口拐卖的妇女去冒着生命危险做事，透支自己的金钱，健康甚至生命。这部分女性我认为她们是真正意义上的女权主义者，和如今这些十指不沾阳春水，每天只会何不食肉糜打嘴炮的小仙女截然不同\nhttps://t.co/KZQKuH5LBe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_1862211020841717761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdfnDpoWkAEviOU.jpg",
+        "width": 1215
+      },
+      {
+        "height": 1993,
+        "media_key": "3_1862211022574297091",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdfnDwFboAMOVRx.jpg",
+        "width": 1211
+      },
+      {
+        "height": 1569,
+        "media_key": "3_1862211029326827520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdfnEJPXEAAweVc.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2099,
+        "media_key": "3_1862211036993998848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdfnElzW0AA5Xgt.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1947418098728157602",
+        "created_at": "2025-07-22T03:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T04:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947496355959869780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1523537773143236608",
+              "start": 0,
+              "username": "Homulilly_Alter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 157,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1862216223788081429?s=19",
+              "start": 134,
+              "url": "https://t.co/KZQKuH5LBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947496355959869780",
+        "in_reply_to_user_id": "1523537773143236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862216223788081429",
+            "type": "quoted"
+          },
+          {
+            "id": "1947418098728157602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homulilly_Alter 10年代的时候，是真的有一部分热心公益的女性会为了解救被人口拐卖的妇女去冒着生命危险做事，透支自己的金钱，健康甚至生命。这部分女性我认为她们是真正意义上的女权主义者，和如今这些十指不沾阳春水，每天只会何不食肉糜打嘴炮的小仙女截然不同\nhttps://t.co/KZQKuH5LBe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862211020841717761",
+            "3_1862211022574297091",
+            "3_1862211029326827520",
+            "3_1862211036993998848"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1862216223788081429",
+        "created_at": "2024-11-28T19:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T20:04:44.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862211039808622594",
+          "1862211071828009468",
+          "1862214930424111234",
+          "1862215431119151203",
+          "1862216223788081429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eFUl8Mn9A",
+              "end": 124,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1862216223788081429/photo/1",
+              "media_key": "3_1862211020841717761",
+              "start": 101,
+              "url": "https://t.co/5eFUl8Mn9A"
+            },
+            {
+              "display_url": "pic.x.com/5eFUl8Mn9A",
+              "end": 124,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1862216223788081429/photo/1",
+              "media_key": "3_1862211022574297091",
+              "start": 101,
+              "url": "https://t.co/5eFUl8Mn9A"
+            },
+            {
+              "display_url": "pic.x.com/5eFUl8Mn9A",
+              "end": 124,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1862216223788081429/photo/1",
+              "media_key": "3_1862211029326827520",
+              "start": 101,
+              "url": "https://t.co/5eFUl8Mn9A"
+            },
+            {
+              "display_url": "pic.x.com/5eFUl8Mn9A",
+              "end": 124,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1862216223788081429/photo/1",
+              "media_key": "3_1862211036993998848",
+              "start": 101,
+              "url": "https://t.co/5eFUl8Mn9A"
+            },
+            {
+              "display_url": "x.com/Michelle_Z2023…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/Michelle_Z2023/status/1759031424869335175",
+              "start": 125,
+              "url": "https://t.co/lgns6VZ5WN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862216223788081429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/question/52654…",
+                "end": 224,
+                "expanded_url": "https://www.zhihu.com/question/526542512/answer/2430296079?utm_psn=1845666329350246400",
+                "start": 201,
+                "url": "https://t.co/xwOjmoC5lm"
+              },
+              {
+                "display_url": "zhihu.com/question/48945…",
+                "end": 249,
+                "expanded_url": "https://www.zhihu.com/question/489459808/answer/2608366711?utm_psn=1845666516860817408",
+                "start": 226,
+                "url": "https://t.co/rYeSpDQ9xy"
+              }
+            ]
+          },
+          "text": "最近说我“眼光只局限在mtf社群里”的人有些多，尤其是某些追求“脱跨入顺”的跨性别女性，以及某些来自女性主义社群的顺性别者。\n\n但是此时我凌晨两点都还在为一个16岁顺女的个案给志愿者做个案督导和答疑。\n\n早在2014年，我就曾解救过一个云南山区的非法监禁+强奸+家暴+强制辍学+逼婚的未成年顺性别女性个案。\n\n其后十年来，仅是我直接帮助过的涉及到生命危险和重型恶性事件的顺性别女性个案就不下20个。\n\nhttps://t.co/xwOjmoC5lm\n\nhttps://t.co/rYeSpDQ9xy\n\n但是这么说我的人，基本他们自己做的事情也是几乎没有的。我观察过他们，这些每天在网络上叫嚣的“女性主义者”，实际当真的看到自己的“女性同胞”遭受苦难的时候，却只在网络上怒喊一句。但当真要以牺牲自己的生活质量，牺牲自己的奶茶，化妆品，包包来为那些濒死的苦难者换取权益的时候，却全都故意装死。\n\n“徐州铁链女”这样类似的事情，但凡他们解救过一例，哪怕是去千千律师事务所参与过一段时间，甚至哪怕是听几次讲座，我都会好好认真和他们谈谈这些事情。\n\n但是我却在无数的公益组织和个人身上见识过无数真正意义上的“女性主义者”，她们愿意真正为了理想主义，去为无数的苦难事件赴汤蹈火，牺牲自己的生活质量，甚至牺牲自己的人生。\n\n我平时以跨性别社群为主，是因为跨性别社群确实存在系统性难题，也更需要话题性作为支撑。\n\n否则想解决所有问题，只会所有的问题都无法解决。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 56304,
+          "like_count": 258,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1759031424869335175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近说我“眼光只局限在mtf社群里”的人有些多，尤其是某些追求“脱跨入顺”的跨性别女性，以及某些来自女性主义社群的顺性别者。\n\n但是此时我凌晨两点都还在为一个16岁顺女的个案给志愿者做个案督导和答疑。 https://t.co/5eFUl8Mn9A https://t.co/lgns6VZ5WN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523537773143236608",
+        "conversation_id": "1947418098728157602",
+        "created_at": "2025-07-21T22:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T23:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947418098728157602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1946967084514324790",
+              "start": 81,
+              "url": "https://t.co/kbyyEpNadY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947418098728157602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946967084514324790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果激女对这种人渣打拳，那我绝对双手双脚无条件支持，因为这种人渣不可饶恕。\n然而激女不会，只会欺负老实的amab。要么就是以偏概全，把所有amab都当成这种人。 https://t.co/kbyyEpNadY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38625,
+          "following_count": 3627,
+          "like_count": 826,
+          "listed_count": 65,
+          "media_count": 341,
+          "tweet_count": 2486
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T05:38:12.000Z",
+        "description": "本账号中之人就是你们之前讨厌的那个人，如果你以前拉黑了我请继续保持拉黑/老保/仇跨/仇左/直升机驾驶员/含糖反跨顺男/阶级敌人/网络右翼/清蒸骰子/拥共支黑/反DEI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Homulilly_Alter",
+                "end": 23,
+                "expanded_url": "https://t.me/Homulilly_Alter",
+                "start": 0,
+                "url": "https://t.co/WoST5VRBiO"
+              }
+            ]
+          }
+        },
+        "id": "1523537773143236608",
+        "name": "胡桃夾子",
+        "pinned_tweet_id": "1943016261795135882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528707266664357888/jgMgNWsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 263,
+          "like_count": 1701,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/WoST5VRBiO",
+        "username": "Homulilly_Alter",
+        "verified": false
+      }
+    ]
+  }
+}

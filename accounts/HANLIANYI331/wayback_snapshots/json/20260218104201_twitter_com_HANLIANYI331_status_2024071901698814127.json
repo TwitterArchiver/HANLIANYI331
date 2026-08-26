@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2023319481683177681",
+    "created_at": "2026-02-18T10:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024071901698814127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2845833115",
+          "start": 0,
+          "username": "goblinjun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024071901698814127",
+    "in_reply_to_user_id": "2845833115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024065218998112756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goblinjun 在dca到a股15年泡沫最高点以后还能保持总收益是正的，这个数据真可以了。把dca时间后移两年或者换美股港股之类的会很显著"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2024065121090490368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbsgPDbUAAtM4a.jpg",
+        "width": 1536
+      },
+      {
+        "height": 905,
+        "media_key": "3_2024065121056894976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbsgO7asAAgxXf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2023319481683177681",
+        "created_at": "2026-02-18T10:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024071901698814127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2845833115",
+              "start": 0,
+              "username": "goblinjun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024071901698814127",
+        "in_reply_to_user_id": "2845833115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024065218998112756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goblinjun 在dca到a股15年泡沫最高点以后还能保持总收益是正的，这个数据真可以了。把dca时间后移两年或者换美股港股之类的会很显著"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024065121090490368",
+            "3_2024065121056894976"
+          ]
+        },
+        "author_id": "2845833115",
+        "conversation_id": "2023319481683177681",
+        "created_at": "2026-02-18T10:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024065218998112756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aXlN8Zpbto",
+              "end": 135,
+              "expanded_url": "https://x.com/goblinjun/status/2024065218998112756/photo/1",
+              "media_key": "3_2024065121090490368",
+              "start": 112,
+              "url": "https://t.co/aXlN8Zpbto"
+            },
+            {
+              "display_url": "pic.x.com/aXlN8Zpbto",
+              "end": 135,
+              "expanded_url": "https://x.com/goblinjun/status/2024065218998112756/photo/1",
+              "media_key": "3_2024065121056894976",
+              "start": 112,
+              "url": "https://t.co/aXlN8Zpbto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024065218998112756",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023319481683177681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 网格策略，我很好奇最终结果，拿最近 10 年的上证指数跑了一下回测。10% 的买卖网格交易次数有点少，又测试了下 5% 的买卖网格。\n最终结果你自己看吧。比较惨，收益不如国债。回撤数据也不算好。 https://t.co/aXlN8Zpbto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41016,
+          "following_count": 3677,
+          "like_count": 1443,
+          "listed_count": 67,
+          "media_count": 383,
+          "tweet_count": 2764
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-08T02:56:27.000Z",
+        "description": "35岁无业程序员的半退休生活\n一半自我，一半自然，信技术，更信天命",
+        "id": "2845833115",
+        "location": "Tao · Code · Trade",
+        "name": "Gobling",
+        "pinned_tweet_id": "2023787524469256216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1045636839212638209/YPiP7DEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 407,
+          "like_count": 2912,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 615
+        },
+        "username": "goblinjun",
+        "verified": true
+      }
+    ]
+  }
+}

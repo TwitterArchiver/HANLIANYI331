@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1931959033315148274",
+    "created_at": "2025-06-09T06:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T07:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931959033315148274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1929109467402305818",
+          "start": 143,
+          "url": "https://t.co/dTWp99NjDh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931959033315148274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929109467402305818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在湖北的国家补贴优惠券领取暂停了，但是之前领取过湖北国家补贴优惠券的仍然可以线下核销国补，庇护所之前买了两台新空调，现在还需要购买六台新空调和一台燃气热水器。如果大家谁在武汉地区，并且之前领取过湖北国补云闪付的空调优惠券和热水器优惠券，并且愿意的话。可以通过telegram联系我。 https://t.co/dTWp99NjDh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1931959033315148274",
+        "created_at": "2025-06-09T06:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T07:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931959033315148274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1929109467402305818",
+              "start": 143,
+              "url": "https://t.co/dTWp99NjDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931959033315148274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929109467402305818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在湖北的国家补贴优惠券领取暂停了，但是之前领取过湖北国家补贴优惠券的仍然可以线下核销国补，庇护所之前买了两台新空调，现在还需要购买六台新空调和一台燃气热水器。如果大家谁在武汉地区，并且之前领取过湖北国补云闪付的空调优惠券和热水器优惠券，并且愿意的话。可以通过telegram联系我。 https://t.co/dTWp99NjDh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1929109467402305818",
+        "created_at": "2025-06-01T09:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T10:31:31.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929108538699415710",
+          "1929109096676065654",
+          "1929109467402305818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929109467402305818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "武汉目前最大的庇护所（约居住15人）面临一个很严峻的问题，目前上一任租客留下来的9台空调均是2009年生产的五级能效（能效值约2）的老空调，平均每台空调一小时就要消耗2度电。（而新一级能效的空调10小时才消耗不到2度电，近乎十倍的能效差距。）\n\n当前不开空调只是会出汗和闷热，问题还不明显，但是从7月份开始，武汉会在连续两个月的时间平均气温达到40度以上（比深圳的夏天热得多），如果不开空调，会直接出现有人中暑的情况。\n\n房东不同意负担任何资金换空调，且要求住户离开时必须留下9台空调。\n\n因此现在如果不更换空调，一年时间的空调电费就足以更换9台1级能效的空调。（且新空调有另一个好处，就是可以监控每一个住户的空调用电量）\n\n但如果更换空调，相当于只能白送给房东9台新空调。或者额外承担拆装运输成本。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 43303,
+          "like_count": 227,
+          "quote_count": 6,
+          "reply_count": 45,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "武汉目前最大的庇护所（约居住15人）面临一个很严峻的问题，目前上一任租客留下来的9台空调均是2009年生产的五级能效（能效值约2）的老空调，平均每台空调一小时就要消耗2度电。（而新一级能效的空调10小时才消耗不到2度电，近乎十倍的能效差距。）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38099,
+          "following_count": 3626,
+          "like_count": 736,
+          "listed_count": 61,
+          "media_count": 327,
+          "tweet_count": 2385
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

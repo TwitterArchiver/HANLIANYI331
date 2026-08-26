@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2059166838337237210",
+    "created_at": "2026-05-26T06:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059166838337237210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ango8964/statu…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/Ango8964/status/2059125940173848833",
+          "start": 103,
+          "url": "https://t.co/brMxTuHjHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059166838337237210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "经过这几天的观察，我发现推特上大多数人说的“恋童癖”根本不是精神医学概念上的「恋童癖」，他们甚至不知道精神医学上的「恋童癖」到底是什么概念。\n\n当我抱着精神医学和学术论文里的「恋童癖」概念啃来啃去的时候。\n\n大多数人却默认我说的是“性犯罪者”，然后曲解我说的意思，他们不知道儿童性吸引，性犯罪、性倒错等这些不同的学术概念在医学，法学和社会学上有什么区别。他们不经过大脑思考，只顾着宣泄自己的攻击性。\n\n最后沦为鸡同鸭讲，这个词汇不能再用了，找替代词汇吧。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059125940173848833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经过这几天的观察，我发现推特上大多数人说的“恋童癖”根本不是精神医学概念上的「恋童癖」，他们甚至不知道精神医学上的「恋童癖」到底是什么概念。\n\n当我抱着精神医学和学术论文里的「恋童癖」概念啃来啃去的时候。 https://t.co/brMxTuHjHe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2059166838337237210",
+        "created_at": "2026-05-26T06:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059166838337237210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ango8964/statu…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/Ango8964/status/2059125940173848833",
+              "start": 103,
+              "url": "https://t.co/brMxTuHjHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059166838337237210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "经过这几天的观察，我发现推特上大多数人说的“恋童癖”根本不是精神医学概念上的「恋童癖」，他们甚至不知道精神医学上的「恋童癖」到底是什么概念。\n\n当我抱着精神医学和学术论文里的「恋童癖」概念啃来啃去的时候。\n\n大多数人却默认我说的是“性犯罪者”，然后曲解我说的意思，他们不知道儿童性吸引，性犯罪、性倒错等这些不同的学术概念在医学，法学和社会学上有什么区别。他们不经过大脑思考，只顾着宣泄自己的攻击性。\n\n最后沦为鸡同鸭讲，这个词汇不能再用了，找替代词汇吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059125940173848833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经过这几天的观察，我发现推特上大多数人说的“恋童癖”根本不是精神医学概念上的「恋童癖」，他们甚至不知道精神医学上的「恋童癖」到底是什么概念。\n\n当我抱着精神医学和学术论文里的「恋童癖」概念啃来啃去的时候。 https://t.co/brMxTuHjHe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087611517590106112",
+        "conversation_id": "2059125940173848833",
+        "created_at": "2026-05-26T04:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059125940173848833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059125940173848833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人们在讨论敏感话题时总是将问题简单化，情绪化。于是你会看到讨论这些话题时会造成很多人的强烈抵制，并且人传人最后变得危言耸听，比如讨论吸毒最后说成支持毒品合法化，讨论艾滋被说成支持滥交，讨论恋童被说成支持恋童癖，但这种非黑即白的情绪化反而会阻碍解决问题的发展，因为很多时候这些概念/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41675,
+          "following_count": 3766,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2892
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-22T07:22:47.000Z",
+        "description": "//\n世界边缘的男同性恋，互联网幽灵//\n一切的一切都归咎于您的所作所为//\n感到很害怕想要马上回家，不安的气氛往身上爬。//Small Brother is watching you.",
+        "id": "1087611517590106112",
+        "location": "月球背面",
+        "name": "Angō Hiroshi🏳️‍🌈🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820486389387100160/6__zq1vr_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 368,
+          "like_count": 30533,
+          "listed_count": 4,
+          "media_count": 971,
+          "tweet_count": 15324
+        },
+        "username": "Ango8964",
+        "verified": false
+      }
+    ]
+  }
+}

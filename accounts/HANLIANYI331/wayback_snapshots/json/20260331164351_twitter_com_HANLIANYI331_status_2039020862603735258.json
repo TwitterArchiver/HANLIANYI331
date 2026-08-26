@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2039020862603735258",
+    "created_at": "2026-03-31T16:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T17:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039020862603735258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1647003980126621696",
+          "start": 145,
+          "url": "https://t.co/sNaoQ8nn3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039020862603735258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1647003980126621696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要轻易相信任何“我跟寒涟漪很熟”或者“我曾和寒涟漪有过深度合作”。这种谎称一般意味着过去信任，诈骗钱财，和造谣抹黑\n\n上一个声称自己是“和寒涟漪深度合作的社工”的人是诈骗犯王孝天，并且王孝天成功让很多人真的以为“王孝天是有过和寒涟漪深度合作的社工”，其中有人被王孝天诈骗了十几万元人民币 https://t.co/sNaoQ8nn3S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2039020862603735258",
+        "created_at": "2026-03-31T16:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039020862603735258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1647003980126621696",
+              "start": 145,
+              "url": "https://t.co/sNaoQ8nn3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039020862603735258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1647003980126621696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要轻易相信任何“我跟寒涟漪很熟”或者“我曾和寒涟漪有过深度合作”。这种谎称一般意味着过去信任，诈骗钱财，和造谣抹黑\n\n上一个声称自己是“和寒涟漪深度合作的社工”的人是诈骗犯王孝天，并且王孝天成功让很多人真的以为“王孝天是有过和寒涟漪深度合作的社工”，其中有人被王孝天诈骗了十几万元人民币 https://t.co/sNaoQ8nn3S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1647003980126621696",
+        "created_at": "2023-04-14T22:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-14T22:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1647003980126621696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1647003980126621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 65279,
+          "like_count": 149,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "请注意：我不会在任何除了推特以外的地方以避难所的名义公开筹集资金，如果您有看到有人声称在以“寒涟漪避难所”人名义筹款，可以直接定性为诈骗！如果您不确认，请直接联系我本人确认，确认前不要转款，已有多人被骗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41089,
+          "following_count": 3667,
+          "like_count": 1568,
+          "listed_count": 70,
+          "media_count": 388,
+          "tweet_count": 2803
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

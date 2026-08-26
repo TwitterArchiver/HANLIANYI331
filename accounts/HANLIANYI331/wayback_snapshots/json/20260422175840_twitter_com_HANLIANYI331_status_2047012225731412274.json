@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2047000379238572487",
+    "created_at": "2026-04-22T17:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047012225731412274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1700939369333542912",
+          "start": 0,
+          "username": "botanikeqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047012225731412274",
+    "in_reply_to_user_id": "1700939369333542912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047011522598096968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@botanikeqi 持有现金本质上就是在做空美股"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2047011522598096968].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2047011522598096968",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2047011522598096968"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2047000379238572487",
+        "created_at": "2026-04-22T17:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047012225731412274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1700939369333542912",
+              "start": 0,
+              "username": "botanikeqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047012225731412274",
+        "in_reply_to_user_id": "1700939369333542912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047011522598096968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@botanikeqi 持有现金本质上就是在做空美股"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40846,
+          "following_count": 3703,
+          "like_count": 1605,
+          "listed_count": 70,
+          "media_count": 390,
+          "tweet_count": 2827
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-10T18:28:53.000Z",
+        "description": "我们需要免于恐惧的自由",
+        "id": "1700939369333542912",
+        "name": "金枪鱼杀手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866321609872875520/v49hgqlA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 314,
+          "like_count": 2118,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 622
+        },
+        "username": "botanikeqi",
+        "verified": false
+      }
+    ]
+  }
+}

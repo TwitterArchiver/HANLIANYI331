@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2068944881956139247",
+    "created_at": "2026-06-22T06:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068946068612812965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/18792…",
+          "end": 46,
+          "expanded_url": "https://x.com/i/status/1879279526838190080",
+          "start": 23,
+          "url": "https://t.co/4hiiWBSJPX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068946068612812965",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879279526838190080",
+        "type": "quoted"
+      },
+      {
+        "id": "2068944881956139247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 复述而已\n\nhttps://t.co/4hiiWBSJPX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2068944881956139247",
+        "created_at": "2026-06-22T06:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068946068612812965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/18792…",
+              "end": 46,
+              "expanded_url": "https://x.com/i/status/1879279526838190080",
+              "start": 23,
+              "url": "https://t.co/4hiiWBSJPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068946068612812965",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879279526838190080",
+            "type": "quoted"
+          },
+          {
+            "id": "2068944881956139247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 复述而已\n\nhttps://t.co/4hiiWBSJPX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1879279526838190080",
+        "created_at": "2025-01-14T21:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T22:20:16.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879277378519855131",
+          "1879278071888703872",
+          "1879278622475006017",
+          "1879279526838190080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1879266152733696407",
+              "start": 112,
+              "url": "https://t.co/yUH260YSug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879279526838190080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "绝大多数的受助者都是善良的，我永远不会因为其中的部分对我恩将仇报，背后捅刀子的人，而去怪罪其他受助者。\n\n绝大多数的人也都值得帮助，我也永远不会因为其中有一部分人一边接受我的帮助，一边算计，坑害我。而去后悔我做救助的行为。\n\n曾经我可以和顺男朋友做爱，和顺女朋友做爱，可以和各个不同性别身份的朋友做爱。\n\n哪怕我想每天更换不同口味，找不同类型和形象的朋友做爱，没有任何人会指责我。顶多会有人感叹我“私生活好丰富呀”。\n\n在2019年以前，在我名声起来以前，我在保证安全的前提下，我可以随意去实现自己的生活，包括私生活，我有无数为我带来开心和快乐的朋友，微博几十万粉的美少女coser，那时是和我玩的要好的闺蜜。我有好几任爱我，愿意陪我一起玩耍的亲密关系其中有顺女，有跨女，也曾有过一个顺男，更有无数和我相处愉快的朋友。\n\n我埋葬了自己的身体健康，学业，财富，亲密关系，感情，放弃了曾经追求音乐和女性身份生活的理想。\n\n我冒着被打伤，被刺伤，被威胁，被报复，被维稳，被坑害诬告送进监狱的危险，去救一个又一个的人。辜负了一个又一个我爱的人和爱我的人。\n\n曾经我有过一个谈了五年，才华横溢的顺女对象，于2018年病故，为我的救助事业承担了数十万元的资金成本，我那时却因为做干预，大大减少了最后陪伴她的时间。\n\n曾经有一个和我性格类型和志向一致的ASD的有过亲密关系经历，数次被我救下一命跨性别女性，因为我忙于救助，疏忽关注，最终自杀在2024年年末。\n\n如今我被无数人拿着放大镜去探视我的私生活，被无数怀有恶意的人千方百计的算计，欺骗，坑害我还有我亲近的人。甚至哪怕我的性生活频率一年都才只有几次，仅有的几次还都是双方知情同意的情况以及还有我的亲密关系。\n\n我承担着巨大的经济压力，明明每年有上百万的现金流，吃穿用度却是最便宜，最底层的，曾经还因为省钱食物中毒进过一次医院，因为省钱放弃了无数rle女性形象的计划，睡觉环境也是和一大群人挤在一起的大通铺。每月的生活成本才一千多元，还要去一次又一次的透支我的人脉和关系网络去向人借钱，透支朋友对我的支持和信任。\n\n我想做爱完全可以光明正大的做爱，从14岁到40岁，从顺女到跨女，从“做1”到“做0”，从外貌漂亮的“御姐”“帅哥”到“萝莉”，我想找什么样的人找不到？\n\n造谣，抹黑，攻击，算计，坑害我的人可以恩将仇报，甚至可以仅仅是“看我不爽”这样的理由，就这样吃着人血馒头，就这样博取流量。\n\n我随时可以抽身而去，而代价是一个又一个原本可以活下去的人死去\n\n是一个又一个我发现的“原本可以逃离家暴，但因为听说庇护所性侵人而放弃求助，直接在家里自杀”的案例\n\n她 们 是 被 你 们 杀 死 的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 34457,
+          "like_count": 242,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879266152733696407",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绝大多数的受助者都是善良的，我永远不会因为其中的部分对我恩将仇报，背后捅刀子的人，而去怪罪其他受助者。\n\n绝大多数的人也都值得帮助，我也永远不会因为其中有一部分人一边接受我的帮助，一边算计，坑害我。而去后悔我做救助的行为。 https://t.co/yUH260YSug"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068944881956139247",
+        "created_at": "2026-06-22T06:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068944881956139247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2068938978716459510",
+              "start": 21,
+              "url": "https://t.co/zQu2PuFMyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068944881956139247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068938978716459510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这逼话讲得好像我怪罪其他受助者了一样😹 https://t.co/zQu2PuFMyl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41802,
+          "following_count": 3854,
+          "like_count": 1786,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 3000
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5937,
+          "following_count": 3199,
+          "like_count": 3424,
+          "listed_count": 19,
+          "media_count": 467,
+          "tweet_count": 3099
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

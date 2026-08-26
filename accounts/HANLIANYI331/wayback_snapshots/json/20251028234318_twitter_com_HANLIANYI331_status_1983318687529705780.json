@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1982823381612605468",
+    "created_at": "2025-10-28T23:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T00:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983318687529705780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1489919689996206081",
+          "start": 0,
+          "username": "bin_x_13"
+        },
+        {
+          "end": 19,
+          "id": "1806995588145467392",
+          "start": 10,
+          "username": "Nonzenki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 43,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1983315738430713946?t=KDmTi1T65ClU1voZjT8AJQ&s=19",
+          "start": 20,
+          "url": "https://t.co/dXZhUWUzFy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983318687529705780",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983315738430713946",
+        "type": "quoted"
+      },
+      {
+        "id": "1983318323128615424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bin_x_13 @Nonzenki https://t.co/dXZhUWUzFy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1982823381612605468",
+        "created_at": "2025-10-28T23:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T00:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983318687529705780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1489919689996206081",
+              "start": 0,
+              "username": "bin_x_13"
+            },
+            {
+              "end": 19,
+              "id": "1806995588145467392",
+              "start": 10,
+              "username": "Nonzenki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 43,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1983315738430713946?t=KDmTi1T65ClU1voZjT8AJQ&s=19",
+              "start": 20,
+              "url": "https://t.co/dXZhUWUzFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983318687529705780",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983315738430713946",
+            "type": "quoted"
+          },
+          {
+            "id": "1983318323128615424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bin_x_13 @Nonzenki https://t.co/dXZhUWUzFy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1982823381612605468",
+        "created_at": "2025-10-28T23:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T00:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983315738430713946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1261051528061861888",
+              "start": 0,
+              "username": "vru8JvwdzpO909i"
+            },
+            {
+              "end": 26,
+              "id": "1806995588145467392",
+              "start": 17,
+              "username": "Nonzenki"
+            },
+            {
+              "end": 39,
+              "id": "1472910881986019330",
+              "start": 27,
+              "username": "xiaochuAnZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983315738430713946",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "另外，假定你所叙述的行为都如实存在，你也同样提到店方正确的处理方式是“劝阻和报警处理”。店方如果真的报警处理，那最后双方一点事都没有。\n\n但是，店方的处理方式却是公布未成年当事人的照片和个人社交账户信息，并且传递错误信息，导致当事人遭到网络恶俗人的网暴，导致当事人因自杀进入ICU。且事后店方坚决拒绝公开道歉，平息网暴，只愿意私底下和当事人道歉和解，公开场面却一言不发，澄清误会和谣言。\n\n这是符合法律，符合道德的处理方式？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983312581893992540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vru8JvwdzpO909i @Nonzenki @xiaochuAnZu 另外，假定你所叙述的行为都如实存在，你也同样提到店方正确的处理方式是“劝阻和报警处理”。店方如果真的报警处理，那最后双方一点事都没有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1982823381612605468",
+        "created_at": "2025-10-28T23:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T00:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983318323128615424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1489919689996206081",
+              "start": 0,
+              "username": "bin_x_13"
+            },
+            {
+              "end": 19,
+              "id": "1806995588145467392",
+              "start": 10,
+              "username": "Nonzenki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 43,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1983285384919560319?t=KDmTi1T65ClU1voZjT8AJQ&s=19",
+              "start": 20,
+              "url": "https://t.co/buDfiQChsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983318323128615424",
+        "in_reply_to_user_id": "1489919689996206081",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983285384919560319",
+            "type": "quoted"
+          },
+          {
+            "id": "1983242948168036617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bin_x_13 @Nonzenki https://t.co/buDfiQChsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40045,
+          "following_count": 3669,
+          "like_count": 1283,
+          "listed_count": 69,
+          "media_count": 353,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-05T11:12:39.000Z",
+        "description": "⚠️重调谐进度 /-:!:-\\  ||\nVenti🌪️@Rippin_C   ////@yulingko_\n日记本@shine819611",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "Rippin_C"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "yulingko_"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "username": "shine819611"
+              }
+            ]
+          }
+        },
+        "id": "1489919689996206081",
+        "location": "2028",
+        "name": "望晞☆ 不知道在干什么",
+        "pinned_tweet_id": "1959293305520632085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700402167633592320/Uem2Ou6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 386,
+          "like_count": 29490,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 3845
+        },
+        "username": "bin_x_13",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T10:18:25.000Z",
+        "description": "06/东方project/喜欢cos/偶尔女装😉/SCP:SL/写作/单机游戏/creepypasta/考古‖陪我一路走来的重要的人:@ShengMingSen  @MIcedblacktea @tuanyuehuan @JianYu233 @ZC225031_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ShengMingSen"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "MIcedblacktea"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "tuanyuehuan"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "JianYu233"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ZC225031_"
+              }
+            ]
+          }
+        },
+        "id": "1806995588145467392",
+        "location": "Unknown",
+        "name": "Neinzenki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854494345191383040/QqhQvkPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 804,
+          "like_count": 22571,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 2665
+        },
+        "username": "Nonzenki",
+        "verified": false
+      }
+    ]
+  }
+}

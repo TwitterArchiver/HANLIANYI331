@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2058978945060774050",
+    "created_at": "2026-05-25T18:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058978945060774050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1678385508609839105",
+          "start": 3,
+          "username": "liueric40542933"
+        },
+        {
+          "end": 34,
+          "id": "1735328474934706176",
+          "start": 21,
+          "username": "makinoseiran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058978945060774050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058766590993440962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liueric40542933: @makinoseiran 图1和2：Pedophilia and Sexual  Offending Against Children。 基本是这领域的入门著作，用了与ta一样的说法。\nHumanizing Pedophilia as…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 394,
+        "media_key": "3_2058766301531926528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI1Cx5a8AAuSuy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 172,
+        "media_key": "3_2058766301527756800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI1Cx4bUAA58bT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2058978945060774050",
+        "created_at": "2026-05-25T18:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058978945060774050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1678385508609839105",
+              "start": 3,
+              "username": "liueric40542933"
+            },
+            {
+              "end": 34,
+              "id": "1735328474934706176",
+              "start": 21,
+              "username": "makinoseiran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058978945060774050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058766590993440962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liueric40542933: @makinoseiran 图1和2：Pedophilia and Sexual  Offending Against Children。 基本是这领域的入门著作，用了与ta一样的说法。\nHumanizing Pedophilia as…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058766301531926528",
+            "3_2058766301527756800"
+          ]
+        },
+        "author_id": "1678385508609839105",
+        "conversation_id": "2058757204828991649",
+        "created_at": "2026-05-25T04:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058766590993440962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735328474934706176",
+              "start": 0,
+              "username": "makinoseiran"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Archives of Sexual Behavior - The stigmatization of people with pedophilic sexual interests is a topic of growing academic and professional consideration, owing to its potential role in moderating...",
+              "display_url": "link.springer.com/article/10.100…",
+              "end": 193,
+              "expanded_url": "https://link.springer.com/article/10.1007/s10508-021-02057-x",
+              "images": [
+                {
+                  "height": 573,
+                  "url": "https://pbs.twimg.com/news_img/2056360414397763584/2ERek0hF?format=png&name=orig",
+                  "width": 685
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056360414397763584/2ERek0hF?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 170,
+              "status": 200,
+              "title": "Humanizing Pedophilia as Stigma Reduction: A Large-Scale Intervention Study",
+              "unwound_url": "https://link.springer.com/article/10.1007/s10508-021-02057-x",
+              "url": "https://t.co/FoF9X6HIYa"
+            },
+            {
+              "display_url": "pic.x.com/Tv1nEC3irm",
+              "end": 231,
+              "expanded_url": "https://x.com/liueric40542933/status/2058766590993440962/photo/1",
+              "media_key": "3_2058766301531926528",
+              "start": 208,
+              "url": "https://t.co/Tv1nEC3irm"
+            },
+            {
+              "display_url": "pic.x.com/Tv1nEC3irm",
+              "end": 231,
+              "expanded_url": "https://x.com/liueric40542933/status/2058766590993440962/photo/1",
+              "media_key": "3_2058766301527756800",
+              "start": 208,
+              "url": "https://t.co/Tv1nEC3irm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058766590993440962",
+        "in_reply_to_user_id": "1735328474934706176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 212,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058757204828991649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@makinoseiran 图1和2：Pedophilia and Sexual  Offending Against Children。 基本是这领域的入门著作，用了与ta一样的说法。\nHumanizing Pedophilia as Stigma Reduction: A Large-Scale Intervention Study\nhttps://t.co/FoF9X6HIYa\n看来学术界全无良知，对吧？ https://t.co/Tv1nEC3irm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41675,
+          "following_count": 3770,
+          "like_count": 1671,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2888
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-10T12:47:59.000Z",
+        "description": "no DM",
+        "id": "1678385508609839105",
+        "name": "liu eric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042591591240732682/kgzJmnTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 23,
+          "like_count": 929,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 1973
+        },
+        "username": "liueric40542933",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-14T15:58:55.000Z",
+        "description": "aka橘猫/橘猫硬件实验室主创/常驻珠三角",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MakinoSeiran",
+                "end": 23,
+                "expanded_url": "http://t.me/MakinoSeiran",
+                "start": 0,
+                "url": "https://t.co/KjfemPlYP9"
+              }
+            ]
+          }
+        },
+        "id": "1735328474934706176",
+        "name": "牧野セイラン (青嵐)",
+        "pinned_tweet_id": "2048340321860456623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995445363399077888/ZpTK7xEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 695,
+          "like_count": 25420,
+          "listed_count": 1,
+          "media_count": 551,
+          "tweet_count": 5192
+        },
+        "url": "https://t.co/KjfemPlYP9",
+        "username": "makinoseiran",
+        "verified": true
+      }
+    ]
+  }
+}

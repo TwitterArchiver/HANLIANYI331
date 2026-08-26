@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1987741129094361561",
+    "created_at": "2025-11-10T04:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T05:32:19.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987740078135980146",
+      "1987741129094361561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1987491320563470717",
+          "start": 143,
+          "url": "https://t.co/2RpuO7NWSU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987741129094361561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "从我个人倾向的hrt方案中，hrt药物的优先级为：\n\n雌二醇贴片（拼多多可以直接买到）/雌二醇凝胶\n（皮肤吸收的优势是不经过肝脏，对肝脏负担小，尤其是针对肝脏原本就有问题的人）\n＞\n戊酸雌二醇片（如补佳乐）/雌二醇片（如诺坤复）\n＞\n雌二醇注射液（如日雌）\n\n关于抗雄激素药物的选择：\n\n醋酸环丙孕酮（CPA）（每天1～6.25毫克）\n（虽然理论上纯高雌抗雄也可以，但是考虑到经济成本和药物对身体造成的负担，最好还是联用一定的抗雄激素药物，哪怕每天只吃1毫克CPA起到的联用效果也比完全不吃强）\n＞\n螺内酯\n＞\n比卡鲁胺\n\n（比卡鲁胺理论上优于CPA，但是一方面比卡鲁胺贵的多，二方面比卡鲁胺关于hrt方面的科研数据几乎是一片空白，而cpa或螺内酯均有一定实验数据支撑，需要等更新的科研数据）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987491320563470717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从我个人倾向的hrt方案中，hrt药物的优先级为：\n\n雌二醇贴片（拼多多可以直接买到）/雌二醇凝胶\n（皮肤吸收的优势是不经过肝脏，对肝脏负担小，尤其是针对肝脏原本就有问题的人）\n＞\n戊酸雌二醇片（如补佳乐）/雌二醇片（如诺坤复）\n＞\n雌二醇注射液（如日雌）\n\n关于抗雄激素药物的选择： https://t.co/2RpuO7NWSU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1987491304247525376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5T8z5_aAAAiJ2_.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1987491308357967872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5T80JTaYAAm1v4.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1987740078135980146",
+        "created_at": "2025-11-10T04:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:32:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987740078135980146",
+          "1987741129094361561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1987491320563470717",
+              "start": 129,
+              "url": "https://t.co/2RpuO7NWSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987740078135980146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从我个人倾向的hrt方案中，hrt药物的优先级为：\n\n雌二醇贴片（拼多多可以直接买到）/雌二醇凝胶\n＞\n戊酸雌二醇片（如补佳乐）/雌二醇片（如诺坤复）\n＞\n雌二醇注射液（如日雌）\n\n关于抗雄激素药物的选择：\n\n醋酸环丙孕酮（CPA）（每天1～6.25毫克）\n（虽然理论上纯高雌抗雄也可以，但是考虑到经济成本和药物对身体造成的负担，最好还是联用一定的抗雄激素药物，哪怕每天只吃1毫克CPA起到的联用效果也比完全不吃强）\n＞\n螺内酯\n＞\n比卡鲁胺\n\n（比卡鲁胺理论上优于CPA，但是一方面比卡鲁胺贵的多，二方面比卡鲁胺关于hrt方面的科研数据几乎是一片空白，而cpa或螺内酯均有一定实验数据支撑，需要等更新的科研数据）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987491320563470717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从我个人倾向的hrt方案中，hrt药物的优先级为：\n\n雌二醇贴片（拼多多可以直接买到）/雌二醇凝胶\n＞\n戊酸雌二醇片（如补佳乐）/雌二醇片（如诺坤复）\n＞\n雌二醇注射液（如日雌）\n\n关于抗雄激素药物的选择：\n\n醋酸环丙孕酮（CPA）（每天1～6.25毫克） https://t.co/2RpuO7NWSU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1987741129094361561",
+        "created_at": "2025-11-10T04:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T05:32:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987740078135980146",
+          "1987741129094361561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1987491320563470717",
+              "start": 143,
+              "url": "https://t.co/2RpuO7NWSU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987741129094361561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从我个人倾向的hrt方案中，hrt药物的优先级为：\n\n雌二醇贴片（拼多多可以直接买到）/雌二醇凝胶\n（皮肤吸收的优势是不经过肝脏，对肝脏负担小，尤其是针对肝脏原本就有问题的人）\n＞\n戊酸雌二醇片（如补佳乐）/雌二醇片（如诺坤复）\n＞\n雌二醇注射液（如日雌）\n\n关于抗雄激素药物的选择：\n\n醋酸环丙孕酮（CPA）（每天1～6.25毫克）\n（虽然理论上纯高雌抗雄也可以，但是考虑到经济成本和药物对身体造成的负担，最好还是联用一定的抗雄激素药物，哪怕每天只吃1毫克CPA起到的联用效果也比完全不吃强）\n＞\n螺内酯\n＞\n比卡鲁胺\n\n（比卡鲁胺理论上优于CPA，但是一方面比卡鲁胺贵的多，二方面比卡鲁胺关于hrt方面的科研数据几乎是一片空白，而cpa或螺内酯均有一定实验数据支撑，需要等更新的科研数据）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987491320563470717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从我个人倾向的hrt方案中，hrt药物的优先级为：\n\n雌二醇贴片（拼多多可以直接买到）/雌二醇凝胶\n（皮肤吸收的优势是不经过肝脏，对肝脏负担小，尤其是针对肝脏原本就有问题的人）\n＞\n戊酸雌二醇片（如补佳乐）/雌二醇片（如诺坤复）\n＞\n雌二醇注射液（如日雌）\n\n关于抗雄激素药物的选择： https://t.co/2RpuO7NWSU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987491304247525376",
+            "3_1987491308357967872"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1987434653599613243",
+        "created_at": "2025-11-09T12:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987491320563470717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580893568675106817",
+              "start": 0,
+              "username": "reveriennn"
+            },
+            {
+              "end": 27,
+              "id": "1523552276119711745",
+              "start": 12,
+              "username": "DeorctheOrigin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pG05pbnn0P",
+              "end": 118,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1987491320563470717/photo/1",
+              "media_key": "3_1987491304247525376",
+              "start": 95,
+              "url": "https://t.co/pG05pbnn0P"
+            },
+            {
+              "display_url": "pic.x.com/pG05pbnn0P",
+              "end": 118,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1987491320563470717/photo/1",
+              "media_key": "3_1987491308357967872",
+              "start": 95,
+              "url": "https://t.co/pG05pbnn0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987491320563470717",
+        "in_reply_to_user_id": "1580893568675106817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1049,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987490378178760872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reveriennn @DeorctheOrigin 可以使用极低剂量的醋酸环丙孕酮（如每天6.25毫克或每天3.125毫克）来和雌二醇形成联动效应，以大量降低拮抗雄激素所需的雌二醇指标 https://t.co/pG05pbnn0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40144,
+          "following_count": 3675,
+          "like_count": 1287,
+          "listed_count": 69,
+          "media_count": 357,
+          "tweet_count": 2604
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

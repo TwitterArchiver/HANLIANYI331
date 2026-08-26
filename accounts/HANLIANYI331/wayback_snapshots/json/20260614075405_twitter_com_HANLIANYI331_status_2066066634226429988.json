@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2066066634226429988",
+    "created_at": "2026-06-14T07:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066066634226429988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 30,
+          "id": "1517437669449547776",
+          "start": 18,
+          "username": "YumiChow916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20388…",
+          "end": 54,
+          "expanded_url": "https://x.com/i/status/2038880741363519991",
+          "start": 31,
+          "url": "https://t.co/Mt3nuLXXjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066066634226429988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066066583647375725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: @YumiChow916 https://t.co/Mt3nuLXXjE\n\n如果“会产生额外伤害就不应该介入”，第一时间先关停的应该是全球所有的精神科医院住院部。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2066066634226429988",
+        "created_at": "2026-06-14T07:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066066634226429988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 30,
+              "id": "1517437669449547776",
+              "start": 18,
+              "username": "YumiChow916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20388…",
+              "end": 54,
+              "expanded_url": "https://x.com/i/status/2038880741363519991",
+              "start": 31,
+              "url": "https://t.co/Mt3nuLXXjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066066634226429988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066066583647375725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: @YumiChow916 https://t.co/Mt3nuLXXjE\n\n如果“会产生额外伤害就不应该介入”，第一时间先关停的应该是全球所有的精神科医院住院部。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T07:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066066583647375725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20388…",
+              "end": 36,
+              "expanded_url": "https://x.com/i/status/2038880741363519991",
+              "start": 13,
+              "url": "https://t.co/Mt3nuLXXjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066066583647375725",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20388…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2038880741363519991",
+                "start": 0,
+                "url": "https://t.co/nukwOdorlQ"
+              }
+            ]
+          },
+          "text": "https://t.co/nukwOdorlQ\n\n如果“会产生额外伤害就不应该介入”，第一时间先关停的应该是全球所有的精神科医院住院部。\n在帕累托法则、艾森豪威尔矩阵的情况下，在高不确定性、高情绪负载的助人场景里，把“不出任何错误”当作首要目标，会把成本推到不可持续的程度。现实中，任何真实行动都会产生副作用，这是熵增定律的体现，不是“道德不够高尚”的问题。\n纯德ontology（原则优先）在抽象讨论里听起来高尚，但在“拉不拉杆都会死人”的现场，只会变成“不拉杆的人眼睁睁看着更多人死去，却觉得自己干净”。这不是道德相对主义，而是结果主义在高 stakes 环境下的必然选择。历史上无数次人道主义灾难（战争、灾荒、公共卫生危机）都证明：只求“自己不犯错”往往等于间接害人。\n“做的不完美就不要做”→ 最终没人做事：这是真实发生的动态。“大量付出者因被指责不完美而退出”，在全球志愿/公益/互助社群里都反复上演（effective altruism 圈子里也反复讨论过“purity spiral”——纯洁性螺旋，导致行动力内耗至零）。\n只有骗子能“完美”：真正做实事的人必须不断妥协、试错、迭代；而骗子只需要“表演完美”——包装故事、零差评、永远正确，就能在信息不对称的社群里收割信任。\n在扭曲、资源匮乏、情绪高涨的助人环境中，“不拉拉杆”的洁癖，客观上就是在用别人的命换自己的道德洁净感。而真正有效的人，必须学会在“次优解”和“可接受的副作用”之间反复权衡，同时保持自我修正能力。\n这不是“效益至上”的冷血功利主义，而是把有限精力真正用在救人而不是表演正确的现实主义。\n只停留在“正确的废话”里。\n把主要矛盾和次要矛盾分清楚、敢做事、敢承担副作用，真正需要帮助的人才会少受点罪。\n只会喊“做的不完美就别做”的人，历史会证明：他们最后只会剩下完美无缺的空话，和一个空荡荡、没人敢再伸手的社群。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038880741363519991",
+            "type": "quoted"
+          },
+          {
+            "id": "2066055532725617080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 https://t.co/Mt3nuLXXjE\n\n如果“会产生额外伤害就不应该介入”，第一时间先关停的应该是全球所有的精神科医院住院部。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41747,
+          "following_count": 3808,
+          "like_count": 1753,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2964
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Markham, Ontario",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 313,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3906
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

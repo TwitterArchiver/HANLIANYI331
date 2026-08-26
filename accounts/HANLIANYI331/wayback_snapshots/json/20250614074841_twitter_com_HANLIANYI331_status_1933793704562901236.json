@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1933793704562901236",
+    "created_at": "2025-06-14T07:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T08:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933793704562901236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1908086926391033856",
+          "start": 3,
+          "username": "AutismBerry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933793704562901236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933726161747784025",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AutismBerry: 李保兴目前还在骗钱！受害者是我朋友，被诈骗200人民币，请转发\n\n信息公示：\n李保兴  411521199603071930 \nQQ 1793973622\n手机号 19327615078  13127744382 18219173971\n\n李家…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933726158069379075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtX5sgibMAM66W1.jpg",
+        "width": 1022
+      },
+      {
+        "height": 396,
+        "media_key": "3_1933726157532508160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtX5seibMAAOi3S.jpg",
+        "width": 984
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933726157817749504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtX5sfmboAABLOp.jpg",
+        "width": 945
+      },
+      {
+        "height": 736,
+        "media_key": "3_1933726157347958785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtX5sd2bMAEQyzU.jpg",
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1933793704562901236",
+        "created_at": "2025-06-14T07:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T08:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933793704562901236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1908086926391033856",
+              "start": 3,
+              "username": "AutismBerry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933793704562901236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933726161747784025",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AutismBerry: 李保兴目前还在骗钱！受害者是我朋友，被诈骗200人民币，请转发\n\n信息公示：\n李保兴  411521199603071930 \nQQ 1793973622\n手机号 19327615078  13127744382 18219173971\n\n李家…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933726158069379075",
+            "3_1933726157532508160",
+            "3_1933726157817749504",
+            "3_1933726157347958785"
+          ]
+        },
+        "author_id": "1908086926391033856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933726161747784025",
+        "created_at": "2025-06-14T03:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T04:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933726161747784025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ev3g7HKl8c",
+              "end": 250,
+              "expanded_url": "https://x.com/AutismBerry/status/1933726161747784025/photo/1",
+              "media_key": "3_1933726158069379075",
+              "start": 227,
+              "url": "https://t.co/ev3g7HKl8c"
+            },
+            {
+              "display_url": "pic.x.com/ev3g7HKl8c",
+              "end": 250,
+              "expanded_url": "https://x.com/AutismBerry/status/1933726161747784025/photo/1",
+              "media_key": "3_1933726157532508160",
+              "start": 227,
+              "url": "https://t.co/ev3g7HKl8c"
+            },
+            {
+              "display_url": "pic.x.com/ev3g7HKl8c",
+              "end": 250,
+              "expanded_url": "https://x.com/AutismBerry/status/1933726161747784025/photo/1",
+              "media_key": "3_1933726157817749504",
+              "start": 227,
+              "url": "https://t.co/ev3g7HKl8c"
+            },
+            {
+              "display_url": "pic.x.com/ev3g7HKl8c",
+              "end": 250,
+              "expanded_url": "https://x.com/AutismBerry/status/1933726161747784025/photo/1",
+              "media_key": "3_1933726157347958785",
+              "start": 227,
+              "url": "https://t.co/ev3g7HKl8c"
+            },
+            {
+              "display_url": "x.com/AutismBerry/st…",
+              "end": 274,
+              "expanded_url": "https://twitter.com/AutismBerry/status/1925094986955321377",
+              "start": 251,
+              "url": "https://t.co/C0UJ2oAtUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933726161747784025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925094986955321377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李保兴目前还在骗钱！受害者是我朋友，被诈骗200人民币，请转发\n\n信息公示：\n李保兴  411521199603071930 \nQQ 1793973622\n手机号 19327615078  13127744382 18219173971\n\n李家新  41302819700916195X\n手机号 13283765616 13569791253\n18637658708\n\n李华梅  411521200311131941  \n手机号 18790485283 https://t.co/ev3g7HKl8c https://t.co/C0UJ2oAtUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38210,
+          "following_count": 3632,
+          "like_count": 748,
+          "listed_count": 61,
+          "media_count": 329,
+          "tweet_count": 2408
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-04T09:20:08.000Z",
+        "description": "ASD(社交功能障碍)—双相情感障碍(偏抑郁)",
+        "id": "1908086926391033856",
+        "location": "🚪114514",
+        "name": "奶莓Berry🍥 (三角洲代肝)",
+        "pinned_tweet_id": "1932876576989065330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924891658023534592/hfbEow4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 944,
+          "like_count": 10987,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 1421
+        },
+        "username": "AutismBerry",
+        "verified": true
+      }
+    ]
+  }
+}

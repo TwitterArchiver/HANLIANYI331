@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1840687803438678435",
+    "created_at": "2024-09-30T09:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-30T10:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840687803438678435"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1840687803438678435",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我上一次炒A股是在我刚满18岁的时候，两万元资金入场，先是赚了三千，然后亏了三千八，其后就遭遇19年冬的社群自杀潮，清空了所有股票退场。其后虽然零零散散的炒过一些，但都是几百几千元的娱乐性质。\n\n当我选择炒股的时候，是因为我亏得起，我从最开始就会做好所有钱全部亏掉的打算。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1840687803438678435",
+        "created_at": "2024-09-30T09:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T10:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840687803438678435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840687803438678435",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上一次炒A股是在我刚满18岁的时候，两万元资金入场，先是赚了三千，然后亏了三千八，其后就遭遇19年冬的社群自杀潮，清空了所有股票退场。其后虽然零零散散的炒过一些，但都是几百几千元的娱乐性质。\n\n当我选择炒股的时候，是因为我亏得起，我从最开始就会做好所有钱全部亏掉的打算。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32554,
+          "following_count": 3438,
+          "like_count": 281,
+          "listed_count": 56,
+          "tweet_count": 1860
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

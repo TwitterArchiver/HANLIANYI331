@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1889728954677768575",
+    "created_at": "2025-02-12T17:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T18:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889728954677768575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568268459674574848",
+          "start": 3,
+          "username": "apr_simone"
+        },
+        {
+          "end": 27,
+          "id": "1850772146177576960",
+          "start": 16,
+          "username": "Chunier520"
+        },
+        {
+          "end": 39,
+          "id": "1401733664682102786",
+          "start": 28,
+          "username": "mukdengise"
+        },
+        {
+          "end": 51,
+          "id": "935788025300348929",
+          "start": 40,
+          "username": "bingling39"
+        },
+        {
+          "end": 63,
+          "id": "1596473224711151618",
+          "start": 52,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889728954677768575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878810431772393599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @apr_simone: @Chunier520 @mukdengise @bingling39 @a823149315 当然是假的…我们有时候会日常开玩笑：“呜呜交不起房租了我肉偿吧”，然后寒涟漪也笑着说“好啊好啊快洗干净和我做爱”，但如果你要真去洗了的话大家就会觉得你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1889728954677768575",
+        "created_at": "2025-02-12T17:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T18:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889728954677768575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568268459674574848",
+              "start": 3,
+              "username": "apr_simone"
+            },
+            {
+              "end": 27,
+              "id": "1850772146177576960",
+              "start": 16,
+              "username": "Chunier520"
+            },
+            {
+              "end": 39,
+              "id": "1401733664682102786",
+              "start": 28,
+              "username": "mukdengise"
+            },
+            {
+              "end": 51,
+              "id": "935788025300348929",
+              "start": 40,
+              "username": "bingling39"
+            },
+            {
+              "end": 63,
+              "id": "1596473224711151618",
+              "start": 52,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889728954677768575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878810431772393599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @apr_simone: @Chunier520 @mukdengise @bingling39 @a823149315 当然是假的…我们有时候会日常开玩笑：“呜呜交不起房租了我肉偿吧”，然后寒涟漪也笑着说“好啊好啊快洗干净和我做爱”，但如果你要真去洗了的话大家就会觉得你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "conversation_id": "1878777826062778554",
+        "created_at": "2025-01-13T14:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T15:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878810431772393599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            },
+            {
+              "end": 23,
+              "id": "1401733664682102786",
+              "start": 12,
+              "username": "mukdengise"
+            },
+            {
+              "end": 35,
+              "id": "935788025300348929",
+              "start": 24,
+              "username": "bingling39"
+            },
+            {
+              "end": 47,
+              "id": "1596473224711151618",
+              "start": 36,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878810431772393599",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当然是假的…我们有时候会日常开玩笑：“呜呜交不起房租了我肉偿吧”，然后寒涟漪也笑着说“好啊好啊快洗干净和我做爱”，但如果你要真去洗了的话大家就会觉得你是傻逼（或者真的馋寒涟漪身子）。\n\n管理抵房租是真的，具体能抵多少嘛，请询问我们（几乎）没有交过房租的冰凌姐姐w～～\n\n事实上，这两年避难所已经很少提房租的事情了（因为23年夏天有个孩子因为房租而自杀了，寒涟漪很后悔），寒涟漪缺钱的时候也是首先想到去找人爆金币而不是收房租。上次说起房租还是去年夏天被家长报警、警察破门、被迫换房那阵子，实在挤不出钱了，我才跟她说你催一下房租吧，随后我们拿个筷子本子敲打着当锣鼓，吆喝着“交房租啦～～”从卧室走到客厅，然后大家有钱没钱的拿出几百几千意思意思。\n\n当然，不交房租也有“代价”，一个是偶尔会被寒涟漪优先喊去倒垃圾取快递什么的（well我不敢想象寒涟漪没有我们一个人住家里会乱成什么样子）；第二个是不可以“彻底躺平”——假如某个孩子精神很不健康、拒绝就医、没有工作/兴趣/能力什么的，眼见着日子过不长久，可她如果交得起房租，那我们就可以完全不管她，纯玩；但要是她交不起房租，寒涟漪（呃也包括我还有其她在边上起哄的）就会非常积极地把人拽去看病开药介绍工作。毕竟吃人嘴软拿人手短，都欠着人家的呢，叫你做点事情你也无法拒绝。当然真的做不了也就算了，不过抑郁症患者嘛，很多时候是需要推一把的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2510,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878783596342952002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 @mukdengise @bingling39 @a823149315 当然是假的…我们有时候会日常开玩笑：“呜呜交不起房租了我肉偿吧”，然后寒涟漪也笑着说“好啊好啊快洗干净和我做爱”，但如果你要真去洗了的话大家就会觉得你是傻逼（或者真的馋寒涟漪身子）。\n\n管理抵房租是真的，具体能抵多少嘛，请询问我们（几乎）没有交过房租的冰凌姐姐w～～…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35688,
+          "following_count": 3574,
+          "like_count": 501,
+          "listed_count": 59,
+          "media_count": 296,
+          "tweet_count": 2164
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "Traumatic DID System & Functional Multiplicity | Write in Lisp | Sister @Simone_Luxem , Lover @HANLIANYI331 @Wacchi_Lorie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Wacchi_Lorie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/apr-ma…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/apr-may.bsky.social",
+                "start": 0,
+                "url": "https://t.co/wp1rLHaY6c"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Amsterdam",
+        "name": "April & May - The Calendar System🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842294078202908672/-c9gu6Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 918,
+          "like_count": 37468,
+          "listed_count": 3,
+          "media_count": 212,
+          "tweet_count": 4001
+        },
+        "url": "https://t.co/wp1rLHaY6c",
+        "username": "apr_simone",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "我们呼吁大家 #关注救助者健康 ，呼吁大家 #关注家暴受害者\n爱党爱国，坚决拥护中国共产党领导。请不要把账号内容用于政治目的。\n接约文。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "关注救助者健康"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "关注家暴受害者"
+              }
+            ]
+          }
+        },
+        "id": "1850772146177576960",
+        "name": "MTF转发bot",
+        "pinned_tweet_id": "1888301849633305032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850906274109743104/vOmjtfaP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 231,
+          "like_count": 1193,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 1793
+        },
+        "username": "Chunier520",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "东海渥集巫女/IG: ilhajugvn/looking for our Chalice and fighting against the Blade/裏：@fulgiyan/桔：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "fulgiyan"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865659207124664320/z7pLnQDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7826,
+          "following_count": 706,
+          "like_count": 123278,
+          "listed_count": 44,
+          "media_count": 1357,
+          "tweet_count": 17376
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-29T08:30:26.000Z",
+        "description": "mtf/持证含糖/不太熟悉玩推/手机维修工程师（修手机的)/武汉庇佑所管理/ TG频道: https://t.co/uHpEpvSrXC /🚪80支付宝口令 /但行好事，莫问前程",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 68,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 45,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bingMTF",
+                "end": 23,
+                "expanded_url": "https://t.me/bingMTF",
+                "start": 0,
+                "url": "https://t.co/uHpEpvSrXC"
+              }
+            ]
+          }
+        },
+        "id": "935788025300348929",
+        "location": "WuHan",
+        "name": "冰凌枫月🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822820942843985920/JJaPljOk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 225,
+          "like_count": 2299,
+          "listed_count": 8,
+          "media_count": 181,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/uHpEpvSrXC",
+        "username": "bingling39",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管/现兼职机构司法社工",
+        "id": "1596473224711151618",
+        "name": "王安黛（备战2026考研看到我请提醒我背单词）",
+        "pinned_tweet_id": "1596477323611541504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888564635563094016/3440MGp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33385,
+          "following_count": 166,
+          "like_count": 2169,
+          "listed_count": 87,
+          "media_count": 1353,
+          "tweet_count": 8113
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

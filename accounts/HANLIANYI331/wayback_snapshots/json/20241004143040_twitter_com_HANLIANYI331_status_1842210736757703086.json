@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1842177299736907837",
+    "created_at": "2024-10-04T14:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T15:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842210736757703086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640335577986760704",
+          "start": 0,
+          "username": "beiyanqingyue"
+        },
+        {
+          "end": 25,
+          "id": "1633638115918352385",
+          "start": 15,
+          "username": "amsonia17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842210736757703086",
+    "in_reply_to_user_id": "1640335577986760704",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842208828303278224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beiyanqingyue @amsonia17 我这看到的多数批评是只指出问题不提供方案。提供方案的基本上是项目组的工作人员。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1842177299736907837",
+        "created_at": "2024-10-04T14:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T15:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842210736757703086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1640335577986760704",
+              "start": 0,
+              "username": "beiyanqingyue"
+            },
+            {
+              "end": 25,
+              "id": "1633638115918352385",
+              "start": 15,
+              "username": "amsonia17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842210736757703086",
+        "in_reply_to_user_id": "1640335577986760704",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842208828303278224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beiyanqingyue @amsonia17 我这看到的多数批评是只指出问题不提供方案。提供方案的基本上是项目组的工作人员。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640335577986760704",
+        "conversation_id": "1842177299736907837",
+        "created_at": "2024-10-04T14:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T15:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842208828303278224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 24,
+              "id": "1633638115918352385",
+              "start": 14,
+              "username": "amsonia17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842208828303278224",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842208611860386016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @amsonia17 但是现在别人提出的解决方案普遍并不需要额外的资源去做啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32602,
+          "following_count": 3438,
+          "like_count": 280,
+          "listed_count": 56,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-27T12:51:55.000Z",
+        "description": "晴月的爱人🥺@openAQiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "openAQiu"
+              }
+            ]
+          }
+        },
+        "id": "1640335577986760704",
+        "name": "晴月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644771161325162496/G1YiQUFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 850,
+          "like_count": 37964,
+          "listed_count": 6,
+          "tweet_count": 6139
+        },
+        "username": "beiyanqingyue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T01:17:51.000Z",
+        "description": "PhD最后一年 | 追寻研究与生活的梦想 | 🏳️‍⚧️",
+        "id": "1633638115918352385",
+        "location": "Boston",
+        "name": "Amsonia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636533856491667464/M8TCIerj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 504,
+          "like_count": 14192,
+          "listed_count": 0,
+          "tweet_count": 3751
+        },
+        "username": "amsonia17",
+        "verified": false
+      }
+    ]
+  }
+}

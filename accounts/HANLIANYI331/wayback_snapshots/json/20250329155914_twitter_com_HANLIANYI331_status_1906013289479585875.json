@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1906013289479585875",
+    "created_at": "2025-03-29T15:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T16:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906013289479585875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1906013289479585875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "遇到有人吞毒药自杀的情况正确反应应该是第一时间报警，而不是联系我，因为即使是联系我，我能做的也仅仅是报警而已。但是我不可能24小时都在，常常我看到消息再报警，已经耽误最佳抢救时机了。\n\n看到有人吞毒药自杀然后向寒涟漪发送信息并不是一个好选择。发信息的时机应当是还没有实行自杀行为或者实行自杀行为被救回来的时间。\n\n如果没有个人信息只有QQ微信账号，可通过微信微光行动提交，如果有个人信息，请直接报警。而不是“给寒涟漪发个消息”就事情结束。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "遇到有人吞毒药自杀的情况正确反应应该是第一时间报警，而不是联系我，因为即使是联系我，我能做的也仅仅是报警而已。但是我不可能24小时都在，常常我看到消息再报警，已经耽误最佳抢救时机了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1906013289479585875",
+        "created_at": "2025-03-29T15:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T16:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906013289479585875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906013289479585875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "遇到有人吞毒药自杀的情况正确反应应该是第一时间报警，而不是联系我，因为即使是联系我，我能做的也仅仅是报警而已。但是我不可能24小时都在，常常我看到消息再报警，已经耽误最佳抢救时机了。\n\n看到有人吞毒药自杀然后向寒涟漪发送信息并不是一个好选择。发信息的时机应当是还没有实行自杀行为或者实行自杀行为被救回来的时间。\n\n如果没有个人信息只有QQ微信账号，可通过微信微光行动提交，如果有个人信息，请直接报警。而不是“给寒涟漪发个消息”就事情结束。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到有人吞毒药自杀的情况正确反应应该是第一时间报警，而不是联系我，因为即使是联系我，我能做的也仅仅是报警而已。但是我不可能24小时都在，常常我看到消息再报警，已经耽误最佳抢救时机了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1904488778196283819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37021,
+          "following_count": 3629,
+          "like_count": 655,
+          "listed_count": 60,
+          "media_count": 316,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

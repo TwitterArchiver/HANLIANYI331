@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1842177299736907837",
+    "created_at": "2024-10-04T15:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T16:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842218832683012294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459453832",
+          "start": 0,
+          "username": "sauricat"
+        },
+        {
+          "end": 24,
+          "id": "1640335577986760704",
+          "start": 10,
+          "username": "beiyanqingyue"
+        },
+        {
+          "end": 35,
+          "id": "1633638115918352385",
+          "start": 25,
+          "username": "amsonia17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842218832683012294",
+    "in_reply_to_user_id": "1459453832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842215699483103394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sauricat @beiyanqingyue @amsonia17 我的建议是，鉴于口述史的性质和特点，这个项目其实任何人都可以基于已有的资料另起炉灶。\n\n如果项目组的其他成员坚持不听取你的意见。那你其实可以做一些其他的基于相同目的的实验性行为。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1842177299736907837",
+        "created_at": "2024-10-04T15:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T16:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842218832683012294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459453832",
+              "start": 0,
+              "username": "sauricat"
+            },
+            {
+              "end": 24,
+              "id": "1640335577986760704",
+              "start": 10,
+              "username": "beiyanqingyue"
+            },
+            {
+              "end": 35,
+              "id": "1633638115918352385",
+              "start": 25,
+              "username": "amsonia17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842218832683012294",
+        "in_reply_to_user_id": "1459453832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842215699483103394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sauricat @beiyanqingyue @amsonia17 我的建议是，鉴于口述史的性质和特点，这个项目其实任何人都可以基于已有的资料另起炉灶。\n\n如果项目组的其他成员坚持不听取你的意见。那你其实可以做一些其他的基于相同目的的实验性行为。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "1842177299736907837",
+        "created_at": "2024-10-04T14:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T15:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842215699483103394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 28,
+              "id": "1640335577986760704",
+              "start": 14,
+              "username": "beiyanqingyue"
+            },
+            {
+              "end": 39,
+              "id": "1633638115918352385",
+              "start": 29,
+              "username": "amsonia17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842215699483103394",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842214899621257587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @beiyanqingyue @amsonia17 对的，我也不希望口述史这个项目直接就没有了。但是因为我之前的各种失策行为，我现在在口述史项目组的人中间基本处于说不上话的状态，也不是所有人都能理解我的观点。有人觉得我说「有学有术，扎根社群，回归社群」是要社群夺权，干预学术，我不赞同这种批评。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32602,
+          "following_count": 3438,
+          "like_count": 280,
+          "listed_count": 56,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (she/they) feminist/homo philosophicus/trans and proud. phd student in phil. trans-related advocacy & services. 跨性别社群服务相关联系 TG saurica417",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "北雁书 Bᴇɪʏᴀɴ Shu",
+        "pinned_tweet_id": "1838255175846473751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705105675649466368/p2V3MqlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10833,
+          "following_count": 813,
+          "like_count": 33320,
+          "listed_count": 31,
+          "tweet_count": 10253
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T12:51:55.000Z",
+        "description": "晴月的爱人🥺@openAQiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "openAQiu"
+              }
+            ]
+          }
+        },
+        "id": "1640335577986760704",
+        "name": "晴月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644771161325162496/G1YiQUFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 850,
+          "like_count": 37985,
+          "listed_count": 6,
+          "tweet_count": 6146
+        },
+        "username": "beiyanqingyue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T01:17:51.000Z",
+        "description": "PhD最后一年 | 追寻研究与生活的梦想 | 🏳️‍⚧️",
+        "id": "1633638115918352385",
+        "location": "Boston",
+        "name": "Amsonia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636533856491667464/M8TCIerj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 504,
+          "like_count": 14200,
+          "listed_count": 0,
+          "tweet_count": 3759
+        },
+        "username": "amsonia17",
+        "verified": false
+      }
+    ]
+  }
+}

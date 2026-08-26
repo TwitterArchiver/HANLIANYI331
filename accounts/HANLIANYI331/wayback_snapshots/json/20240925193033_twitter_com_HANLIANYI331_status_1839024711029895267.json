@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1839024711029895267",
+    "created_at": "2024-09-25T19:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T20:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839024711029895267"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1839024711029895267",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "随着搬迁和人数的增加，我每个月的房租和电费支出已经正式超过2万元。一共对应七个房子。\n\n粗略算了下，这七个房子如果按照目前的市场价购买下来，大约需要1000万元人民币。且后续房价会继续下跌。从这个角度来看，通过买房来解决居住问题并不现实。\n\n而更偏远的城市没有好的医疗资源和工作岗位。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1839024711029895267",
+        "created_at": "2024-09-25T19:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T20:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839024711029895267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839024711029895267",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随着搬迁和人数的增加，我每个月的房租和电费支出已经正式超过2万元。一共对应七个房子。\n\n粗略算了下，这七个房子如果按照目前的市场价购买下来，大约需要1000万元人民币。且后续房价会继续下跌。从这个角度来看，通过买房来解决居住问题并不现实。\n\n而更偏远的城市没有好的医疗资源和工作岗位。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1835970707144298583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32305,
+          "following_count": 3438,
+          "like_count": 278,
+          "listed_count": 56,
+          "tweet_count": 1841
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

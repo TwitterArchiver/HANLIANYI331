@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1929109467402305818",
+    "created_at": "2025-06-01T15:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T16:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929205329700475361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "708541868842356736",
+          "start": 0,
+          "username": "SFish235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929205329700475361",
+    "in_reply_to_user_id": "708541868842356736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929156685962281179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SFish235 暂时没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1929109467402305818",
+        "created_at": "2025-06-01T15:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T16:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929205329700475361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "708541868842356736",
+              "start": 0,
+              "username": "SFish235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929205329700475361",
+        "in_reply_to_user_id": "708541868842356736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929156685962281179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SFish235 暂时没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708541868842356736",
+        "conversation_id": "1929109467402305818",
+        "created_at": "2025-06-01T12:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T13:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929156685962281179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929156685962281179",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 349,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929109467402305818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 目前有租约在一年以内结束的风险吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37979,
+          "following_count": 3621,
+          "like_count": 732,
+          "listed_count": 61,
+          "media_count": 327,
+          "tweet_count": 2370
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-12T06:35:20.000Z",
+        "description": "把鱼鱼做成鱼排或者鱼板都是可以的———🚎🚎🚎🚈🚋/无能的赛博面点师/鸟厨/IGBTQLA+(学EE学的)/一所G5大学/🦋：https://t.co/RYQutiRqcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/fish-s…",
+                "end": 85,
+                "expanded_url": "http://bsky.app/profile/fish-sakana.bsky.social",
+                "start": 62,
+                "url": "https://t.co/RYQutiRqcW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4VNwm3ZnlCI4Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4VNwm3ZnlCI4ZWM1",
+                "start": 0,
+                "url": "https://t.co/XuRKFIXA6a"
+              }
+            ]
+          }
+        },
+        "id": "708541868842356736",
+        "location": "旧纽约",
+        "name": "雜魚薯條",
+        "pinned_tweet_id": "1852689758939455829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907344783003033600/w2iqwkjn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 559,
+          "like_count": 67372,
+          "listed_count": 3,
+          "media_count": 754,
+          "tweet_count": 11154
+        },
+        "url": "https://t.co/XuRKFIXA6a",
+        "username": "SFish235",
+        "verified": false
+      }
+    ]
+  }
+}

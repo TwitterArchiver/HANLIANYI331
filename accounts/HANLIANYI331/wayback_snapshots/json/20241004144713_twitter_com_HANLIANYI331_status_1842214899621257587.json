@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1842177299736907837",
+    "created_at": "2024-10-04T14:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T15:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842214899621257587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1459453832",
+          "start": 0,
+          "username": "sauricat"
+        },
+        {
+          "end": 24,
+          "id": "1640335577986760704",
+          "start": 10,
+          "username": "beiyanqingyue"
+        },
+        {
+          "end": 35,
+          "id": "1633638115918352385",
+          "start": 25,
+          "username": "amsonia17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842214899621257587",
+    "in_reply_to_user_id": "1459453832",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842213464233693591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sauricat @beiyanqingyue @amsonia17 我说的“提供解决方案”的是项目组的工作人员主要就是在说你。\n\n我说的只批评的更多是前几天我看到的很多关于“口述史助长了有社交能力的社群成员的话语权，加剧了不平等”之类的相关批评。这部分人的倾向更多是“如果不能做到机会平等就不能做”。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1842177299736907837",
+        "created_at": "2024-10-04T14:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T15:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842214899621257587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1459453832",
+              "start": 0,
+              "username": "sauricat"
+            },
+            {
+              "end": 24,
+              "id": "1640335577986760704",
+              "start": 10,
+              "username": "beiyanqingyue"
+            },
+            {
+              "end": 35,
+              "id": "1633638115918352385",
+              "start": 25,
+              "username": "amsonia17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842214899621257587",
+        "in_reply_to_user_id": "1459453832",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842213464233693591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sauricat @beiyanqingyue @amsonia17 我说的“提供解决方案”的是项目组的工作人员主要就是在说你。\n\n我说的只批评的更多是前几天我看到的很多关于“口述史助长了有社交能力的社群成员的话语权，加剧了不平等”之类的相关批评。这部分人的倾向更多是“如果不能做到机会平等就不能做”。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "1842177299736907837",
+        "created_at": "2024-10-04T14:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T15:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842213464233693591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 28,
+              "id": "1640335577986760704",
+              "start": 14,
+              "username": "beiyanqingyue"
+            },
+            {
+              "end": 39,
+              "id": "1633638115918352385",
+              "start": 29,
+              "username": "amsonia17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sauricat/statu…",
+              "end": 171,
+              "expanded_url": "https://x.com/sauricat/status/1842211854480805927",
+              "start": 148,
+              "url": "https://t.co/cgyTaqbOFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842213464233693591",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 72,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842211854480805927",
+            "type": "quoted"
+          },
+          {
+            "id": "1842210736757703086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @beiyanqingyue @amsonia17 作为曾经项目组的一员，曾经给口述史项目提供一些基础研究设施服务的人，我的意见。\n另外，避难所开不下去是有人要睡大街，口述史项目做好了是给那些研究者提供论文写作材料，但反而容易让社群成员承担更多风险。两者性质不同。\n https://t.co/cgyTaqbOFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32603,
+          "following_count": 3438,
+          "like_count": 280,
+          "listed_count": 56,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (she/they) feminist/homo philosophicus/trans and proud. phd student in phil. trans-related advocacy & services. 跨性别社群服务相关联系 TG saurica417",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "北雁书 Bᴇɪʏᴀɴ Shu",
+        "pinned_tweet_id": "1838255175846473751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705105675649466368/p2V3MqlN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10832,
+          "following_count": 813,
+          "like_count": 33320,
+          "listed_count": 31,
+          "tweet_count": 10248
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T12:51:55.000Z",
+        "description": "晴月的爱人🥺@openAQiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "openAQiu"
+              }
+            ]
+          }
+        },
+        "id": "1640335577986760704",
+        "name": "晴月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644771161325162496/G1YiQUFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 850,
+          "like_count": 37973,
+          "listed_count": 6,
+          "tweet_count": 6143
+        },
+        "username": "beiyanqingyue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T01:17:51.000Z",
+        "description": "PhD最后一年 | 追寻研究与生活的梦想 | 🏳️‍⚧️",
+        "id": "1633638115918352385",
+        "location": "Boston",
+        "name": "Amsonia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636533856491667464/M8TCIerj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 504,
+          "like_count": 14195,
+          "listed_count": 0,
+          "tweet_count": 3755
+        },
+        "username": "amsonia17",
+        "verified": false
+      }
+    ]
+  }
+}

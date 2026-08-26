@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Community Health",
+          "id": "918538847302041600",
+          "name": "Community Health"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Wellness Education",
+          "id": "920310497450237953",
+          "name": "Wellness Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1864361913423155435",
+    "created_at": "2024-12-05T11:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T12:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864631933000679670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1272099250638254080",
+          "start": 0,
+          "username": "Lincle6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864631933000679670",
+    "in_reply_to_user_id": "1272099250638254080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "那只是因为中国大学的本科课程会把公共课和专业课混着上，仅此而已。我随手都能列一大堆公共课。\n\n大学体育\n计算机基础\n大学英语\n大学语文\n高等数学\n线性代数\n概率论与数理统计\n大学生心理健康教育\n\n大学生职业生涯规划与就业指导\n\n马克思主义基本原理\n毛泽东思想和中国特色社会主义理论体系概论\n习近平新时代中国特色社会主义思想概论\n创新创业导论\n思想道德与法治\n形势与政策\n中国近代史纲要\n军事理论\n\n光是后面这一大堆政治相关课程就会耗费你大量的课时。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864622665383989611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lincle6 那只是因为中国大学的本科课程会把公共课和专业课混着上，仅此而已。我随手都能列一大堆公共课。\n\n大学体育\n计算机基础\n大学英语\n大学语文\n高等数学\n线性代数\n概率论与数理统计\n大学生心理健康教育\n\n大学生职业生涯规划与就业指导\n\n马克思主义基本原理\n毛泽东思想和中国特色社会主义理论体系概论…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Community Health",
+              "id": "918538847302041600",
+              "name": "Community Health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Wellness Education",
+              "id": "920310497450237953",
+              "name": "Wellness Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-05T11:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T12:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864631933000679670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1272099250638254080",
+              "start": 0,
+              "username": "Lincle6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864631933000679670",
+        "in_reply_to_user_id": "1272099250638254080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那只是因为中国大学的本科课程会把公共课和专业课混着上，仅此而已。我随手都能列一大堆公共课。\n\n大学体育\n计算机基础\n大学英语\n大学语文\n高等数学\n线性代数\n概率论与数理统计\n大学生心理健康教育\n\n大学生职业生涯规划与就业指导\n\n马克思主义基本原理\n毛泽东思想和中国特色社会主义理论体系概论\n习近平新时代中国特色社会主义思想概论\n创新创业导论\n思想道德与法治\n形势与政策\n中国近代史纲要\n军事理论\n\n光是后面这一大堆政治相关课程就会耗费你大量的课时。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864622665383989611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lincle6 那只是因为中国大学的本科课程会把公共课和专业课混着上，仅此而已。我随手都能列一大堆公共课。\n\n大学体育\n计算机基础\n大学英语\n大学语文\n高等数学\n线性代数\n概率论与数理统计\n大学生心理健康教育\n\n大学生职业生涯规划与就业指导\n\n马克思主义基本原理\n毛泽东思想和中国特色社会主义理论体系概论…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272099250638254080",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-05T10:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T11:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864622665383989611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864622665383989611",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864361913423155435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 ？我学的假本科吗？除了大一基本都是公共课+基础专业课以外，大二开始就都是专业课了啊？你啥专业啥学校啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33894,
+          "following_count": 3425,
+          "like_count": 296,
+          "listed_count": 60,
+          "media_count": 264,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-14T09:31:21.000Z",
+        "description": "play play",
+        "id": "1272099250638254080",
+        "name": "Lincle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432571610616123402/ii7xkOhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 296,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 257
+        },
+        "username": "Lincle6",
+        "verified": false
+      }
+    ]
+  }
+}

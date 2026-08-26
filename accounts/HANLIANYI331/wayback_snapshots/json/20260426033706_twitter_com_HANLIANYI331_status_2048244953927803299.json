@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2048244953927803299",
+    "created_at": "2026-04-26T03:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T04:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048244953927803299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938210111992074240",
+          "start": 3,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048244953927803299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048244526826008821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FJUNNNN: 我计划在武汉开设一家客栈\n\n底线是做成公益，多元，但对跨性别极其友好的场所，这里可以称之为庇护所，也可以称之为青旅,客栈\n\n在此我有些疑问，也想多听听大家的想法，大家有任何意见和想法可以自由在评论区发表，我会一一查阅和参考\n\n比如\n大家对自习室，公共交…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2048244953927803299",
+        "created_at": "2026-04-26T03:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048244953927803299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938210111992074240",
+              "start": 3,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048244953927803299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048244526826008821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FJUNNNN: 我计划在武汉开设一家客栈\n\n底线是做成公益，多元，但对跨性别极其友好的场所，这里可以称之为庇护所，也可以称之为青旅,客栈\n\n在此我有些疑问，也想多听听大家的想法，大家有任何意见和想法可以自由在评论区发表，我会一一查阅和参考\n\n比如\n大家对自习室，公共交…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938210111992074240",
+        "conversation_id": "2048244526826008821",
+        "created_at": "2026-04-26T03:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048244526826008821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048244526826008821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我计划在武汉开设一家客栈\n\n底线是做成公益，多元，但对跨性别极其友好的场所，这里可以称之为庇护所，也可以称之为青旅,客栈\n\n在此我有些疑问，也想多听听大家的想法，大家有任何意见和想法可以自由在评论区发表，我会一一查阅和参考\n\n比如\n大家对自习室，公共交流活动空间的需求？\n最多能接受几人间？\n免费暂住床位的居住期限设定？\n有性or无性空间？\n\n此贴希望大家能帮忙转发一下，能辛苦转到其它社交平台最好，我想让更多人看到我的想法，感激不尽*罒▽罒*"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我计划在武汉开设一家客栈\n\n底线是做成公益，多元，但对跨性别极其友好的场所，这里可以称之为庇护所，也可以称之为青旅,客栈\n\n在此我有些疑问，也想多听听大家的想法，大家有任何意见和想法可以自由在评论区发表，我会一一查阅和参考\n\n比如\n大家对自习室，公共交流活动空间的需求？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41242,
+          "following_count": 3712,
+          "like_count": 1613,
+          "listed_count": 71,
+          "media_count": 390,
+          "tweet_count": 2843
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 833,
+          "like_count": 2190,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 681
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

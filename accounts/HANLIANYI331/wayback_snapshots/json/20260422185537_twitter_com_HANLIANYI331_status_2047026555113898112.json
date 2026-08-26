@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2047000379238572487",
+    "created_at": "2026-04-22T18:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T19:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047026555113898112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1673982592528556033",
+          "start": 0,
+          "username": "muli1640092"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047026555113898112",
+    "in_reply_to_user_id": "1673982592528556033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047025013530956045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muli1640092 牛市也一样会有下跌和回撤的，市场追逐流动性的特点注定了不会一路上涨，而是一定会洗盘爆掉杠杆多头再继续向上。这种洗盘就有了做多网格盈利的空间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2047000379238572487",
+        "created_at": "2026-04-22T18:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047026555113898112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1673982592528556033",
+              "start": 0,
+              "username": "muli1640092"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047026555113898112",
+        "in_reply_to_user_id": "1673982592528556033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047025013530956045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muli1640092 牛市也一样会有下跌和回撤的，市场追逐流动性的特点注定了不会一路上涨，而是一定会洗盘爆掉杠杆多头再继续向上。这种洗盘就有了做多网格盈利的空间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673982592528556033",
+        "conversation_id": "2047000379238572487",
+        "created_at": "2026-04-22T18:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047025013530956045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047025013530956045",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047000379238572487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 网格捕获波动而不捕获趋势"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40848,
+          "following_count": 3704,
+          "like_count": 1605,
+          "listed_count": 70,
+          "media_count": 390,
+          "tweet_count": 2829
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-28T09:12:12.000Z",
+        "description": "地上の苦痛こそ、我らの糧。苦境を通じ神聖なものへ。困難を通じて楽園へ。",
+        "id": "1673982592528556033",
+        "name": "牡蛎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771964099125202944/gQRb2TJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 789,
+          "like_count": 9917,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 884
+        },
+        "username": "muli1640092",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1936918310073073718",
+    "created_at": "2025-06-22T22:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T23:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936920041888637389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1585839758403862528",
+          "start": 0,
+          "username": "Wen_Bin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936920041888637389",
+    "in_reply_to_user_id": "1585839758403862528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936918310073073718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wen_Bin_ 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1936918310073073718",
+        "created_at": "2025-06-22T22:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T23:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936920041888637389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1585839758403862528",
+              "start": 0,
+              "username": "Wen_Bin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936920041888637389",
+        "in_reply_to_user_id": "1585839758403862528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936918310073073718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wen_Bin_ 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585839758403862528",
+        "conversation_id": "1936918310073073718",
+        "created_at": "2025-06-22T22:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T23:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936918310073073718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936918310073073718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做梦又回到了那个糟心的家里\n好压抑，好窒息\n梦里逼的我崩溃发作，拿菜刀把大门给劈了，我爹那个傻逼拿棍子打我，我又把他胳膊给砍了，又害怕又解气\n唉！啥时候才能彻底忘记啊！就当我是孤儿也好啊！都要成了心理阴影了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38291,
+          "following_count": 3631,
+          "like_count": 797,
+          "listed_count": 64,
+          "media_count": 331,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-28T03:44:20.000Z",
+        "description": "",
+        "id": "1585839758403862528",
+        "name": "赤星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866981012175196160/yUhfi05X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 61,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 671
+        },
+        "username": "Wen_Bin_",
+        "verified": false
+      }
+    ]
+  }
+}

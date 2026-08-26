@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1971813886690259090",
+    "created_at": "2025-09-27T05:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T06:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971813886690259090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1965772435988623445",
+          "start": 99,
+          "url": "https://t.co/IhafqkAw1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971813886690259090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965772435988623445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "公告：\n因我本人手肘骨折手术的原因，我本人前往北京带领受害者集体报案的计划被迫推迟到11月份，但是我仍然鼓励所有被王孝天诈骗过的受害者积极整理自己转账记录等被骗证据，自行向各地区的派出所进行报案。 https://t.co/IhafqkAw1C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1971813886690259090",
+        "created_at": "2025-09-27T05:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971813886690259090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1965772435988623445",
+              "start": 99,
+              "url": "https://t.co/IhafqkAw1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971813886690259090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965772435988623445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "公告：\n因我本人手肘骨折手术的原因，我本人前往北京带领受害者集体报案的计划被迫推迟到11月份，但是我仍然鼓励所有被王孝天诈骗过的受害者积极整理自己转账记录等被骗证据，自行向各地区的派出所进行报案。 https://t.co/IhafqkAw1C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1965772435988623445",
+        "created_at": "2025-09-10T13:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T14:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965772435988623445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1903116906808406194",
+              "start": 141,
+              "url": "https://t.co/0RBkn8xLnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965772435988623445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27001,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903116906808406194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们已经提前和当地派出所沟通妥善，会在国庆期间进行针对王孝天诈骗的集体报警，此次会有多个大额受害者会和我们一同去报案，国庆七天我将全程在北京\n如果你曾经被王孝天诈骗过，愿意和我们一同去北京报案，可以凭借被王孝天诈骗转账记录，在报案成功后，可以向我报销车程费用（若大于五百则按五百） https://t.co/0RBkn8xLnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39305,
+          "following_count": 3656,
+          "like_count": 1253,
+          "listed_count": 70,
+          "media_count": 348,
+          "tweet_count": 2531
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      }
+    ]
+  }
+}

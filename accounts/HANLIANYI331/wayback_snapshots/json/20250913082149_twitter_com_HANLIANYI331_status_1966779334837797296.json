@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966779315905048576",
+        "3_1966779316374827013",
+        "3_1966779316722905088",
+        "3_1966779317209407488"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1966779334837797296",
+    "created_at": "2025-09-13T08:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T09:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966779334837797296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nyu8HYsftM",
+          "end": 69,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1966779334837797296/photo/1",
+          "media_key": "3_1966779315905048576",
+          "start": 46,
+          "url": "https://t.co/nyu8HYsftM"
+        },
+        {
+          "display_url": "pic.x.com/nyu8HYsftM",
+          "end": 69,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1966779334837797296/photo/1",
+          "media_key": "3_1966779316374827013",
+          "start": 46,
+          "url": "https://t.co/nyu8HYsftM"
+        },
+        {
+          "display_url": "pic.x.com/nyu8HYsftM",
+          "end": 69,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1966779334837797296/photo/1",
+          "media_key": "3_1966779316722905088",
+          "start": 46,
+          "url": "https://t.co/nyu8HYsftM"
+        },
+        {
+          "display_url": "pic.x.com/nyu8HYsftM",
+          "end": 69,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1966779334837797296/photo/1",
+          "media_key": "3_1966779317209407488",
+          "start": 46,
+          "url": "https://t.co/nyu8HYsftM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966779334837797296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于最近网络上流传的某张图，我特地花了几百块钱找了四家淘宝店铺进行鉴定，本文附图是鉴定结果 https://t.co/nyu8HYsftM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966779315905048576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tnXgwbMAA0Emg.jpg",
+        "width": 946
+      },
+      {
+        "height": 1259,
+        "media_key": "3_1966779316374827013",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tnXigbcAUIZbw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966779316722905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tnXjzasAAuQfj.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966779317209407488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0tnXlnaIAARb49.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966779315905048576",
+            "3_1966779316374827013",
+            "3_1966779316722905088",
+            "3_1966779317209407488"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966779334837797296",
+        "created_at": "2025-09-13T08:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T09:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966779334837797296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyu8HYsftM",
+              "end": 69,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1966779334837797296/photo/1",
+              "media_key": "3_1966779315905048576",
+              "start": 46,
+              "url": "https://t.co/nyu8HYsftM"
+            },
+            {
+              "display_url": "pic.x.com/nyu8HYsftM",
+              "end": 69,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1966779334837797296/photo/1",
+              "media_key": "3_1966779316374827013",
+              "start": 46,
+              "url": "https://t.co/nyu8HYsftM"
+            },
+            {
+              "display_url": "pic.x.com/nyu8HYsftM",
+              "end": 69,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1966779334837797296/photo/1",
+              "media_key": "3_1966779316722905088",
+              "start": 46,
+              "url": "https://t.co/nyu8HYsftM"
+            },
+            {
+              "display_url": "pic.x.com/nyu8HYsftM",
+              "end": 69,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1966779334837797296/photo/1",
+              "media_key": "3_1966779317209407488",
+              "start": 46,
+              "url": "https://t.co/nyu8HYsftM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966779334837797296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于最近网络上流传的某张图，我特地花了几百块钱找了四家淘宝店铺进行鉴定，本文附图是鉴定结果 https://t.co/nyu8HYsftM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39104,
+          "following_count": 3620,
+          "like_count": 848,
+          "listed_count": 69,
+          "media_count": 348,
+          "tweet_count": 2523
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      }
+    ]
+  }
+}

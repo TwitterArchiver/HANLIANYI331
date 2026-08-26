@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1864361913423155435",
+    "created_at": "2024-12-05T12:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T13:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864652065731235891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618909954156679168",
+          "start": 0,
+          "username": "reunfolding"
+        },
+        {
+          "end": 21,
+          "id": "1272099250638254080",
+          "start": 13,
+          "username": "Lincle6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864652065731235891",
+    "in_reply_to_user_id": "1618909954156679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "实际上仅“形式与政策”这门课，就有64个课时，而且这是国家最低课时规定：\n\n教育部网站消息，教育部近日印发关于加强新时代高校“形势与政策”课建设的若干意见。意见指出，要将“形势与政策”课纳入学校教学计划，严格落实“形势与政策”课的学分。要保证本、专科学生在校学习期间开课不断线。本科每学期不低于8学时，共计2学分\n\n有的学校会选择一次性把8个学期的指标上万。\n\n其中马原，习概，毛概，军事理论都有“教育部最低64课时”的指标。有的最低指标甚至达到96个课时和128个课时。\n\n而这样的课程，大学一共有10个。\n\n这些都是在网络上检索就能检索到的消息。\n\n还有“就业导论”，“创新创业”这些通篇政治语录的的课程。\n\n我并未一棒子打死所有的公共课。\n\n我的论点始终是“大学公共课课时占据总课时40％以上”\n\n这也是为何第二学士能在2年时间学完4年的专业课内容。\n\n因为第二学士本身就是在已经学完公共课的基础上的。\n\n报第二学士的前置要求就是“本科毕业”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864647169212555663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reunfolding @Lincle6 实际上仅“形式与政策”这门课，就有64个课时，而且这是国家最低课时规定：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-05T12:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T13:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864652065731235891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "reunfolding"
+            },
+            {
+              "end": 21,
+              "id": "1272099250638254080",
+              "start": 13,
+              "username": "Lincle6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864652065731235891",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "实际上仅“形式与政策”这门课，就有64个课时，而且这是国家最低课时规定：\n\n教育部网站消息，教育部近日印发关于加强新时代高校“形势与政策”课建设的若干意见。意见指出，要将“形势与政策”课纳入学校教学计划，严格落实“形势与政策”课的学分。要保证本、专科学生在校学习期间开课不断线。本科每学期不低于8学时，共计2学分\n\n有的学校会选择一次性把8个学期的指标上万。\n\n其中马原，习概，毛概，军事理论都有“教育部最低64课时”的指标。有的最低指标甚至达到96个课时和128个课时。\n\n而这样的课程，大学一共有10个。\n\n这些都是在网络上检索就能检索到的消息。\n\n还有“就业导论”，“创新创业”这些通篇政治语录的的课程。\n\n我并未一棒子打死所有的公共课。\n\n我的论点始终是“大学公共课课时占据总课时40％以上”\n\n这也是为何第二学士能在2年时间学完4年的专业课内容。\n\n因为第二学士本身就是在已经学完公共课的基础上的。\n\n报第二学士的前置要求就是“本科毕业”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864647169212555663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reunfolding @Lincle6 实际上仅“形式与政策”这门课，就有64个课时，而且这是国家最低课时规定：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618909954156679168",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-05T12:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T13:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864647169212555663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 22,
+              "id": "1272099250638254080",
+              "start": 14,
+              "username": "Lincle6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864647169212555663",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864641422282117561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @Lincle6 我们学校四年所有思政课加起来也就一百个课时出头，微积分线代概率论这种东西理工科不学的话后面的专业课也没法学了，人文社科的这些数学基础课也会减学时降难度而且一点不学好像也说不过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33898,
+          "following_count": 3425,
+          "like_count": 296,
+          "listed_count": 60,
+          "media_count": 264,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "以那暴力模拟向正解吊唁/同じ未来に勝ってるだと/那怎么办呢/可记得那年夏天/我们今天弦歌在一堂/我们活着就是对恶意的最大反抗/向着星辰与深渊/诗意栖居于黄昏的景观巨石上/不过粉碎/个人全面发展和他们共同的社会生产能力/新质生产力/当有一天你不再纠结于答案/Meet me at 上海最冷漠的区域/要开始了哟/",
+        "id": "1618909954156679168",
+        "name": "雬定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849405120439779328/4_g9-NIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2969,
+          "following_count": 922,
+          "like_count": 2,
+          "listed_count": 11,
+          "media_count": 857,
+          "tweet_count": 4645
+        },
+        "username": "reunfolding",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-14T09:31:21.000Z",
+        "description": "play play",
+        "id": "1272099250638254080",
+        "name": "Lincle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432571610616123402/ii7xkOhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 297,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 264
+        },
+        "username": "Lincle6",
+        "verified": false
+      }
+    ]
+  }
+}

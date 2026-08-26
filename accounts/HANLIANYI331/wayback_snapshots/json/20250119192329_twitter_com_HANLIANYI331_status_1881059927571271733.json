@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1881059927571271733",
+    "created_at": "2025-01-19T19:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T20:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881059927571271733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1798922983081165176",
+          "start": 83,
+          "url": "https://t.co/rdYCRMPOEc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881059927571271733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "因此当一个人流量较大以后，出现被造谣的情况，最优解是什么？\n\n答案是直接屏蔽造谣者，不回复，不引用，不反驳，不澄清\n\n如果回复和反驳，那对造谣者来说又是泼天的流量\n\n如果引用和澄清，那会让账号阅览者的信息推送时间线陷入到没有意义和价值的垃圾信息里，且会让本就没多少人知道的谣言看到谣言的信息\n\n而因此质证谣言的最佳方案，仅有私信回复。这意味着私信者已经同时满足了看到谣言，无法证伪谣言，在意谣言三个条件，且私信回复质证不会给造谣者带来流量，也同样不会给账号阅览者带来垃圾信息污染\n\n当然，私信质证也一样会有弊端，例如裁剪和选取聊天记录，刻意展示一部分信息，再利用网民普遍缺失信息获取阈值，真假参半的进一步作为恶意攻击的材料\n\n但是同样，和前几个方法相比，该方法已是在现有恶劣的互联网条件下的相对最优解。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798922983081165176",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因此当一个人流量较大以后，出现被造谣的情况，最优解是什么？\n\n答案是直接屏蔽造谣者，不回复，不引用，不反驳，不澄清\n\n如果回复和反驳，那对造谣者来说又是泼天的流量… https://t.co/rdYCRMPOEc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1881059927571271733",
+        "created_at": "2025-01-19T19:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T20:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881059927571271733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1798922983081165176",
+              "start": 83,
+              "url": "https://t.co/rdYCRMPOEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881059927571271733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因此当一个人流量较大以后，出现被造谣的情况，最优解是什么？\n\n答案是直接屏蔽造谣者，不回复，不引用，不反驳，不澄清\n\n如果回复和反驳，那对造谣者来说又是泼天的流量\n\n如果引用和澄清，那会让账号阅览者的信息推送时间线陷入到没有意义和价值的垃圾信息里，且会让本就没多少人知道的谣言看到谣言的信息\n\n而因此质证谣言的最佳方案，仅有私信回复。这意味着私信者已经同时满足了看到谣言，无法证伪谣言，在意谣言三个条件，且私信回复质证不会给造谣者带来流量，也同样不会给账号阅览者带来垃圾信息污染\n\n当然，私信质证也一样会有弊端，例如裁剪和选取聊天记录，刻意展示一部分信息，再利用网民普遍缺失信息获取阈值，真假参半的进一步作为恶意攻击的材料\n\n但是同样，和前几个方法相比，该方法已是在现有恶劣的互联网条件下的相对最优解。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798922983081165176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因此当一个人流量较大以后，出现被造谣的情况，最优解是什么？\n\n答案是直接屏蔽造谣者，不回复，不引用，不反驳，不澄清\n\n如果回复和反驳，那对造谣者来说又是泼天的流量… https://t.co/rdYCRMPOEc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1798922983081165176",
+        "created_at": "2024-06-07T03:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T04:29:36.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798920216191316343",
+          "1798920372089401384",
+          "1798920690248364333",
+          "1798920894343213076",
+          "1798922983081165176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1798706855885287702",
+              "start": 54,
+              "url": "https://t.co/oRPucoX2Rz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798922983081165176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "与此同时，某些人一边向我求助和接受我的帮助，一边又在背后造谣抹黑我的行为我其实看得到，只是我不戳破而已。\n\n这种情况从十年前就有，十年后大概率也不会消失。只是很长的一段时间，除非是突破底线，造成更多人死亡的行为（侵犯其他人的生命权的行为，包括影响救助其他人)，我个人一般都会遵循生命权大于一切的原则。\n\n同时，因为我对每个人隐私权和相关个人权利的尊重，我一般不会轻易透露别人的个人情况，即使透露一般也是匿名的。\n\n绝大多数时候，我对我个人权利被侵犯的极高容忍度，是出于对公益和其他人权利基于自愿基础的让渡，但是这不代表这一切就是理所应当的。\n\n因此在这个基础上，我一直希望尽可能培养大家对于谣言本身的一个识别意识。包含具有严重逻辑漏洞的谣言。\n\n例如：\n\n“寒涟漪需要收取远超市场价的高额房租，否则需要肉偿。”这样的谣言，就是包含严重逻辑漏洞的。\n\n对于这样的信息，我经常会产生“为什么这样的看起来一眼假的谣言都会有人信，为什么这么一眼假的谣言都需要我专门去解释”。\n\n这会让我有一种给人解释一元一次方程2x＝1的感觉。\n\n但有时候我还是需要解释一下：这种情况是不可能的，因为能交起高额房租的人，根本不需要来庇佑所。\n\n事实上庇佑所大部分mtf连最基本的房租分摊都付不起。\n\n也更不可能存在所谓的“肉偿”。\n\n因为性行为对我来说并非是一个“甲方行为”，它对我的社会权益价值是负的。\n\n（通俗来说，除非是亲密关系或条件特定的人，或者是我在妥协其他人的需求，性行为给我带来的负反馈会大于正反馈。除非有人愿意给我大量的经济补助作为交换，这种情况我们一般称为“援交”）\n\n（再大白话一点，和我关系一般的人，给我钱找我做爱我都不一定接受，和我做爱还要我反过来给对方钱？做梦！）\n\n类似于以上的“在逻辑上就无法成立”的谣言非常多，我更多是拿以上这条谣言进行举例。\n\n并且我们可以观察到，当我们澄清以上谣言时，必须以牺牲个人的隐私权作为代价，例如我必须以泄露我的个人性偏好的方式进行谣言澄清（这还仅仅涉及到我本人的隐私权）\n\n除此之外一些谣言除了涉及到个人隐私以外，还涉及到风险和安全，例如：\n\n随便拿一张环境脏乱差的照片，说“这是寒涟漪的庇佑所”。\n\n这种谣言想要澄清，必须暴露庇佑所的部分信息，而这会对庇佑所住户的人身安全造成威胁。\n\n这就是非常典型的“自证陷阱”，以及基于此造成的网络霸凌。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19225,
+          "like_count": 151,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798706855885287702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "与此同时，某些人一边向我求助和接受我的帮助，一边又在背后造谣抹黑我的行为我其实看得到，只是我不戳破而已。… https://t.co/oRPucoX2Rz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1879279526838190080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34779,
+          "following_count": 3431,
+          "like_count": 344,
+          "listed_count": 57,
+          "media_count": 283,
+          "tweet_count": 2091
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

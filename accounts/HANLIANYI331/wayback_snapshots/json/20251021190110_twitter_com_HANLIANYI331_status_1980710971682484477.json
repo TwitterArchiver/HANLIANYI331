@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1980576472244117821",
+    "created_at": "2025-10-21T19:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T20:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980710971682484477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "339064287",
+          "start": 0,
+          "username": "davy_0xff"
+        },
+        {
+          "end": 25,
+          "id": "1286219258364604416",
+          "start": 11,
+          "username": "rainieForever"
+        },
+        {
+          "end": 41,
+          "id": "1492455622633086980",
+          "start": 26,
+          "username": "GeorgianaAurum"
+        },
+        {
+          "end": 58,
+          "id": "4752010152",
+          "start": 42,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980710971682484477",
+    "in_reply_to_user_id": "339064287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980697055732593000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@davy_0xff @rainieForever @GeorgianaAurum @garrulous_abyss 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1980576472244117821",
+        "created_at": "2025-10-21T19:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T20:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980710971682484477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "339064287",
+              "start": 0,
+              "username": "davy_0xff"
+            },
+            {
+              "end": 25,
+              "id": "1286219258364604416",
+              "start": 11,
+              "username": "rainieForever"
+            },
+            {
+              "end": 41,
+              "id": "1492455622633086980",
+              "start": 26,
+              "username": "GeorgianaAurum"
+            },
+            {
+              "end": 58,
+              "id": "4752010152",
+              "start": 42,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980710971682484477",
+        "in_reply_to_user_id": "339064287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980697055732593000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@davy_0xff @rainieForever @GeorgianaAurum @garrulous_abyss 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "339064287",
+        "conversation_id": "1980576472244117821",
+        "created_at": "2025-10-21T18:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T19:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980697055732593000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 28,
+              "id": "1286219258364604416",
+              "start": 14,
+              "username": "rainieForever"
+            },
+            {
+              "end": 44,
+              "id": "1492455622633086980",
+              "start": 29,
+              "username": "GeorgianaAurum"
+            },
+            {
+              "end": 61,
+              "id": "4752010152",
+              "start": 45,
+              "username": "garrulous_abyss"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Transfer 20 BSC-USD to 0x80C28193...Dd55D11EC | Success | Oct-21-2025 06:03:23 PM (UTC)",
+              "display_url": "bscscan.com/tx/0x40ca337bc…",
+              "end": 132,
+              "expanded_url": "https://bscscan.com/tx/0x40ca337bc596e1ca23085aad5d2f9dd5ad05789dfb282a54d785e4172ee31f4d",
+              "images": [
+                {
+                  "height": 288,
+                  "url": "https://pbs.twimg.com/news_img/1980697057921998848/7qoWjzKG?format=jpg&name=orig",
+                  "width": 288
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1980697057921998848/7qoWjzKG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "Bsc Transaction Hash: 0x40ca337bc5... | BscScan",
+              "unwound_url": "https://bscscan.com/tx/0x40ca337bc596e1ca23085aad5d2f9dd5ad05789dfb282a54d785e4172ee31f4d",
+              "url": "https://t.co/esXKknXY8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980697055732593000",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980635190423876069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @rainieForever @GeorgianaAurum @garrulous_abyss 雖然只有一點點點（真的只有一點點）\n但希望你們可以繼續幫助大家，也記得要好好照顧自己 ：）\n\nhttps://t.co/esXKknXY8R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39833,
+          "following_count": 3657,
+          "like_count": 1276,
+          "listed_count": 70,
+          "media_count": 352,
+          "tweet_count": 2552
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2011-07-20T14:48:50.000Z",
+        "description": "我好累 我只想睡覺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "davy.tw",
+                "end": 23,
+                "expanded_url": "http://davy.tw",
+                "start": 0,
+                "url": "https://t.co/kIZ9wzueax"
+              }
+            ]
+          }
+        },
+        "id": "339064287",
+        "location": "Taiwan",
+        "name": "Davy (๑•̀ㅂ•́)و 🌐",
+        "pinned_tweet_id": "1962872896453538220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1173117325341421568/ZAp_0A9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 347,
+          "like_count": 115435,
+          "listed_count": 9,
+          "media_count": 384,
+          "tweet_count": 15315
+        },
+        "url": "https://t.co/kIZ9wzueax",
+        "username": "davy_0xff",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T08:39:44.000Z",
+        "description": "exSDUer ｜算法竞赛退坑选手 | 炼丹界小丑 | 无有乡引路人｜地狱笑话鉴赏家｜性癖是强制通模｜理想是复刻可穿戴科技",
+        "id": "1286219258364604416",
+        "location": "山东省精神卫生中心",
+        "name": "雨橙 永远生",
+        "pinned_tweet_id": "1973228124461736170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622202348008517632/yCyeD14P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 246,
+          "like_count": 2360,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 979
+        },
+        "username": "rainieForever",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T11:08:56.000Z",
+        "description": "Use any｜She｜He｜They｜INFP-T｜30⬆️還很孩子氣的中年少女｜個性是珍珠烏龍🧋｜作息爆炸｜生活｜日記｜碎碎唸｜網路怪人｜謝謝大家｜主推：🧪🥁🍬🤥▲🐺｜主視覺：clibo-你要不要吃哈密呱｜🔞偶爾會有NSFW發言和圖文🔞｜這裡是個普通動漫電玩宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/imGeorgiana",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/imGeorgiana",
+                "start": 0,
+                "url": "https://t.co/tjVyqE57UX"
+              }
+            ]
+          }
+        },
+        "id": "1492455622633086980",
+        "location": "About Myself➡️",
+        "name": "✨喬治亞娜🔮怪人系個人不勢Vtuber",
+        "pinned_tweet_id": "1926715495887048970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970539203240042499/vPrWaqfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 408,
+          "like_count": 19616,
+          "listed_count": 3,
+          "media_count": 716,
+          "tweet_count": 25634
+        },
+        "url": "https://t.co/tjVyqE57UX",
+        "username": "GeorgianaAurum",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29964,
+          "following_count": 3629,
+          "like_count": 164585,
+          "listed_count": 103,
+          "media_count": 3622,
+          "tweet_count": 60735
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

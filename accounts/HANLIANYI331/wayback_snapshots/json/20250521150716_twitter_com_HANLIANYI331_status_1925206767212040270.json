@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "1925206767212040270",
+    "created_at": "2025-05-21T15:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T16:06:13.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925206503084212359",
+      "1925206767212040270"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925206767212040270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "之前我和我的一个开放式亲密关系一起聊天的时候，她曾经和我提到：十多年前她初一时期因为校园霸凌被迫辍学离开县城外出打零工时，经常会居住在一线城市的青旅和澡堂里面。这些场所的居住费用一般是一天10元不等。那时候在这些场所，经常会混迹一群“艺术家”在里面居住。这些“艺术家”往往没有赚钱的能力，靠别人的施舍在青旅里流浪度日。每天在街头进行着他们的“艺术创作”，这些“艺术创作”里有音乐，有诗歌，有美术，有书法……这些“艺术创作”共同的特点就是：缺乏转化为金钱的渠道。所以在当年，周围人对这些“艺术家”的评价是“啃老”、“懒汉”和“废物”。\n\n这时我聊到：这种现象本质上产生的原因，是因为这个这个社会评价“生产力”的根本标准在于“是否可以直接赚到钱”，在这种标准下，所有不能赚钱的事情都被归列为“没有意义的”。哪怕是在庇护所，评价救助成效的重要指标往往也是“能不能赚到钱”，否则庇护所的很多孩子原本都可以“从事自己感兴趣的创作”。这是一种无奈的现实：在没有父母或他人供养的情况下，不能赚钱意味着没有生存的能力。\n\n在一个理想的社会下，社会应当有“不能赚到钱的人”也同样能够生存的空间。但是很显然，目前国内的社会，很不理想。\n\n谈到这些，我又提起了我的一个故人——她是一个极其富有创造力的女孩子，她每天创作的东西常常在这个世上独一无二。如果我有钱有闲，我很愿意每天陪在她身边倾听她的创作，我也将有能力阻止一切不幸的发生。只是当所有的一切都被迫被金钱、时间和生命所衡量的时候，一切却都成了泡影，她也最终离开了这个不属于她的世界。\n\n“如果我有很多很多钱，我会养很多很多这样的创作家，包他们的食宿，他们只需要专心于自己的创作就好了”。我的开放式亲密关系这么提道。我回答她：这同样应该是政府的责任，否则你猜猜北欧和日本的那些常常被批判的“蛰居族”都是怎么来的？\n\n所有的问题最终又都可以归结于“没钱”上，当生存成为障碍的时候，其他的一切都成为了奢侈品。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前我和我的一个开放式亲密关系一起聊天的时候，她曾经和我提到：十多年前她初一时期因为校园霸凌被迫辍学离开县城外出打零工时，经常会居住在一线城市的青旅和澡堂里面。这些场所的居住费用一般是一天10元不等。那时候在这些场所，经常会混迹一群“艺术家”在里面居住。这些“艺术家”往往没有赚钱的能力"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925206503084212359].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925206503084212359",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925206503084212359"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1925206767212040270",
+        "created_at": "2025-05-21T15:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T16:06:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925206503084212359",
+          "1925206767212040270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925206767212040270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "之前我和我的一个开放式亲密关系一起聊天的时候，她曾经和我提到：十多年前她初一时期因为校园霸凌被迫辍学离开县城外出打零工时，经常会居住在一线城市的青旅和澡堂里面。这些场所的居住费用一般是一天10元不等。那时候在这些场所，经常会混迹一群“艺术家”在里面居住。这些“艺术家”往往没有赚钱的能力，靠别人的施舍在青旅里流浪度日。每天在街头进行着他们的“艺术创作”，这些“艺术创作”里有音乐，有诗歌，有美术，有书法……这些“艺术创作”共同的特点就是：缺乏转化为金钱的渠道。所以在当年，周围人对这些“艺术家”的评价是“啃老”、“懒汉”和“废物”。\n\n这时我聊到：这种现象本质上产生的原因，是因为这个这个社会评价“生产力”的根本标准在于“是否可以直接赚到钱”，在这种标准下，所有不能赚钱的事情都被归列为“没有意义的”。哪怕是在庇护所，评价救助成效的重要指标往往也是“能不能赚到钱”，否则庇护所的很多孩子原本都可以“从事自己感兴趣的创作”。这是一种无奈的现实：在没有父母或他人供养的情况下，不能赚钱意味着没有生存的能力。\n\n在一个理想的社会下，社会应当有“不能赚到钱的人”也同样能够生存的空间。但是很显然，目前国内的社会，很不理想。\n\n谈到这些，我又提起了我的一个故人——她是一个极其富有创造力的女孩子，她每天创作的东西常常在这个世上独一无二。如果我有钱有闲，我很愿意每天陪在她身边倾听她的创作，我也将有能力阻止一切不幸的发生。只是当所有的一切都被迫被金钱、时间和生命所衡量的时候，一切却都成了泡影，她也最终离开了这个不属于她的世界。\n\n“如果我有很多很多钱，我会养很多很多这样的创作家，包他们的食宿，他们只需要专心于自己的创作就好了”。我的开放式亲密关系这么提道。我回答她：这同样应该是政府的责任，否则你猜猜北欧和日本的那些常常被批判的“蛰居族”都是怎么来的？\n\n所有的问题最终又都可以归结于“没钱”上，当生存成为障碍的时候，其他的一切都成为了奢侈品。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前我和我的一个开放式亲密关系一起聊天的时候，她曾经和我提到：十多年前她初一时期因为校园霸凌被迫辍学离开县城外出打零工时，经常会居住在一线城市的青旅和澡堂里面。这些场所的居住费用一般是一天10元不等。那时候在这些场所，经常会混迹一群“艺术家”在里面居住。这些“艺术家”往往没有赚钱的能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37886,
+          "following_count": 3632,
+          "like_count": 724,
+          "listed_count": 61,
+          "media_count": 327,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2076889775299264979",
+    "created_at": "2026-07-14T04:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076889775299264979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/2076696668259697029",
+          "start": 9,
+          "url": "https://t.co/W4UCB4bfdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076889775299264979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076696668259697029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目前有人报警吗？ https://t.co/W4UCB4bfdP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2076889775299264979",
+        "created_at": "2026-07-14T04:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076889775299264979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2076696668259697029",
+              "start": 9,
+              "url": "https://t.co/W4UCB4bfdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076889775299264979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076696668259697029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前有人报警吗？ https://t.co/W4UCB4bfdP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2076696668259697029",
+        "created_at": "2026-07-13T15:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076696668259697029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NekoSukiXoX/st…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/NekoSukiXoX/status/2076553090992632192",
+              "start": 78,
+              "url": "https://t.co/mTz93FiBYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076696668259697029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5884,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076553090992632192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据坐标信息，可能位于广州市黄浦区 大沙街道、文冲街道、南岗街道 或周边村/社区范围（黄埔区西部有较多老村和新村混合区域）\n\n请大家有这位信息的人尽快报警 https://t.co/mTz93FiBYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41934,
+          "following_count": 3936,
+          "like_count": 1875,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 3057
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

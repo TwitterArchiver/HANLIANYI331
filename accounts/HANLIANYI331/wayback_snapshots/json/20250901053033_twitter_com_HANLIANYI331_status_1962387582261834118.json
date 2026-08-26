@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962387570433916928",
+        "3_1962387570744270848",
+        "3_1962387570417143808",
+        "3_1962387570903621632"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "1962387582261834118",
+    "created_at": "2025-09-01T05:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962387582261834118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3OeWmvTUIE",
+          "end": 168,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1962387582261834118/photo/1",
+          "media_key": "3_1962387570433916928",
+          "start": 145,
+          "url": "https://t.co/3OeWmvTUIE"
+        },
+        {
+          "display_url": "pic.x.com/3OeWmvTUIE",
+          "end": 168,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1962387582261834118/photo/1",
+          "media_key": "3_1962387570744270848",
+          "start": 145,
+          "url": "https://t.co/3OeWmvTUIE"
+        },
+        {
+          "display_url": "pic.x.com/3OeWmvTUIE",
+          "end": 168,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1962387582261834118/photo/1",
+          "media_key": "3_1962387570417143808",
+          "start": 145,
+          "url": "https://t.co/3OeWmvTUIE"
+        },
+        {
+          "display_url": "pic.x.com/3OeWmvTUIE",
+          "end": 168,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1962387582261834118/photo/1",
+          "media_key": "3_1962387570903621632",
+          "start": 145,
+          "url": "https://t.co/3OeWmvTUIE"
+        },
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 192,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1785590128905499033",
+          "start": 169,
+          "url": "https://t.co/n4Ezck6Nsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962387582261834118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1785590128905499033",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每一次我遭到诬陷，我都会讲事实，讲逻辑，讲学术。最后讲的长篇大论，很少人愿意看\n那我也来几句粗鄙之语\n\n「那些攻讦和诬陷我“借着做公益的名义性侵”的人，你们长得也不好看，我会看得上你们？」\n\n「以我的资源样貌条件，我想找什么样美女帅哥做爱找不到？」\n\n附图：我曾经一个多年对象照片（顺女） https://t.co/3OeWmvTUIE https://t.co/n4Ezck6Nsh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1962387570433916928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvNGR9bAAAD4F4.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1962387570744270848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvNGTHaoAAhQjV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1962387570417143808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvNGR5bEAAxoBP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1962387570903621632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvNGTtaIAAKEO4.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962387570433916928",
+            "3_1962387570744270848",
+            "3_1962387570417143808",
+            "3_1962387570903621632"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1962387582261834118",
+        "created_at": "2025-09-01T05:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962387582261834118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OeWmvTUIE",
+              "end": 168,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962387582261834118/photo/1",
+              "media_key": "3_1962387570433916928",
+              "start": 145,
+              "url": "https://t.co/3OeWmvTUIE"
+            },
+            {
+              "display_url": "pic.x.com/3OeWmvTUIE",
+              "end": 168,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962387582261834118/photo/1",
+              "media_key": "3_1962387570744270848",
+              "start": 145,
+              "url": "https://t.co/3OeWmvTUIE"
+            },
+            {
+              "display_url": "pic.x.com/3OeWmvTUIE",
+              "end": 168,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962387582261834118/photo/1",
+              "media_key": "3_1962387570417143808",
+              "start": 145,
+              "url": "https://t.co/3OeWmvTUIE"
+            },
+            {
+              "display_url": "pic.x.com/3OeWmvTUIE",
+              "end": 168,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962387582261834118/photo/1",
+              "media_key": "3_1962387570903621632",
+              "start": 145,
+              "url": "https://t.co/3OeWmvTUIE"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1785590128905499033",
+              "start": 169,
+              "url": "https://t.co/n4Ezck6Nsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962387582261834118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1785590128905499033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每一次我遭到诬陷，我都会讲事实，讲逻辑，讲学术。最后讲的长篇大论，很少人愿意看\n那我也来几句粗鄙之语\n\n「那些攻讦和诬陷我“借着做公益的名义性侵”的人，你们长得也不好看，我会看得上你们？」\n\n「以我的资源样貌条件，我想找什么样美女帅哥做爱找不到？」\n\n附图：我曾经一个多年对象照片（顺女） https://t.co/3OeWmvTUIE https://t.co/n4Ezck6Nsh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1785590128905499033",
+        "created_at": "2024-05-01T08:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-01T09:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1785590128905499033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1764273320995033463",
+              "start": 133,
+              "url": "https://t.co/WfYpWNZPYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1785590128905499033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "借着最近发生的某些事情的机会，聊聊“为什么我会对某些信息不予解释和回复”。\n\n（当然，因为我本身就有传播学专业背景，所以在写这篇文章之前我就清楚大部分人看不完这篇文章，大部分人也难以理解，但写出来还是存在一定现实意义。）\n\n其中一部分信息的原因是我引用的这条推文。\n\n除此之外的另外两个原因，主要有两点。\n\n一、\n我已经公开发布或回复过的信息，但因为对方没有看到，或因为理解能力不足造成理解缺失或误会造成的重复性询问。\n\n指：通过我X平台推文列表和回复可以直接检索到的信息，我在其他公开平台发布的信息不包含在内（限X平台）。\n\n如：我在发布一篇长文后，提出了abcd四个论点和两个根据其中ab观点衍生出的观点AB。但是因为有人理解力不足，无法理解ab，进而在此基础对观点AB进行质疑。\n\n二、\n传播学意义上的“有罪推定人”观点，或法学意义上的「举证责任倒置」。\n\n这种情况相比起其他情况会更加复杂一些，因为它涉及到一些专业内容和专业术语。\n\n举证倒置相对好理解一些，属于法学术语，指基于法律规定将本应由提出主张的一方当事就某种事由不负担举证责任，而由他方当事人就某种事实存在或不存在承担举证责任，如果该方当事人不能就此举证证明，则推定原告的事实主张成立的一种举证责任分配制度。\n\n传播学意义上的“有罪推定人”则更加复杂，它属于一个更大的概念，包含于并且和举证倒置有一定相似性，但略有不同。\n\n尽量简化来说，它是指利用当事人的在举证责任倒置的基础上，对当事人在透露证据时对个人隐私透露的顾虑，和大众的对信息的认知阈值进行的一项利用。它常常被用于在预设某个立场的基础上，进行举证倒置性质询，从而加剧大众对对方预设立场的怀疑以及传播学意义上的大众认知的心理暗示性扭曲。\n\n这其中又包含很多传播学的前置概念：\n\n如：\n\n①在传播学和公共舆论空间下，当事人员在讨论问题时往往需要顾虑各种因素，如话题对人员和公共的影响，对个人隐私泄露而产生的顾虑。这会导致在公共舆论空间讨论某件事情时，当事人的行为会和在一个绝对保密且安全的环境（如法院）中的行为截然不同。这种情况常常容易加剧对相关人员的信息暴力（心理学意义）。\n\n②大众对信息的获取是存在阈值的，对于信息密度和信息长度和概念复杂度超出一定范围的信息，大众对该信息的获取效率会急剧降低。\n\n③在①的基础上，假定一个有罪推定的立场前提条件，然后再进行“有罪推定人”式问询，从而达到增强大众对该前提条件的认可度的目的，进而最终争夺舆论空间的话语权，达成信息暴力的目的。\n\n打个比方：\n\n（1）\n你做了E事情，你没有证据的情况下让别人怎么相信你？（举证倒置）\n\n（2）\n某人做了F（事情），你不做G（回应）等于是在H（定性）。（引导大众相信F成立，强化相信举证责任倒置情况下的G的合理性）\n\n（3）\n为什么你要K（已经在公开文章中说明的事情），你是不是因为L（利用一部分人因为信息获取阈值的限制没有获取到k信息的同时，强化对L的认定）\n\n因此，在以上传播学特点下，很多传播案件就被扭曲了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 86135,
+          "like_count": 114,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1764273320995033463",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "借着最近发生的某些事情的机会，聊聊“为什么我会对某些信息不予解释和回复”。\n\n（当然，因为我本身就有传播学专业背景，所以在写这篇文章之前我就清楚大部分人看不完这篇文章，大部分人也难以理解，但写出来还是存在一定现实意义。）\n\n其中一部分信息的原因是我引用的这条推文。 https://t.co/WfYpWNZPYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38916,
+          "following_count": 3628,
+          "like_count": 839,
+          "listed_count": 70,
+          "media_count": 343,
+          "tweet_count": 2503
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1881188657786392650",
+    "created_at": "2025-01-20T04:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T05:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881198076788142190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1571789005276184576",
+          "start": 0,
+          "username": "cyshakug1_just"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881198076788142190",
+    "in_reply_to_user_id": "1571789005276184576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "庇护所总共来了七百多人，已经有将近七百人在庇护所的帮助下从原来的濒死状态恢复到了可以获得经济来源并且进行生存的程度。而剩下的几乎所有人甚至包括部分恢复的七百多人里面在发达国家已经远远超出精神残疾的标准。\n\n本质上从社会福利和人类学术学科来说，精神残疾就应当是被政府每年发放补助金额并且养起来的。\n\n但是中国的残疾补助按户发放，并且有繁琐的户籍制度限制，且庇护所很多人的问题同时具有严重家暴问题。\n\n一味的强调“独立生存”，“回归社会”本质上是在不了解情况且不动脑子行为。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881196078214898154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyshakug1_just 庇护所总共来了七百多人，已经有将近七百人在庇护所的帮助下从原来的濒死状态恢复到了可以获得经济来源并且进行生存的程度。而剩下的几乎所有人甚至包括部分恢复的七百多人里面在发达国家已经远远超出精神残疾的标准。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1881188657786392650",
+        "created_at": "2025-01-20T04:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T05:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881198076788142190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1571789005276184576",
+              "start": 0,
+              "username": "cyshakug1_just"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881198076788142190",
+        "in_reply_to_user_id": "1571789005276184576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "庇护所总共来了七百多人，已经有将近七百人在庇护所的帮助下从原来的濒死状态恢复到了可以获得经济来源并且进行生存的程度。而剩下的几乎所有人甚至包括部分恢复的七百多人里面在发达国家已经远远超出精神残疾的标准。\n\n本质上从社会福利和人类学术学科来说，精神残疾就应当是被政府每年发放补助金额并且养起来的。\n\n但是中国的残疾补助按户发放，并且有繁琐的户籍制度限制，且庇护所很多人的问题同时具有严重家暴问题。\n\n一味的强调“独立生存”，“回归社会”本质上是在不了解情况且不动脑子行为。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881196078214898154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyshakug1_just 庇护所总共来了七百多人，已经有将近七百人在庇护所的帮助下从原来的濒死状态恢复到了可以获得经济来源并且进行生存的程度。而剩下的几乎所有人甚至包括部分恢复的七百多人里面在发达国家已经远远超出精神残疾的标准。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571789005276184576",
+        "conversation_id": "1881188657786392650",
+        "created_at": "2025-01-20T04:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T05:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881196078214898154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881196078214898154",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881188657786392650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 从长期运营来看，应该让这些人应该具备工作能力和自我谋生的能力，而不是当成金丝雀养起来，哪怕是做做手工、在线客服、学学技能出去找工作直到完全脱离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1881176409181429832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34764,
+          "following_count": 3447,
+          "like_count": 347,
+          "listed_count": 57,
+          "media_count": 283,
+          "tweet_count": 2096
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-19T09:11:37.000Z",
+        "description": "一只特立独行的猪/自由主义者/流氓无产者/财经分析/易学爱好者/彻底失败gpt/社会观察/正常号互fo",
+        "id": "1571789005276184576",
+        "location": "Sham Shui Po District",
+        "name": "Kris just",
+        "pinned_tweet_id": "1636802687542124544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642938508770971648/6CTTs9cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 833,
+          "like_count": 786,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 1767
+        },
+        "username": "cyshakug1_just",
+        "verified": false
+      }
+    ]
+  }
+}

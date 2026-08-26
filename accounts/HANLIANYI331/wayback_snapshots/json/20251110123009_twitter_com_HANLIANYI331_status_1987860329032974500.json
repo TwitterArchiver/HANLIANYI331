@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1987745783828169022",
+    "created_at": "2025-11-10T12:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T13:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987860329032974500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628357323944239105",
+          "start": 0,
+          "username": "AkumaKusane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987860329032974500",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "每个人的体质差异太大，我也遇见过你说的这种极端情况，一般这种情况我就让他们尝试比卡鲁胺或者螺内酯然后再进行尝试。\n甚至还有人出现了在高雌+三种抗雄药轮换了遍效果都不理想的。（但是不管任何一种情况，cpa超过每天12.5以后就不适合再增加了，否则相当危险）这种也只能考虑切蛋/srs了。一般尽管有些mtf术后也需要色普龙，但是我暂时还没见过术后还压不住的情况（代偿产生的雄激素毕竟还是有限）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 68,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987855590052462729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkumaKusane 每个人的体质差异太大，我也遇见过你说的这种极端情况，一般这种情况我就让他们尝试比卡鲁胺或者螺内酯然后再进行尝试。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1987745783828169022",
+        "created_at": "2025-11-10T12:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987860329032974500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628357323944239105",
+              "start": 0,
+              "username": "AkumaKusane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987860329032974500",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "每个人的体质差异太大，我也遇见过你说的这种极端情况，一般这种情况我就让他们尝试比卡鲁胺或者螺内酯然后再进行尝试。\n甚至还有人出现了在高雌+三种抗雄药轮换了遍效果都不理想的。（但是不管任何一种情况，cpa超过每天12.5以后就不适合再增加了，否则相当危险）这种也只能考虑切蛋/srs了。一般尽管有些mtf术后也需要色普龙，但是我暂时还没见过术后还压不住的情况（代偿产生的雄激素毕竟还是有限）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987855590052462729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkumaKusane 每个人的体质差异太大，我也遇见过你说的这种极端情况，一般这种情况我就让他们尝试比卡鲁胺或者螺内酯然后再进行尝试。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1987745783828169022",
+        "created_at": "2025-11-10T12:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987855590052462729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628357323944239105",
+              "start": 0,
+              "username": "AkumaKusane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987855590052462729",
+        "in_reply_to_user_id": "1628357323944239105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987853834044252294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkumaKusane 压不住应该加雌而非加色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40171,
+          "following_count": 3675,
+          "like_count": 1287,
+          "listed_count": 69,
+          "media_count": 357,
+          "tweet_count": 2609
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-22T11:33:52.000Z",
+        "description": "@AkemiKusane 的华语账号 喝多了也会写这儿 冬天滑雪夏天爬山",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "AkemiKusane"
+              }
+            ]
+          }
+        },
+        "id": "1628357323944239105",
+        "name": "恶魔草",
+        "pinned_tweet_id": "1771290516493345087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668650823369334784/ru16sD0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 213,
+          "like_count": 780,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 2777
+        },
+        "username": "AkumaKusane",
+        "verified": false
+      }
+    ]
+  }
+}

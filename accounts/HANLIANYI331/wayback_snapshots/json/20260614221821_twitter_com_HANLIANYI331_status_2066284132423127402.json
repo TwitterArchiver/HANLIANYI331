@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066284129608744960"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "2065323198053335481",
+    "created_at": "2026-06-14T22:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T23:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066284132423127402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517437669449547776",
+          "start": 0,
+          "username": "YumiChow916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h90CD54db5",
+          "end": 181,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2066284132423127402/photo/1",
+          "media_key": "3_2066284129608744960",
+          "start": 158,
+          "url": "https://t.co/h90CD54db5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066284132423127402",
+    "in_reply_to_user_id": "1517437669449547776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "那篇QA的核心目的并不是为了论证“我的所有行为都符合所有意义上的伦理”，只是针对常见的造谣言论（比如说我强奸）这一类进行一个“哪些事情发生过，哪些事情没发生过”的总结，这个也在文章里说了，可以批判我的“伦理问题”，但是要基于事实，关于我对伦理问题的看法（我和你吵架几乎把这些看法说完了）“寒涟漪的价值观声明会在另一篇文章当中叙述”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066282627967951237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumiChow916 那篇QA的核心目的并不是为了论证“我的所有行为都符合所有意义上的伦理”，只是针对常见的造谣言论（比如说我强奸）这一类进行一个“哪些事情发生过，哪些事情没发生过”的总结，这个也在文章里说了，可以批判我的“伦理问题”，但是要基于事实，关于我对伦理问题的看法（我和你吵架几乎把这些看法说完了）“ https://t.co/h90CD54db5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 697,
+        "media_key": "3_2066284129608744960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzqd95bQAAGf6k.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066284129608744960"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T22:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066284132423127402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h90CD54db5",
+              "end": 181,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2066284132423127402/photo/1",
+              "media_key": "3_2066284129608744960",
+              "start": 158,
+              "url": "https://t.co/h90CD54db5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066284132423127402",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那篇QA的核心目的并不是为了论证“我的所有行为都符合所有意义上的伦理”，只是针对常见的造谣言论（比如说我强奸）这一类进行一个“哪些事情发生过，哪些事情没发生过”的总结，这个也在文章里说了，可以批判我的“伦理问题”，但是要基于事实，关于我对伦理问题的看法（我和你吵架几乎把这些看法说完了）“寒涟漪的价值观声明会在另一篇文章当中叙述”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066282627967951237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 那篇QA的核心目的并不是为了论证“我的所有行为都符合所有意义上的伦理”，只是针对常见的造谣言论（比如说我强奸）这一类进行一个“哪些事情发生过，哪些事情没发生过”的总结，这个也在文章里说了，可以批判我的“伦理问题”，但是要基于事实，关于我对伦理问题的看法（我和你吵架几乎把这些看法说完了）“ https://t.co/h90CD54db5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517437669449547776",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T22:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066282627967951237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7d2673c3623fe492"
+        },
+        "id": "2066282627967951237",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "是妳在覺得一切對救助倫理的輿論監督都是在苛責，我一直對妳庇護所的事不關心，因為我知道我不可能知曉事件的全貌。我甚至到現在都沒去看過妳所說的造謠的人到底說了啥，也從來沒有指控或抨擊過妳的庇護所或妳個人。最初回這篇帖子只是因為覺得Q&A中有大量的邏輯陷阱，給人一種看似全集，但仔細一想就會發現全是限定詞，加在一起並不能覆蓋所有情況。所以我提出了最初的那個問題，無論是出於幫妳補全以免有心之人利用，還是出於懷疑妳在故意迴避這些漏掉的部分。但從一開始妳就不正面回答，而是找各種外部因素轉移話題，這反倒勾起了我的好奇心想要一探究竟"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066279747907436991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 是妳在覺得一切對救助倫理的輿論監督都是在苛責，我一直對妳庇護所的事不關心，因為我知道我不可能知曉事件的全貌。我甚至到現在都沒去看過妳所說的造謠的人到底說了啥，也從來沒有指控或抨擊過妳的庇護所或妳個人。最初回這篇帖子只是因為覺得Q&amp;A中有大量的邏輯陷阱，給人一種看似全集，但仔細一想就"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41740,
+          "following_count": 3807,
+          "like_count": 1754,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 2990
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Markham, Ontario",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 313,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3941
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

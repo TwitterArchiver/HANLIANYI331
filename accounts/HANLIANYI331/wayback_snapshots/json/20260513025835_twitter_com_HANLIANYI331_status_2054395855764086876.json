@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2054395855764086876",
+    "created_at": "2026-05-13T02:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054395855764086876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 136,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1889695944637292873",
+          "start": 113,
+          "url": "https://t.co/UxhioUnvnY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054395855764086876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "某些人非常厉害：千方百计试图获取我们的助人资源，包括金钱，住处，人脉，社交，医疗和工作岗位。\n但是却常常当面一套背面一套，背地里喜欢玩背刺这一刀。\n有的人别有用心，会选择造谣，不断地试图通过破坏声誉的方式“要把寒涟漪搞臭”。\n有的人“图个乐子”，会选择传谣，在原来的谣言基础上向外传播并且添油加醋。\n造谣的人最见不得“有人说他们的好话”，试图通过抹黑来“削弱他们的资源”。\n有的人缺乏明摆是非的能力，会选择信谣，结果最终导致自己明明有困难却不敢求助，导致最终沦落到辍学，自杀或被绑架进入扭转机构的境地。\n但是造谣和传谣的人可不会在乎这些。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889695944637292873",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某些人非常厉害：千方百计试图获取我们的助人资源，包括金钱，住处，人脉，社交，医疗和工作岗位。\n但是却常常当面一套背面一套，背地里喜欢玩背刺这一刀。\n有的人别有用心，会选择造谣，不断地试图通过破坏声誉的方式“要把寒涟漪搞臭”。 https://t.co/UxhioUnvnY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2054395855764086876",
+        "created_at": "2026-05-13T02:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054395855764086876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1889695944637292873",
+              "start": 113,
+              "url": "https://t.co/UxhioUnvnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054395855764086876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "某些人非常厉害：千方百计试图获取我们的助人资源，包括金钱，住处，人脉，社交，医疗和工作岗位。\n但是却常常当面一套背面一套，背地里喜欢玩背刺这一刀。\n有的人别有用心，会选择造谣，不断地试图通过破坏声誉的方式“要把寒涟漪搞臭”。\n有的人“图个乐子”，会选择传谣，在原来的谣言基础上向外传播并且添油加醋。\n造谣的人最见不得“有人说他们的好话”，试图通过抹黑来“削弱他们的资源”。\n有的人缺乏明摆是非的能力，会选择信谣，结果最终导致自己明明有困难却不敢求助，导致最终沦落到辍学，自杀或被绑架进入扭转机构的境地。\n但是造谣和传谣的人可不会在乎这些。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889695944637292873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某些人非常厉害：千方百计试图获取我们的助人资源，包括金钱，住处，人脉，社交，医疗和工作岗位。\n但是却常常当面一套背面一套，背地里喜欢玩背刺这一刀。\n有的人别有用心，会选择造谣，不断地试图通过破坏声誉的方式“要把寒涟漪搞臭”。 https://t.co/UxhioUnvnY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1889695944637292873",
+        "created_at": "2025-02-12T15:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T16:13:44.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889694381852307751",
+          "1889695200106430960",
+          "1889695944637292873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1815849069383954672",
+              "start": 126,
+              "url": "https://t.co/XTZacfgZ1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889695944637292873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "几天前，一个大陆地区正规的公益组织的社工和我聊天，聊到他们曾经也开设过类似于“庇护所”的项目，向有生存困难的人群提供住处。\n\n在这个项目中，该公益组织遭到了造谣，抹黑，自杀威胁甚至针对好几个工作人员的死亡威胁。以至于在数个月的时间内该项目就被迫关停。\n\n有入住者在住满约定的时间后，仍然没有自己寻找到工作，收入和住处。被公益组织的工作人员清退，其后该入住者在互联网上大骂特骂。\n\n有入住者虽然存在精神疾病，但是在该项目中得到了大量来自于工作人员的帮助，包括为她提供食物，她却反而会指控工作人员的善意是“别有用心”，认为这些工作人员都是要迫害自己。\n\n有入住者在入住房屋后，达到约定时间后拒不离开，以自杀相威胁工作人员要求留下居住，否则就“死在这里”。\n\n有入住者甚至向该公益组织的好几个工作人员包括最高负责人发出死亡威胁，威胁“拿把刀杀了对方，和对方同归于尽”。\n\n我听完这位社工的分享，不仅内心感到悲哀；\n\n对方是一个民政局注册的，完全正规的公益组织，有着完善的体系和助人系统，有无数的相关专业人员。\n\n整个项目的帮助规模也才是我自己开设庇护所的几十分之一，控制在很小很小的范围，却仍然发生了这么多的令人心寒的事情。\n\n而这些事件，哪怕当事人和跨性别社群毫无关系，我却也感觉和我自己经历过的事情十分相像，甚至一模一样。并且数量更多，更恶劣。\n\n我也不禁恍然：这么多年来，我自己好像对自己身上遭遇到的无数恶劣的恩将仇报的事情早已麻木和习惯。但是如今却又再一次直观感受到这样的恩将仇报对助人工作究竟有多么巨大的伤害。\n\n而不知不觉间，这样的足以毁灭整个公益项目的事件早已数十上百倍的发生在我自己身上。\n\n除此之外，一位和我关系亲近的副主任精神科医生也同样遇到过此困境，她帮助过很多人，并且提供过住处。\n\n结果前几个月，其中有一个受助者竟然赖在房屋里（那个房屋还是该医生名下的房产），每天对着这位精神科医生辱骂，霸凌。逼的这位精神科医生有自己的房子不能住，还得额外离开自己的房屋在外面租房住。\n\n对善意伤害最大的，永远不是什么“不可持续”，也永远不是什么“烧钱”。\n\n哪怕这种恩将仇报喂不饱的白眼狼只占人群很小的比例，但也足以将无数人的生命迫害死亡。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10962,
+          "like_count": 148,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815849069383954672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几天前，一个大陆地区正规的公益组织的社工和我聊天，聊到他们曾经也开设过类似于“庇护所”的项目，向有生存困难的人群提供住处。\n\n在这个项目中，该公益组织遭到了造谣，抹黑，自杀威胁甚至针对好几个工作人员的死亡威胁。以至于在数个月的时间内该项目就被迫关停。 https://t.co/XTZacfgZ1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41585,
+          "following_count": 3739,
+          "like_count": 1633,
+          "listed_count": 73,
+          "media_count": 390,
+          "tweet_count": 2859
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

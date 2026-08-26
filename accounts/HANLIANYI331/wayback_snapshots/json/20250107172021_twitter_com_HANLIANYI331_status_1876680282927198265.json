@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1876666802245378429",
+    "created_at": "2025-01-07T17:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T18:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876680282927198265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "69165914",
+          "start": 0,
+          "username": "Leaf_Fallfield"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876680282927198265",
+    "in_reply_to_user_id": "69165914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876667513892995103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leaf_Fallfield 酒会导致色普龙的抗雄效果大大下降甚至完全消失，要注意双挫仑反应哦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1876667513892995103].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1876667513892995103",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1876667513892995103"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1876666802245378429",
+        "created_at": "2025-01-07T17:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T18:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876680282927198265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "69165914",
+              "start": 0,
+              "username": "Leaf_Fallfield"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876680282927198265",
+        "in_reply_to_user_id": "69165914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876667513892995103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leaf_Fallfield 酒会导致色普龙的抗雄效果大大下降甚至完全消失，要注意双挫仑反应哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1809660678439063736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34555,
+          "following_count": 3420,
+          "like_count": 306,
+          "listed_count": 59,
+          "media_count": 266,
+          "tweet_count": 2025
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-27T01:47:30.000Z",
+        "description": "",
+        "id": "69165914",
+        "name": "叶子🍃",
+        "pinned_tweet_id": "1598564782402981888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379731567048749060/SjDc8XbH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9232,
+          "following_count": 2576,
+          "like_count": 19993,
+          "listed_count": 21,
+          "media_count": 1004,
+          "tweet_count": 10402
+        },
+        "username": "Leaf_Fallfield",
+        "verified": false
+      }
+    ]
+  }
+}

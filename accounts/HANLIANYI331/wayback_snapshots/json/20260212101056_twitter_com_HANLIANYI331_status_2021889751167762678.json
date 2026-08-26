@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2021829124063736197",
+    "created_at": "2026-02-12T10:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021889751167762678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "3270872731",
+          "start": 0,
+          "username": "phields0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021889751167762678",
+    "in_reply_to_user_id": "3270872731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021888015522730124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phields0 我这里理解的“高风险”是指在投资过程当中，本金存在0％到50％的最大回撤，但是在承受这种回撤的同时，只要投资逻辑不因为这种暂时的亏损而发生变形，那么在数学期望上，它的平均年化收益仍然能达到10％以上，它就是一种有价值的投资。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2021829124063736197",
+        "created_at": "2026-02-12T10:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021889751167762678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3270872731",
+              "start": 0,
+              "username": "phields0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021889751167762678",
+        "in_reply_to_user_id": "3270872731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021888015522730124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phields0 我这里理解的“高风险”是指在投资过程当中，本金存在0％到50％的最大回撤，但是在承受这种回撤的同时，只要投资逻辑不因为这种暂时的亏损而发生变形，那么在数学期望上，它的平均年化收益仍然能达到10％以上，它就是一种有价值的投资。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3270872731",
+        "conversation_id": "2021829124063736197",
+        "created_at": "2026-02-12T10:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021888015522730124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021888015522730124",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829124063736197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 Safety is an illusion. If you accept high beta it's easy to get 300k cash flow each year."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40988,
+          "following_count": 3676,
+          "like_count": 1416,
+          "listed_count": 68,
+          "media_count": 383,
+          "tweet_count": 2742
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-07T09:13:07.000Z",
+        "description": "",
+        "id": "3270872731",
+        "name": "phields",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655650520105902080/IlKHNRSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 397,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 106
+        },
+        "username": "phields0",
+        "verified": false
+      }
+    ]
+  }
+}

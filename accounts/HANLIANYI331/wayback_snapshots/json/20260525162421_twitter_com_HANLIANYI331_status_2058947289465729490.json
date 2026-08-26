@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2058947289465729490",
+    "created_at": "2026-05-25T16:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058947289465729490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "JusqLeLunaEtRet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058947289465729490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058925361963147618",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JusqLeLunaEtRet: 哎，看來這個話題真的有必要說一下。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2058947289465729490",
+        "created_at": "2026-05-25T16:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058947289465729490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "JusqLeLunaEtRet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058947289465729490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058925361963147618",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JusqLeLunaEtRet: 哎，看來這個話題真的有必要說一下。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2058925361963147618",
+        "created_at": "2026-05-25T14:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058925361963147618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/todisthesun/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/todisthesun/status/2058909338304147581",
+              "start": 18,
+              "url": "https://t.co/NsxalvO34X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058925361963147618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哎，看來這個話題真的有必要說一下。\n\n首先闡述我的立場：保護兒童的權利，永遠必須優先於任何成人的慾望。這是不可妥協的底線。成人對兒童負有明確的倫理義務：無論自己內心是否存在任何形式的性吸引，都必須主動、徹底地拒絕與兒童發展任何性行為或浪漫關係。因為兒童在權力、經濟、認知與經驗上處於絕對弱勢，根本無法做出真正自由且有效的同意。任何以「同意」為名的跨年齡關係，本質上都是權力不對等的剝削。\n\n正因如此，我們才有必要把「對兒童產生特殊的性吸引」與「實施兒童性行為／兒童性剝削」這兩個概念清楚區分。前者是一種心理傾向或慾望結構，後者則是現實中的行為與權力傷害。許多公眾討論習慣用「戀童癖」一詞把兩者完全等同，結果把心理狀態、倫理問題與犯罪行為壓縮成同一個模糊標籤，既不利於理解問題，也不利於真正保護兒童。\n\n區分二者，絕非為了替兒童性剝削脫罪；恰恰相反，只有把「傾向」與「行為」分開，我們才能更精準地分析侵害的成因。事實上，許多實施兒童性剝削的人並非具有穩定、持續的兒童性吸引。例如常見的教師、監護人或權力位置上的成年人，他們當中不少本身是成人性吸引者，他們常常原本只和同齡人建立關係，卻在權力欲、控制欲、暴力結構與機會主義的共同作用下，對眼前失權的兒童產生了性剝削的慾望。愛潑斯坦案中那些政商精英所追求的，往往也不是單純的「兒童」身體，而是支配未成年人的「權力快感」。\n\n反過來說，並非所有對兒童產生性吸引的人，都會付諸實際的性剝削行為。這一點無需多加論證——正如並非所有順性別異性戀男性都是強姦犯一樣。\n\n當然，這種區分並不意味著「兒童性吸引」可以與成人之間的性取向簡單類比。成人關係有可能建立在平等與真正同意的基礎上，而兒童永遠無法達到這種條件。因此，兒童權利必須始終優先，成人也必須承擔拒絕跨年齡關係的道德責任。在當前兒童權利與保護機制仍極其脆弱的現實下，任何關於「兒童性吸引者權利」的討論，都不應脫離這一背景（兒童性吸引者權利絕不包涵發生兒童性行為，相反，是包含如何控制這種慾望向現實的轉化，從而幫助他們融入社會）。唯有先把兒童保護真正建設好，我們才有條件去談其他。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 422,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058909338304147581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎，看來這個話題真的有必要說一下。 https://t.co/NsxalvO34X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41677,
+          "following_count": 3770,
+          "like_count": 1669,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2887
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 请你带我穿过秦淮的夜，然后我们一起回去。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "pinned_tweet_id": "2058701239383445744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058537217807519744/yT4R0yPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 136,
+          "like_count": 6997,
+          "listed_count": 2,
+          "media_count": 181,
+          "tweet_count": 4796
+        },
+        "username": "JusqLeLunaEtRet",
+        "verified": true
+      }
+    ]
+  }
+}

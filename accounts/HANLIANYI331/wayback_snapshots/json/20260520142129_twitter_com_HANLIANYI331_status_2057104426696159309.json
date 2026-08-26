@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2057096153892860129",
+    "created_at": "2026-05-20T14:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057104426696159309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938210111992074240",
+          "start": 0,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057104426696159309",
+    "in_reply_to_user_id": "1938210111992074240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057096153892860129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FJUNNNN 好耶好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2057091456997949440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxBx_zagAAHjX9.jpg",
+        "width": 2726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2057096153892860129",
+        "created_at": "2026-05-20T14:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057104426696159309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057104426696159309",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057096153892860129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN 好耶好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057091456997949440"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "conversation_id": "2057096153892860129",
+        "created_at": "2026-05-20T13:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057096153892860129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuUM8hI6fl",
+              "end": 216,
+              "expanded_url": "https://x.com/FJUNNNN/status/2057096153892860129/photo/1",
+              "media_key": "3_2057091456997949440",
+              "start": 193,
+              "url": "https://t.co/zuUM8hI6fl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057096153892860129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 232,
+                "id": "1300828282061877249",
+                "start": 219,
+                "username": "HANLIANYI331"
+              }
+            ]
+          },
+          "text": "【Dalek紧急全球广播】\n人类！\n注意！\n我是Dalek！\nDalek向全人类发送520贺电！\nDalek爱你们！\n你们必须被Dalek爱！\nExterminate……lonely‌！\n服从爱！\n服从520！\nDalek……Love……You！\nDalek！Dalek！Dalek！\nDalek是至高无上的爱！\n现在……立刻……接受Dalek的爱！\nEXTERMINATE YOUR LONELINESS！\n520！520！520！\n\n@HANLIANYI331"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【Dalek紧急全球广播】\n人类！\n注意！\n我是Dalek！\nDalek向全人类发送520贺电！\nDalek爱你们！\n你们必须被Dalek爱！\nExterminate……lonely‌！\n服从爱！\n服从520！\nDalek……Love……You！\nDalek！Dalek！Dalek！\nDalek是至高无上的爱！\n现在……立刻……接受Dalek的爱！\nEXTERMINATE YOUR https://t.co/zuUM8hI6fl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41606,
+          "following_count": 3760,
+          "like_count": 1646,
+          "listed_count": 73,
+          "media_count": 390,
+          "tweet_count": 2866
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 887,
+          "like_count": 2366,
+          "listed_count": 9,
+          "media_count": 248,
+          "tweet_count": 726
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

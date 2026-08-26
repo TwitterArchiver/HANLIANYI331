@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2075543322576499106",
+    "created_at": "2026-07-10T11:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075543322576499106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1920068368725598333",
+          "start": 140,
+          "url": "https://t.co/MidUSOjLHu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075543322576499106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "理想情况的庇护所：\n有值班的精神科医生、心理治疗师、心理咨询师、艺术疗愈师、音乐治疗师、社会工作者\n有值班的做饭厨师、保洁员、知心大姐姐\n每个人有单独的房间，单独的床，单独的桌椅\n每个住户有工作，有在交房租（家长或本人支付）\n\n现实情况的庇护所：\n没有任何值班工作人员，只有住户\n绝大多数住户都交不起房租\n多数人没有单独的床，单独的桌椅\n\n理想情况的庇护所庇护人群：天才/非家暴且家庭富裕/有超出常人平均水平工作能力\n\n现实情况的庇护所庇护的人群：包括精神残疾/家庭极端困难/家暴党/无工作能力的所有人\n\n理想情况的庇护所：通过心理治疗/艺术疗愈/音乐治疗等方式快速修复精神创伤\n\n现实情况的庇护所：通过远离原生家庭环境，纯靠时间堆砌自愈创伤\n\n理想情况的庇护所的人均成本：20000元人民币/人/月\n\n现实情况的庇护所的人均成本：800元人民币/人/月"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920068368725598333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理想情况的庇护所：\n有值班的精神科医生、心理治疗师、心理咨询师、艺术疗愈师、音乐治疗师、社会工作者\n有值班的做饭厨师、保洁员、知心大姐姐\n每个人有单独的房间，单独的床，单独的桌椅\n每个住户有工作，有在交房租（家长或本人支付）\n\n现实情况的庇护所：\n没有任何值班工作人员，只有住户 https://t.co/MidUSOjLHu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2075543322576499106",
+        "created_at": "2026-07-10T11:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075543322576499106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1920068368725598333",
+              "start": 140,
+              "url": "https://t.co/MidUSOjLHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075543322576499106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "理想情况的庇护所：\n有值班的精神科医生、心理治疗师、心理咨询师、艺术疗愈师、音乐治疗师、社会工作者\n有值班的做饭厨师、保洁员、知心大姐姐\n每个人有单独的房间，单独的床，单独的桌椅\n每个住户有工作，有在交房租（家长或本人支付）\n\n现实情况的庇护所：\n没有任何值班工作人员，只有住户\n绝大多数住户都交不起房租\n多数人没有单独的床，单独的桌椅\n\n理想情况的庇护所庇护人群：天才/非家暴且家庭富裕/有超出常人平均水平工作能力\n\n现实情况的庇护所庇护的人群：包括精神残疾/家庭极端困难/家暴党/无工作能力的所有人\n\n理想情况的庇护所：通过心理治疗/艺术疗愈/音乐治疗等方式快速修复精神创伤\n\n现实情况的庇护所：通过远离原生家庭环境，纯靠时间堆砌自愈创伤\n\n理想情况的庇护所的人均成本：20000元人民币/人/月\n\n现实情况的庇护所的人均成本：800元人民币/人/月"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920068368725598333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理想情况的庇护所：\n有值班的精神科医生、心理治疗师、心理咨询师、艺术疗愈师、音乐治疗师、社会工作者\n有值班的做饭厨师、保洁员、知心大姐姐\n每个人有单独的房间，单独的床，单独的桌椅\n每个住户有工作，有在交房租（家长或本人支付）\n\n现实情况的庇护所：\n没有任何值班工作人员，只有住户 https://t.co/MidUSOjLHu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1920068368725598333",
+        "created_at": "2025-05-07T10:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T11:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920068368725598333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920068368725598333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "去年年初和一个精神科的朋友去拜访杭州的一个公益组织时。不由得为该公益组织“奢华”的配置所感到震惊。\n\n这个公益组织的初衷是为了给长年累月在精神科住院的双相、精分和抑郁症青少年，出院后提供一个融入社会的“过渡”。\n\n从我自己开设庇护所的眼光来看，这个公益组织收容的青少年在精神疾病的严重程度上，甚至可以说普遍要比庇护所绝大多数的居住人员都要好。\n\n但是这个公益组织收容的青少年，人均的照顾成本却达到了2万元人民币以上——一个住着8个人的房屋，却配备了约二十个全职或非全职的社会工作专业人员。一个全职人员每个月可以发八千元的工资，每一个青少年都有着一对一的心理照顾人员，同时有专门的工作人员做饭，举办活动，打扫卫生，以及做防止自杀的预防措施。\n\n这里的孩子普遍都是被家长送进来的，一个月缴纳的费用在一万五以上。但即使这样，这个公益组织仍然在常年亏损，入不敷出。最后靠成功被政府宣传和救济才得以存续。\n\n能生活在让家长一个月支付一万五以上的家庭里的孩子，虽然也同样需要“救济”，但却一开始就和出生于破碎家庭的孩子们生活在了两个世界里。相对于在经济上苦苦挣扎，一切从简的庇护所，这里倒是更像是在社会工作和精神医学领域更加“理想化和标准化”的救济场所。\n\n很显然，庇护所也完全可以采用这个模式，一切都看上去这么光明，美好，甚至可以和政府合作，帮助政府宣传。打交道的都是上流阶级的高素质家庭和从小得到优质教育的孩子。每当有“想要做好事的人”登门拜访时，看到一群高素质又可爱的孩子们在慢慢的从抑郁中恢复，每个人都觉得自己做的事情“充满了意义”。\n\n但是，生活另一个世界的人，又该怎么办呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 36964,
+          "like_count": 345,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "去年年初和一个精神科的朋友去拜访杭州的一个公益组织时。不由得为该公益组织“奢华”的配置所感到震惊。\n\n这个公益组织的初衷是为了给长年累月在精神科住院的双相、精分和抑郁症青少年，出院后提供一个融入社会的“过渡”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41904,
+          "following_count": 3921,
+          "like_count": 1844,
+          "listed_count": 3,
+          "media_count": 403,
+          "tweet_count": 3047
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

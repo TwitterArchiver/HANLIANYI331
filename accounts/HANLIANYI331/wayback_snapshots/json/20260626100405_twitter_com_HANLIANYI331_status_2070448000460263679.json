@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2070377412379254982",
+    "created_at": "2026-06-26T10:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T11:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070448000460263679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1430976467131842564",
+          "start": 0,
+          "username": "_muguopick"
+        },
+        {
+          "end": 26,
+          "id": "1858339494371680256",
+          "start": 12,
+          "username": "xxWuchangxx_R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070448000460263679",
+    "in_reply_to_user_id": "1430976467131842564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070377412379254982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_muguopick @xxWuchangxx_R 如果你还没搬的话你完全可以坚持在房子里坚决不搬走（房东唯一赶你走的办法是去法院起诉，而且大概率起诉不赢）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2070377412379254982",
+        "created_at": "2026-06-26T10:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070448000460263679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1430976467131842564",
+              "start": 0,
+              "username": "_muguopick"
+            },
+            {
+              "end": 26,
+              "id": "1858339494371680256",
+              "start": 12,
+              "username": "xxWuchangxx_R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070448000460263679",
+        "in_reply_to_user_id": "1430976467131842564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070377412379254982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_muguopick @xxWuchangxx_R 如果你还没搬的话你完全可以坚持在房子里坚决不搬走（房东唯一赶你走的办法是去法院起诉，而且大概率起诉不赢）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430976467131842564",
+        "conversation_id": "2070377412379254982",
+        "created_at": "2026-06-26T05:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070377412379254982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070377412379254982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "基本确定是房东因为精神疾病歧视找到的理由举报的我们 （因为是双相 怕出事）以及有人看我们的地方眼红 想要白嫖我们 收回我们的声装 请求大家教教我如何维权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41819,
+          "following_count": 3872,
+          "like_count": 1813,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 3016
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-26T19:32:44.000Z",
+        "description": "🎵l//虚弱人格@infps_offical //神出鬼没的奇怪乐手//精神康复中//在尝试努力活着//提问箱📪https://t.co/AW5EeaIkPh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "infps_offical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/_muguopick",
+                "end": 79,
+                "expanded_url": "https://ngl.link/_muguopick",
+                "start": 56,
+                "url": "https://t.co/AW5EeaIkPh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/7344798",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/7344798",
+                "start": 0,
+                "url": "https://t.co/0GBs33t2fR"
+              }
+            ]
+          }
+        },
+        "id": "1430976467131842564",
+        "location": "北京",
+        "name": "Ringoo Kino树莓果酱🐭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955993400064532483/IIKW_npp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 453,
+          "like_count": 2932,
+          "listed_count": 4,
+          "media_count": 556,
+          "tweet_count": 3317
+        },
+        "url": "https://t.co/0GBs33t2fR",
+        "username": "_muguopick",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T02:40:49.000Z",
+        "description": "断糖药娘、贝斯手、不幸者进攻\n————————\n最爱的妹妹🥰@caicaihi1110\n我会永远记得你✨@XingZ60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "caicaihi1110"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "XingZ60"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn/404",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn/404",
+                "start": 0,
+                "url": "https://t.co/lUTYLcSwaz"
+              }
+            ]
+          }
+        },
+        "id": "1858339494371680256",
+        "location": "后台",
+        "name": "无常奶绿电锯🏳️‍⚧️",
+        "pinned_tweet_id": "2003656139968512425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007283995822948353/PxKe6TqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 36,
+          "like_count": 8715,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/lUTYLcSwaz",
+        "username": "xxWuchangxx_R",
+        "verified": false
+      }
+    ]
+  }
+}

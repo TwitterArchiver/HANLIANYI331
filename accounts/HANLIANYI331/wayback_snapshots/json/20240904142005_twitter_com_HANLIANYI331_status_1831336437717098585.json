@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1831336437717098585",
+    "created_at": "2024-09-04T14:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T15:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1831336437717098585"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1831336437717098585",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我小时候，我经常愤世嫉俗于“常脑”人每天都在对我这样的阿斯伯格综合征人士进行“霸凌”，于是曾经干过一件惊世骇俗的事情：给我身边每一个“常脑”人都发一本《阿斯伯格综合征完全指南》，并且放出言论，这本书不研读完，要么你们就不要和我相处，要么就不要用“常脑”的方式和我相处。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1831336437717098585",
+        "created_at": "2024-09-04T14:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T15:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831336437717098585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831336437717098585",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我小时候，我经常愤世嫉俗于“常脑”人每天都在对我这样的阿斯伯格综合征人士进行“霸凌”，于是曾经干过一件惊世骇俗的事情：给我身边每一个“常脑”人都发一本《阿斯伯格综合征完全指南》，并且放出言论，这本书不研读完，要么你们就不要和我相处，要么就不要用“常脑”的方式和我相处。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜庇佑所入住请联系 telegram账号@hanlianyi331｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 110,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 87,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1715942183382180330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31650,
+          "following_count": 3440,
+          "like_count": 254,
+          "listed_count": 57,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

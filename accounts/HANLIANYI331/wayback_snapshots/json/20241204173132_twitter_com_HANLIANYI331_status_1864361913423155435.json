@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1864361913423155435",
+    "created_at": "2024-12-04T17:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T18:28:16.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864361087602446677",
+      "1864361589455114731",
+      "1864361913423155435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/1864293191605768645",
+          "start": 99,
+          "url": "https://t.co/Ni6emxpk6Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864361913423155435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。\n\n因此中国从2020年开始重新推行的“第二学士学位”解决了这个问题：只需要两年时间，就可以拿到第二个专业的本科学士学位和本科毕业证。相当于是“重读本科”。\n\n这两年时间，只修专业课，不修公共课，课程完全和四年正常的本科的专业课等同甚至更多。\n\n而且还非常贴心的推出了相关政策：取得第二学士学位的毕业生在政策上待遇等同于硕士，解决了年龄问题。\n\n第二学士学位唯一一个效力无法等同于正常本科的专业是，临床医学；临床医学考执医证不承认第二学士学位，必须五年制本科或三年专科+三年本科才能考执医证。\n\n所以几乎所有中国重新高考重读本科的新闻，都是去读临床医学。因为其他所有专业都有第二学士或者硕士可以选择。\n\n另外从近两年开始，第二学士学位出现了大规模缩招的情况。\n\n因为很多学生都会认为“与其花两年再读一个本科，最高学历得不到提升，为什么不花三年读一个硕士，出国还只需要花一年。”\n\n很多第二学士学位的学生在这种心态的影响下，学校沦为了“免费考研自习室”。读一年后考上研直接退学，课也不上，蹭学校的宿舍，食堂，图书馆。浪费了大量的教学资源。\n\n大部分中国的学生受环境影响，功利性太重。\n\n也注定了“重读本科”的稀少性。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864293191605768645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。… https://t.co/Ni6emxpk6Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1864361087602446677",
+        "created_at": "2024-12-04T17:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T18:28:16.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864361087602446677",
+          "1864361589455114731",
+          "1864361913423155435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1864293191605768645",
+              "start": 99,
+              "url": "https://t.co/Ni6emxpk6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864361087602446677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。\n\n因此中国从2020年开始重新推行的“第二学士学位”解决了这个问题：只需要两年时间，就可以拿到第二个专业的本科学士学位和本科毕业证。相当于是“重读本科”。\n\n而且还非常贴心的推出了相关政策：取得第二学士学位的毕业生在政策上待遇等同于硕士，解决了年龄问题。\n\n第二学士学位唯一一个效力无法等同于正常本科的专业是，临床医学；临床医学考执医证不承认第二学士学位，必须五年制本科或三年专科+三年本科才能考执医证。\n\n所以几乎所有中国重新高考重读本科的新闻，都是去读临床医学。因为其他所有专业都有第二学士或者硕士可以选择。\n\n另外从近两年开始，第二学士学位出现了大规模缩招的情况。\n\n因为很多学生都会认为“与其花两年再读一个本科，最高学历得不到提升，为什么不花三年读一个硕士，出国还只需要花一年。”\n\n很多第二学士学位的学生在这种心态的影响下，沦为了“免费考研自习室”。读一年后考上研直接退学，课也不上，蹭学校的宿舍，食堂，图书馆。浪费了大量的教学资源。\n\n大部分中国的学生受环境影响，功利性太重。\n\n也注定了“重读本科”的稀少性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864293191605768645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。… https://t.co/Ni6emxpk6Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1864361589455114731",
+        "created_at": "2024-12-04T17:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T18:28:16.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864361087602446677",
+          "1864361589455114731",
+          "1864361913423155435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1864293191605768645",
+              "start": 99,
+              "url": "https://t.co/Ni6emxpk6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864361589455114731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。\n\n因此中国从2020年开始重新推行的“第二学士学位”解决了这个问题：只需要两年时间，就可以拿到第二个专业的本科学士学位和本科毕业证。相当于是“重读本科”。\n\n这两年时间，只修专业课，不修公共课，课程完全和四年正常的本科的专业课等同甚至更多。\n\n而且还非常贴心的推出了相关政策：取得第二学士学位的毕业生在政策上待遇等同于硕士，解决了年龄问题。\n\n第二学士学位唯一一个效力无法等同于正常本科的专业是，临床医学；临床医学考执医证不承认第二学士学位，必须五年制本科或三年专科+三年本科才能考执医证。\n\n所以几乎所有中国重新高考重读本科的新闻，都是去读临床医学。因为其他所有专业都有第二学士或者硕士可以选择。\n\n另外从近两年开始，第二学士学位出现了大规模缩招的情况。\n\n因为很多学生都会认为“与其花两年再读一个本科，最高学历得不到提升，为什么不花三年读一个硕士，出国还只需要花一年。”\n\n很多第二学士学位的学生在这种心态的影响下，沦为了“免费考研自习室”。读一年后考上研直接退学，课也不上，蹭学校的宿舍，食堂，图书馆。浪费了大量的教学资源。\n\n大部分中国的学生受环境影响，功利性太重。\n\n也注定了“重读本科”的稀少性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864293191605768645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。… https://t.co/Ni6emxpk6Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-04T17:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T18:28:16.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864361087602446677",
+          "1864361589455114731",
+          "1864361913423155435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1864293191605768645",
+              "start": 99,
+              "url": "https://t.co/Ni6emxpk6Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864361913423155435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。\n\n因此中国从2020年开始重新推行的“第二学士学位”解决了这个问题：只需要两年时间，就可以拿到第二个专业的本科学士学位和本科毕业证。相当于是“重读本科”。\n\n这两年时间，只修专业课，不修公共课，课程完全和四年正常的本科的专业课等同甚至更多。\n\n而且还非常贴心的推出了相关政策：取得第二学士学位的毕业生在政策上待遇等同于硕士，解决了年龄问题。\n\n第二学士学位唯一一个效力无法等同于正常本科的专业是，临床医学；临床医学考执医证不承认第二学士学位，必须五年制本科或三年专科+三年本科才能考执医证。\n\n所以几乎所有中国重新高考重读本科的新闻，都是去读临床医学。因为其他所有专业都有第二学士或者硕士可以选择。\n\n另外从近两年开始，第二学士学位出现了大规模缩招的情况。\n\n因为很多学生都会认为“与其花两年再读一个本科，最高学历得不到提升，为什么不花三年读一个硕士，出国还只需要花一年。”\n\n很多第二学士学位的学生在这种心态的影响下，学校沦为了“免费考研自习室”。读一年后考上研直接退学，课也不上，蹭学校的宿舍，食堂，图书馆。浪费了大量的教学资源。\n\n大部分中国的学生受环境影响，功利性太重。\n\n也注定了“重读本科”的稀少性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864293191605768645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国的本科阶段学习有这样的一个问题：公共课占去了两年的课时，其中包含英语，体育，和大量的政治相关课程。\n\n真正的专业课只有两年。因此如果选择“重新高考后重读四年本科”，会存在浪费两年时间的问题。… https://t.co/Ni6emxpk6Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1864293191605768645",
+        "created_at": "2024-12-04T12:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T13:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864293191605768645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yinlin66/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yinlin66/status/1864289653005697255",
+              "start": 27,
+              "url": "https://t.co/FlwE4RSa1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864293191605768645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 9975,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864289653005697255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国社会太畸形了。。。没有任何一点的人生容错率。。。 https://t.co/FlwE4RSa1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33916,
+          "following_count": 3423,
+          "like_count": 294,
+          "listed_count": 60,
+          "media_count": 264,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//双性恋//百合ing 女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//真·法语学习博主//中文//English//français// 可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24049,
+          "following_count": 3151,
+          "like_count": 122164,
+          "listed_count": 68,
+          "media_count": 2816,
+          "tweet_count": 45056
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

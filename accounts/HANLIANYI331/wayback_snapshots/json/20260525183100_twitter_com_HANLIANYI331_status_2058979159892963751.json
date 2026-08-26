@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2058979159892963751",
+    "created_at": "2026-05-25T18:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T19:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058979159892963751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1678385508609839105",
+          "start": 3,
+          "username": "liueric40542933"
+        },
+        {
+          "end": 37,
+          "id": "1656340688286433281",
+          "start": 21,
+          "username": "BlueFish1358523"
+        },
+        {
+          "end": 49,
+          "id": "1824324977379905537",
+          "start": 38,
+          "username": "siyu060910"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Current Sexual Health Reports - This review explores the treatment needs of people with attractions to children and emphasizes the importance of adopting a more holistic approach to therapeutic...",
+          "display_url": "link.springer.com/article/10.100…",
+          "end": 73,
+          "expanded_url": "https://link.springer.com/article/10.1007/s11930-025-00403-x",
+          "images": [
+            {
+              "height": 1075,
+              "url": "https://pbs.twimg.com/news_img/2056352985647849472/JwwXYeNc?format=jpg&name=orig",
+              "width": 827
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2056352985647849472/JwwXYeNc?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 50,
+          "status": 200,
+          "title": "Toward a Holistic Approach to Treatment and Support for People with Attractions to Children",
+          "unwound_url": "https://link.springer.com/article/10.1007/s11930-025-00403-x",
+          "url": "https://t.co/Z8TkSmAqW6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058979159892963751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058743101553054167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liueric40542933: @BlueFish1358523 @siyu060910 https://t.co/Z8TkSmAqW6\n证据不支持你的看法。\n还有恋童的在社会也是弱势。 英语社会即使无受害人的虚拟作品也会追着打。 即使没有犯罪，很多人也认为这类人最好…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [siyu060910].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "siyu060910",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "siyu060910"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1136,
+        "media_key": "3_2058741708070989824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIerQHaMAAmngx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 699,
+        "media_key": "3_2058743030988054528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIf4QXaoAAqxLV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2058979159892963751",
+        "created_at": "2026-05-25T18:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058979159892963751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1678385508609839105",
+              "start": 3,
+              "username": "liueric40542933"
+            },
+            {
+              "end": 37,
+              "id": "1656340688286433281",
+              "start": 21,
+              "username": "BlueFish1358523"
+            },
+            {
+              "end": 49,
+              "id": "1824324977379905537",
+              "start": 38,
+              "username": "siyu060910"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Current Sexual Health Reports - This review explores the treatment needs of people with attractions to children and emphasizes the importance of adopting a more holistic approach to therapeutic...",
+              "display_url": "link.springer.com/article/10.100…",
+              "end": 73,
+              "expanded_url": "https://link.springer.com/article/10.1007/s11930-025-00403-x",
+              "images": [
+                {
+                  "height": 1075,
+                  "url": "https://pbs.twimg.com/news_img/2056352985647849472/JwwXYeNc?format=jpg&name=orig",
+                  "width": 827
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056352985647849472/JwwXYeNc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "Toward a Holistic Approach to Treatment and Support for People with Attractions to Children",
+              "unwound_url": "https://link.springer.com/article/10.1007/s11930-025-00403-x",
+              "url": "https://t.co/Z8TkSmAqW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058979159892963751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058743101553054167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liueric40542933: @BlueFish1358523 @siyu060910 https://t.co/Z8TkSmAqW6\n证据不支持你的看法。\n还有恋童的在社会也是弱势。 英语社会即使无受害人的虚拟作品也会追着打。 即使没有犯罪，很多人也认为这类人最好…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058741708070989824",
+            "3_2058743030988054528"
+          ]
+        },
+        "author_id": "1678385508609839105",
+        "conversation_id": "2058601411701784980",
+        "created_at": "2026-05-25T02:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058743101553054167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1656340688286433281",
+              "start": 0,
+              "username": "BlueFish1358523"
+            },
+            {
+              "end": 28,
+              "id": "1824324977379905537",
+              "start": 17,
+              "username": "siyu060910"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Current Sexual Health Reports - This review explores the treatment needs of people with attractions to children and emphasizes the importance of adopting a more holistic approach to therapeutic...",
+              "display_url": "link.springer.com/article/10.100…",
+              "end": 52,
+              "expanded_url": "https://link.springer.com/article/10.1007/s11930-025-00403-x",
+              "images": [
+                {
+                  "height": 1075,
+                  "url": "https://pbs.twimg.com/news_img/2056352985647849472/JwwXYeNc?format=jpg&name=orig",
+                  "width": 827
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2056352985647849472/JwwXYeNc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "Toward a Holistic Approach to Treatment and Support for People with Attractions to Children",
+              "unwound_url": "https://link.springer.com/article/10.1007/s11930-025-00403-x",
+              "url": "https://t.co/Z8TkSmAqW6"
+            },
+            {
+              "display_url": "pic.x.com/o29ToXKJGq",
+              "end": 170,
+              "expanded_url": "https://x.com/liueric40542933/status/2058743101553054167/photo/1",
+              "media_key": "3_2058741708070989824",
+              "start": 147,
+              "url": "https://t.co/o29ToXKJGq"
+            },
+            {
+              "display_url": "pic.x.com/o29ToXKJGq",
+              "end": 170,
+              "expanded_url": "https://x.com/liueric40542933/status/2058743101553054167/photo/1",
+              "media_key": "3_2058743030988054528",
+              "start": 147,
+              "url": "https://t.co/o29ToXKJGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058743101553054167",
+        "in_reply_to_user_id": "1656340688286433281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 132,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058741253135573359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlueFish1358523 @siyu060910 https://t.co/Z8TkSmAqW6\n证据不支持你的看法。\n还有恋童的在社会也是弱势。 英语社会即使无受害人的虚拟作品也会追着打。 即使没有犯罪，很多人也认为这类人最好死了算，并不想与他们成为好友。有人只因向学生出柜而被解雇 https://t.co/o29ToXKJGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41675,
+          "following_count": 3770,
+          "like_count": 1671,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2890
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-10T12:47:59.000Z",
+        "description": "no DM",
+        "id": "1678385508609839105",
+        "name": "liu eric",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042591591240732682/kgzJmnTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 23,
+          "like_count": 929,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 1973
+        },
+        "username": "liueric40542933",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T16:49:40.000Z",
+        "description": "",
+        "id": "1656340688286433281",
+        "name": "Blue Fish",
+        "pinned_tweet_id": "2043521472363176355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048145039403237376/2eswKfOW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 125,
+          "like_count": 25967,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1101
+        },
+        "username": "BlueFish1358523",
+        "verified": false
+      }
+    ]
+  }
+}

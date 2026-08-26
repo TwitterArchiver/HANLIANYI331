@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1936234557743022134",
+    "created_at": "2025-06-21T04:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T05:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936277638584455335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886062230141370368",
+          "start": 0,
+          "username": "Rho9000"
+        },
+        {
+          "end": 22,
+          "id": "1274501862440366085",
+          "start": 9,
+          "username": "echo30730665"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936277638584455335",
+    "in_reply_to_user_id": "1886062230141370368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936275904009060561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rho9000 @echo30730665 武汉最大的庇护所有四层，九个卧室"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1936234557743022134",
+        "created_at": "2025-06-21T04:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936277638584455335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886062230141370368",
+              "start": 0,
+              "username": "Rho9000"
+            },
+            {
+              "end": 22,
+              "id": "1274501862440366085",
+              "start": 9,
+              "username": "echo30730665"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936277638584455335",
+        "in_reply_to_user_id": "1886062230141370368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936275904009060561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rho9000 @echo30730665 武汉最大的庇护所有四层，九个卧室"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886062230141370368",
+        "conversation_id": "1936234557743022134",
+        "created_at": "2025-06-21T04:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T05:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936275904009060561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1274501862440366085",
+              "start": 0,
+              "username": "echo30730665"
+            },
+            {
+              "end": 27,
+              "id": "1300828282061877249",
+              "start": 14,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936275904009060561",
+        "in_reply_to_user_id": "1274501862440366085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936251048471240985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@echo30730665 @HANLIANYI331 我跟你一样，我也觉得很震惊，因为广州的庇护所是两层的，虽然我也没有仔细看，但是也不可能有九台空调，按照我高中教室一个班60个人，一个教室一台空调而且刚刚好，我实在想不出来要多大的面积才要九台空调"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38271,
+          "following_count": 3633,
+          "like_count": 791,
+          "listed_count": 63,
+          "media_count": 331,
+          "tweet_count": 2420
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-02T14:41:12.000Z",
+        "description": "吾乃MTF,MTF(Mobile Task Forces﹣机动特遣队）是基金会除了设施保安力量之外的主要战斗力量，同时也是其机动作战力量和主要的外部行动执行力量,作为机动特遣队Rho-9成员（“Technical Support”-技术支持）Rho-9负责基金会的计算机安全。2025.5.19始发个人往事回忆",
+        "id": "1886062230141370368",
+        "name": "机动特遣队Rho-9（躺平版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913786329961562113/LVgBFJnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 28,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 149
+        },
+        "username": "Rho9000",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T00:38:37.000Z",
+        "description": "逃离地狱",
+        "id": "1274501862440366085",
+        "location": "Mercer Island, WA",
+        "name": "echo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459390142771122179/llwcGwnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 451,
+          "like_count": 1327,
+          "listed_count": 3,
+          "media_count": 13,
+          "tweet_count": 1607
+        },
+        "username": "echo30730665",
+        "verified": false
+      }
+    ]
+  }
+}

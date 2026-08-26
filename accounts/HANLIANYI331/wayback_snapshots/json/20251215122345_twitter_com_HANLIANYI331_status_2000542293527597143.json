@@ -1,0 +1,732 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      }
+    ],
+    "conversation_id": "2000542293527597143",
+    "created_at": "2025-12-15T12:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T13:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000542293527597143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ethan_Flat/sta…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/Ethan_Flat/status/2000499139705209058",
+          "start": 83,
+          "url": "https://t.co/BcT0be7pFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000542293527597143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000499139705209058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "相比起传统资金，在中国，虽然个人持有加密货币不违法，但是同时也不受法律保护，丢失后追回极难\n一旦持有加密货币，都需要谨慎再谨慎，否则任何时刻都会有钱财全部灭失的风险 https://t.co/BcT0be7pFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2000498507325792257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MyyxbaYAE1-SP.jpg",
+        "width": 2106
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2000498507321663488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MyyxabYAAcxbb.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1030,
+        "media_key": "3_2000498507363561472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MyyxkasAAXD44.jpg",
+        "width": 2215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2000542293527597143",
+        "created_at": "2025-12-15T12:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000542293527597143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ethan_Flat/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/Ethan_Flat/status/2000499139705209058",
+              "start": 83,
+              "url": "https://t.co/BcT0be7pFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000542293527597143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000499139705209058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相比起传统资金，在中国，虽然个人持有加密货币不违法，但是同时也不受法律保护，丢失后追回极难\n一旦持有加密货币，都需要谨慎再谨慎，否则任何时刻都会有钱财全部灭失的风险 https://t.co/BcT0be7pFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000498507325792257",
+            "3_2000498507321663488",
+            "3_2000498507363561472"
+          ]
+        },
+        "author_id": "1829558024236859392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2000499139705209058",
+        "created_at": "2025-12-15T09:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:30:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000498603782205879",
+          "2000499139705209058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 40,
+              "id": "867617849208037377",
+              "start": 36,
+              "username": "okx"
+            },
+            {
+              "end": 162,
+              "id": "1235850748132356098",
+              "start": 153,
+              "username": "Bybit_ZH"
+            },
+            {
+              "end": 173,
+              "id": "1451036242431262720",
+              "start": 163,
+              "username": "binancezh"
+            },
+            {
+              "end": 182,
+              "id": "1521726436989898754",
+              "start": 174,
+              "username": "Gate_zh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LsZRGgVNZt",
+              "end": 207,
+              "expanded_url": "https://x.com/Ethan_Flat/status/2000499139705209058/photo/1",
+              "media_key": "3_2000498507325792257",
+              "start": 184,
+              "url": "https://t.co/LsZRGgVNZt"
+            },
+            {
+              "display_url": "pic.x.com/LsZRGgVNZt",
+              "end": 207,
+              "expanded_url": "https://x.com/Ethan_Flat/status/2000499139705209058/photo/1",
+              "media_key": "3_2000498507321663488",
+              "start": 184,
+              "url": "https://t.co/LsZRGgVNZt"
+            },
+            {
+              "display_url": "pic.x.com/LsZRGgVNZt",
+              "end": 207,
+              "expanded_url": "https://x.com/Ethan_Flat/status/2000499139705209058/photo/1",
+              "media_key": "3_2000498507363561472",
+              "start": 184,
+              "url": "https://t.co/LsZRGgVNZt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000499139705209058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 40,
+                "id": "867617849208037377",
+                "start": 36,
+                "username": "OKX"
+              },
+              {
+                "end": 162,
+                "id": "1235850748132356098",
+                "start": 153,
+                "username": "Bybit_ZH"
+              },
+              {
+                "end": 173,
+                "id": "1451036242431262720",
+                "start": 163,
+                "username": "binancezh"
+              },
+              {
+                "end": 182,
+                "id": "1521726436989898754",
+                "start": 174,
+                "username": "Gate_zh"
+              },
+              {
+                "end": 195,
+                "id": "1461224994705649671",
+                "start": 184,
+                "username": "okxchinese"
+              },
+              {
+                "end": 206,
+                "id": "1597158942668226560",
+                "start": 196,
+                "username": "Bitget_zh"
+              },
+              {
+                "end": 1076,
+                "id": "1719688604551700480",
+                "start": 1061,
+                "username": "XLayerOfficial"
+              },
+              {
+                "end": 1086,
+                "id": "1100932506193260544",
+                "start": 1077,
+                "username": "benbybit"
+              },
+              {
+                "end": 1096,
+                "id": "1235850748132356098",
+                "start": 1087,
+                "username": "Bybit_ZH"
+              },
+              {
+                "end": 1112,
+                "id": "999947328621395968",
+                "start": 1097,
+                "username": "Bybit_Official"
+              },
+              {
+                "end": 1126,
+                "id": "1621454046937899009",
+                "start": 1113,
+                "username": "JamesBybitCM"
+              },
+              {
+                "end": 1141,
+                "id": "1268730033385832448",
+                "start": 1127,
+                "username": "BybitHelpdesk"
+              },
+              {
+                "end": 1153,
+                "id": "1566634345208508418",
+                "start": 1142,
+                "username": "Bybit_Web3"
+              },
+              {
+                "end": 1169,
+                "id": "1719688604551700480",
+                "start": 1154,
+                "username": "XLayerOfficial"
+              },
+              {
+                "end": 1181,
+                "id": "1461224994705649671",
+                "start": 1170,
+                "username": "okxchinese"
+              },
+              {
+                "end": 1252,
+                "id": "902926941413453824",
+                "start": 1241,
+                "username": "cz_binance"
+              },
+              {
+                "end": 1265,
+                "id": "1003840309166366721",
+                "start": 1253,
+                "username": "heyibinance"
+              },
+              {
+                "end": 1275,
+                "id": "2985599460",
+                "start": 1266,
+                "username": "star_okx"
+              },
+              {
+                "end": 1288,
+                "id": "723224444752158720",
+                "start": 1276,
+                "username": "GracyBitget"
+              },
+              {
+                "end": 1298,
+                "id": "112894741",
+                "start": 1289,
+                "username": "Han_Gate"
+              },
+              {
+                "end": 1314,
+                "id": "1428246848301502464",
+                "start": 1299,
+                "username": "wublockchain12"
+              },
+              {
+                "end": 1323,
+                "id": "17552210",
+                "start": 1315,
+                "username": "evilcos"
+              },
+              {
+                "end": 1332,
+                "id": "1403881130802225152",
+                "start": 1324,
+                "username": "BTCdayu"
+              },
+              {
+                "end": 1346,
+                "id": "1456122941192605705",
+                "start": 1333,
+                "username": "0xAA_Science"
+              },
+              {
+                "end": 1359,
+                "id": "117967796",
+                "start": 1347,
+                "username": "Cryptowushi"
+              },
+              {
+                "end": 1369,
+                "id": "1080476780991963137",
+                "start": 1360,
+                "username": "bitfool1"
+              },
+              {
+                "end": 1380,
+                "id": "1677585618",
+                "start": 1370,
+                "username": "dahongfei"
+              },
+              {
+                "end": 1390,
+                "id": "1391080697037656064",
+                "start": 1381,
+                "username": "Web3Feng"
+              },
+              {
+                "end": 1406,
+                "id": "423169595",
+                "start": 1391,
+                "username": "Honglin_lawyer"
+              },
+              {
+                "end": 1414,
+                "id": "1461562787008847873",
+                "start": 1407,
+                "username": "22333D"
+              },
+              {
+                "end": 1426,
+                "id": "1765265076330680320",
+                "start": 1415,
+                "username": "LiuyanW618"
+              }
+            ]
+          },
+          "text": "恳请Bybit救我一命。\n        一个失误导致近3万枚USDC从@OKX 通过X Layer链充值到Bybit的交易所地址，Bybit不支持X Layer链。酿成大祸。恳请Bybit救救我。\n         入圈一年，新手散户，什么也不懂。只老老实实做低风险理财，把钱像乞丐一样分散在不同的交易所@Bybit_ZH，@binancezh，@Gate_zh， @okxchinese，@Bitget_zh，追求那点可怜的小金额高年化。每个月的利息转到Bybit的U卡供日常消费，就是为了让爸妈生活宽裕一点。我爸每次微信刷U卡，会高兴得像个孩子一样给我打电话，说“儿子真有本事，每个月给我发工资”。日子虽然苦，但终于有了点盼头。我想很多小散户和我一样，来币圈的目的不是一夜暴富，也不是实现阶层跃迁，只希望踏踏实实赚点利息，改善家人生活。\n         那天我工作完已经半夜1点，困得眼睛都睁不开，为了参加OKX Night的闪赚，为了多赚几百块给家人多发钱，硬撑着把所有钱东挪西转归集到okx（汇集过程中用到了Plasma链，这个链在gate中显示为XPL）。\n         OKX借不到ADA，我把所有的USDC转到Bybit去借。最后一笔，我困得不行，也有点松懈，选了保存的Bybit的EVM地址，把X Layer想成了XPL，转了出去。\n钱没了。全没了。那一刻我整个人都傻了。那是我所有的血汗钱，就因为犯困、因为粗心、因为想给家人多点保障，全没了。\n         也许3万U对别人来说就是一顿饭钱，对我一个十八线小城的普通打工人，这是我苦熬十年的积蓄和父亲的养老钱，是我们全家的全部希望。现在我上班都恍惚不安，在家人面前还得强装镇定。我真不知道该如何是好。\n儿子眼睛斜视，医生说寒假动手术最合适，这笔钱本来还有一部分是给孩子的治疗费，现在全砸了。我该如何是好，我绝望了\n         我对技术一点也不懂，经过这几天的咨询我只了解到，广大散户也有人犯过类似的错误并最终找回。我的这笔钱并不是彻底丢了。\n         当然，这次的失误是我自己造成的。而且找回这笔钱要Bybit高层的授权，涉及到交易所内的复杂操作，增加了交易所的很大工作量。\n         我诚恳地向交易所求救, 恳请你们帮帮我。帮助一下我这个愚孝的儿子，愚蠢的父亲，帮助一下我这个不称职的一家之主。帮助一下对币圈充满虔诚，对交易所充满感激的忠实粉丝。我愿意配合提供所有必要信息、支付任何合理费用。谢谢您了，谢谢各位大佬。\n@XLayerOfficial @benbybit @Bybit_ZH @Bybit_Official @JamesBybitCM @BybitHelpdesk @Bybit_Web3 @XLayerOfficial @okxchinese\n         如果我有理解不对的地方，也恳请得到各位大佬的指正。谢谢你们。有你们的存在才有币圈今天的繁荣和发展。\n@cz_binance @heyibinance @star_okx @GracyBitget @Han_Gate @wublockchain12 @evilcos @BTCdayu @0xAA_Science @Cryptowushi @bitfool1 @dahongfei @Web3Feng @Honglin_lawyer @22333D @LiuyanW618"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 23824,
+          "like_count": 152,
+          "quote_count": 11,
+          "reply_count": 127,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "恳请Bybit救我一命。\n        一个失误导致近3万枚USDC从@OKX 通过X Layer链充值到Bybit的交易所地址，Bybit不支持X Layer链。酿成大祸。恳请Bybit救救我。\n         入圈一年，新手散户，什么也不懂。只老老实实做低风险理财，把钱像乞丐一样分散在不同的交易所@Bybit_ZH，@binancezh，@Gate_zh， https://t.co/LsZRGgVNZt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40403,
+          "following_count": 3668,
+          "like_count": 1321,
+          "listed_count": 68,
+          "media_count": 370,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T16:33:38.000Z",
+        "description": "谁救救我，帮我找回3万USDC。",
+        "id": "1829558024236859392",
+        "name": "不卷去上链",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998927345206611968/UgOiV9VW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 388,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 171
+        },
+        "username": "Ethan_Flat",
+        "verified": true
+      }
+    ]
+  }
+}

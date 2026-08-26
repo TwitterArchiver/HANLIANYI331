@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1825785784680538135",
+    "created_at": "2024-08-20T06:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T07:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825785784680538135"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1825785784680538135",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有位社群里的朋友想报名“宁韵声音”的跨性别女性嗓音训练，价格约五千多元，有所顾虑。而包括我在内，对这家机构没有任何了解，请问有谁了解这家机构的性质和声誉?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1825785784680538135",
+        "created_at": "2024-08-20T06:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T07:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825785784680538135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825785784680538135",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有位社群里的朋友想报名“宁韵声音”的跨性别女性嗓音训练，价格约五千多元，有所顾虑。而包括我在内，对这家机构没有任何了解，请问有谁了解这家机构的性质和声誉?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜庇佑所入住请联系 telegram账号@hanlianyi331｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 110,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 87,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1715942183382180330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31333,
+          "following_count": 3444,
+          "like_count": 248,
+          "listed_count": 59,
+          "tweet_count": 1742
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

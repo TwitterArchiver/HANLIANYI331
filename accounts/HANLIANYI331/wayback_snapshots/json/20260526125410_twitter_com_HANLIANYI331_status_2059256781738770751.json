@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2059102001615786114",
+    "created_at": "2026-05-26T12:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059256781738770751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1966745903055990786",
+          "start": 0,
+          "username": "eggtartqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20592…",
+          "end": 35,
+          "expanded_url": "https://x.com/i/status/2059255506812965069",
+          "start": 12,
+          "url": "https://t.co/fkI7asGmYX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059256781738770751",
+    "in_reply_to_user_id": "1966745903055990786",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059255506812965069",
+        "type": "quoted"
+      },
+      {
+        "id": "2059102001615786114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eggtartqwq https://t.co/fkI7asGmYX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2059102001615786114",
+        "created_at": "2026-05-26T12:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059256781738770751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1966745903055990786",
+              "start": 0,
+              "username": "eggtartqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20592…",
+              "end": 35,
+              "expanded_url": "https://x.com/i/status/2059255506812965069",
+              "start": 12,
+              "url": "https://t.co/fkI7asGmYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059256781738770751",
+        "in_reply_to_user_id": "1966745903055990786",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059255506812965069",
+            "type": "quoted"
+          },
+          {
+            "id": "2059102001615786114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eggtartqwq https://t.co/fkI7asGmYX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2059255506812965069",
+        "created_at": "2026-05-26T12:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:48:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059255255926485254",
+          "2059255506812965069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059255506812965069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "正是因为我们必须更好的保护儿童，才必须去区分「儿童性吸引者」和「性犯罪者」概念，必须认清大多数对儿童产生侵害的「性犯罪者」都不是「儿童性吸引者」，才必须“平权”和“去污名化”。\n\n否则，这种概念的混淆和词语的污名化，让大家都把目光瞄在「儿童性吸引者」身上，却忽视了真正的「性犯罪者」\n\n爱泼斯坦的“萝莉岛”都是「性犯罪者」，但却并非是「儿童性吸引者」\n\n这种刻意的混淆和污名化造成的后果就是，会导致更多的儿童无法得到保护。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正是因为我们必须更好的保护儿童，才必须去区分「儿童性吸引者」和「性犯罪者」概念，必须认清大多数对儿童产生侵害的「性犯罪者」都不是「儿童性吸引者」，才必须“平权”和“去污名化”。\n\n否则，这种概念的混淆和词语的污名化，让大家都把目光瞄在「儿童性吸引者」身上，却忽视了真正的「性犯罪者」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966745903055990786",
+        "conversation_id": "2059102001615786114",
+        "created_at": "2026-05-26T02:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059102001615786114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2057910998351430028",
+              "start": 24,
+              "url": "https://t.co/2aESv3gd3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059102001615786114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057910998351430028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为恋童癖站台这辈子是真有了，被政治正确洗脑这块 https://t.co/2aESv3gd3m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41676,
+          "following_count": 3769,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2898
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T06:09:08.000Z",
+        "description": "老广未开智家里蹲，爱好音乐摄影。",
+        "id": "1966745903055990786",
+        "location": "茶楼",
+        "name": "樱川九十九",
+        "pinned_tweet_id": "2052789896168047003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045054851294638080/Gu0wbHMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 731,
+          "like_count": 9209,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 842
+        },
+        "username": "eggtartqwq",
+        "verified": true
+      }
+    ]
+  }
+}

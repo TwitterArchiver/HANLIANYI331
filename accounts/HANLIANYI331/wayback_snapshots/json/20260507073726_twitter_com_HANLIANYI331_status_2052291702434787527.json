@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052291695665176576",
+        "3_2052291695673532416",
+        "3_2052291695648419840",
+        "3_2052291695921020928"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "2052291702434787527",
+    "created_at": "2026-05-07T07:37:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052291702434787527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AOvTSH7Kmt",
+          "end": 176,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2052291702434787527/photo/1",
+          "media_key": "3_2052291695665176576",
+          "start": 153,
+          "url": "https://t.co/AOvTSH7Kmt"
+        },
+        {
+          "display_url": "pic.x.com/AOvTSH7Kmt",
+          "end": 176,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2052291702434787527/photo/1",
+          "media_key": "3_2052291695673532416",
+          "start": 153,
+          "url": "https://t.co/AOvTSH7Kmt"
+        },
+        {
+          "display_url": "pic.x.com/AOvTSH7Kmt",
+          "end": 176,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2052291702434787527/photo/1",
+          "media_key": "3_2052291695648419840",
+          "start": 153,
+          "url": "https://t.co/AOvTSH7Kmt"
+        },
+        {
+          "display_url": "pic.x.com/AOvTSH7Kmt",
+          "end": 176,
+          "expanded_url": "https://x.com/HANLIANYI331/status/2052291702434787527/photo/1",
+          "media_key": "3_2052291695921020928",
+          "start": 153,
+          "url": "https://t.co/AOvTSH7Kmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052291702434787527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "上海市宝山区丰水宝坻西苑78号楼一个房屋寻求转租，本消息的有效期截止到6月7日（退租需要提前一个月和房东说明，转租人今天想退租，如果到6月7日没有转租成功会直接退租）\n\n房租：700元\n押金：700元\n电费：1.5元一度电\n房屋类型：合租房（一个卧室）\n房屋面积：约20平米\n独立卫生间，共用厨房、洗衣机\n租赁时间：灵活租赁，但是退租前需要提前一个月和房东说明\n转租当事人联系方式：hanahana2333333（微信）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上海市宝山区丰水宝坻西苑78号楼一个房屋寻求转租，本消息的有效期截止到6月7日（退租需要提前一个月和房东说明，转租人今天想退租，如果到6月7日没有转租成功会直接退租）\n\n房租：700元\n押金：700元\n电费：1.5元一度电\n房屋类型：合租房（一个卧室）\n房屋面积：约20平米\n独立卫生间，共用厨房、洗衣机 https://t.co/AOvTSH7Kmt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2052291695665176576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs0bHebYAAcJZ4.jpg",
+        "width": 810
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052291695673532416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs0bHga4AAVzrZ.jpg",
+        "width": 810
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052291695648419840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs0bHabsAAOFAI.jpg",
+        "width": 810
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052291695921020928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs0bIbbQAAsS_j.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052291695665176576",
+            "3_2052291695673532416",
+            "3_2052291695648419840",
+            "3_2052291695921020928"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2052291702434787527",
+        "created_at": "2026-05-07T07:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052291702434787527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AOvTSH7Kmt",
+              "end": 176,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2052291702434787527/photo/1",
+              "media_key": "3_2052291695665176576",
+              "start": 153,
+              "url": "https://t.co/AOvTSH7Kmt"
+            },
+            {
+              "display_url": "pic.x.com/AOvTSH7Kmt",
+              "end": 176,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2052291702434787527/photo/1",
+              "media_key": "3_2052291695673532416",
+              "start": 153,
+              "url": "https://t.co/AOvTSH7Kmt"
+            },
+            {
+              "display_url": "pic.x.com/AOvTSH7Kmt",
+              "end": 176,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2052291702434787527/photo/1",
+              "media_key": "3_2052291695648419840",
+              "start": 153,
+              "url": "https://t.co/AOvTSH7Kmt"
+            },
+            {
+              "display_url": "pic.x.com/AOvTSH7Kmt",
+              "end": 176,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2052291702434787527/photo/1",
+              "media_key": "3_2052291695921020928",
+              "start": 153,
+              "url": "https://t.co/AOvTSH7Kmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052291702434787527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上海市宝山区丰水宝坻西苑78号楼一个房屋寻求转租，本消息的有效期截止到6月7日（退租需要提前一个月和房东说明，转租人今天想退租，如果到6月7日没有转租成功会直接退租）\n\n房租：700元\n押金：700元\n电费：1.5元一度电\n房屋类型：合租房（一个卧室）\n房屋面积：约20平米\n独立卫生间，共用厨房、洗衣机\n租赁时间：灵活租赁，但是退租前需要提前一个月和房东说明\n转租当事人联系方式：hanahana2333333（微信）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海市宝山区丰水宝坻西苑78号楼一个房屋寻求转租，本消息的有效期截止到6月7日（退租需要提前一个月和房东说明，转租人今天想退租，如果到6月7日没有转租成功会直接退租）\n\n房租：700元\n押金：700元\n电费：1.5元一度电\n房屋类型：合租房（一个卧室）\n房屋面积：约20平米\n独立卫生间，共用厨房、洗衣机 https://t.co/AOvTSH7Kmt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41555,
+          "following_count": 3739,
+          "like_count": 1631,
+          "listed_count": 73,
+          "media_count": 391,
+          "tweet_count": 2856
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

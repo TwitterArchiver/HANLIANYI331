@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1881176409181429832",
+    "created_at": "2025-01-20T03:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T04:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881176409181429832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1881059927571271733",
+          "start": 121,
+          "url": "https://t.co/Tb7QdmvsXo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881176409181429832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今早看到某条经过筛选的误导性谣言信息的流量已经变得很高了，那我还是谈一下吧。\n\n聊天记录当事人以及原推造谣者本人具体做了什么抽象事我就先不谈了\n\n原推聊天记录并非伪造，但是在一段非常长的聊天记录里尽可能的节选了一段很短的部分，去除了上下文\n\n其后利用了当代网民信息获取阈值较低的特性，对聊天记录进行了一个误导性的概括（这是一个很低劣的传播学手段，也是营销媒体的常用做法），就像很少人会察觉到造谣者在造谣指控的过程中，反复“翻供”的情况。\n\n“寒涟漪承认了猥亵和与避难所的人发生性行为”（实际上哪怕是在贴出来的节选聊天记录里，也并没有提到这件事情）\n\n“去寒涟漪的避难所还是受他帮助确实有可能会受到无论是语言还是行为的骚扰”（一个富含主观判断的引导性判断，聊天记录里也同样未有相关信息）\n\n其后确实因为网民普遍的信息获取能力阈值的缺失，相当大一部分人并没有详细看完聊天记录截图，也没有查看原来寒涟漪的相关推文，匆匆得出结论后就开始传谣并离开了。\n\n（1）我并未在任何地方承认性侵行为，包括聊天记录里，即使聊天记录里承认的性骚扰和猥亵行为也是指在2018年以前的事件，且也已经说明当时是因为AS的原因在未经明确同意的情况下揉过其他mtf的胸，该事件也并未产生负面后果。\n\n（2）关于我是否“和庇护所住户发生过性关系”，我也已经在2024年6月17日的推文里面做过详细说明。聊天记录里承认的“和受助者发生过性关系”是指在2024年6月17日推文中提到的2020年的受助者，且该受助者并未入住过庇护所。（通过不断点击本推文的引用推文，可以翻到该推文）\n\n（3）聊天记录里承认的一个言语行为是我会询问其他人“请问你可以和我做爱吗？”“我们什么时候做爱呀？”\n该言语行为经向的当事人均是在她们入住庇护所之前就早已和我熟悉的人，当事人均可以从该玩笑中获取到正面的情绪价值。\n\n4.且，若从学术的角度来讲，即使（3）里提到的行为是对陌生人发出，它也并不算客观上的“性骚扰”，更远远谈不上“猥亵”。\n\n谣言止于智者，实际上上文叙述的信息，是可以通过逻辑推断和信息搜集得出的，本不需要我进行叙述。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881059927571271733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今早看到某条经过筛选的误导性谣言信息的流量已经变得很高了，那我还是谈一下吧。\n\n聊天记录当事人以及原推造谣者本人具体做了什么抽象事我就先不谈了\n\n原推聊天记录并非伪造，但是在一段非常长的聊天记录里尽可能的节选了一段很短的部分，去除了上下文… https://t.co/Tb7QdmvsXo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1881176409181429832",
+        "created_at": "2025-01-20T03:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T04:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881176409181429832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1881059927571271733",
+              "start": 121,
+              "url": "https://t.co/Tb7QdmvsXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881176409181429832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今早看到某条经过筛选的误导性谣言信息的流量已经变得很高了，那我还是谈一下吧。\n\n聊天记录当事人以及原推造谣者本人具体做了什么抽象事我就先不谈了\n\n原推聊天记录并非伪造，但是在一段非常长的聊天记录里尽可能的节选了一段很短的部分，去除了上下文\n\n其后利用了当代网民信息获取阈值较低的特性，对聊天记录进行了一个误导性的概括（这是一个很低劣的传播学手段，也是营销媒体的常用做法），就像很少人会察觉到造谣者在造谣指控的过程中，反复“翻供”的情况。\n\n“寒涟漪承认了猥亵和与避难所的人发生性行为”（实际上哪怕是在贴出来的节选聊天记录里，也并没有提到这件事情）\n\n“去寒涟漪的避难所还是受他帮助确实有可能会受到无论是语言还是行为的骚扰”（一个富含主观判断的引导性判断，聊天记录里也同样未有相关信息）\n\n其后确实因为网民普遍的信息获取能力阈值的缺失，相当大一部分人并没有详细看完聊天记录截图，也没有查看原来寒涟漪的相关推文，匆匆得出结论后就开始传谣并离开了。\n\n（1）我并未在任何地方承认性侵行为，包括聊天记录里，即使聊天记录里承认的性骚扰和猥亵行为也是指在2018年以前的事件，且也已经说明当时是因为AS的原因在未经明确同意的情况下揉过其他mtf的胸，该事件也并未产生负面后果。\n\n（2）关于我是否“和庇护所住户发生过性关系”，我也已经在2024年6月17日的推文里面做过详细说明。聊天记录里承认的“和受助者发生过性关系”是指在2024年6月17日推文中提到的2020年的受助者，且该受助者并未入住过庇护所。（通过不断点击本推文的引用推文，可以翻到该推文）\n\n（3）聊天记录里承认的一个言语行为是我会询问其他人“请问你可以和我做爱吗？”“我们什么时候做爱呀？”\n该言语行为经向的当事人均是在她们入住庇护所之前就早已和我熟悉的人，当事人均可以从该玩笑中获取到正面的情绪价值。\n\n4.且，若从学术的角度来讲，即使（3）里提到的行为是对陌生人发出，它也并不算客观上的“性骚扰”，更远远谈不上“猥亵”。\n\n谣言止于智者，实际上上文叙述的信息，是可以通过逻辑推断和信息搜集得出的，本不需要我进行叙述。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881059927571271733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今早看到某条经过筛选的误导性谣言信息的流量已经变得很高了，那我还是谈一下吧。\n\n聊天记录当事人以及原推造谣者本人具体做了什么抽象事我就先不谈了\n\n原推聊天记录并非伪造，但是在一段非常长的聊天记录里尽可能的节选了一段很短的部分，去除了上下文… https://t.co/Tb7QdmvsXo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1881059927571271733",
+        "created_at": "2025-01-19T19:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T20:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881059927571271733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1798922983081165176",
+              "start": 83,
+              "url": "https://t.co/rdYCRMPOEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881059927571271733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因此当一个人流量较大以后，出现被造谣的情况，最优解是什么？\n\n答案是直接屏蔽造谣者，不回复，不引用，不反驳，不澄清\n\n如果回复和反驳，那对造谣者来说又是泼天的流量\n\n如果引用和澄清，那会让账号阅览者的信息推送时间线陷入到没有意义和价值的垃圾信息里，且会让本就没多少人知道的谣言看到谣言的信息\n\n而因此质证谣言的最佳方案，仅有私信回复。这意味着私信者已经同时满足了看到谣言，无法证伪谣言，在意谣言三个条件，且私信回复质证不会给造谣者带来流量，也同样不会给账号阅览者带来垃圾信息污染\n\n当然，私信质证也一样会有弊端，例如裁剪和选取聊天记录，刻意展示一部分信息，再利用网民普遍缺失信息获取阈值，真假参半的进一步作为恶意攻击的材料\n\n但是同样，和前几个方法相比，该方法已是在现有恶劣的互联网条件下的相对最优解。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2605,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798922983081165176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因此当一个人流量较大以后，出现被造谣的情况，最优解是什么？\n\n答案是直接屏蔽造谣者，不回复，不引用，不反驳，不澄清\n\n如果回复和反驳，那对造谣者来说又是泼天的流量… https://t.co/rdYCRMPOEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1879279526838190080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34767,
+          "following_count": 3430,
+          "like_count": 344,
+          "listed_count": 57,
+          "media_count": 283,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

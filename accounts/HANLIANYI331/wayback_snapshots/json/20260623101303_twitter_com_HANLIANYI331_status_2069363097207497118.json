@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2069363097207497118",
+    "created_at": "2026-06-23T10:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069363097207497118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RizumuA3/statu…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/RizumuA3/status/2069316573505237211",
+          "start": 131,
+          "url": "https://t.co/8XFxuXU6Ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069363097207497118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "庇护所长期以来执行的方案是“应登尽登”，哪怕人还没来都“提前登记”。\n\n但是代价是：当派出所看到一群“不男不女的人聚集在一起”，就会开始频繁恐吓房东，要求房东退租。或者电话联系信息登记者的家长，恐吓家长“您的孩子和一群不三不四的人住在一起，会把您家小孩带坏”。\n\n最后就进入了骚扰→投诉→骚扰→投诉的无限循环"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069316573505237211",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "庇护所长期以来执行的方案是“应登尽登”，哪怕人还没来都“提前登记”。\n\n但是代价是：当派出所看到一群“不男不女的人聚集在一起”，就会开始频繁恐吓房东，要求房东退租。或者电话联系信息登记者的家长，恐吓家长“您的孩子和一群不三不四的人住在一起，会把您家小孩带坏”。 https://t.co/8XFxuXU6Ht"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2069363097207497118",
+        "created_at": "2026-06-23T10:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069363097207497118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RizumuA3/statu…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/RizumuA3/status/2069316573505237211",
+              "start": 131,
+              "url": "https://t.co/8XFxuXU6Ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069363097207497118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "庇护所长期以来执行的方案是“应登尽登”，哪怕人还没来都“提前登记”。\n\n但是代价是：当派出所看到一群“不男不女的人聚集在一起”，就会开始频繁恐吓房东，要求房东退租。或者电话联系信息登记者的家长，恐吓家长“您的孩子和一群不三不四的人住在一起，会把您家小孩带坏”。\n\n最后就进入了骚扰→投诉→骚扰→投诉的无限循环"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069316573505237211",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "庇护所长期以来执行的方案是“应登尽登”，哪怕人还没来都“提前登记”。\n\n但是代价是：当派出所看到一群“不男不女的人聚集在一起”，就会开始频繁恐吓房东，要求房东退租。或者电话联系信息登记者的家长，恐吓家长“您的孩子和一群不三不四的人住在一起，会把您家小孩带坏”。 https://t.co/8XFxuXU6Ht"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1218028959109210113",
+        "conversation_id": "2069316573505237211",
+        "created_at": "2026-06-23T07:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069316573505237211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069316573505237211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "人口登记的时候正好有朋友在家里借宿，也给登记上了。派出所的人突然说“为了消除不稳定因素”，只要在上海逗留超过 24 小都需要登记。如果朋友来我家里借宿，不会在酒店留下登记信息，那我就需要给派出所汇报进行登记。还要求我加派出所的微信，到时候收集信息上报。\n\n和我举例子说未登记的人可能会在外面游荡，是不稳定因素。我实在是无法理解。反复追问了几遍。对方就是重复举例了这个事情。我还是无法理解。为什么在外面游荡是不稳定因素，需要我登记来家里借宿的人。\n\n对方大概也只是为了完成工作，也许是我太敏感了吧。总之我现在焦虑的很不舒服…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 13442,
+          "like_count": 77,
+          "quote_count": 4,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人口登记的时候正好有朋友在家里借宿，也给登记上了。派出所的人突然说“为了消除不稳定因素”，只要在上海逗留超过 24 小都需要登记。如果朋友来我家里借宿，不会在酒店留下登记信息，那我就需要给派出所汇报进行登记。还要求我加派出所的微信，到时候收集信息上报。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41822,
+          "following_count": 3875,
+          "like_count": 1807,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 3010
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12070,
+          "following_count": 1592,
+          "like_count": 45602,
+          "listed_count": 59,
+          "media_count": 1979,
+          "tweet_count": 14901
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

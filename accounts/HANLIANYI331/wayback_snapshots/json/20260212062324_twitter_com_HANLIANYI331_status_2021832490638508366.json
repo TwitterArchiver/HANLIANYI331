@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2021829124063736197",
+    "created_at": "2026-02-12T06:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021832490638508366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599477783369240576",
+          "start": 0,
+          "username": "River_and_Wood"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021832490638508366",
+    "in_reply_to_user_id": "1599477783369240576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021831674703794419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@River_and_Wood 比如说：你买100万元的黄金积存金，如果它涨到110万元，则卖出10万元，如果它跌到90万元，则再买入10万元，循环往复。\n（注意，我只是在叙述一种简单的投资逻辑，黄金只是举例）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2021829124063736197",
+        "created_at": "2026-02-12T06:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021832490638508366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599477783369240576",
+              "start": 0,
+              "username": "River_and_Wood"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021832490638508366",
+        "in_reply_to_user_id": "1599477783369240576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021831674703794419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@River_and_Wood 比如说：你买100万元的黄金积存金，如果它涨到110万元，则卖出10万元，如果它跌到90万元，则再买入10万元，循环往复。\n（注意，我只是在叙述一种简单的投资逻辑，黄金只是举例）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599477783369240576",
+        "conversation_id": "2021829124063736197",
+        "created_at": "2026-02-12T06:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021831674703794419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021831674703794419",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829124063736197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 年化10%大概怎么做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40983,
+          "following_count": 3675,
+          "like_count": 1416,
+          "listed_count": 68,
+          "media_count": 383,
+          "tweet_count": 2738
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-04T18:56:49.000Z",
+        "description": "人在广州，时不时很闲。我有一个🥗。",
+        "id": "1599477783369240576",
+        "location": "羊城",
+        "name": "瑞文+伍德（土色现货出售）",
+        "pinned_tweet_id": "2011282058501599291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620827487331831808/g5MqDFJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 2537,
+          "like_count": 10693,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 9242
+        },
+        "username": "River_and_Wood",
+        "verified": false
+      }
+    ]
+  }
+}

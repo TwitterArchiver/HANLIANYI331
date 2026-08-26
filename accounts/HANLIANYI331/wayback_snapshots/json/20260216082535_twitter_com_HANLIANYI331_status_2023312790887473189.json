@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2023312790887473189",
+    "created_at": "2026-02-16T08:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T09:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023312790887473189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/2021829124063736197",
+          "start": 136,
+          "url": "https://t.co/l9Zm5i06fw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023312790887473189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有一个最简单，但也是最有效的长线投资策略：\n\n选择一个价值归0风险最低，且长期一定会上涨到新高的投资标的物，该投资标的物必须有实际价值或坚固共识做支撑，不能是一个纯粹的投机品（这是大前提）\n\n例如：黄金、白银、比特币、以太坊、苹果/英伟达股票等……假定我们现在要投资黄金\n\n投入金额：确保这是一笔三年内都不会紧急动用的钱，假定这笔金额的总仓位是2万元人民币。\n\n初始建仓：先从定投开始，一直定投到总仓位的50％\n\n例如：我们的总仓位是2万元人民币，我们决定投资黄金，于是每天定投100元，坚持定投100天，一直定投到黄金仓位为1万元为止。\n\n其后：我们再动用剩下的现金，在当前黄金价位的110％处挂一个卖出1000元黄金仓位的卖单，并且在当前黄金价位的90％价位处挂一个买入1000元黄金仓位的买单。\n\n如果买单或者卖单触发，则按照这个原则重新挂单，循环往复。\n\n如果要加仓：继续执行定投策略。直到仓位价值加到目标仓位为止。\n\n如果要减仓：撤销下方买单，保留卖单。如果价格下跌10％，则将卖单下移。一直持续到仓位减少到目标仓位为止。\n\n不需要看k线图，不需要看世界局势，不需要看时事新闻，不需要盯盘，机械性执行以上交易纪律，甚至可以写在代码里面让电脑和机器自动跑。\n\n在长达数十年的尺度下，你的投资收益会跑赢金融市场95％以上的投资者"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021829124063736197",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一个最简单，但也是最有效的长线投资策略：\n\n选择一个价值归0风险最低，且长期一定会上涨到新高的投资标的物，该投资标的物必须有实际价值或坚固共识做支撑，不能是一个纯粹的投机品（这是大前提）\n\n例如：黄金、白银、比特币、以太坊、苹果/英伟达股票等……假定我们现在要投资黄金 https://t.co/l9Zm5i06fw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2023312790887473189",
+        "created_at": "2026-02-16T08:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023312790887473189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2021829124063736197",
+              "start": 136,
+              "url": "https://t.co/l9Zm5i06fw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023312790887473189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有一个最简单，但也是最有效的长线投资策略：\n\n选择一个价值归0风险最低，且长期一定会上涨到新高的投资标的物，该投资标的物必须有实际价值或坚固共识做支撑，不能是一个纯粹的投机品（这是大前提）\n\n例如：黄金、白银、比特币、以太坊、苹果/英伟达股票等……假定我们现在要投资黄金\n\n投入金额：确保这是一笔三年内都不会紧急动用的钱，假定这笔金额的总仓位是2万元人民币。\n\n初始建仓：先从定投开始，一直定投到总仓位的50％\n\n例如：我们的总仓位是2万元人民币，我们决定投资黄金，于是每天定投100元，坚持定投100天，一直定投到黄金仓位为1万元为止。\n\n其后：我们再动用剩下的现金，在当前黄金价位的110％处挂一个卖出1000元黄金仓位的卖单，并且在当前黄金价位的90％价位处挂一个买入1000元黄金仓位的买单。\n\n如果买单或者卖单触发，则按照这个原则重新挂单，循环往复。\n\n如果要加仓：继续执行定投策略。直到仓位价值加到目标仓位为止。\n\n如果要减仓：撤销下方买单，保留卖单。如果价格下跌10％，则将卖单下移。一直持续到仓位减少到目标仓位为止。\n\n不需要看k线图，不需要看世界局势，不需要看时事新闻，不需要盯盘，机械性执行以上交易纪律，甚至可以写在代码里面让电脑和机器自动跑。\n\n在长达数十年的尺度下，你的投资收益会跑赢金融市场95％以上的投资者"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829124063736197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一个最简单，但也是最有效的长线投资策略：\n\n选择一个价值归0风险最低，且长期一定会上涨到新高的投资标的物，该投资标的物必须有实际价值或坚固共识做支撑，不能是一个纯粹的投机品（这是大前提）\n\n例如：黄金、白银、比特币、以太坊、苹果/英伟达股票等……假定我们现在要投资黄金 https://t.co/l9Zm5i06fw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2021829124063736197",
+        "created_at": "2026-02-12T06:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021829124063736197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021829124063736197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9013,
+          "like_count": 55,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我非常非常希望通过投资来实现“被动收入”，并且让“被动收入”等同于我每年花费在危机干预活动的钱上。\n\n但是在保持本金一定程度安全的基础上，年化10％的收益已经是极限。\n\n照这个比例计算，如果我的被动收入想要覆盖我每年的救助支出（按每年30万元计算）\n\n我的本金必须在300万元以上才有可能。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41002,
+          "following_count": 3679,
+          "like_count": 1419,
+          "listed_count": 67,
+          "media_count": 383,
+          "tweet_count": 2746
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

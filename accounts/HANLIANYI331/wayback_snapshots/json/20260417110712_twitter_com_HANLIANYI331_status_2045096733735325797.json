@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2044864991338361130",
+    "created_at": "2026-04-17T11:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045096733735325797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001768648936222720",
+          "start": 0,
+          "username": "GregoryDia70880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045096733735325797",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "另外，做这种投资不要抱着“回本”的心态做，也不要做那种需要花时间盯盘的策略。在对市场还不熟练的情况下，交易机器人的可靠性和稳定性要远强于人工操作。\n而且，在本金不多的情况下，人工操作所耗费的时间精力，要远远不如在现实中正常工作上班赚的钱多。\n把固定工资当银行做长期策略要更好。资本市场本身就是一个“越努力，越亏钱，越躺平，越赚钱”的地方。\n\n交易策略一定要是“如果突然坐牢十年，那我出来后一定会得到很大一笔财富”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045094647064920323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GregoryDia70880 另外，做这种投资不要抱着“回本”的心态做，也不要做那种需要花时间盯盘的策略。在对市场还不熟练的情况下，交易机器人的可靠性和稳定性要远强于人工操作。\n而且，在本金不多的情况下，人工操作所耗费的时间精力，要远远不如在现实中正常工作上班赚的钱多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2044864991338361130",
+        "created_at": "2026-04-17T11:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045096733735325797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001768648936222720",
+              "start": 0,
+              "username": "GregoryDia70880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045096733735325797",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "另外，做这种投资不要抱着“回本”的心态做，也不要做那种需要花时间盯盘的策略。在对市场还不熟练的情况下，交易机器人的可靠性和稳定性要远强于人工操作。\n而且，在本金不多的情况下，人工操作所耗费的时间精力，要远远不如在现实中正常工作上班赚的钱多。\n把固定工资当银行做长期策略要更好。资本市场本身就是一个“越努力，越亏钱，越躺平，越赚钱”的地方。\n\n交易策略一定要是“如果突然坐牢十年，那我出来后一定会得到很大一笔财富”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045094647064920323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GregoryDia70880 另外，做这种投资不要抱着“回本”的心态做，也不要做那种需要花时间盯盘的策略。在对市场还不熟练的情况下，交易机器人的可靠性和稳定性要远强于人工操作。\n而且，在本金不多的情况下，人工操作所耗费的时间精力，要远远不如在现实中正常工作上班赚的钱多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2044864991338361130",
+        "created_at": "2026-04-17T10:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045094647064920323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001768648936222720",
+              "start": 0,
+              "username": "GregoryDia70880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045094647064920323",
+        "in_reply_to_user_id": "2001768648936222720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20233…",
+                "end": 238,
+                "expanded_url": "https://x.com/i/status/2023319481683177681",
+                "start": 215,
+                "url": "https://t.co/FKnbfJw9jq"
+              }
+            ]
+          },
+          "text": "我不太确定是因为什么原因，我这边好像并没有得到你这的邀请奖励，可能是因为币安的一些很不友好的活动规则。\n玩加密货币的话，只碰比特币和以太坊，其他的都不要碰，你可以把它看作是波动大一些的白银和黄金。比特币和以太坊经常出现超过50％的极端波动。但是这两者的价值只会上蹿下跳，不会归0。\n\n不要碰杠杆，只做现货，50％现金50％比特币的网格/再平衡玩法可以做到平均年化50％。把它看作是收益高一些的理财银行，不要看作是一个赌博的地方。\nhttps://t.co/FKnbfJw9jq"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045072154547610022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GregoryDia70880 我不太确定是因为什么原因，我这边好像并没有得到你这的邀请奖励，可能是因为币安的一些很不友好的活动规则。\n玩加密货币的话，只碰比特币和以太坊，其他的都不要碰，你可以把它看作是波动大一些的白银和黄金。比特币和以太坊经常出现超过50％的极端波动。但是这两者的价值只会上蹿下跳，不会归0。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40681,
+          "following_count": 3682,
+          "like_count": 1592,
+          "listed_count": 71,
+          "media_count": 390,
+          "tweet_count": 2820
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T21:37:02.000Z",
+        "description": "",
+        "id": "2001768648936222720",
+        "name": "Gregory Diaz",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "GregoryDia70880",
+        "verified": false
+      }
+    ]
+  }
+}

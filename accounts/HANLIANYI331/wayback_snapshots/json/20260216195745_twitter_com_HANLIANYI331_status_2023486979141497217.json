@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2023319481683177681",
+    "created_at": "2026-02-16T19:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T20:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023486979141497217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "990171887367016448",
+          "start": 0,
+          "username": "Bolack_AiDieck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023486979141497217",
+    "in_reply_to_user_id": "990171887367016448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023481456753045724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bolack_AiDieck 这本身就是一个被无数量化和基金广泛应用的策略了，其余策略本质上是为了追求超额收益出现的变体，“大盘”本身就可以被作为一个投资标的物存在。单纯回测大盘存在变形，因为散户本身就容易出现恐慌时抛售，贪婪时梭哈的情况。金融市场的多数人都跑不赢大盘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2023319481683177681",
+        "created_at": "2026-02-16T19:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T20:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023486979141497217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "990171887367016448",
+              "start": 0,
+              "username": "Bolack_AiDieck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023486979141497217",
+        "in_reply_to_user_id": "990171887367016448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023481456753045724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bolack_AiDieck 这本身就是一个被无数量化和基金广泛应用的策略了，其余策略本质上是为了追求超额收益出现的变体，“大盘”本身就可以被作为一个投资标的物存在。单纯回测大盘存在变形，因为散户本身就容易出现恐慌时抛售，贪婪时梭哈的情况。金融市场的多数人都跑不赢大盘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990171887367016448",
+        "conversation_id": "2023319481683177681",
+        "created_at": "2026-02-16T19:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T20:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023481456753045724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023481456753045724",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023475109458329752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 不会，如果真有这么好的东西，量化基金早就知道了。你可以vibe coding让ai写出你要的策略然后直接跑回测，我肉眼预估都是跑不赢大盘。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41010,
+          "following_count": 3679,
+          "like_count": 1426,
+          "listed_count": 67,
+          "media_count": 383,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-28T10:12:29.000Z",
+        "description": "MtF/INFJ/CS、Math、Finance、Philosophy、Physics/无证含糖MtF🍥/同类互fo/来了的话可以关注一下呢~/Transhumanism",
+        "id": "990171887367016448",
+        "location": "Cosmos",
+        "name": "Bolack·AiDieck🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940071435138977792/Zj2X8pI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 802,
+          "like_count": 10469,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 377
+        },
+        "username": "Bolack_AiDieck",
+        "verified": false
+      }
+    ]
+  }
+}

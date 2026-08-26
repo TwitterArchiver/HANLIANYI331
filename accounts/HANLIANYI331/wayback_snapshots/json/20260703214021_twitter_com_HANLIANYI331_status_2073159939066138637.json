@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1730026013743071488",
+    "created_at": "2026-07-03T21:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T22:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073159939066138637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1214351307336667142",
+          "start": 0,
+          "username": "akiyamamizukaze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/19594…",
+          "end": 40,
+          "expanded_url": "https://x.com/i/status/1959482134550483350",
+          "start": 17,
+          "url": "https://t.co/vXwaKdJlVw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073159939066138637",
+    "in_reply_to_user_id": "1214351307336667142",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959482134550483350",
+        "type": "quoted"
+      },
+      {
+        "id": "1730026013743071488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiyamamizukaze https://t.co/vXwaKdJlVw请问您知道史莱姆最近的近况吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959482132369403904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzF6nhuacAAbMET.jpg",
+        "width": 1536
+      },
+      {
+        "height": 723,
+        "media_key": "3_1730026010387578880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GAJJfYlWgAAng7e.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1730026013743071488",
+        "created_at": "2026-07-03T21:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T22:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073159939066138637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1214351307336667142",
+              "start": 0,
+              "username": "akiyamamizukaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/19594…",
+              "end": 40,
+              "expanded_url": "https://x.com/i/status/1959482134550483350",
+              "start": 17,
+              "url": "https://t.co/vXwaKdJlVw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073159939066138637",
+        "in_reply_to_user_id": "1214351307336667142",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959482134550483350",
+            "type": "quoted"
+          },
+          {
+            "id": "1730026013743071488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiyamamizukaze https://t.co/vXwaKdJlVw请问您知道史莱姆最近的近况吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959482132369403904"
+          ]
+        },
+        "author_id": "818146680587558913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1959482134550483350",
+        "created_at": "2025-08-24T05:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T06:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959482134550483350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1626412762149842944",
+              "start": 23,
+              "username": "the_biggest_fun"
+            },
+            {
+              "end": 72,
+              "id": "1903099585129816064",
+              "start": 57,
+              "username": "tokerumaisurii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dF70Ofac9e",
+              "end": 101,
+              "expanded_url": "https://x.com/Fermi_ko/status/1959482134550483350/photo/1",
+              "media_key": "3_1959482132369403904",
+              "start": 78,
+              "url": "https://t.co/dF70Ofac9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959482134550483350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2708,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "漫展上碰到了两位推油@ArtsSuraimu @the_biggest_fun ，还借用了不愿意透露姓名的小虚空酱@tokerumaisurii 的手机（ https://t.co/dF70Ofac9e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1730026010387578880"
+          ]
+        },
+        "author_id": "1214351307336667142",
+        "conversation_id": "1730026013743071488",
+        "created_at": "2023-11-30T00:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2023-11-30T01:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1730026013743071488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v4Nz8NZPL8",
+              "end": 50,
+              "expanded_url": "https://x.com/Shira_Mizuki/status/1730026013743071488/photo/1",
+              "media_key": "3_1730026010387578880",
+              "start": 27,
+              "url": "https://t.co/v4Nz8NZPL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1730026013743071488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3220,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有种追星成功的感觉（\n我也想成为像史莱姆一样优秀的人 https://t.co/v4Nz8NZPL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41873,
+          "following_count": 3889,
+          "like_count": 1839,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 3037
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-07T01:01:38.000Z",
+        "description": "休眠中 | enby | CPU Architect | プロセカ | 性取向是半导体 | BS+MS @CMU_ECE | 里: @shiraharamizuki | lang: ZH/EN/JA | 神のまにまに 仰せのままに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 52,
+                "username": "CMU_ECE"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "shiraharamizuki"
+              }
+            ]
+          }
+        },
+        "id": "1214351307336667142",
+        "location": "誰もいないのセカイ",
+        "name": "weak inversion mode mizuki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917051820838375424/U355DjSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 585,
+          "like_count": 22037,
+          "listed_count": 2,
+          "media_count": 708,
+          "tweet_count": 11432
+        },
+        "url": "",
+        "username": "akiyamamizukaze",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-08T17:25:43.000Z",
+        "description": "PhD candidate in particle physics，language: EN/中文。不欢迎粉红。",
+        "id": "818146680587558913",
+        "location": "Z³",
+        "name": "Majorana費米子",
+        "pinned_tweet_id": "1155361944842330113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617602110207709184/GlRETZrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5128,
+          "following_count": 1349,
+          "like_count": 93606,
+          "listed_count": 20,
+          "media_count": 1431,
+          "tweet_count": 43209
+        },
+        "url": "",
+        "username": "Fermi_ko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998138325551767552",
+        "3_1998138325727944704",
+        "3_1998138326084362240",
+        "3_1998138326055096320"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "1998138329334980664",
+    "created_at": "2025-12-08T21:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T22:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998138329334980664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vephchm3k6",
+          "end": 171,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1998138329334980664/photo/1",
+          "media_key": "3_1998138325551767552",
+          "start": 148,
+          "url": "https://t.co/vephchm3k6"
+        },
+        {
+          "display_url": "pic.x.com/vephchm3k6",
+          "end": 171,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1998138329334980664/photo/1",
+          "media_key": "3_1998138325727944704",
+          "start": 148,
+          "url": "https://t.co/vephchm3k6"
+        },
+        {
+          "display_url": "pic.x.com/vephchm3k6",
+          "end": 171,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1998138329334980664/photo/1",
+          "media_key": "3_1998138326084362240",
+          "start": 148,
+          "url": "https://t.co/vephchm3k6"
+        },
+        {
+          "display_url": "pic.x.com/vephchm3k6",
+          "end": 171,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1998138329334980664/photo/1",
+          "media_key": "3_1998138326055096320",
+          "start": 148,
+          "url": "https://t.co/vephchm3k6"
+        },
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 195,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1980138233741848754",
+          "start": 172,
+          "url": "https://t.co/6Uexv9iWBe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998138329334980664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "paypal.me/hanlianyi520",
+            "end": 247,
+            "expanded_url": "http://paypal.me/hanlianyi520",
+            "start": 224,
+            "url": "https://t.co/bhAUQ0oBt7"
+          }
+        ]
+      },
+      "text": "本帖为对寒涟漪（或涟漪危机干预小组）赞赏方式的合集更新整理，分别为支付宝，微信，PayPal，加密货币，香港银行卡，中国内地银行卡，欧洲银行卡\n\n支付宝：hanlianyi520@outlook.com（用户名：涟漪危机干预小组）（实名：潘佳彤）（图一为该账户付款码）（图二为该账户添加好友码）\n\n微信：hanlianyi520outlook（用户名：流光逝梦）（实名：潘佳彤）（图三为该微信账户赞赏码）（图四为该微信账户付款码）\n\nPayPal：https://t.co/bhAUQ0oBt7\n\n加密货币（为避免一些风险，后续的加密货币赞赏我会通过币安交易所账户接收，但是原来的USDT和BTC钱包的收款地址仍然有效，若通过此方式赞赏，请转账同时联系寒涟漪确认）：\n币安交易所：（币安UID）1170295012（用户名：寒涟漪）\n\n香港银行卡：\n持有人名称：PAN JIATONG\n账户号码：884000209261\n银行编号/银行名：395 Airstar Bank Limited （天星银行有限公司）\n分行编号（如需）：755\nSWIFT代码：AIRRHKHHXXX\n银行地址：SUITES 3201-07, TOWER 5, THE GATEWAY, HARBOUR CITY, KOWLOON, HONG KONG\n\n中国内地银行卡：\n工商银行 6212254000004180343 （潘佳彤）\n\n欧州银行卡：\nName：R ZHU\n\nIBAN：NL56 ABNA 0104 5078 37\n\nBIC：ABNANL2A"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980138233741848754",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本帖为对寒涟漪（或涟漪危机干预小组）赞赏方式的合集更新整理，分别为支付宝，微信，PayPal，加密货币，香港银行卡，中国内地银行卡，欧洲银行卡\n\n支付宝：hanlianyi520@outlook.com（用户名：涟漪危机干预小组）（实名：潘佳彤）（图一为该账户付款码）（图二为该账户添加好友码） https://t.co/vephchm3k6 https://t.co/6Uexv9iWBe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998138329334980664].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998138329334980664",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998138329334980664"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_1998138325551767552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rQOHKbYAAhYB6.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1335,
+        "media_key": "3_1998138325727944704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rQOH0boAAWR-T.jpg",
+        "width": 1142
+      },
+      {
+        "height": 1301,
+        "media_key": "3_1998138326084362240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rQOJJaIAAgKOW.jpg",
+        "width": 1301
+      },
+      {
+        "height": 1910,
+        "media_key": "3_1998138326055096320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rQOJCbkAAWfoM.jpg",
+        "width": 1403
+      },
+      {
+        "height": 1820,
+        "media_key": "3_1980138230176468992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rdOqfW0AABkSC.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2002,
+        "media_key": "3_1980138230608531456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rdOsGXkAAJmpi.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980138230176468992",
+            "3_1980138230608531456"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1980138233741848754",
+        "created_at": "2025-10-20T05:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980138233741848754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ZJpp4jraa",
+              "end": 142,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1980138233741848754/photo/1",
+              "media_key": "3_1980138230176468992",
+              "start": 119,
+              "url": "https://t.co/6ZJpp4jraa"
+            },
+            {
+              "display_url": "pic.x.com/6ZJpp4jraa",
+              "end": 142,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1980138233741848754/photo/1",
+              "media_key": "3_1980138230608531456",
+              "start": 119,
+              "url": "https://t.co/6ZJpp4jraa"
+            },
+            {
+              "display_url": "x.com/lianyiganyu/st…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/lianyiganyu/status/1883892557207470495",
+              "start": 143,
+              "url": "https://t.co/UfvRgu9fCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980138233741848754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "时隔一年，本条信息是一条资金方面的求助，引用推文是所有的赞赏方式（请在不影响自己生活和生存的情况下进行赞赏）：\n赞赏者可以添加寒涟漪的任何一个平台的联系方式（我即时通信平台的使用频率排序分别为telegram，QQ，推特，知乎，微信）。\n当前因为多方面的原因，尽管和去年十月相比，情况有所好转，但是庇护所项目的资金缺口仍然巨大，我本人（寒涟漪）的负债金额也在过去这一年扩大。\n目前武汉地区有五个房屋（当前居住人数三十多人）需要在十月末至十一月初缴付房租，其中两个房屋因为两年租约到期，房东将续约标准改至了半年付和年付（因搬家成本，续约仍然比搬家要划算），这意味着需要在半月时间内支付七万元人民币的房租，目前仍然有三万多元的缺口。\n同时，当前仍然在聘请和试岗在涟漪危机干预小组全职工作的专业人员（周均工作时间44小时以上，社工或临床与咨询专业学历或有个人经验），更高的人员成本同时也是为了将高度依赖于寒涟漪本人的工作进行分摊和转移和对志愿者劳动力的有效利用。\n元旦后将会发布2025年的工作简报，更详细的资金开销情况和小组工作情况可通过telegram直接和我进行私信（仅限赞赏者）\n以下是在引用推文的基础上的补充赞赏渠道（如果有些赞赏渠道被封锁，可以替换这些）\n银行卡：6214 8327 5592 0571（潘佳彤）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 51323,
+          "like_count": 154,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883892557207470495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时隔一年，本条信息是一条资金方面的求助，引用推文是所有的赞赏方式（请在不影响自己生活和生存的情况下进行赞赏）：\n赞赏者可以添加寒涟漪的任何一个平台的联系方式（我即时通信平台的使用频率排序分别为telegram，QQ，推特，知乎，微信）。 https://t.co/6ZJpp4jraa https://t.co/UfvRgu9fCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40393,
+          "following_count": 3667,
+          "like_count": 1313,
+          "listed_count": 69,
+          "media_count": 367,
+          "tweet_count": 2647
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

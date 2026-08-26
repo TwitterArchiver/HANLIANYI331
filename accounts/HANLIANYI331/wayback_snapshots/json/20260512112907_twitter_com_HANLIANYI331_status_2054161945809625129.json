@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2054101531901964543",
+    "created_at": "2026-05-12T11:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T12:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054161945809625129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 30,
+          "id": "1164688189673463808",
+          "start": 16,
+          "username": "Hina_Tokugawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054161945809625129",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054101531901964543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @Hina_Tokugawa 如果说「福」被“污名化”了，那「逼」也一样是被“污名化”了。因为原本汉字实际上是「屄」。\n就像「操」原本的汉字实际上是「肏」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2054101531901964543",
+        "created_at": "2026-05-12T11:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T12:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054161945809625129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 30,
+              "id": "1164688189673463808",
+              "start": 16,
+              "username": "Hina_Tokugawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054161945809625129",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054101531901964543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @Hina_Tokugawa 如果说「福」被“污名化”了，那「逼」也一样是被“污名化”了。因为原本汉字实际上是「屄」。\n就像「操」原本的汉字实际上是「肏」"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2054101531901964543",
+        "created_at": "2026-05-12T07:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054101531901964543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2054031455962226718",
+              "start": 141,
+              "url": "https://t.co/vORoXvq6bq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054101531901964543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近来墙内流行以「福」代「逼」。比如「傻逼」用「傻福」代替，这样虽然消解了原词的攻击力，但同时使「福」这个汉字无辜躺枪，被「逼」污名化了。\n\n后来「福」被塞进了敏感词审查中，于是又出现少量以「逼」代「福」的现象。比如某网店的糕点名「大福」为规避审查而改成了「大逼」，实在令人忍俊不禁 。\n\n总强调要规范使用汉字，所以为什么不从改进敏感词审查机制做起呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9791,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054031455962226718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近来墙内流行以「福」代「逼」。比如「傻逼」用「傻福」代替，这样虽然消解了原词的攻击力，但同时使「福」这个汉字无辜躺枪，被「逼」污名化了。\n\n后来「福」被塞进了敏感词审查中，于是又出现少量以「逼」代「福」的现象。比如某网店的糕点名「大福」为规避审查而改成了「大逼」，实在令人忍俊不禁 https://t.co/vORoXvq6bq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41586,
+          "following_count": 3739,
+          "like_count": 1633,
+          "listed_count": 73,
+          "media_count": 391,
+          "tweet_count": 2861
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 818,
+          "like_count": 19408,
+          "listed_count": 7,
+          "media_count": 1027,
+          "tweet_count": 5697
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T23:58:06.000Z",
+        "description": "Transgender Female. HRT now, already looks like femboy (kinda)\n跨性别女性。MTF（激素治疗中），人生目标就是成为女仆。",
+        "id": "1164688189673463808",
+        "location": "China",
+        "name": "苏Nya",
+        "pinned_tweet_id": "2033883177014657322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1164688280375316481/aIKqjv9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 1083,
+          "like_count": 47520,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 18753
+        },
+        "username": "Hina_Tokugawa",
+        "verified": false
+      }
+    ]
+  }
+}

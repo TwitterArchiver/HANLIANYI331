@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1874857891418812819",
+    "created_at": "2025-01-03T05:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T06:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875055744175030621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1704084965250699265",
+          "start": 0,
+          "username": "tanakalindak"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lianyiganyu/st…",
+          "end": 37,
+          "expanded_url": "https://x.com/lianyiganyu/status/1840501215215640615?t=ZzAvbUaLO1f34_sDoCDGDg&s=19",
+          "start": 14,
+          "url": "https://t.co/Go2PKREGBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875055744175030621",
+    "in_reply_to_user_id": "1704084965250699265",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840501215215640615",
+        "type": "quoted"
+      },
+      {
+        "id": "1874972319367729414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanakalindak https://t.co/Go2PKREGBx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1874857891418812819",
+        "created_at": "2025-01-03T05:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T06:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875055744175030621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1704084965250699265",
+              "start": 0,
+              "username": "tanakalindak"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lianyiganyu/st…",
+              "end": 37,
+              "expanded_url": "https://x.com/lianyiganyu/status/1840501215215640615?t=ZzAvbUaLO1f34_sDoCDGDg&s=19",
+              "start": 14,
+              "url": "https://t.co/Go2PKREGBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875055744175030621",
+        "in_reply_to_user_id": "1704084965250699265",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840501215215640615",
+            "type": "quoted"
+          },
+          {
+            "id": "1874972319367729414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanakalindak https://t.co/Go2PKREGBx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840501203484196864",
+            "3_1840501204138565632",
+            "3_1840501204465733633"
+          ]
+        },
+        "author_id": "1585145286598483968",
+        "conversation_id": "1840501215215640615",
+        "created_at": "2024-09-29T21:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-29T22:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840501215215640615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JxO2jr7Zj",
+              "end": 161,
+              "expanded_url": "https://x.com/lianyiganyu/status/1840501215215640615/photo/1",
+              "media_key": "3_1840501203484196864",
+              "start": 138,
+              "url": "https://t.co/8JxO2jr7Zj"
+            },
+            {
+              "display_url": "pic.x.com/8JxO2jr7Zj",
+              "end": 161,
+              "expanded_url": "https://x.com/lianyiganyu/status/1840501215215640615/photo/1",
+              "media_key": "3_1840501204138565632",
+              "start": 138,
+              "url": "https://t.co/8JxO2jr7Zj"
+            },
+            {
+              "display_url": "pic.x.com/8JxO2jr7Zj",
+              "end": 161,
+              "expanded_url": "https://x.com/lianyiganyu/status/1840501215215640615/photo/1",
+              "media_key": "3_1840501204465733633",
+              "start": 138,
+              "url": "https://t.co/8JxO2jr7Zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840501215215640615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "paypal.me/hanlianyi520",
+                "end": 397,
+                "expanded_url": "http://paypal.me/hanlianyi520",
+                "start": 374,
+                "url": "https://t.co/0V8ALatkQ6"
+              }
+            ]
+          },
+          "text": "本条推文将罗列我们的所有赞赏渠道，所有赞赏均可以联系寒涟漪进行取回。\n\n请在不影响自己生存的情况下进行赞赏。\n\n任何向我们赞赏过的人，均可以无条件添加寒涟漪的任何一个社交账号的好友和联系人。\n\n如果您需要了解资金的具体使用情况，可通过telegram账号向寒涟漪私信联系。\n\n同时，作为赞赏者，您过往所有的赞赏资金总额均可以用于向我兑换服务和物品。\n\n如向我预约固定时间的语音谈话，和直接得到我在闲鱼上正在售卖的物品。\n\n根据之前大家的建议，将部分渠道进行了隐藏并将本文删除重发，可通过私信获取这些渠道的具体方式。\n\n图片分别是支付宝、微信、QQ的收款码和赞赏码。\n\n民生，工商，招商储蓄银行卡的收款方式，请私信寒涟漪。\n\n欧元银行卡收款方式，请私信寒涟漪。\n\n支持日本的三个银行卡的日元银行卡收款，具体收款方式请联系寒涟漪。\n\nPayPal：\n\nhttps://t.co/0V8ALatkQ6\n\nUSTD等虚拟币收款方式，具体方式请私信寒涟漪。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5890,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本条推文将罗列我们的所有赞赏渠道，所有赞赏均可以联系寒涟漪进行取回。\n\n请在不影响自己生存的情况下进行赞赏。\n\n任何向我们赞赏过的人，均可以无条件添加寒涟漪的任何一个社交账号的好友和联系人。\n\n如果您需要了解资金的具体使用情况，可通过telegram账号向寒涟漪私信联系。… https://t.co/8JxO2jr7Zj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704084965250699265",
+        "conversation_id": "1874857891418812819",
+        "created_at": "2025-01-03T00:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T01:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874972319367729414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874972319367729414",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874857891418812819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 搞个募捐？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1809660678439063736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34475,
+          "following_count": 3420,
+          "like_count": 303,
+          "listed_count": 62,
+          "media_count": 265,
+          "tweet_count": 2000
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-19T10:48:28.000Z",
+        "description": "孤儿mtf一枚，已安定神隐",
+        "id": "1704084965250699265",
+        "location": "東京 港区",
+        "name": "^#¥@&（混乱）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714108825496858624/9DkCq-Ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 224,
+          "like_count": 1998,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 653
+        },
+        "username": "tanakalindak",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1840501215215640615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 4,
+          "like_count": 3,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 191
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": true
+      }
+    ]
+  }
+}

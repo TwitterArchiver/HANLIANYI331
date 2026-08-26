@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1945536191308468480",
+    "created_at": "2025-07-16T18:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T19:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945545585215385962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1523537773143236608",
+          "start": 0,
+          "username": "Homulilly_Alter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945545585215385962",
+    "in_reply_to_user_id": "1523537773143236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945536191308468480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Homulilly_Alter 实际上这和“群体”无关，和每个人的善恶有关，目前涟漪危机干预小组帮助的人群里面至少会有20％的人会在受到帮助以后，在未来有能力的情况下向小组进行回馈，目前我们帮助的几千人里面有约90％的跨性别和10％的顺性别，而在“恩将仇报”和“知恩图报”这方面，顺性别群体的表现其实不比跨性别更好，甚至更差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1945536191308468480",
+        "created_at": "2025-07-16T18:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T19:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945545585215385962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1523537773143236608",
+              "start": 0,
+              "username": "Homulilly_Alter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945545585215385962",
+        "in_reply_to_user_id": "1523537773143236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945536191308468480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Homulilly_Alter 实际上这和“群体”无关，和每个人的善恶有关，目前涟漪危机干预小组帮助的人群里面至少会有20％的人会在受到帮助以后，在未来有能力的情况下向小组进行回馈，目前我们帮助的几千人里面有约90％的跨性别和10％的顺性别，而在“恩将仇报”和“知恩图报”这方面，顺性别群体的表现其实不比跨性别更好，甚至更差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523537773143236608",
+        "conversation_id": "1945536191308468480",
+        "created_at": "2025-07-16T17:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T18:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945536191308468480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanlianyi331/s…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/hanlianyi331/status/1945133260155314515",
+              "start": 77,
+              "url": "https://t.co/e3qO1vi2JU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945536191308468480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945133260155314515",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我拒绝帮助某些群体是正确的，希望越来越多的人都正确认识到这个群体的本质，认识到“穷生奸计富长良心”的真理。以免自己或者他人遭受更加严重的且不必要的损失。 https://t.co/e3qO1vi2JU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38575,
+          "following_count": 3623,
+          "like_count": 819,
+          "listed_count": 64,
+          "media_count": 337,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T05:38:12.000Z",
+        "description": "本账号中之人就是你们之前讨厌的那个人，如果你以前拉黑了我请继续保持拉黑/老保/仇跨/仇左/直升机驾驶员/含糖反跨顺男/阶级敌人/网络右翼/清蒸骰子/拥共支黑/反DEI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Homulilly_Alter",
+                "end": 23,
+                "expanded_url": "https://t.me/Homulilly_Alter",
+                "start": 0,
+                "url": "https://t.co/WoST5VRBiO"
+              }
+            ]
+          }
+        },
+        "id": "1523537773143236608",
+        "name": "胡桃夾子",
+        "pinned_tweet_id": "1943016261795135882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528707266664357888/jgMgNWsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 261,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1394
+        },
+        "url": "https://t.co/WoST5VRBiO",
+        "username": "Homulilly_Alter",
+        "verified": false
+      }
+    ]
+  }
+}

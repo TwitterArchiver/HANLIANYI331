@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ethereum Cryptocurrency",
+          "id": "1007361429752594432",
+          "name": "Ethereum cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2091134119757656171",
+    "created_at": "2026-08-22T12:06:13.000Z",
+    "display_text_range": [
+      11,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091134844621451475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "950231737518321666",
+          "start": 0,
+          "username": "Jackyi_ld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091134844621451475",
+    "in_reply_to_user_id": "950231737518321666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091134119757656171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jackyi_ld 易老板，虽然我也和你有相同的看法，但是你这么说我很害怕啊，上次你这么说还是eth从3460一路跌到1740的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2091134119757656171",
+        "created_at": "2026-08-22T12:06:13.000Z",
+        "display_text_range": [
+          11,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091134844621451475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "950231737518321666",
+              "start": 0,
+              "username": "Jackyi_ld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091134844621451475",
+        "in_reply_to_user_id": "950231737518321666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091134119757656171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jackyi_ld 易老板，虽然我也和你有相同的看法，但是你这么说我很害怕啊，上次你这么说还是eth从3460一路跌到1740的时候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "950231737518321666",
+        "conversation_id": "2091134119757656171",
+        "created_at": "2026-08-22T12:03:20.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091134119757656171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091134119757656171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 807,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续看涨，周末微调，只是空军利用流动性弱的时间，进行了一点反抗，不影响趋势，强烈建议不要再做空，涨到一定的位置可平多，回调总是会在阶段性位置发生的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2091134844621451475",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42210,
+          "following_count": 3972,
+          "like_count": 2004,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 3111
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-08T05:04:35.000Z",
+        "description": "Founder• @Liquid_Capital_ Building • @Trend_Research_ (Crypto HF)\n                 • @HeroX_Ventures (Tech VC)\n                 • @Axiom_Invest_ (AI Equities)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "Liquid_Capital_"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "Trend_Research_"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "HeroX_Ventures"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "Axiom_Invest_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ldcap.com",
+                "end": 23,
+                "expanded_url": "http://www.ldcap.com",
+                "start": 0,
+                "url": "https://t.co/GeOP4bmIgz"
+              }
+            ]
+          }
+        },
+        "id": "950231737518321666",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2091134119757656171",
+        "name": "JackYi",
+        "pinned_tweet_id": "2055578972675768807",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688806729675689984/7SGFia9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76963,
+          "following_count": 741,
+          "like_count": 442,
+          "listed_count": 933,
+          "media_count": 58,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/GeOP4bmIgz",
+        "username": "Jackyi_ld",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

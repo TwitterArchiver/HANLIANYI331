@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1863639497554248173",
+    "created_at": "2024-12-03T02:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T03:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863773680570130585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1498941393707876354",
+          "start": 0,
+          "username": "dh111112345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863773680570130585",
+    "in_reply_to_user_id": "1498941393707876354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "对于大部分有技术门槛的行业的企业来说，某些劳动者哪怕是发0元的工资，只包个食宿，最终产生的效益都是亏本的。这也是为何在正常的市场环境中，“没有工作能力的人几乎找不到工作”的根本原因。\n\n以服装行业为例，1个技巧熟练的工人，一天8小时可以裁出的布量会比10个以上的技巧不熟练的人裁出的布量还多。而一个技巧熟练的工人在市场上只需要四千元左右的工资就可以雇佣到。而不熟练的工人还很可能把布料裁坏导致让企业倒亏钱。这种情况下，不熟练的工人哪怕不要钱上班，企业都不会要。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863771317113348543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dh111112345 对于大部分有技术门槛的行业的企业来说，某些劳动者哪怕是发0元的工资，只包个食宿，最终产生的效益都是亏本的。这也是为何在正常的市场环境中，“没有工作能力的人几乎找不到工作”的根本原因。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1863639497554248173",
+        "created_at": "2024-12-03T02:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T03:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863773680570130585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1498941393707876354",
+              "start": 0,
+              "username": "dh111112345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863773680570130585",
+        "in_reply_to_user_id": "1498941393707876354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对于大部分有技术门槛的行业的企业来说，某些劳动者哪怕是发0元的工资，只包个食宿，最终产生的效益都是亏本的。这也是为何在正常的市场环境中，“没有工作能力的人几乎找不到工作”的根本原因。\n\n以服装行业为例，1个技巧熟练的工人，一天8小时可以裁出的布量会比10个以上的技巧不熟练的人裁出的布量还多。而一个技巧熟练的工人在市场上只需要四千元左右的工资就可以雇佣到。而不熟练的工人还很可能把布料裁坏导致让企业倒亏钱。这种情况下，不熟练的工人哪怕不要钱上班，企业都不会要。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863771317113348543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dh111112345 对于大部分有技术门槛的行业的企业来说，某些劳动者哪怕是发0元的工资，只包个食宿，最终产生的效益都是亏本的。这也是为何在正常的市场环境中，“没有工作能力的人几乎找不到工作”的根本原因。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498941393707876354",
+        "conversation_id": "1863639497554248173",
+        "created_at": "2024-12-03T02:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T03:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863771317113348543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863771317113348543",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863639497554248173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 劳动时长和报酬呢？会不会是变相剥削？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33849,
+          "following_count": 3422,
+          "like_count": 294,
+          "listed_count": 58,
+          "media_count": 264,
+          "tweet_count": 1929
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-02T08:41:03.000Z",
+        "description": "1968年夏生于东方",
+        "id": "1498941393707876354",
+        "location": "漫长的雪",
+        "name": "泽农",
+        "pinned_tweet_id": "1858896199207841942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862757862616829952/5MngyH6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 58,
+          "like_count": 67,
+          "listed_count": 24,
+          "media_count": 0,
+          "tweet_count": 114
+        },
+        "username": "dh111112345",
+        "verified": false
+      }
+    ]
+  }
+}

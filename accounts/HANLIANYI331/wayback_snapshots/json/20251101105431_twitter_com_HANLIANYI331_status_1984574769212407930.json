@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1980138233741848754",
+    "created_at": "2025-11-01T10:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T11:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984574769212407930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1171383828587458560",
+          "start": 0,
+          "username": "ColaOChicken"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984574769212407930",
+    "in_reply_to_user_id": "1171383828587458560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984569842997895377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ColaOChicken 可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1980138233741848754",
+        "created_at": "2025-11-01T10:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984574769212407930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1171383828587458560",
+              "start": 0,
+              "username": "ColaOChicken"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984574769212407930",
+        "in_reply_to_user_id": "1171383828587458560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984569842997895377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ColaOChicken 可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171383828587458560",
+        "conversation_id": "1980138233741848754",
+        "created_at": "2025-11-01T10:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T11:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984569842997895377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984569842997895377",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980138233741848754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 PayPal 還可以收捐款麼？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40068,
+          "following_count": 3670,
+          "like_count": 1281,
+          "listed_count": 69,
+          "media_count": 355,
+          "tweet_count": 2577
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-10T11:24:52.000Z",
+        "description": "Arch & Emacs & C Benutzer // EECS Crypto PhDing // #Cantonese // Folgen Sie mir bitte nicht, da ich möchte bescheiden sein // follow & like ≠ endorsement",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 51,
+                "tag": "Cantonese"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/OChicken",
+                "end": 23,
+                "expanded_url": "https://github.com/OChicken",
+                "start": 0,
+                "url": "https://t.co/TsYFBstZrd"
+              }
+            ]
+          }
+        },
+        "id": "1171383828587458560",
+        "name": "OChicken",
+        "pinned_tweet_id": "1697946622418719023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1274486870806876160/7ccs88J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 1127,
+          "like_count": 35784,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/TsYFBstZrd",
+        "username": "ColaOChicken",
+        "verified": false
+      }
+    ]
+  }
+}

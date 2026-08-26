@@ -1,0 +1,287 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1815196457131208856",
+    "created_at": "2024-07-22T01:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T02:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815196457131208856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 30,
+          "id": "1608872873665654784",
+          "start": 18,
+          "username": "yhu37052536"
+        },
+        {
+          "end": 40,
+          "id": "1079611575214911489",
+          "start": 31,
+          "username": "to__snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815196457131208856",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815196447413064133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: @yhu37052536 @to__snow 明确自己的技术栈，之后可以在推特整理完整的推文公开求助，经过社群引荐是很容易有友跨公司或外包项目提供工作机会和工作岗位的。之后再通过工作需求进行学习，如果信息检索能力足够强甚至可以完全靠自学。目前…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1815196457131208856",
+        "created_at": "2024-07-22T01:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T02:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815196457131208856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 30,
+              "id": "1608872873665654784",
+              "start": 18,
+              "username": "yhu37052536"
+            },
+            {
+              "end": 40,
+              "id": "1079611575214911489",
+              "start": 31,
+              "username": "to__snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815196457131208856",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815196447413064133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: @yhu37052536 @to__snow 明确自己的技术栈，之后可以在推特整理完整的推文公开求助，经过社群引荐是很容易有友跨公司或外包项目提供工作机会和工作岗位的。之后再通过工作需求进行学习，如果信息检索能力足够强甚至可以完全靠自学。目前…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1815173134741553310",
+        "created_at": "2024-07-22T01:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T02:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815196447413064133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608872873665654784",
+              "start": 0,
+              "username": "yhu37052536"
+            },
+            {
+              "end": 22,
+              "id": "1079611575214911489",
+              "start": 13,
+              "username": "to__snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815196447413064133",
+        "in_reply_to_user_id": "1608872873665654784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815195158696325617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhu37052536 @to__snow 明确自己的技术栈，之后可以在推特整理完整的推文公开求助，经过社群引荐是很容易有友跨公司或外包项目提供工作机会和工作岗位的。之后再通过工作需求进行学习，如果信息检索能力足够强甚至可以完全靠自学。目前社群内友跨公司不少，我认识不少友跨者招工会多少帮衬一些跨性别。但前提是懂技术。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜庇佑所入住请联系 telegram账号@hanlianyi331｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜推特私信很少看，尽可能通过telegram私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 110,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 87,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1715942183382180330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30862,
+          "following_count": 3461,
+          "like_count": 225,
+          "listed_count": 59,
+          "tweet_count": 1713
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T17:09:35.000Z",
+        "description": "自爱者方能爱人",
+        "id": "1608872873665654784",
+        "location": "愿与你同在",
+        "name": "之美",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709574955523096576/K71xay4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 1133,
+          "like_count": 34104,
+          "listed_count": 1,
+          "tweet_count": 2092
+        },
+        "username": "yhu37052536",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-31T05:33:52.000Z",
+        "description": "雪舞｜@Hiiragi_Yuriko😘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "Hiiragi_Yuriko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tosnow.github.io",
+                "end": 23,
+                "expanded_url": "http://tosnow.github.io",
+                "start": 0,
+                "url": "https://t.co/BwXRRpdPbO"
+              }
+            ]
+          }
+        },
+        "id": "1079611575214911489",
+        "location": "IP归属地：台北市, 台灣",
+        "name": "To Snow",
+        "pinned_tweet_id": "1207204826360139776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1258732974532472832/ODhz-LTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 64,
+          "like_count": 4415,
+          "listed_count": 10,
+          "tweet_count": 4122
+        },
+        "url": "https://t.co/BwXRRpdPbO",
+        "username": "to__snow",
+        "verified": false
+      }
+    ]
+  }
+}

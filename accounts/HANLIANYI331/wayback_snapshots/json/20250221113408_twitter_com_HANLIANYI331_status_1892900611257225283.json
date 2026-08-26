@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1892900611257225283",
+    "created_at": "2025-02-21T11:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T12:33:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892900554525061574",
+      "1892900611257225283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_lekous_/statu…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/_lekous_/status/1892889786106728475",
+          "start": 134,
+          "url": "https://t.co/H8Ze9aJ8Cw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892900611257225283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/HANLIANYI331/s…",
+            "end": 282,
+            "expanded_url": "https://x.com/HANLIANYI331/status/1826974208435568740?t=CZd4Oms9SiMgiXa-KAt8hA&s=19",
+            "start": 259,
+            "url": "https://t.co/Ym4FnEd4q5"
+          }
+        ]
+      },
+      "text": "显然你没有看过我过往讲过的租赁房屋经历的推文，以及事情为什么会演变成这样。\n大陆地区的社会情况和台湾地区截然不同。\n彬彬讲理的后果会换来无限的贪得无厌，恶意针对和压榨。让无数善良的人原本用于帮助别人的血汗钱，变成不把租客当人，视人性与法律无物，贪得无厌之人的资粮。\n如果我一个人，反倒无所谓了，大不了也就是损失押金，损失搬家成本。\n反而正是因为要救更多人，要对更多人负责。反而正是因为无良房东的肆意妄为，更多弱势群体的死亡，才会有今天的结果。\n否则每忍让出去的一笔钱，都将成为死去之人的血和命。\n善良，必须有锋芒。\n\nhttps://t.co/Ym4FnEd4q5"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892889786106728475",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "显然你没有看过我过往讲过的租赁房屋经历的推文，以及事情为什么会演变成这样。\n大陆地区的社会情况和台湾地区截然不同。\n彬彬讲理的后果会换来无限的贪得无厌，恶意针对和压榨。让无数善良的人原本用于帮助别人的血汗钱，变成不把租客当人，视人性与法律无物，贪得无厌之人的资粮。… https://t.co/H8Ze9aJ8Cw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1892900554525061574",
+        "created_at": "2025-02-21T11:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T12:33:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892900554525061574",
+          "1892900611257225283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_lekous_/statu…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/_lekous_/status/1892889786106728475",
+              "start": 134,
+              "url": "https://t.co/H8Ze9aJ8Cw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892900554525061574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/HANLIANYI331/s…",
+                "end": 282,
+                "expanded_url": "https://x.com/HANLIANYI331/status/1826974208435568740?t=CZd4Oms9SiMgiXa-KAt8hA&s=19",
+                "start": 259,
+                "url": "https://t.co/Ym4FnEd4q5"
+              }
+            ]
+          },
+          "text": "显然你没有看过我过往讲过的租赁房屋经历的推文，以及事情为什么会演变成这样。\n大陆地区的社会情况和台湾地区截然不同。\n彬彬讲理的后果会换来无限的贪得无厌，恶意针对和压榨。让无数善良的人原本用于帮助别人的血汗钱，变成不把租客当人，视人性与法律无物，贪得无厌之人的资粮。\n如果我一个人，反倒无所谓了，大不了也就是损失押金，损失搬家成本。\n反而正是因为要救更多人，要对更多人负责。反而正是因为无良房东的肆意妄为，更多弱势群体的死亡，才会有今天的结果。\n否则每忍让出去的一笔钱，都将成为死去之人的血和命。\n善良，必须有锋芒。\n\nhttps://t.co/Ym4FnEd4q5"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892889786106728475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "显然你没有看过我过往讲过的租赁房屋经历的推文，以及事情为什么会演变成这样。\n大陆地区的社会情况和台湾地区截然不同。\n彬彬讲理的后果会换来无限的贪得无厌，恶意针对和压榨。让无数善良的人原本用于帮助别人的血汗钱，变成不把租客当人，视人性与法律无物，贪得无厌之人的资粮。… https://t.co/H8Ze9aJ8Cw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1892900611257225283",
+        "created_at": "2025-02-21T11:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T12:33:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892900554525061574",
+          "1892900611257225283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_lekous_/statu…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/_lekous_/status/1892889786106728475",
+              "start": 134,
+              "url": "https://t.co/H8Ze9aJ8Cw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892900611257225283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/HANLIANYI331/s…",
+                "end": 282,
+                "expanded_url": "https://x.com/HANLIANYI331/status/1826974208435568740?t=CZd4Oms9SiMgiXa-KAt8hA&s=19",
+                "start": 259,
+                "url": "https://t.co/Ym4FnEd4q5"
+              }
+            ]
+          },
+          "text": "显然你没有看过我过往讲过的租赁房屋经历的推文，以及事情为什么会演变成这样。\n大陆地区的社会情况和台湾地区截然不同。\n彬彬讲理的后果会换来无限的贪得无厌，恶意针对和压榨。让无数善良的人原本用于帮助别人的血汗钱，变成不把租客当人，视人性与法律无物，贪得无厌之人的资粮。\n如果我一个人，反倒无所谓了，大不了也就是损失押金，损失搬家成本。\n反而正是因为要救更多人，要对更多人负责。反而正是因为无良房东的肆意妄为，更多弱势群体的死亡，才会有今天的结果。\n否则每忍让出去的一笔钱，都将成为死去之人的血和命。\n善良，必须有锋芒。\n\nhttps://t.co/Ym4FnEd4q5"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892889786106728475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "显然你没有看过我过往讲过的租赁房屋经历的推文，以及事情为什么会演变成这样。\n大陆地区的社会情况和台湾地区截然不同。\n彬彬讲理的后果会换来无限的贪得无厌，恶意针对和压榨。让无数善良的人原本用于帮助别人的血汗钱，变成不把租客当人，视人性与法律无物，贪得无厌之人的资粮。… https://t.co/H8Ze9aJ8Cw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1056900784518905856",
+        "conversation_id": "1892889786106728475",
+        "created_at": "2025-02-21T10:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T11:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892889786106728475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1892761561959203147",
+              "start": 42,
+              "url": "https://t.co/SqeOgwa5kW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892889786106728475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892761561959203147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什麼大善人 我錯了\n真噁 人果然是有多面性的\n還想著給他捐錢 正在搞渠道\n還好沒捐 https://t.co/SqeOgwa5kW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询｜语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883897989900701855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35950,
+          "following_count": 3572,
+          "like_count": 537,
+          "listed_count": 59,
+          "media_count": 306,
+          "tweet_count": 2196
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-29T13:29:18.000Z",
+        "description": "IT Engineer@TSMC |\nSenior backend engineer, DevOps and SRE.\n\nPassionate about technology and finding solutions to complex challenges.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "leko.moe",
+                "end": 23,
+                "expanded_url": "https://leko.moe",
+                "start": 0,
+                "url": "https://t.co/rYyksSONF7"
+              }
+            ]
+          }
+        },
+        "id": "1056900784518905856",
+        "location": "抱抱星",
+        "name": "Leko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832486045977604096/YwO7kMvF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 130,
+          "like_count": 8160,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 2890
+        },
+        "url": "https://t.co/rYyksSONF7",
+        "username": "_lekous_",
+        "verified": false
+      }
+    ]
+  }
+}

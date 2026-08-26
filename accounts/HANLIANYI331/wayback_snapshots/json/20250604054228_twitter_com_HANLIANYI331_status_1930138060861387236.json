@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1930130750130794647",
+    "created_at": "2025-06-04T05:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T06:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930138060861387236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3301687694",
+          "start": 0,
+          "username": "Shirlene_girl"
+        },
+        {
+          "end": 26,
+          "id": "1596473224711151618",
+          "start": 15,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930138060861387236",
+    "in_reply_to_user_id": "3301687694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930136807947284540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirlene_girl @a823149315 如果要割出自我无法愈合的大出血创口需要特定的刀具极大的力量，以图片当中创口所使用的刀具来看，几乎不可能割到这个程度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1930130750130794647",
+        "created_at": "2025-06-04T05:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T06:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930138060861387236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3301687694",
+              "start": 0,
+              "username": "Shirlene_girl"
+            },
+            {
+              "end": 26,
+              "id": "1596473224711151618",
+              "start": 15,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930138060861387236",
+        "in_reply_to_user_id": "3301687694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930136807947284540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirlene_girl @a823149315 如果要割出自我无法愈合的大出血创口需要特定的刀具极大的力量，以图片当中创口所使用的刀具来看，几乎不可能割到这个程度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3301687694",
+        "conversation_id": "1930130750130794647",
+        "created_at": "2025-06-04T05:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T06:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930136807947284540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 25,
+              "id": "1596473224711151618",
+              "start": 14,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930136807947284540",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930136133201211807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @a823149315 万一割到动脉静脉了呢，她割的是手臂内侧，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38040,
+          "following_count": 3623,
+          "like_count": 733,
+          "listed_count": 61,
+          "media_count": 327,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-30T16:04:36.000Z",
+        "description": "🏳️‍⚧️/90后/单身/INFJ-T/养兔🐇/妹妹@EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          }
+        },
+        "id": "3301687694",
+        "location": "👰🏻‍♀️",
+        "name": "雪玲小医女🐰🏳️‍⚧️",
+        "pinned_tweet_id": "1921757539684823388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928155942971133954/07fdP_uQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 1394,
+          "like_count": 20644,
+          "listed_count": 9,
+          "media_count": 256,
+          "tweet_count": 3743
+        },
+        "username": "Shirlene_girl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（跨性别危机干预主题小说《社会垃圾收容所历险记》pixiv已完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1901570044670132564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900070459242094592/LQCckHRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35556,
+          "following_count": 169,
+          "like_count": 2539,
+          "listed_count": 96,
+          "media_count": 1646,
+          "tweet_count": 9329
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

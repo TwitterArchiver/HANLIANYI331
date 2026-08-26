@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1936234557743022134",
+    "created_at": "2025-06-22T06:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T07:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936679820345356610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1422521161934643216",
+          "start": 0,
+          "username": "younstark3000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 38,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1936679690074280218?t=zSzSdBfgCqmdnhtFxFBcBw&s=19",
+          "start": 15,
+          "url": "https://t.co/w5WyaxwZNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936679820345356610",
+    "in_reply_to_user_id": "1422521161934643216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936679690074280218",
+        "type": "quoted"
+      },
+      {
+        "id": "1936608293235089764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@younstark3000 https://t.co/w5WyaxwZNk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1936234557743022134",
+        "created_at": "2025-06-22T06:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936679820345356610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1422521161934643216",
+              "start": 0,
+              "username": "younstark3000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 38,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1936679690074280218?t=zSzSdBfgCqmdnhtFxFBcBw&s=19",
+              "start": 15,
+              "url": "https://t.co/w5WyaxwZNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936679820345356610",
+        "in_reply_to_user_id": "1422521161934643216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936679690074280218",
+            "type": "quoted"
+          },
+          {
+            "id": "1936608293235089764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@younstark3000 https://t.co/w5WyaxwZNk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1936679690074280218",
+        "created_at": "2025-06-22T06:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T07:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936679690074280218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1071094209749417984",
+              "start": 5,
+              "username": "BeiyanNa3AlF6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/BeiyanNa3AlF6/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/BeiyanNa3AlF6/status/1936308970702110734",
+              "start": 71,
+              "url": "https://t.co/Tfjpt1JdUX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936679690074280218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 19,
+                "id": "1071094209749417984",
+                "start": 5,
+                "username": "beiyanna3alf6"
+              }
+            ]
+          },
+          "text": "在此感谢 @beiyanna3alf6 姐姐通过自身人脉资源为庇护所提供的计算机行业就业岗位！同时回答一些有关于目前庇护所的一些普遍性困惑。\n武汉庇护所现状：当前武汉庇护所共有五个房屋并分布在武汉不同地区，每月租赁成本约15000元，网络、电费、水费、燃气费和物业费成本共计每月约5000元。当前共居住约35人。\nQ：为什么不在同一个房屋居住更多人数？\nA：武汉消防规范规定每个卧室居住人数最多不超过2人，人均居住面积不得低于10平米，且禁用非居住空间改为卧室居住。当前庇护所的居住人数已经是卡着消防规范的上限在住人。再增加密度会被辖区派出所和社区找麻烦。\nQ：为什么不选择更小的城市？\nA：庇护所的最终目的是让住户从濒死状态下重新获得生存能力。更小的城市没有工作岗位和精神科医疗资源，更不会有机会像这次一样能够让北雁姐姐介绍到工作岗位帮扶就业。且社区，派出所会更加不友善。\nQ：为什么要装新空调？\nA：如果不装空调，不开空调的情况下会出现有人中暑的情况（参考武汉往年夏天中暑新闻），进一次ICU够买几十台新空调。\n如果使用老空调，1小时1度电足够一个夏天的电费就跑出一台新空调出来。（新空调仅需10小时1度电）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936308970702110734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在此感谢 @beiyanna3alf6 姐姐通过自身人脉资源为庇护所提供的计算机行业就业岗位！同时回答一些有关于目前庇护所的一些普遍性困惑。 https://t.co/Tfjpt1JdUX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422521161934643216",
+        "conversation_id": "1936234557743022134",
+        "created_at": "2025-06-22T02:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T03:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936608293235089764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936608293235089764",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936234557743022134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 要不，选个小城市租房吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38281,
+          "following_count": 3633,
+          "like_count": 793,
+          "listed_count": 64,
+          "media_count": 331,
+          "tweet_count": 2423
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-03T11:34:20.000Z",
+        "description": "🏳️‍⚧️｜只收口令红包188/288/520/1314｜置顶推广自辨真假，如果涉及钱或者其他情况请推上私信我｜小号：@younstark3000_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "younstark3000_"
+              }
+            ]
+          }
+        },
+        "id": "1422521161934643216",
+        "location": "臺南",
+        "name": "豆奶",
+        "pinned_tweet_id": "1930900054539395076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923010764467585025/MxjgxSSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21268,
+          "following_count": 990,
+          "like_count": 37412,
+          "listed_count": 60,
+          "media_count": 180,
+          "tweet_count": 3599
+        },
+        "username": "younstark3000",
+        "verified": false
+      }
+    ]
+  }
+}

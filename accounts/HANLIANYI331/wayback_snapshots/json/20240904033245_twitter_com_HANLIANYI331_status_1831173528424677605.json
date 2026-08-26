@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1831173528424677605",
+    "created_at": "2024-09-04T03:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T04:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831173528424677605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 26,
+          "id": "1265578803486547968",
+          "start": 18,
+          "username": "h0330mu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831173528424677605",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831172356548772020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: @h0330mu 那不一定，我甚至可以直接用我在现实中的案例向你举例：\n\n我曾经处理过好几起PUA行为导致的自杀案，PUA的人通过PUA的方式胁迫和诈骗当事人的金钱，肉体，时间等一切资源，随后通过诱导对方自杀的方式来毁灭证据。而当事人也会在P…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1831173528424677605",
+        "created_at": "2024-09-04T03:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T04:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831173528424677605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 26,
+              "id": "1265578803486547968",
+              "start": 18,
+              "username": "h0330mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831173528424677605",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831172356548772020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: @h0330mu 那不一定，我甚至可以直接用我在现实中的案例向你举例：\n\n我曾经处理过好几起PUA行为导致的自杀案，PUA的人通过PUA的方式胁迫和诈骗当事人的金钱，肉体，时间等一切资源，随后通过诱导对方自杀的方式来毁灭证据。而当事人也会在P…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1831027128160395746",
+        "created_at": "2024-09-04T03:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T04:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831172356548772020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1265578803486547968",
+              "start": 0,
+              "username": "h0330mu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831172356548772020",
+        "in_reply_to_user_id": "1265578803486547968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831171162656960665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h0330mu 那不一定，我甚至可以直接用我在现实中的案例向你举例：\n\n我曾经处理过好几起PUA行为导致的自杀案，PUA的人通过PUA的方式胁迫和诈骗当事人的金钱，肉体，时间等一切资源，随后通过诱导对方自杀的方式来毁灭证据。而当事人也会在PUA的情况下心甘情愿的认为“所有的问题都是自己造成的”，从而选择自杀。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜庇佑所入住请联系 telegram账号@hanlianyi331｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 110,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 87,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1715942183382180330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31645,
+          "following_count": 3438,
+          "like_count": 252,
+          "listed_count": 57,
+          "tweet_count": 1784
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-27T09:41:23.000Z",
+        "description": "",
+        "id": "1265578803486547968",
+        "name": "H0330mu",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 335,
+          "like_count": 5639,
+          "listed_count": 2,
+          "tweet_count": 426
+        },
+        "username": "h0330mu",
+        "verified": false
+      }
+    ]
+  }
+}

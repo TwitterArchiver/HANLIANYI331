@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2065323198053335481",
+    "created_at": "2026-06-14T21:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T22:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066273179094716610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517437669449547776",
+          "start": 0,
+          "username": "YumiChow916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066273179094716610",
+    "in_reply_to_user_id": "1517437669449547776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "把「不要苛責好心但不完美的互助」滑坡成「人口販運也有合理性」，其實是在為真正的惡行找遮羞布。這等於說：既然社會有問題，那所有利用問題的行為都該被容忍？那販毒、黑幫保護費、器官販賣是不是也「至少讓人活下來了」？\n\n这些所有的犯罪行为的共同特点：有大量经济等利益可以获取，但是互助行为既然相反：损失远大于利益，倒贴钱\n\n人口販運：完全無同意，誘騙、綁架、暴力控制，極端不對等 + 人身控制 + 奴役，系統性傷害（身體/精神/性/經濟）\n強迫勞動/賣淫以維持剝削者的利益\n\n我們討論的普通人互助：同意與自主\n，完全自願，雙方可隨時退出，平等或輕微不對等，無強制力，可能有幫助（即使不完美），也可能無效，幫助者通常零收益，甚至倒貼\n\n社會真空存在，並不自動給犯罪或剝削發通行證。\n同時給真正善意的、低風險的民間互助留出容錯空間。\n長期推動制度補位，而不是把所有責任推給普通人，又用完美主義把他們打死。\n你的類比不是在認真討論，而是在用極端惡行來污名化。這反而说明了為什麼互助文化難以建立。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066269010899894469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumiChow916 把「不要苛責好心但不完美的互助」滑坡成「人口販運也有合理性」，其實是在為真正的惡行找遮羞布。這等於說：既然社會有問題，那所有利用問題的行為都該被容忍？那販毒、黑幫保護費、器官販賣是不是也「至少讓人活下來了」？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T21:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066273179094716610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066273179094716610",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "把「不要苛責好心但不完美的互助」滑坡成「人口販運也有合理性」，其實是在為真正的惡行找遮羞布。這等於說：既然社會有問題，那所有利用問題的行為都該被容忍？那販毒、黑幫保護費、器官販賣是不是也「至少讓人活下來了」？\n\n这些所有的犯罪行为的共同特点：有大量经济等利益可以获取，但是互助行为既然相反：损失远大于利益，倒贴钱\n\n人口販運：完全無同意，誘騙、綁架、暴力控制，極端不對等 + 人身控制 + 奴役，系統性傷害（身體/精神/性/經濟）\n強迫勞動/賣淫以維持剝削者的利益\n\n我們討論的普通人互助：同意與自主\n，完全自願，雙方可隨時退出，平等或輕微不對等，無強制力，可能有幫助（即使不完美），也可能無效，幫助者通常零收益，甚至倒貼\n\n社會真空存在，並不自動給犯罪或剝削發通行證。\n同時給真正善意的、低風險的民間互助留出容錯空間。\n長期推動制度補位，而不是把所有責任推給普通人，又用完美主義把他們打死。\n你的類比不是在認真討論，而是在用極端惡行來污名化。這反而说明了為什麼互助文化難以建立。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066269010899894469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 把「不要苛責好心但不完美的互助」滑坡成「人口販運也有合理性」，其實是在為真正的惡行找遮羞布。這等於說：既然社會有問題，那所有利用問題的行為都該被容忍？那販毒、黑幫保護費、器官販賣是不是也「至少讓人活下來了」？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517437669449547776",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T21:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066269010899894469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7d2673c3623fe492"
+        },
+        "id": "2066269010899894469",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066264091862385092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 在妳看來，人口販運是否也因中國的社會現狀而獲得合理性。按妳的邏輯，他們只是被奴役罷了，但他們活下來了，給了他們食物和住處，至少不被餓死和凍死，所以人口販運不該被苛責，甚至該被算作一種救助\n\n此外，對於妳的庇護所的模式是否涉嫌人口販運，我持懷疑態度，但我不瞭解所有事情，所以這不是指控"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41741,
+          "following_count": 3807,
+          "like_count": 1753,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2985
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Markham, Ontario",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 313,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3935
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

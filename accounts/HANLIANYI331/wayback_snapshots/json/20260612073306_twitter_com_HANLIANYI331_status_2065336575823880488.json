@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2065336575823880488",
+    "created_at": "2026-06-12T07:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065336575823880488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 30,
+          "id": "1517437669449547776",
+          "start": 18,
+          "username": "YumiChow916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065336575823880488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065305314560196652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: @YumiChow916 而「工作伦理」实质上是另一套逻辑，虽然说它的出发点和人朴素的善恶观是相通的，但是原初的广义上的「工作伦理」实际上是“为了防止当事人利用职务之便，来为自己进行谋利”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065336575823880488",
+        "created_at": "2026-06-12T07:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065336575823880488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 30,
+              "id": "1517437669449547776",
+              "start": 18,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065336575823880488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065305314560196652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: @YumiChow916 而「工作伦理」实质上是另一套逻辑，虽然说它的出发点和人朴素的善恶观是相通的，但是原初的广义上的「工作伦理」实际上是“为了防止当事人利用职务之便，来为自己进行谋利”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2059801421500014971",
+        "created_at": "2026-06-12T05:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065305314560196652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065305314560196652",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "而「工作伦理」实质上是另一套逻辑，虽然说它的出发点和人朴素的善恶观是相通的，但是原初的广义上的「工作伦理」实际上是“为了防止当事人利用职务之便，来为自己进行谋利”\n这套理论借用心理学、社会学的外来知识，让社工能“客观记录”“科学干预”。这在法律和机构层面保护社工（避免被指“主观偏见”或“失职”），但是这套理论后来被严厉批判把案主“问题化”，强化社工的“专家-控制”角色，而非真正赋权。\n后来20世纪末期到21世纪初期的很多批判当中，认为社工专业“发明”本身就是权力运作——表面“仁慈助人”，实际是阶级控制和社会规训（调查穷人、规范行为）。社工理论制造了“照顾弱势”的温暖形象，但核心是维护机构/国家利益，同时缓解社工自身的身份矛盾（否则会因“助人却控制”的现实而崩溃）。\n后来香港的社工法令里面，督导制度、伦理守则、专业协会等，都是这套理论专业化产物。这套法令强调法令逻辑为“保护社工免于风险”“维持专业自主”\n这里具体到涟漪干预小组，很多情况下我们给志愿者兜底产生的工作量甚至要大于直接帮助案主的工作量。很多时候我们对某些受助者投入过多帮助资源，事实上是为了照顾志愿者的情绪。\n如果社工任职于某个机构，且ta所被安排的个案工作对象ta原先并不认识，是通过入职机构以后才获得的渠道认识的。那社工和对方就是严格意义上的「社工」和「案主」的关系，在这种情况下，双方几乎适用于绝大多数社工伦理。\n这是最“完美”的情况，现代的几乎所有社工伦理也是为此种情况而设立的，它的核心目的是防止社工因为“职务之便”而“窃取私人利益”\n这套体系被严格限制死了「社工身份」「通过工作结识服务对象」\n为什么会这样，原因也非常简单\n不管是助人者的血（大部分情况下是），还是受助者的血，血溅不到机构/政府身上就行了\n如果所有“被救助过”，都应该是“个案对象”，都是“社工”身份，那人类社会不用运转了。\n因为人类社会每一个人和每一个人之间，都可能存在过“受助关系”，甚至应用到过“助人技术”。把这套逻辑生搬硬套到所有地方上是荒谬的。否则你不应该和你身边的任何人“包括你的朋友，邻居，同学”产生任何“额外联系”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065302590469124443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 而「工作伦理」实质上是另一套逻辑，虽然说它的出发点和人朴素的善恶观是相通的，但是原初的广义上的「工作伦理」实际上是“为了防止当事人利用职务之便，来为自己进行谋利”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41756,
+          "following_count": 3806,
+          "like_count": 1751,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2960
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Place Without Fear",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 312,
+          "like_count": 4032,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 3895
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

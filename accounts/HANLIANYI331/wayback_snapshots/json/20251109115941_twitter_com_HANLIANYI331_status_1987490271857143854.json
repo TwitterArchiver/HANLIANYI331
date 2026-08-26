@@ -1,0 +1,629 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "733774194828152832",
+          "name": "Giorgio Chiellini"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+          "id": "60",
+          "name": "Athlete"
+        },
+        "entity": {
+          "id": "733774194828152832",
+          "name": "Giorgio Chiellini"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733774194828152832",
+          "name": "Giorgio Chiellini"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1987434653599613243",
+    "created_at": "2025-11-09T11:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T12:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987490271857143854"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Joseph JD",
+          "probability": 0.5842,
+          "start": 13,
+          "type": "Person"
+        },
+        {
+          "end": 27,
+          "normalized_text": "Lu N",
+          "probability": 0.4649,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 35,
+          "normalized_text": "Qian J",
+          "probability": 0.4434,
+          "start": 30,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": "Sensintaffar J",
+          "probability": 0.512,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "Shao G",
+          "probability": 0.4763,
+          "start": 54,
+          "type": "Person"
+        },
+        {
+          "end": 70,
+          "normalized_text": "Brigham D",
+          "probability": 0.4677,
+          "start": 62,
+          "type": "Other"
+        },
+        {
+          "end": 82,
+          "normalized_text": "Darimont B",
+          "probability": 0.4166,
+          "start": 73,
+          "type": "Other"
+        },
+        {
+          "end": 95,
+          "normalized_text": "Chiellini G",
+          "probability": 0.4197,
+          "start": 85,
+          "type": "Other"
+        },
+        {
+          "end": 105,
+          "normalized_text": "Heyman R",
+          "probability": 0.4499,
+          "start": 98,
+          "type": "Person"
+        },
+        {
+          "end": 112,
+          "normalized_text": "Rix P",
+          "probability": 0.4023,
+          "start": 108,
+          "type": "Other"
+        },
+        {
+          "end": 124,
+          "normalized_text": "Manfredi M",
+          "probability": 0.4302,
+          "start": 115,
+          "type": "Person"
+        },
+        {
+          "end": 134,
+          "normalized_text": "Clegg NJ",
+          "probability": 0.3836,
+          "start": 127,
+          "type": "Other"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Ng",
+          "probability": 0.3755,
+          "start": 137,
+          "type": "Other"
+        },
+        {
+          "end": 152,
+          "normalized_text": "Dahlman KB",
+          "probability": 0.4247,
+          "start": 143,
+          "type": "Person"
+        },
+        {
+          "end": 162,
+          "normalized_text": "Salvesen",
+          "probability": 0.389,
+          "start": 155,
+          "type": "Other"
+        },
+        {
+          "end": 174,
+          "normalized_text": "Sawyers",
+          "probability": 0.4451,
+          "start": 168,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628357323944239105",
+          "start": 0,
+          "username": "AkumaKusane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987490271857143854",
+    "in_reply_to_user_id": "1628357323944239105",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Joseph JD, Lu N, Qian J, Sensintaffar J, Shao G, Brigham D, Darimont B, Chiellini G, Heyman R, Rix P, Manfredi M, Clegg NJ, Ng N, Dahlman KB, Salvesen GS, Sawyers CL. A clinically relevant androgen receptor mutation confers resistance to second-generation antiandrogens enzalutamide and ARN-509. Cancer Discovery. 2013 Sep;3(9):1020-1029. （这篇是关于F876L耐药性的研究。）\n\n关于2，激素波动导致的情绪不稳我没有特意查找文献核实过，但是从身边大量的实际案例来看，已经是普遍性的情况了。\n\n关于3，注射给药的卫生风险需要在医生操作下才能进行控制，注射给药的法律风险也只有在日本开到正规处方并且进行正规治疗的情况下才能规避，至于国内大陆地区的环境想满足以上两点，对于百分之九十九的人来说几乎不具备可行性。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987457808321888450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkumaKusane Joseph JD, Lu N, Qian J, Sensintaffar J, Shao G, Brigham D, Darimont B, Chiellini G, Heyman R, Rix P, Manfredi M, Clegg NJ, Ng N, Dahlman KB, Salvesen GS, Sawyers CL. A clinically relevant androgen receptor mutation confers resistance to second-generation antiandrogens"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "733774194828152832",
+              "name": "Giorgio Chiellini"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "id": "733774194828152832",
+              "name": "Giorgio Chiellini"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733774194828152832",
+              "name": "Giorgio Chiellini"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1987434653599613243",
+        "created_at": "2025-11-09T11:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T12:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987490271857143854"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Joseph JD",
+              "probability": 0.5842,
+              "start": 13,
+              "type": "Person"
+            },
+            {
+              "end": 27,
+              "normalized_text": "Lu N",
+              "probability": 0.4649,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Qian J",
+              "probability": 0.4434,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Sensintaffar J",
+              "probability": 0.512,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "Shao G",
+              "probability": 0.4763,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Brigham D",
+              "probability": 0.4677,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Darimont B",
+              "probability": 0.4166,
+              "start": 73,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "Chiellini G",
+              "probability": 0.4197,
+              "start": 85,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "Heyman R",
+              "probability": 0.4499,
+              "start": 98,
+              "type": "Person"
+            },
+            {
+              "end": 112,
+              "normalized_text": "Rix P",
+              "probability": 0.4023,
+              "start": 108,
+              "type": "Other"
+            },
+            {
+              "end": 124,
+              "normalized_text": "Manfredi M",
+              "probability": 0.4302,
+              "start": 115,
+              "type": "Person"
+            },
+            {
+              "end": 134,
+              "normalized_text": "Clegg NJ",
+              "probability": 0.3836,
+              "start": 127,
+              "type": "Other"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Ng",
+              "probability": 0.3755,
+              "start": 137,
+              "type": "Other"
+            },
+            {
+              "end": 152,
+              "normalized_text": "Dahlman KB",
+              "probability": 0.4247,
+              "start": 143,
+              "type": "Person"
+            },
+            {
+              "end": 162,
+              "normalized_text": "Salvesen",
+              "probability": 0.389,
+              "start": 155,
+              "type": "Other"
+            },
+            {
+              "end": 174,
+              "normalized_text": "Sawyers",
+              "probability": 0.4451,
+              "start": 168,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628357323944239105",
+              "start": 0,
+              "username": "AkumaKusane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987490271857143854",
+        "in_reply_to_user_id": "1628357323944239105",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Joseph JD, Lu N, Qian J, Sensintaffar J, Shao G, Brigham D, Darimont B, Chiellini G, Heyman R, Rix P, Manfredi M, Clegg NJ, Ng N, Dahlman KB, Salvesen GS, Sawyers CL. A clinically relevant androgen receptor mutation confers resistance to second-generation antiandrogens enzalutamide and ARN-509. Cancer Discovery. 2013 Sep;3(9):1020-1029. （这篇是关于F876L耐药性的研究。）\n\n关于2，激素波动导致的情绪不稳我没有特意查找文献核实过，但是从身边大量的实际案例来看，已经是普遍性的情况了。\n\n关于3，注射给药的卫生风险需要在医生操作下才能进行控制，注射给药的法律风险也只有在日本开到正规处方并且进行正规治疗的情况下才能规避，至于国内大陆地区的环境想满足以上两点，对于百分之九十九的人来说几乎不具备可行性。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987457808321888450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkumaKusane Joseph JD, Lu N, Qian J, Sensintaffar J, Shao G, Brigham D, Darimont B, Chiellini G, Heyman R, Rix P, Manfredi M, Clegg NJ, Ng N, Dahlman KB, Salvesen GS, Sawyers CL. A clinically relevant androgen receptor mutation confers resistance to second-generation antiandrogens"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628357323944239105",
+        "conversation_id": "1987434653599613243",
+        "created_at": "2025-11-09T09:50:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T10:50:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987457808321888450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987457808321888450",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987434653599613243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 请给出注射弊端中1，2，3点各自的参考文献？\n我在日本问的每个医生都会说“注射是优先选择”，具体这里宣布展开了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40130,
+          "following_count": 3676,
+          "like_count": 1287,
+          "listed_count": 69,
+          "media_count": 355,
+          "tweet_count": 2594
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-22T11:33:52.000Z",
+        "description": "@AkemiKusane 的华语账号 喝多了也会写这儿 冬天滑雪夏天爬山",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "AkemiKusane"
+              }
+            ]
+          }
+        },
+        "id": "1628357323944239105",
+        "name": "恶魔草",
+        "pinned_tweet_id": "1771290516493345087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668650823369334784/ru16sD0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 214,
+          "like_count": 779,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 2765
+        },
+        "username": "AkumaKusane",
+        "verified": false
+      }
+    ]
+  }
+}

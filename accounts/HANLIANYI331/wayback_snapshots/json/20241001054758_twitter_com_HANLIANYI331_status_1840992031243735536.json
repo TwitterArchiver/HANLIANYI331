@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1840992031243735536",
+    "created_at": "2024-10-01T05:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T06:10:41.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1840982646513680745",
+      "1840992031243735536"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1840992031243735536",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "广州白云区丰裕花园1F栋一个约120平米的房屋寻求转租。\n\n房屋格局是3个卧室、2个卫生间、1个厨房、1个阳台、1个大厅。\n\n房屋租金是一个月2400元，押金4800元，押二付一。\n\n租期2024年6月1日至2025年5月31日，目前还剩约8个月。\n\n我现在人就在这个房子，10月5日回武汉，在此之前我需要处理这个房子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1840982646513680745",
+        "created_at": "2024-10-01T05:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T06:10:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840982646513680745",
+          "1840992031243735536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840982646513680745",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 418,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "广州白云区丰裕花园1F栋一个约120平米的房屋寻求转租。\n\n房屋格局是3个卧室、2个卫生间、1个厨房、1个阳台、1个大厅。\n\n房屋租金是一个月2400元，押金4800元，押二付一。\n\n租期一年，目前还剩约9个月。\n\n我现在人就在这个房子，10月5日回武汉，在此之前我需要处理这个房子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1840992031243735536",
+        "created_at": "2024-10-01T05:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T06:10:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840982646513680745",
+          "1840992031243735536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1840992031243735536",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州白云区丰裕花园1F栋一个约120平米的房屋寻求转租。\n\n房屋格局是3个卧室、2个卫生间、1个厨房、1个阳台、1个大厅。\n\n房屋租金是一个月2400元，押金4800元，押二付一。\n\n租期2024年6月1日至2025年5月31日，目前还剩约8个月。\n\n我现在人就在这个房子，10月5日回武汉，在此之前我需要处理这个房子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32541,
+          "following_count": 3438,
+          "like_count": 281,
+          "listed_count": 56,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

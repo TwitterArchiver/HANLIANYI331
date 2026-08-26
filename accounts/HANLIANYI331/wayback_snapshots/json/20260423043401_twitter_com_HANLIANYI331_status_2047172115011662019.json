@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2047000379238572487",
+    "created_at": "2026-04-23T04:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047172115011662019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1600124685026562052",
+          "start": 0,
+          "username": "j12ev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047172115011662019",
+    "in_reply_to_user_id": "1600124685026562052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "参考过去一百年的几轮经济危机，如果不发生黑天鹅，泡沫可以一直存在，持续存在。黑天鹅也只不过是挤出泡沫的过程。但是价格存在天然均值回归的引力，因此一个公司的市值可以永远存在泡沫，但是仍然会在泡沫的基础上进行波动。最理想的挤泡沫方式也可能是“公司实际上在增长，但是价格横盘多年，以横代跌”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047169320061686183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j12ev 参考过去一百年的几轮经济危机，如果不发生黑天鹅，泡沫可以一直存在，持续存在。黑天鹅也只不过是挤出泡沫的过程。但是价格存在天然均值回归的引力，因此一个公司的市值可以永远存在泡沫，但是仍然会在泡沫的基础上进行波动。最理想的挤泡沫方式也可能是“公司实际上在增长，但是价格横盘多年，以横代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2047000379238572487",
+        "created_at": "2026-04-23T04:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047172115011662019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1600124685026562052",
+              "start": 0,
+              "username": "j12ev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047172115011662019",
+        "in_reply_to_user_id": "1600124685026562052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "参考过去一百年的几轮经济危机，如果不发生黑天鹅，泡沫可以一直存在，持续存在。黑天鹅也只不过是挤出泡沫的过程。但是价格存在天然均值回归的引力，因此一个公司的市值可以永远存在泡沫，但是仍然会在泡沫的基础上进行波动。最理想的挤泡沫方式也可能是“公司实际上在增长，但是价格横盘多年，以横代跌”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047169320061686183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j12ev 参考过去一百年的几轮经济危机，如果不发生黑天鹅，泡沫可以一直存在，持续存在。黑天鹅也只不过是挤出泡沫的过程。但是价格存在天然均值回归的引力，因此一个公司的市值可以永远存在泡沫，但是仍然会在泡沫的基础上进行波动。最理想的挤泡沫方式也可能是“公司实际上在增长，但是价格横盘多年，以横代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600124685026562052",
+        "conversation_id": "2047000379238572487",
+        "created_at": "2026-04-23T04:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047169320061686183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047169320061686183",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047167969973960729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 如果你确定腰斩会到来，也就是3600点-4000点迟早会来，那为什么要分批抄底呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40858,
+          "following_count": 3705,
+          "like_count": 1607,
+          "listed_count": 70,
+          "media_count": 390,
+          "tweet_count": 2840
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T13:47:42.000Z",
+        "description": "",
+        "id": "1600124685026562052",
+        "name": "imisshk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600125105451016194/9gONRIF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 195,
+          "like_count": 269,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 384
+        },
+        "username": "j12ev",
+        "verified": false
+      }
+    ]
+  }
+}

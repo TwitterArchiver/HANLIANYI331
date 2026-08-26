@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1861854652360458330",
+    "created_at": "2024-11-27T19:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T20:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861854652360458330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 119,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1861435496209264728",
+          "start": 96,
+          "url": "https://t.co/K0U41KBES7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861854652360458330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "补充更多案情细节：\n\n1.当事人此次被抓，根本原因在于涉及到二类精神管控药物（如酒石酸唑吡坦片，劳拉西泮等）的贩卖问题。\n\n且被定义为「在明知自己售卖的药品会被用于“吸毒”的情况下售卖。」\n\n且民警在钓鱼执法的过程中会故意表达“如果没有这个药我会很痛苦”，“我非常迫切的需要这些药”，“只有这些药才能让我开心一些”等类似的话术。\n\n这些钓鱼执法的话术一般是为了方便抓捕犯罪嫌疑人以后，给嫌疑人定罪“嫌疑人明知自己卖出的二类精神管制药物会被用来娱乐性吸食”的依据。\n\n2.民警在钓鱼执法的过程中，大量卖惨，虚构自己因为家庭暴力，生活困难，居住地址偏远等各种原因，无法前往正规精神科遵循医嘱开药。因此被迫只能通过互联网进行药物购买，希望对方帮忙“代购”药物。\n\n3.因为跨性别社群的特殊语境，这些话术被当事人理解为了“对方确切困难”，在同情心被利用的基础上，理解为了对方确实是一个生存困难的患有抑郁症，生存困难，开不到药的跨性别女性。于是，当事人抱着“想要帮助跨性别社群的同类”这样的想法，被恶意利用。\n\n4.当事人不是“药商”，此次被钓鱼执法前，从未卖过药。\n\n且此次钓鱼执法属于针对包含跨性别社群在内的“大面积撒网”。有很多跨性别女性都收到了钓鱼，包括很多成名药商，但都钓鱼失败了。\n\n当事人因为法律意识淡泊，没有戒备心，同情心泛滥，过于善良等原因，属于中招者。\n\n5.当事人拥有的二类精神管控药物来源合法，有精神科的处方，且当事人自身也在遵循医嘱的基础上定期服用二类精神管控药物。此次被钓鱼也是抱着帮助对方的想法，向对方以购买价转卖手上已有的药品。\n\n6.因为事发突然，当事人，事发后直接与外界失联。因此社群并不知道当事人的真实姓名，又因为不知道其原生家庭联系方式，从而导致社群的法律援助无法介入。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861435496209264728",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充更多案情细节：\n\n1.当事人此次被抓，根本原因在于涉及到二类精神管控药物（如酒石酸唑吡坦片，劳拉西泮等）的贩卖问题。\n\n且被定义为「在明知自己售卖的药品会被用于“吸毒”的情况下售卖。」… https://t.co/K0U41KBES7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1861854652360458330",
+        "created_at": "2024-11-27T19:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T20:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861854652360458330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1861435496209264728",
+              "start": 96,
+              "url": "https://t.co/K0U41KBES7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861854652360458330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "补充更多案情细节：\n\n1.当事人此次被抓，根本原因在于涉及到二类精神管控药物（如酒石酸唑吡坦片，劳拉西泮等）的贩卖问题。\n\n且被定义为「在明知自己售卖的药品会被用于“吸毒”的情况下售卖。」\n\n且民警在钓鱼执法的过程中会故意表达“如果没有这个药我会很痛苦”，“我非常迫切的需要这些药”，“只有这些药才能让我开心一些”等类似的话术。\n\n这些钓鱼执法的话术一般是为了方便抓捕犯罪嫌疑人以后，给嫌疑人定罪“嫌疑人明知自己卖出的二类精神管制药物会被用来娱乐性吸食”的依据。\n\n2.民警在钓鱼执法的过程中，大量卖惨，虚构自己因为家庭暴力，生活困难，居住地址偏远等各种原因，无法前往正规精神科遵循医嘱开药。因此被迫只能通过互联网进行药物购买，希望对方帮忙“代购”药物。\n\n3.因为跨性别社群的特殊语境，这些话术被当事人理解为了“对方确切困难”，在同情心被利用的基础上，理解为了对方确实是一个生存困难的患有抑郁症，生存困难，开不到药的跨性别女性。于是，当事人抱着“想要帮助跨性别社群的同类”这样的想法，被恶意利用。\n\n4.当事人不是“药商”，此次被钓鱼执法前，从未卖过药。\n\n且此次钓鱼执法属于针对包含跨性别社群在内的“大面积撒网”。有很多跨性别女性都收到了钓鱼，包括很多成名药商，但都钓鱼失败了。\n\n当事人因为法律意识淡泊，没有戒备心，同情心泛滥，过于善良等原因，属于中招者。\n\n5.当事人拥有的二类精神管控药物来源合法，有精神科的处方，且当事人自身也在遵循医嘱的基础上定期服用二类精神管控药物。此次被钓鱼也是抱着帮助对方的想法，向对方以购买价转卖手上已有的药品。\n\n6.因为事发突然，当事人，事发后直接与外界失联。因此社群并不知道当事人的真实姓名，又因为不知道其原生家庭联系方式，从而导致社群的法律援助无法介入。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861435496209264728",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充更多案情细节：\n\n1.当事人此次被抓，根本原因在于涉及到二类精神管控药物（如酒石酸唑吡坦片，劳拉西泮等）的贩卖问题。\n\n且被定义为「在明知自己售卖的药品会被用于“吸毒”的情况下售卖。」… https://t.co/K0U41KBES7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861435207611752448"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1861435496209264728",
+        "created_at": "2024-11-26T15:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T16:41:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861435213848662262",
+          "1861435496209264728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XDljUjMvot",
+              "end": 171,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1861435496209264728/photo/1",
+              "media_key": "3_1861435207611752448",
+              "start": 148,
+              "url": "https://t.co/XDljUjMvot"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1849050188633288850",
+              "start": 172,
+              "url": "https://t.co/FLWWXsN4nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861435496209264728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 99299,
+          "like_count": 435,
+          "quote_count": 20,
+          "reply_count": 55,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849050188633288850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前当事人在福建省莆田市涵江区，仍然在拘留所里，还没一审。\n\n当事人最高可能被面临七年监禁。\n\n当事人约23岁，刚刚做完手术，没改身份证\n\n此次判刑，可能会导致当事人身份证永久无法更改。\n\n初步猜测此次钓鱼执法是为了满足当地贩毒KPI\n\n注意：一旦发生买卖二类精神管制药物的行为，性质等同于贩毒 https://t.co/XDljUjMvot https://t.co/FLWWXsN4nt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33697,
+          "following_count": 3428,
+          "like_count": 291,
+          "listed_count": 58,
+          "media_count": 259,
+          "tweet_count": 1908
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

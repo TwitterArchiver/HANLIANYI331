@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1921561152527675766",
+    "created_at": "2025-05-11T13:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T14:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921561152527675766"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1921561152527675766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "2024年相比起2023年有将近三分之一的高校停止对外招生第二学士学位。2025年的第二学士学位的招生仍然在保持大规模缩招的趋势。很多学校的招生周期只有一两周，目前我因为繁忙没有太多时间精力去一个一个的翻找各大学校官网关注第二学士学位的招生情况。\n\n我希望雇一个人专门帮我整理2025年法学和知识产权的第二学士学位招生的院校情况以及报名的时间窗口。有意向的人可以通过我置顶的telegram联系方式和我联系。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2024年相比起2023年有将近三分之一的高校停止对外招生第二学士学位。2025年的第二学士学位的招生仍然在保持大规模缩招的趋势。很多学校的招生周期只有一两周，目前我因为繁忙没有太多时间精力去一个一个的翻找各大学校官网关注第二学士学位的招生情况。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1921561152527675766",
+        "created_at": "2025-05-11T13:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T14:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921561152527675766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921561152527675766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2024年相比起2023年有将近三分之一的高校停止对外招生第二学士学位。2025年的第二学士学位的招生仍然在保持大规模缩招的趋势。很多学校的招生周期只有一两周，目前我因为繁忙没有太多时间精力去一个一个的翻找各大学校官网关注第二学士学位的招生情况。\n\n我希望雇一个人专门帮我整理2025年法学和知识产权的第二学士学位招生的院校情况以及报名的时间窗口。有意向的人可以通过我置顶的telegram联系方式和我联系。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2024年相比起2023年有将近三分之一的高校停止对外招生第二学士学位。2025年的第二学士学位的招生仍然在保持大规模缩招的趋势。很多学校的招生周期只有一两周，目前我因为繁忙没有太多时间精力去一个一个的翻找各大学校官网关注第二学士学位的招生情况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37818,
+          "following_count": 3634,
+          "like_count": 716,
+          "listed_count": 61,
+          "media_count": 325,
+          "tweet_count": 2349
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,668 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995141583910641664"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      }
+    ],
+    "conversation_id": "1995142861944435021",
+    "created_at": "2025-11-30T14:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T15:44:17.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995141840572674513",
+      "1995142861944435021",
+      "1995148330893238417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2h3LKkPRoN",
+          "end": 143,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1995142861944435021/photo/1",
+          "media_key": "3_1995141583910641664",
+          "start": 120,
+          "url": "https://t.co/2h3LKkPRoN"
+        },
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1799144853785256427",
+          "start": 144,
+          "url": "https://t.co/6eSxz7nmo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995142861944435021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "政治最大的问题，莫过于把一个个活生生的人，硬生生的划分为了“我们”和“他们”。\n在小时候，我曾在一本书上看过一个故事，故事的梗概大概是：\n\n一个法国人（以下简称A）向另一个德国人（以下简称B）抱怨，当年你们德国人如何如何伤害了我们法国人。\nB听完了以后，问A，你总是说“我们”和“你们”，可是我却并没有伤害过你，而被伤害的法国人也不是你，伤害那个法国人的德国人也不是我，同时，我也无法控制那个伤害法国人的德国人的行为。\n\n我从来不会说“中国人怎么怎么样，美国人怎么怎么样，北京人怎么怎么样，河南人怎么怎么样，顺直人怎么怎么样，跨性别群体怎么怎么样”\n\n包括由此衍生出来的“当年（某个群体的人）对我们（某个群体的人）有多好，因此我们（某个群体）要对他们（某个群体）需要多好”——应该回馈的，应当是是那个具体帮助的人，而非具体帮助的人所属的群体，仇恨也同理。\n\n人与人之间的差别，比人与狗之间的差别还要大。某个中国人和某个中国人的差别，某个美国人与某个美国人之间的差别，也同样要远远比中国人和美国人之间的差别还要大。\n\n任何国家，任何群体都有善良的人，任何国家，任何群体也同样都有恶人。\n\n从我幼时开始，“冤有头，债有主”就是我信奉的人生格言，有善良的人遭遇了迫害，那就从迫害ta的人以及和这个人相关的链条解决问题和复仇，而非最终抽象成“某个群体迫害了我”\n\n将复杂的世界，复杂的问题简单化，是不愿思考的表现，也会带来无数的此生灾害"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 379,
+      "like_count": 14,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799144853785256427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "政治最大的问题，莫过于把一个个活生生的人，硬生生的划分为了“我们”和“他们”。\n在小时候，我曾在一本书上看过一个故事，故事的梗概大概是：\n\n一个法国人（以下简称A）向另一个德国人（以下简称B）抱怨，当年你们德国人如何如何伤害了我们法国人。 https://t.co/2h3LKkPRoN https://t.co/6eSxz7nmo9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995141583910641664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7AqsymaoAA22r3.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995141583910641664"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "1995141840572674513",
+        "created_at": "2025-11-30T14:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:44:17.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995141840572674513",
+          "1995142861944435021",
+          "1995148330893238417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQK5BS8PHe",
+              "end": 143,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1995141840572674513/photo/1",
+              "media_key": "3_1995141583910641664",
+              "start": 120,
+              "url": "https://t.co/cQK5BS8PHe"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1799144853785256427",
+              "start": 144,
+              "url": "https://t.co/6eSxz7nmo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995141840572674513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "政治最大的问题，莫过于把一个个活生生的人，硬生生的划分为了“我们”和“他们”。\n在小时候，我曾在一本书上看过一个故事，故事的梗概大概是：\n\n一个法国人（以下简称A）向另一个德国人（以下简称B）抱怨，当年你们德国人如何如何伤害了我们法国人。\nB听完了以后，问A，你总是说“我们”和“你们”，可是我却并没有伤害过你，而被伤害的法国人也不是你，伤害那个法国人的德国人也不是我，同时，我也无法控制那个伤害法国人的德国人的行为。\n\n人与人之间的差别，比人与狗之间的差别还要大。某个中国人和某个中国人的差别，某个美国人与某个美国人之间的差别，也同样要远远比中国人和美国人之间的差别还要大。\n\n任何国家，任何群体都有善良的人，任何国家，任何群体也同样都有恶人。\n\n从我幼时开始，“冤有头，债有主”就是我信奉的人生格言，有善良的人遭遇了迫害，那就从迫害ta的人以及和这个人相关的链条解决问题和复仇，而非最终抽象成“某个群体迫害了我”\n\n将复杂的世界，复杂的问题简单化，是不愿思考的表现，也会带来无数的此生灾害"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799144853785256427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "政治最大的问题，莫过于把一个个活生生的人，硬生生的划分为了“我们”和“他们”。\n在小时候，我曾在一本书上看过一个故事，故事的梗概大概是：\n\n一个法国人（以下简称A）向另一个德国人（以下简称B）抱怨，当年你们德国人如何如何伤害了我们法国人。 https://t.co/cQK5BS8PHe https://t.co/6eSxz7nmo9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995141583910641664"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "1995142861944435021",
+        "created_at": "2025-11-30T14:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:44:17.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995141840572674513",
+          "1995142861944435021",
+          "1995148330893238417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2h3LKkPRoN",
+              "end": 143,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1995142861944435021/photo/1",
+              "media_key": "3_1995141583910641664",
+              "start": 120,
+              "url": "https://t.co/2h3LKkPRoN"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1799144853785256427",
+              "start": 144,
+              "url": "https://t.co/6eSxz7nmo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995142861944435021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "政治最大的问题，莫过于把一个个活生生的人，硬生生的划分为了“我们”和“他们”。\n在小时候，我曾在一本书上看过一个故事，故事的梗概大概是：\n\n一个法国人（以下简称A）向另一个德国人（以下简称B）抱怨，当年你们德国人如何如何伤害了我们法国人。\nB听完了以后，问A，你总是说“我们”和“你们”，可是我却并没有伤害过你，而被伤害的法国人也不是你，伤害那个法国人的德国人也不是我，同时，我也无法控制那个伤害法国人的德国人的行为。\n\n我从来不会说“中国人怎么怎么样，美国人怎么怎么样，北京人怎么怎么样，河南人怎么怎么样，顺直人怎么怎么样，跨性别群体怎么怎么样”\n\n包括由此衍生出来的“当年（某个群体的人）对我们（某个群体的人）有多好，因此我们（某个群体）要对他们（某个群体）需要多好”——应该回馈的，应当是是那个具体帮助的人，而非具体帮助的人所属的群体，仇恨也同理。\n\n人与人之间的差别，比人与狗之间的差别还要大。某个中国人和某个中国人的差别，某个美国人与某个美国人之间的差别，也同样要远远比中国人和美国人之间的差别还要大。\n\n任何国家，任何群体都有善良的人，任何国家，任何群体也同样都有恶人。\n\n从我幼时开始，“冤有头，债有主”就是我信奉的人生格言，有善良的人遭遇了迫害，那就从迫害ta的人以及和这个人相关的链条解决问题和复仇，而非最终抽象成“某个群体迫害了我”\n\n将复杂的世界，复杂的问题简单化，是不愿思考的表现，也会带来无数的此生灾害"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799144853785256427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "政治最大的问题，莫过于把一个个活生生的人，硬生生的划分为了“我们”和“他们”。\n在小时候，我曾在一本书上看过一个故事，故事的梗概大概是：\n\n一个法国人（以下简称A）向另一个德国人（以下简称B）抱怨，当年你们德国人如何如何伤害了我们法国人。 https://t.co/2h3LKkPRoN https://t.co/6eSxz7nmo9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995141583910641664"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "1995148330893238417",
+        "created_at": "2025-11-30T15:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:44:17.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995141840572674513",
+          "1995142861944435021",
+          "1995148330893238417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pmo4DDfa3A",
+              "end": 143,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1995148330893238417/photo/1",
+              "media_key": "3_1995141583910641664",
+              "start": 120,
+              "url": "https://t.co/Pmo4DDfa3A"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1799144853785256427",
+              "start": 144,
+              "url": "https://t.co/6eSxz7nmo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995148330893238417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "政治最大的问题，莫过于把一个个活生生的人，硬生生的划分为了“我们”和“他们”。\n在小时候，我曾在一本书上看过一个故事，故事的梗概大概是：\n\n一个法国人（以下简称A）向另一个德国人（以下简称B）抱怨，当年你们德国人如何如何伤害了我们法国人。\nB听完了以后，问A，你总是说“我们”和“你们”，可是我却并没有伤害过你，而被伤害的法国人也不是你，伤害那个法国人的德国人也不是我，同时，我也无法控制那个伤害法国人的德国人的行为。\n\n我从来不会说“中国人怎么怎么样，美国人怎么怎么样，北京人怎么怎么样，河南人怎么怎么样，顺直人怎么怎么样，跨性别群体怎么怎么样”\n\n包括由此衍生出来的“当年（某个群体的人）对我们（某个群体的人）有多好，因此我们（某个群体）要对他们（某个群体）需要多好”——应该回馈的，应当是是那个具体帮助的人，而非具体帮助的人所属的群体，仇恨也同理。\n\n人与人之间的差别，比人与狗之间的差别还要大。某个中国人和某个中国人的差别，某个美国人与某个美国人之间的差别，也同样要远远比中国人和美国人之间的差别还要大。\n\n任何国家，任何群体都有善良的人，任何国家，任何群体也同样都有恶人。\n\n从我幼时开始，“冤有头，债有主”就是我信奉的人生格言，有善良的人遭遇了迫害，那就从迫害ta的当事人以及和这个当事人所作所为相关的链条上的人解决问题和复仇，而非最终抽象成“某个群体/国家/政党迫害了我”\n\n将复杂的世界，复杂的问题简单化，是不愿思考的表现，也会带来无数的次生灾害"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1769,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799144853785256427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "政治最大的问题，莫过于把一个个活生生的人，硬生生的划分为了“我们”和“他们”。\n在小时候，我曾在一本书上看过一个故事，故事的梗概大概是：\n\n一个法国人（以下简称A）向另一个德国人（以下简称B）抱怨，当年你们德国人如何如何伤害了我们法国人。 https://t.co/Pmo4DDfa3A https://t.co/6eSxz7nmo9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1799144853785256427",
+        "created_at": "2024-06-07T18:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T19:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799144853785256427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1797001132168110081",
+              "start": 85,
+              "url": "https://t.co/Jp6aLkoeUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799144853785256427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“把每个人都当做独立的个体来看待”，而非是通过一个又一个的标签把他们看作是一个个“群体”。\n\n我永远不会因为一个人的人性，而去彻底否决其他的跟这个人有相同“标签”的人。\n\n将每个人都视为独立的个体，意味着我们尊重他们的个性、经历、想法和感受。这样做不仅有助于建立更深入的人际关系，还能促进相互理解和包容。当我们试图通过标签来简化对人的认识时，很容易忽视个体的复杂性和多样性。\n\n每个人都是独一无二的，具有自己的经历、背景、价值观和情感。把人简单地归类到某个标签下，会忽视这些独特的个性和经历。例如，两个人可能都属于“程序员”这个群体，但他们的性格、兴趣、生活方式等可能截然不同。将他们视为独立的个体，可以更准确地理解和尊重他们的差异。\n\n标签往往与刻板印象和偏见紧密相连。当我们用标签来看待人时，很容易受到这些刻板印象的影响，从而对某些群体产生不公正的判断。例如，仅仅因为某人是某个国家或地区的人，就对其持有某种预设的观点，这显然是不公平的。将人们视为独立个体，有助于我们摆脱这些偏见，更客观地看待他们。\n\n当我们把一个人看作是一个独特的个体，而不是某个群体的代表，我们就会更加关注他们的个人故事、情感和需求。这种关注能够促进更深入的了解和真实的情感连接。例如，在交友或恋爱中，了解对方的独特性格和经历，远比仅仅知道他们的职业、年龄或国籍等标签要重要得多。\n\n将人们视为独立个体，有助于我们培养同理心，即设身处地地理解他人的感受和需求。这种同理心是建立和谐社会和有效沟通的基础。同时，它也有助于我们更加包容不同的观点和文化，从而促进社会的多元和进步。\n\n贫困家庭的孩子往往被贴上“贫困”标签，这可能导致他们在教育和就业方面面临更多困难。比如，他们可能因为经济条件的标签而被视为“低潜力”学生，从而在教育资源分配中处于不利地位。\n\n经济地位标签加剧了教育资源的不平等分配，影响了贫困家庭孩子的未来发展和社会融入。\n\n在疫情期间，“武汉人”、“湖北人”成为了疫情重灾区个体的标签。这种地域标签导致了多起由群体偏见引发的极端事件，如对非湖北籍人士的歧视和排斥。\n\n地域标签加剧了社会分裂和地域歧视，破坏了社会和谐与稳定。\n\n在社交媒体或现实生活中，人们经常因为某个人的行为而对整个群体产生刻板印象。比如，“00后”被标签为“自我中心”、“不负责任”，而实际上每个年代的人都有其多样性和复杂性。\n\n刻板印象和误解阻碍了不同年代、文化和社会背景的人之间的相互理解和尊重。\n\n如果我们不将每个人视为独立个体，而是依赖标签来评判和理解他们，就可能导致不公正、歧视和误解。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14277,
+          "like_count": 78,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797001132168110081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“把每个人都当做独立的个体来看待”，而非是通过一个又一个的标签把他们看作是一个个“群体”。\n\n我永远不会因为一个人的人性，而去彻底否决其他的跟这个人有相同“标签”的人。 https://t.co/Jp6aLkoeUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40308,
+          "following_count": 3667,
+          "like_count": 1301,
+          "listed_count": 69,
+          "media_count": 364,
+          "tweet_count": 2631
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

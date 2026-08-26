@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2024689471179149736",
+    "created_at": "2026-02-20T03:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024689471179149736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/2024026246297120830",
+          "start": 150,
+          "url": "https://t.co/eUp1gpOOyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024689471179149736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "有些人觉得这个策略仍然对散户来说有些复杂，因为散户极有可能找不到足够好的投资标的物。\n\n那还有一个更无脑的投资方法，它的年化期望收益大约是8％～10％，而且最大回撤几乎不可能超过5％（基于该策略过去60年的历史数据）\n\n那就是「永恒投资策略」具体策略：\n\n将资金分成四等份，各占25%：\n25％黄金\n25% 股票：推荐全球或美股指数ETF，如标普500 ETF\n25% 长期债券：例如国债\n25% 现金或短期债券\n每当某一个资产的价值占比超过35％或者低于15％时，则对这四个资产进行一次再平衡，让它重新回到25％\n\n详细或者更细节的东西可以询问AI或者上网查找。\n\n这个策略真正做到了无脑，适用于地球上的所有人。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024026246297120830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些人觉得这个策略仍然对散户来说有些复杂，因为散户极有可能找不到足够好的投资标的物。\n\n那还有一个更无脑的投资方法，它的年化期望收益大约是8％～10％，而且最大回撤几乎不可能超过5％（基于该策略过去60年的历史数据）\n\n那就是「永恒投资策略」具体策略：\n\n将资金分成四等份，各占25%：\n25％黄金 https://t.co/eUp1gpOOyH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2024689471179149736",
+        "created_at": "2026-02-20T03:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024689471179149736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2024026246297120830",
+              "start": 150,
+              "url": "https://t.co/eUp1gpOOyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024689471179149736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有些人觉得这个策略仍然对散户来说有些复杂，因为散户极有可能找不到足够好的投资标的物。\n\n那还有一个更无脑的投资方法，它的年化期望收益大约是8％～10％，而且最大回撤几乎不可能超过5％（基于该策略过去60年的历史数据）\n\n那就是「永恒投资策略」具体策略：\n\n将资金分成四等份，各占25%：\n25％黄金\n25% 股票：推荐全球或美股指数ETF，如标普500 ETF\n25% 长期债券：例如国债\n25% 现金或短期债券\n每当某一个资产的价值占比超过35％或者低于15％时，则对这四个资产进行一次再平衡，让它重新回到25％\n\n详细或者更细节的东西可以询问AI或者上网查找。\n\n这个策略真正做到了无脑，适用于地球上的所有人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024026246297120830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些人觉得这个策略仍然对散户来说有些复杂，因为散户极有可能找不到足够好的投资标的物。\n\n那还有一个更无脑的投资方法，它的年化期望收益大约是8％～10％，而且最大回撤几乎不可能超过5％（基于该策略过去60年的历史数据）\n\n那就是「永恒投资策略」具体策略：\n\n将资金分成四等份，各占25%：\n25％黄金 https://t.co/eUp1gpOOyH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2024026246297120830",
+        "created_at": "2026-02-18T07:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024026246297120830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2023319481683177681",
+              "start": 137,
+              "url": "https://t.co/hx0HZrrLum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024026246297120830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人说这是大资金的玩法，放弃了小资金的优势，而且有无数比这个策略在数学期望上，收益率更高的策略。\n\n是的，巴菲特确实表达过：“他如今投资收益率连年下降到10％以内是因为他管理的资金规模太大了，如果他的资金规模在100万美元以下，他做到50％以上的年化收益是一定的事情。”\n\n但是这有一个前提：你有足够过硬的金融知识并且能克服人性的弱点，有严格的纪律性。在自己不懂的行情中“博取更高收益”，最终都会变成韭菜。\n这是绝大多数普通人都做不到的，而且如果花费太多的时间精力在金融上，生活和工作都会被荒废和毁灭。\n以美股和加密货币市场为例，所有杠杆玩家的爆仓价格和爆仓金额，庄家看得一清二楚，k线图就专盯着爆仓价走。只有现货玩家才爆不到你。\n\n就算想做全职投资，先问问自己是不是巴菲特？如果是，那理应早在一个任意领域获得巨大成功。\n而且即使是巴菲特，也是享有了在出生在了一个经济繁荣的美国，一个经济繁荣的时代，一个白人男性的“特权”。\n\n对于普通人来说，要么买基金“交给专业的人打理”，被基金经理抽取高额的佣金和“腐败产生的磨损”。要么就是我说的这种或类似的用大道至简的方法，放弃所有的不确定性，去博取一个确定性的收益。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6489,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023319481683177681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多人说这是大资金的玩法，放弃了小资金的优势，而且有无数比这个策略在数学期望上，收益率更高的策略。\n\n是的，巴菲特确实表达过：“他如今投资收益率连年下降到10％以内是因为他管理的资金规模太大了，如果他的资金规模在100万美元以下，他做到50％以上的年化收益是一定的事情。” https://t.co/hx0HZrrLum"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41072,
+          "following_count": 3679,
+          "like_count": 1453,
+          "listed_count": 67,
+          "media_count": 385,
+          "tweet_count": 2769
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

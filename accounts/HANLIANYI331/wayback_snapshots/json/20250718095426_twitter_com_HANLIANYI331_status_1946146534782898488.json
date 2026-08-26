@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1945559007860863350",
+    "created_at": "2025-07-18T09:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T10:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946146534782898488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1214489223400587265",
+          "start": 0,
+          "username": "YY3302211"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946146534782898488",
+    "in_reply_to_user_id": "1214489223400587265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946138126738706509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YY3302211 其实你说的我有些不太理解，你认为「一个主动向其他人求救的自杀者」并不一定「真的想被救」？如果你说的是“主动性的自杀干预”，那我其实尚且能理解你的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1945559007860863350",
+        "created_at": "2025-07-18T09:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946146534782898488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1214489223400587265",
+              "start": 0,
+              "username": "YY3302211"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946146534782898488",
+        "in_reply_to_user_id": "1214489223400587265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946138126738706509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YY3302211 其实你说的我有些不太理解，你认为「一个主动向其他人求救的自杀者」并不一定「真的想被救」？如果你说的是“主动性的自杀干预”，那我其实尚且能理解你的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1214489223400587265",
+        "conversation_id": "1945559007860863350",
+        "created_at": "2025-07-18T09:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946138126738706509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946138126738706509",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945787223586075027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 寒我没有什么想说的。有时候是不是该让她们去接受自然死亡？想自杀的人难道真的是因为情绪精神出问题吗\n这个世界不能来就死来生去。\n何必呢 前面的写的字 我很抱歉。我是希望你在想一下。当然你当作看没有我ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38588,
+          "following_count": 3624,
+          "like_count": 822,
+          "listed_count": 64,
+          "media_count": 337,
+          "tweet_count": 2473
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-07T10:09:49.000Z",
+        "description": "我活着只是因为我的父母进行了性行为，所以别去思考活着的意义了",
+        "id": "1214489223400587265",
+        "location": "吉隆坡",
+        "name": "伪娘妮妮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604946853572722688/xrL586B9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 72,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1336
+        },
+        "username": "YY3302211",
+        "verified": false
+      }
+    ]
+  }
+}

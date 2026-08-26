@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2059801421500014971",
+    "created_at": "2026-06-12T05:35:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065306936942448716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517437669449547776",
+          "start": 0,
+          "username": "YumiChow916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065306936942448716",
+    "in_reply_to_user_id": "1517437669449547776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065306423198638243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumiChow916 所以实际上在我看来你的逻辑是不清晰的：\n1.首先，我们从来没有自称过社工，但是你质询的每一个点都是从“社工伦理”的角度出发的。\n2.如果你的重点并不在于“社工伦理”，而是在于“不平等关系”或者“综合最小伤害原则”，那你就不应当频繁提及“社工伦理”才会出现的原则和理论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2059801421500014971",
+        "created_at": "2026-06-12T05:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065306936942448716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065306936942448716",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065306423198638243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 所以实际上在我看来你的逻辑是不清晰的：\n1.首先，我们从来没有自称过社工，但是你质询的每一个点都是从“社工伦理”的角度出发的。\n2.如果你的重点并不在于“社工伦理”，而是在于“不平等关系”或者“综合最小伤害原则”，那你就不应当频繁提及“社工伦理”才会出现的原则和理论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517437669449547776",
+        "conversation_id": "2059801421500014971",
+        "created_at": "2026-06-12T05:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065306423198638243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7d2673c3623fe492"
+        },
+        "id": "2065306423198638243",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065302590469124443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 至少在加拿大，社工是protected title，先不說受不受倫理限制，不持牌甚至都不能自稱社工\n\n但是無論是不是持牌社工，救助關係顯然能擊中人權法案受保護領域中的「提供服務與設施」，救助者作為權力優勢的一方，有主動義務去避免人權侵害\n\n哦對，差點忘了中國沒有人權法，是法外之地（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41756,
+          "following_count": 3805,
+          "like_count": 1751,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2954
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，背井離鄉只是為了去國懷鄉。我們都不過是在以自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🇺🇳",
+        "id": "1517437669449547776",
+        "location": "Place Without Fear",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 312,
+          "like_count": 4032,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 3888
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

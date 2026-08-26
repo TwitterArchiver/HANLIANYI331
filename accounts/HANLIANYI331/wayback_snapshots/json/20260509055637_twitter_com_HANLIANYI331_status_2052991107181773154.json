@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2052976528536097076",
+    "created_at": "2026-05-09T05:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052991107181773154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "193648759",
+          "start": 0,
+          "username": "ripo0079"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20370…",
+          "end": 60,
+          "expanded_url": "https://x.com/i/status/2037076745426543087",
+          "start": 37,
+          "url": "https://t.co/HFlhsjbCR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052991107181773154",
+    "in_reply_to_user_id": "193648759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037076745426543087",
+        "type": "quoted"
+      },
+      {
+        "id": "2052976528536097076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ripo0079 我两个月前反映过因为油价暴涨导致我被迫放弃开车的情况\nhttps://t.co/HFlhsjbCR0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2052976528536097076",
+        "created_at": "2026-05-09T05:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052991107181773154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20370…",
+              "end": 60,
+              "expanded_url": "https://x.com/i/status/2037076745426543087",
+              "start": 37,
+              "url": "https://t.co/HFlhsjbCR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052991107181773154",
+        "in_reply_to_user_id": "193648759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037076745426543087",
+            "type": "quoted"
+          },
+          {
+            "id": "2052976528536097076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 我两个月前反映过因为油价暴涨导致我被迫放弃开车的情况\nhttps://t.co/HFlhsjbCR0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2037076745426543087",
+        "created_at": "2026-03-26T07:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T08:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037076745426543087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037076745426543087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "由于伊朗战争导致油价暴涨，这让我平时开的烧油的手动挡面包车性价比大幅度下降，如今同样的公里数开车烧的油钱要比打车钱还贵。\n但是这个面包车如果卖出去最多也就几千元人民币，哪怕换个同样1万元的电车，续航一般只有200公里出头，如果遇到涉及到紧急救援等极端的需要长途跨城甚至跨省奔袭的情况，这是完全无法满足需求的。\n毕竟市内交通可以坐地铁，跨城交通廉价电车的续航完全无法满足需求，800公里的长续航电车基本都在10万元人民币以上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7481,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "由于伊朗战争导致油价暴涨，这让我平时开的烧油的手动挡面包车性价比大幅度下降，如今同样的公里数开车烧的油钱要比打车钱还贵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2052976528536097076",
+        "created_at": "2026-05-09T04:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052976528536097076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052976528536097076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3625,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 54,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，你们有燃料问题吗？（霍尔木兹海峡问题联系）\n我听了越南现在有燃料问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41580,
+          "following_count": 3743,
+          "like_count": 1632,
+          "listed_count": 74,
+          "media_count": 391,
+          "tweet_count": 2860
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10817,
+          "following_count": 1402,
+          "like_count": 72313,
+          "listed_count": 129,
+          "media_count": 4350,
+          "tweet_count": 54265
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

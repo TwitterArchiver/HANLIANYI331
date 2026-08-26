@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1139229087682068480",
+          "name": "Tether cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      }
+    ],
+    "conversation_id": "2017926564382724585",
+    "created_at": "2026-02-01T11:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T12:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017926564382724585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FJUNNNN/status…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/FJUNNNN/status/2016659170288947266",
+          "start": 112,
+          "url": "https://t.co/4iu3CFCPas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017926564382724585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "急需：\n\n我的一个亲密关系，同时也是危机干预活动的长期资助者（她为危机干预累计资助了三十万元人民币），前段时间在黄金高点时卖出了大部分黄金，近期想要投资以太坊，急于想要兑换一些usdc/usdt（币安平台，数额上不封顶）。\n\n因为没有购入渠道，因此想要向大家问询有没有人想要出手自己的usdt/usdc，如有，请通过telegram和我联系。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016659170288947266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "急需：\n\n我的一个亲密关系，同时也是危机干预活动的长期资助者（她为危机干预累计资助了三十万元人民币），前段时间在黄金高点时卖出了大部分黄金，近期想要投资以太坊，急于想要兑换一些usdc/usdt（币安平台，数额上不封顶）。 https://t.co/4iu3CFCPas"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016659162667896832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_yc0t_bUAAcDIk.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016659162822774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_yc0ukWkAAZtCy.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016659162860552192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_yc0utXAAAz3iM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2017926564382724585",
+        "created_at": "2026-02-01T11:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T12:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017926564382724585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FJUNNNN/status…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/FJUNNNN/status/2016659170288947266",
+              "start": 112,
+              "url": "https://t.co/4iu3CFCPas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017926564382724585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "急需：\n\n我的一个亲密关系，同时也是危机干预活动的长期资助者（她为危机干预累计资助了三十万元人民币），前段时间在黄金高点时卖出了大部分黄金，近期想要投资以太坊，急于想要兑换一些usdc/usdt（币安平台，数额上不封顶）。\n\n因为没有购入渠道，因此想要向大家问询有没有人想要出手自己的usdt/usdc，如有，请通过telegram和我联系。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016659170288947266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "急需：\n\n我的一个亲密关系，同时也是危机干预活动的长期资助者（她为危机干预累计资助了三十万元人民币），前段时间在黄金高点时卖出了大部分黄金，近期想要投资以太坊，急于想要兑换一些usdc/usdt（币安平台，数额上不封顶）。 https://t.co/4iu3CFCPas"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016659162667896832",
+            "3_2016659162822774784",
+            "3_2016659162860552192"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "conversation_id": "2016659170288947266",
+        "created_at": "2026-01-28T23:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T00:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016659170288947266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCgEQ9QRuM",
+              "end": 155,
+              "expanded_url": "https://x.com/FJUNNNN/status/2016659170288947266/photo/1",
+              "media_key": "3_2016659162667896832",
+              "start": 132,
+              "url": "https://t.co/KCgEQ9QRuM"
+            },
+            {
+              "display_url": "pic.x.com/KCgEQ9QRuM",
+              "end": 155,
+              "expanded_url": "https://x.com/FJUNNNN/status/2016659170288947266/photo/1",
+              "media_key": "3_2016659162822774784",
+              "start": 132,
+              "url": "https://t.co/KCgEQ9QRuM"
+            },
+            {
+              "display_url": "pic.x.com/KCgEQ9QRuM",
+              "end": 155,
+              "expanded_url": "https://x.com/FJUNNNN/status/2016659170288947266/photo/1",
+              "media_key": "3_2016659162860552192",
+              "start": 132,
+              "url": "https://t.co/KCgEQ9QRuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016659170288947266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很高兴去年买入了一些黄金\n\n这是近几年几乎唯一\n不需要我透支性的去付出和努力\n并且有正反馈的事情\n\n除此之外\n\n我所遇到的但凡是与人类有关的事情，几乎都是一团糟\n如果将我的金钱，时间，努力与付出视作筹码，用在人类身上，胜率也许10%都不到\n\n如果我减少这部分支出\n资本市场的回馈将很快助我还清贷款和挽回一些过去的损失( ⁼̴̀ .̫ ⁼̴́ )✧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3884,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很高兴去年买入了一些黄金\n\n这是近几年几乎唯一\n不需要我透支性的去付出和努力\n并且有正反馈的事情\n\n除此之外\n\n我所遇到的但凡是与人类有关的事情，几乎都是一团糟\n如果将我的金钱，时间，努力与付出视作筹码，用在人类身上，胜率也许10%都不到\n\n如果我减少这部分支出 https://t.co/KCgEQ9QRuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40939,
+          "following_count": 3662,
+          "like_count": 1402,
+          "listed_count": 69,
+          "media_count": 382,
+          "tweet_count": 2718
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 720,
+          "like_count": 1809,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 531
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

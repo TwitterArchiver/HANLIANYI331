@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2066522238891790720",
+    "created_at": "2026-06-20T22:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T23:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068454575133344126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965393379224944645",
+          "start": 0,
+          "username": "hagishigure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/18311…",
+          "end": 171,
+          "expanded_url": "https://x.com/i/status/1831174625751073013",
+          "start": 148,
+          "url": "https://t.co/voSNomLEdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068454575133344126",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/status/18311…",
+            "end": 291,
+            "expanded_url": "https://x.com/i/status/1831174625751073013",
+            "start": 268,
+            "url": "https://t.co/voSNomLEdt"
+          }
+        ]
+      },
+      "text": "这段话的意义并非是“反对所有自杀”，因为它讨论的并非是加缪（Albert Camus）这种抽象的存在主义派别的情况，而是以现实情况为基础出发的现实讨论。在实际情况当中，往往是当事人因为家暴/校暴/扭转机构的威胁而选择自杀，或者因为各种原因向助人者“寻求更多情感支持”。\n\n这条讨论的对方认为“受助者不具有自我判断力，所以无论是主动求助，还是多远关系，哪怕受助者同意甚至主动请求，助人者也“不具有任何权利”\n\n这和你主张的“人有自杀的自由”事实上是完全相反的，因为对方已经走到了另一个极端：“一个人只要受助/抑郁，就不具有民事同意权”\n\rhttps://t.co/voSNomLEdt"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831174625751073013",
+        "type": "quoted"
+      },
+      {
+        "id": "2066522238891790720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hagishigure 这段话的意义并非是“反对所有自杀”，因为它讨论的并非是加缪（Albert Camus）这种抽象的存在主义派别的情况，而是以现实情况为基础出发的现实讨论。在实际情况当中，往往是当事人因为家暴/校暴/扭转机构的威胁而选择自杀，或者因为各种原因向助人者“寻求更多情感支持”。 https://t.co/voSNomLEdt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2066522238891790720",
+        "created_at": "2026-06-20T22:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068454575133344126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/18311…",
+              "end": 171,
+              "expanded_url": "https://x.com/i/status/1831174625751073013",
+              "start": 148,
+              "url": "https://t.co/voSNomLEdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068454575133344126",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/18311…",
+                "end": 291,
+                "expanded_url": "https://x.com/i/status/1831174625751073013",
+                "start": 268,
+                "url": "https://t.co/voSNomLEdt"
+              }
+            ]
+          },
+          "text": "这段话的意义并非是“反对所有自杀”，因为它讨论的并非是加缪（Albert Camus）这种抽象的存在主义派别的情况，而是以现实情况为基础出发的现实讨论。在实际情况当中，往往是当事人因为家暴/校暴/扭转机构的威胁而选择自杀，或者因为各种原因向助人者“寻求更多情感支持”。\n\n这条讨论的对方认为“受助者不具有自我判断力，所以无论是主动求助，还是多远关系，哪怕受助者同意甚至主动请求，助人者也“不具有任何权利”\n\n这和你主张的“人有自杀的自由”事实上是完全相反的，因为对方已经走到了另一个极端：“一个人只要受助/抑郁，就不具有民事同意权”\n\rhttps://t.co/voSNomLEdt"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831174625751073013",
+            "type": "quoted"
+          },
+          {
+            "id": "2066522238891790720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 这段话的意义并非是“反对所有自杀”，因为它讨论的并非是加缪（Albert Camus）这种抽象的存在主义派别的情况，而是以现实情况为基础出发的现实讨论。在实际情况当中，往往是当事人因为家暴/校暴/扭转机构的威胁而选择自杀，或者因为各种原因向助人者“寻求更多情感支持”。 https://t.co/voSNomLEdt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1831174625751073013",
+        "created_at": "2024-09-04T03:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T04:19:08.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831170101556756864",
+          "1831170226932908279",
+          "1831174625751073013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1831032727656902816",
+              "start": 66,
+              "url": "https://t.co/5GUpXOZiOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831174625751073013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果我们要充分的保障一个人做出一个行为的自由权，必须确保两点：\n\n第一点：这个自由不是“侵犯他人自由的自由”，如盗窃，杀人，诈骗等\n\n第二点：这个行为不是被“胁迫”的。如战场上的士兵为了战斗主动牺牲自己这样的“积极自杀”，就是一种“为了保家卫国而被胁迫的自杀”。如贩卖器官，卖淫等行为，就是一种“为了获得金钱而被胁迫贩卖器官，卖淫”。\n\n同样，在中国社会中，约百分之99的自杀都是一种“被胁迫的自杀”，且相比起其他“被胁迫的行为”来说，自杀是一种完全不可逆，代价最严重的行为。在中国社会中，绝大多数自杀行为都是因为“找不到自杀以外的方法来结束自己的痛苦”。而真正出于（相对）真正意义上自由意志的自杀，少之又少。而我们的现实条件难以去判断对方是否属于“（相对）自由意志的自杀”。也无法做到像荷兰安乐死法案一样对安乐死行为进行“（相对）自由意志审核”。\n\n因此在中国社会，尽力去阻止绝大多数的自杀行为是最优解。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17054,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831032727656902816",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我们要充分的保障一个人做出一个行为的自由权，必须确保两点：\n\n第一点：这个自由不是“侵犯他人自由的自由”，如盗窃，杀人，诈骗等 https://t.co/5GUpXOZiOz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2066522238891790720",
+        "created_at": "2026-06-15T14:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066522238891790720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2066077323989024914",
+              "start": 34,
+              "url": "https://t.co/1hxPYk5MCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066522238891790720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 182,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066077323989024914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一股启蒙傲慢的味。感觉你们这些人要是加缪想去自杀也能觉得加缪有病。 https://t.co/1hxPYk5MCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41764,
+          "following_count": 3826,
+          "like_count": 1780,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 2998
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 153,
+          "like_count": 30739,
+          "listed_count": 3,
+          "media_count": 791,
+          "tweet_count": 7337
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

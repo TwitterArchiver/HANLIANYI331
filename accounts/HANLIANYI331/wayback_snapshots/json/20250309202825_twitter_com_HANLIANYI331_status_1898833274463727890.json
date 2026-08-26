@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1898679055697809578",
+    "created_at": "2025-03-09T20:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T21:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898833274463727890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1314070466978484225",
+          "start": 0,
+          "username": "zuotist"
+        },
+        {
+          "end": 19,
+          "id": "1101189825976303616",
+          "start": 9,
+          "username": "Ym4Fourth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898833274463727890",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这就是国内最搞笑的地方：你法我笑。\n\n所以出现了无数的无良房东，肆意欺凌弱小的租客。所以出现了无数的非法机构，当着警察的面把人绑架走。\n\n捍卫权利的办法不再是法律，而是在“法无禁止皆可为”的框架下“以暴制暴”。\n\n当非法机构以绑架，非法监禁，故意伤害等手段拘禁成年人的时候，当无数的基层机关沆瀣一气，视法律于无物的时候。\n\n这时能够捍卫你自己法律权益的，靠的不是法院，警察，而是你自己。\n\n你可以自己去无限防卫非法拘禁，绑架，故意伤害你的人，也可以去帮助正在被非法拘禁，绑架，故意伤害的人去进行无限防卫。\n\n同理，房东扣你押金，房东赶你走？没关系，几千的押金在房东手里，几百万的房子在租客手里。\n\n前天我炸完厨房，和房东协商更换油烟机和修缮厨房，费用比押金要多得多。那时房东还感叹，很多租客给房屋造成损失比押金还多时，会直接丢下押金跑路。对于房东来说，法院的成本高昂。但是我向来都奉行“人敬我一尺，我敬人一丈，人毁我一栗，我夺人三斗”的原则，面对有品德的房东，我向来和睦相处。\n\n我这人向来吃软不吃硬。\n\n同理，当我碰到喜欢欺凌弱小，不把租客当人的房东时，就应当让对方付出应有的代价。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898828047044030489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuotist @Ym4Fourth 这就是国内最搞笑的地方：你法我笑。\n\n所以出现了无数的无良房东，肆意欺凌弱小的租客。所以出现了无数的非法机构，当着警察的面把人绑架走。\n\n捍卫权利的办法不再是法律，而是在“法无禁止皆可为”的框架下“以暴制暴”。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1898679055697809578",
+        "created_at": "2025-03-09T20:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T21:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898833274463727890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1314070466978484225",
+              "start": 0,
+              "username": "zuotist"
+            },
+            {
+              "end": 19,
+              "id": "1101189825976303616",
+              "start": 9,
+              "username": "Ym4Fourth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898833274463727890",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这就是国内最搞笑的地方：你法我笑。\n\n所以出现了无数的无良房东，肆意欺凌弱小的租客。所以出现了无数的非法机构，当着警察的面把人绑架走。\n\n捍卫权利的办法不再是法律，而是在“法无禁止皆可为”的框架下“以暴制暴”。\n\n当非法机构以绑架，非法监禁，故意伤害等手段拘禁成年人的时候，当无数的基层机关沆瀣一气，视法律于无物的时候。\n\n这时能够捍卫你自己法律权益的，靠的不是法院，警察，而是你自己。\n\n你可以自己去无限防卫非法拘禁，绑架，故意伤害你的人，也可以去帮助正在被非法拘禁，绑架，故意伤害的人去进行无限防卫。\n\n同理，房东扣你押金，房东赶你走？没关系，几千的押金在房东手里，几百万的房子在租客手里。\n\n前天我炸完厨房，和房东协商更换油烟机和修缮厨房，费用比押金要多得多。那时房东还感叹，很多租客给房屋造成损失比押金还多时，会直接丢下押金跑路。对于房东来说，法院的成本高昂。但是我向来都奉行“人敬我一尺，我敬人一丈，人毁我一栗，我夺人三斗”的原则，面对有品德的房东，我向来和睦相处。\n\n我这人向来吃软不吃硬。\n\n同理，当我碰到喜欢欺凌弱小，不把租客当人的房东时，就应当让对方付出应有的代价。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898828047044030489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuotist @Ym4Fourth 这就是国内最搞笑的地方：你法我笑。\n\n所以出现了无数的无良房东，肆意欺凌弱小的租客。所以出现了无数的非法机构，当着警察的面把人绑架走。\n\n捍卫权利的办法不再是法律，而是在“法无禁止皆可为”的框架下“以暴制暴”。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1898679055697809578",
+        "created_at": "2025-03-09T20:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T21:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898828047044030489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1314070466978484225",
+              "start": 0,
+              "username": "zuotist"
+            },
+            {
+              "end": 19,
+              "id": "1101189825976303616",
+              "start": 9,
+              "username": "Ym4Fourth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898828047044030489",
+        "in_reply_to_user_id": "1314070466978484225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898827419085070359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuotist @Ym4Fourth 但是租客可以撬锁进去，房子照住。\n\n假如你是房东律师，你只能向法院起诉，再等到法院出结果，然后拿着法院的驱逐令赶人，除此之外，警察，房东均无权强行赶人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询｜语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883897989900701855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36400,
+          "following_count": 3583,
+          "like_count": 584,
+          "listed_count": 59,
+          "media_count": 312,
+          "tweet_count": 2246
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-08T05:10:00.000Z",
+        "description": "这里是momo，representing pro se/是mtx呢🏳️‍🌈🏳️‍⚧️/喜欢的姐姐@kunliyuu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "kunliyuu"
+              }
+            ]
+          }
+        },
+        "id": "1314070466978484225",
+        "name": "Momo",
+        "pinned_tweet_id": "1349307384338944006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853986296596717576/p_EbCRUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 340,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 358
+        },
+        "username": "zuotist",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-28T18:38:08.000Z",
+        "description": "小号:@JiuQi23/身高166体重57+-1有B+了，无证含糖一年/HRT24年1.27 4.12已经离家出走/超级社恐/内向~/生日7月23/门槛 128/全国可飞/生理性别男生~超级自卑...想变成萝莉。没有人喜欢我提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "JiuQi23"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tangxinyumeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tangxinyumeng",
+                "start": 0,
+                "url": "https://t.co/2A5DdsB3m2"
+              }
+            ]
+          }
+        },
+        "id": "1101189825976303616",
+        "location": "距离你1000米",
+        "name": "糖心雨梦🍥",
+        "pinned_tweet_id": "1885771794852053088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890683699160838144/E_vSqE1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7205,
+          "following_count": 136,
+          "like_count": 627,
+          "listed_count": 12,
+          "media_count": 106,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/2A5DdsB3m2",
+        "username": "Ym4Fourth",
+        "verified": false
+      }
+    ]
+  }
+}

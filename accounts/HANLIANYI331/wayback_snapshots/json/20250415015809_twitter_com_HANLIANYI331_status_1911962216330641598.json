@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1911962216330641598",
+    "created_at": "2025-04-15T01:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T02:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911962216330641598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1864372829233487977",
+          "start": 93,
+          "url": "https://t.co/fpacK2SNmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911962216330641598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "近半年的家庭暴力干预案例再一次印证了“二胎家庭的严酷家暴概率要大幅度低于一胎家庭”。\n\n目前庇护所发生过的所有“成年子女的父母上门抢人案件”全是一胎家庭，没有例外。包括近一个月的一次。\n\n而在最近一次的mtf炸柜导致的家庭冲突当中，其子女的母亲更是直言不讳的说：“我现在能接受这个孩子跨性别，绝大多数原因都是因为ta还有个弟弟，如果我只有这一个孩子，那我说什么，无论付出什么代价，我都不会接受ta去走上这条道路”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864372829233487977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "近半年的家庭暴力干预案例再一次印证了“二胎家庭的严酷家暴概率要大幅度低于一胎家庭”。\n\n目前庇护所发生过的所有“成年子女的父母上门抢人案件”全是一胎家庭，没有例外。包括近一个月的一次。 https://t.co/fpacK2SNmm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1911962216330641598",
+        "created_at": "2025-04-15T01:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T02:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911962216330641598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1864372829233487977",
+              "start": 93,
+              "url": "https://t.co/fpacK2SNmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911962216330641598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近半年的家庭暴力干预案例再一次印证了“二胎家庭的严酷家暴概率要大幅度低于一胎家庭”。\n\n目前庇护所发生过的所有“成年子女的父母上门抢人案件”全是一胎家庭，没有例外。包括近一个月的一次。\n\n而在最近一次的mtf炸柜导致的家庭冲突当中，其子女的母亲更是直言不讳的说：“我现在能接受这个孩子跨性别，绝大多数原因都是因为ta还有个弟弟，如果我只有这一个孩子，那我说什么，无论付出什么代价，我都不会接受ta去走上这条道路”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864372829233487977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "近半年的家庭暴力干预案例再一次印证了“二胎家庭的严酷家暴概率要大幅度低于一胎家庭”。\n\n目前庇护所发生过的所有“成年子女的父母上门抢人案件”全是一胎家庭，没有例外。包括近一个月的一次。 https://t.co/fpacK2SNmm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1864372829233487977",
+        "created_at": "2024-12-04T18:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T19:06:35.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864370729980186864",
+          "1864371906549567819",
+          "1864372829233487977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1862768554627801217",
+              "start": 137,
+              "url": "https://t.co/RBGo2eIXY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864372829233487977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果仅出于“逃脱家庭暴力和控制”的角度来说，我会非常积极的鼓励我身边的所有是独生子女的跨性别者的父母，“能生二胎就尽量生二胎”。\n\n事实上，从我十年以来上千例家庭暴力干预的案例来说：\n\n具有严重家庭暴力以及严重控制欲行为，并且严重反跨的跨性别女性的父母，一旦生了二胎以后：\n\n不仅对一胎的控制欲，家庭暴力情况，反跨程度大幅度下降。甚至对二胎的养育方式也会大幅度改善，变成“只求二胎的孩子健康平安活着长大就好。”\n\n以上结论有海量实际案例支撑。\n\n注意：具有严重的控制欲，家庭暴力，反跨行为的父母，哪怕在孩子30岁甚至35岁以后，也仍然大量存在。在我接触到的实际案例中，很多跨性别女性在35岁以后，仍然会受到父母的家暴行为。\n\n但是在“结了婚和生了孩子”的35岁以上跨性别女性案例中，其父母家暴和反跨行为的转变，和拥有二胎后的父母行为转变趋势类似。\n\n但与此同时，结了婚并且生了孩子的跨性别女性会额外遭受来自妻子和自己的孩子的反跨行为。甚至会因为觉醒跨性别身份遭遇妻子甚至孩子的强烈反对，包括离婚等方式。（且常常是净身出户）\n\n因此，对于独生子跨性别者来说，最好的情况就是，不结婚，不生孩子，并且父母生了二胎。或是虽然结婚，但是找到了一个非常支持自己跨性别身份的妻子。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 18430,
+          "like_count": 86,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862768554627801217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果仅出于“逃脱家庭暴力和控制”的角度来说，我会非常积极的鼓励我身边的所有是独生子女的跨性别者的父母，“能生二胎就尽量生二胎”。\n\n事实上，从我十年以来上千例家庭暴力干预的案例来说：\n\n具有严重家庭暴力以及严重控制欲行为，并且严重反跨的跨性别女性的父母，一旦生了二胎以后： https://t.co/RBGo2eIXY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37374,
+          "following_count": 3634,
+          "like_count": 700,
+          "listed_count": 61,
+          "media_count": 324,
+          "tweet_count": 2332
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

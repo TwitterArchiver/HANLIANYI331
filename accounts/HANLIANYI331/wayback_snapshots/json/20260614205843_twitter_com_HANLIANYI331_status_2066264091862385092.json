@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2065323198053335481",
+    "created_at": "2026-06-14T20:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T21:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066264091862385092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517437669449547776",
+          "start": 0,
+          "username": "YumiChow916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20653…",
+          "end": 176,
+          "expanded_url": "https://x.com/i/status/2065345414443016395",
+          "start": 153,
+          "url": "https://t.co/ZKN1lYpkIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066264091862385092",
+    "in_reply_to_user_id": "1517437669449547776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "x.com/i/status/20653…",
+            "end": 227,
+            "expanded_url": "https://x.com/i/status/2065345414443016395",
+            "start": 204,
+            "url": "https://t.co/ZKN1lYpkIP"
+          }
+        ]
+      },
+      "text": "你的这些质疑可以用来审视自己，甚至可以用来审视加拿大的助人者（至少加拿大可以对接政府和机构资源，助人也不用承担像中国一样的法律风险），但是不能审视一个“善有恶报，恶有善报”，政府不作为，官员作恶，极度扭曲的社会当中的承担不对称风险的助人者。\n就像你说的，救助者不存在救人的义务。\n那被维持生命而活下来受助者就不应当被看做是“被牺牲的”，真正“被牺牲的”，是那些因为无人问津，没有任何助人者介入，默默死去的人。https://t.co/ZKN1lYpkIP\n“面对电车难题，唯一的做法就是保持现状”，我们自己可以选择“保持现状”，去当不拉拉杆的人，也不需要去指责那些不拉拉杆的人“冷血”。\n但是那些敢于拉杆的孤勇者，也同样不该被指责"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065345414443016395",
+        "type": "quoted"
+      },
+      {
+        "id": "2066261683891220751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumiChow916 你的这些质疑可以用来审视自己，甚至可以用来审视加拿大的助人者（至少加拿大可以对接政府和机构资源，助人也不用承担像中国一样的法律风险），但是不能审视一个“善有恶报，恶有善报”，政府不作为，官员作恶，极度扭曲的社会当中的承担不对称风险的助人者。\n就像你说的，救助者不存在救人的义务。 https://t.co/ZKN1lYpkIP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T20:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066264091862385092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20653…",
+              "end": 176,
+              "expanded_url": "https://x.com/i/status/2065345414443016395",
+              "start": 153,
+              "url": "https://t.co/ZKN1lYpkIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066264091862385092",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20653…",
+                "end": 227,
+                "expanded_url": "https://x.com/i/status/2065345414443016395",
+                "start": 204,
+                "url": "https://t.co/ZKN1lYpkIP"
+              }
+            ]
+          },
+          "text": "你的这些质疑可以用来审视自己，甚至可以用来审视加拿大的助人者（至少加拿大可以对接政府和机构资源，助人也不用承担像中国一样的法律风险），但是不能审视一个“善有恶报，恶有善报”，政府不作为，官员作恶，极度扭曲的社会当中的承担不对称风险的助人者。\n就像你说的，救助者不存在救人的义务。\n那被维持生命而活下来受助者就不应当被看做是“被牺牲的”，真正“被牺牲的”，是那些因为无人问津，没有任何助人者介入，默默死去的人。https://t.co/ZKN1lYpkIP\n“面对电车难题，唯一的做法就是保持现状”，我们自己可以选择“保持现状”，去当不拉拉杆的人，也不需要去指责那些不拉拉杆的人“冷血”。\n但是那些敢于拉杆的孤勇者，也同样不该被指责"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065345414443016395",
+            "type": "quoted"
+          },
+          {
+            "id": "2066261683891220751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 你的这些质疑可以用来审视自己，甚至可以用来审视加拿大的助人者（至少加拿大可以对接政府和机构资源，助人也不用承担像中国一样的法律风险），但是不能审视一个“善有恶报，恶有善报”，政府不作为，官员作恶，极度扭曲的社会当中的承担不对称风险的助人者。\n就像你说的，救助者不存在救人的义务。 https://t.co/ZKN1lYpkIP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2065345414443016395",
+        "created_at": "2026-06-12T08:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065345414443016395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2065095874712322340",
+              "start": 113,
+              "url": "https://t.co/Qk6jyDNjrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065345414443016395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2426,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065095874712322340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这件事情让我彻底确认：喜欢把编造和传播谣言的人，喜欢大谈特谈“剥削”的人，当真的有人死在他们面前了，他们眼睛都不会眨一下。\n嘴中全是主义，手上全是生意。\n他们根本不在乎一个又一个真实的人的死活，人命只是被他们拿来利用的工具。 https://t.co/Qk6jyDNjrY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517437669449547776",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T20:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066261683891220751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7d2673c3623fe492"
+        },
+        "id": "2066261683891220751",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066260075484750118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 憑什麼因為違背倫理的救助而受到傷害的人就該是被犧牲的？\n\n憑什麼他就比不倫理合規而高效率的救助所多救的人價值低？\n\n在做與不做是電車難題的時候，唯一的選擇就是保持現狀，尊重他人命運\n\n甚至不進行倫理合規就能提高救助效率這點甚至都不一定成立，規範的救助行為反而能減少意外的發生，效率更高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41740,
+          "following_count": 3807,
+          "like_count": 1753,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2982
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Markham, Ontario",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 313,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3930
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

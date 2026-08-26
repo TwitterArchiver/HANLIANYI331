@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1893020079283204188",
+    "created_at": "2025-02-23T02:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T03:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893481584113918281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1499436856630521865",
+          "start": 0,
+          "username": "priest0724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893481584113918281",
+    "in_reply_to_user_id": "1499436856630521865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "如果真的严格按照法律来，哪怕真的有人死在房子里，只要租客不同意并且拒不搬走，房东也没办法收回房子。如果死在房子里是因为安全事故，房东还要倒赔一笔赔偿金，这有相关法院判决。哪怕租客真的出现违规情况甚至包括刑事案件，只要租客拒不搬走，房东仍然只能通过法院起诉，等法院执行书出来了才有权利合法赶租客。如果用断水断电等方式赶人还要额外承担败诉和赔偿代价。为了预防这种情况，我们家出租的两套房屋还选择购买了「出租人责任险」\n\n“不当使用房屋”条款仅限于房屋设施，od不涉及其中。\n“居住人申报条例”仅限于常住客，租赁房屋的租客有房屋使用权，相关法条逻辑和自住房屋向社区申报人员流动是一致的（参考深圳的人员流动管理条例，自住房屋和租赁房屋的主体分别是业主或租赁人，使用同样的人员流动登记标准）。\n自残不会导致房屋贬值，自杀才会，且在绝大多数的法院判决中也不支持由自杀造成的房屋贬值。如2023年的一个判决案中承租人在出租屋内自杀死亡，房东由此起诉承租人家属后被判败诉，在更早的一个2017年的判决案中，相同的情况下，承租人家属仅被判决赔偿15％的房屋贬值造成差价。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893378304037544185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@priest0724 如果真的严格按照法律来，哪怕真的有人死在房子里，只要租客不同意并且拒不搬走，房东也没办法收回房子。如果死在房子里是因为安全事故，房东还要倒赔一笔赔偿金，这有相关法院判决。哪怕租客真的出现违规情况甚至包括刑事案件，只要租客拒不搬走，房东仍然只能通过法院起诉，等法院执行书出来了才有权…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1893020079283204188",
+        "created_at": "2025-02-23T02:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T03:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893481584113918281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1499436856630521865",
+              "start": 0,
+              "username": "priest0724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893481584113918281",
+        "in_reply_to_user_id": "1499436856630521865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果真的严格按照法律来，哪怕真的有人死在房子里，只要租客不同意并且拒不搬走，房东也没办法收回房子。如果死在房子里是因为安全事故，房东还要倒赔一笔赔偿金，这有相关法院判决。哪怕租客真的出现违规情况甚至包括刑事案件，只要租客拒不搬走，房东仍然只能通过法院起诉，等法院执行书出来了才有权利合法赶租客。如果用断水断电等方式赶人还要额外承担败诉和赔偿代价。为了预防这种情况，我们家出租的两套房屋还选择购买了「出租人责任险」\n\n“不当使用房屋”条款仅限于房屋设施，od不涉及其中。\n“居住人申报条例”仅限于常住客，租赁房屋的租客有房屋使用权，相关法条逻辑和自住房屋向社区申报人员流动是一致的（参考深圳的人员流动管理条例，自住房屋和租赁房屋的主体分别是业主或租赁人，使用同样的人员流动登记标准）。\n自残不会导致房屋贬值，自杀才会，且在绝大多数的法院判决中也不支持由自杀造成的房屋贬值。如2023年的一个判决案中承租人在出租屋内自杀死亡，房东由此起诉承租人家属后被判败诉，在更早的一个2017年的判决案中，相同的情况下，承租人家属仅被判决赔偿15％的房屋贬值造成差价。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893378304037544185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@priest0724 如果真的严格按照法律来，哪怕真的有人死在房子里，只要租客不同意并且拒不搬走，房东也没办法收回房子。如果死在房子里是因为安全事故，房东还要倒赔一笔赔偿金，这有相关法院判决。哪怕租客真的出现违规情况甚至包括刑事案件，只要租客拒不搬走，房东仍然只能通过法院起诉，等法院执行书出来了才有权…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499436856630521865",
+        "conversation_id": "1893020079283204188",
+        "created_at": "2025-02-22T19:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T20:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893378304037544185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893378304037544185",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893020079283204188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 我们家也有出租的房子，我认为房东们的宗旨最重要的只有一条：人不能死房子里。在这一条之外，最好不要给房东带来太多麻烦。你这里住的人这么多，而且在房东的视角里，你的人精神状态不一定都是稳定的，并且很多还有od。在房东眼里，这并非仅仅是弱势群体这么简单。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询｜语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883897989900701855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35970,
+          "following_count": 3571,
+          "like_count": 560,
+          "listed_count": 59,
+          "media_count": 307,
+          "tweet_count": 2219
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T17:29:48.000Z",
+        "description": "🌈sw/brat？ 姐控",
+        "id": "1499436856630521865",
+        "location": "Toronto, Ontario",
+        "name": "priestZZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836123767254454273/2xJCM9iS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 513,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 378
+        },
+        "username": "priest0724",
+        "verified": false
+      }
+    ]
+  }
+}

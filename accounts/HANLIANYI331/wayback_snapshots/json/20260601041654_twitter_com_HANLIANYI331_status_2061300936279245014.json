@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2061159538615636034",
+    "created_at": "2026-06-01T04:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T05:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061300936279245014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "918593759121690625",
+          "start": 0,
+          "username": "hu_qin_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061300936279245014",
+    "in_reply_to_user_id": "918593759121690625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "你现在已经退化到拿出一些似是而非的事情修改一下然后造谣了？\n“十万公共资金”？你先掏个十万来给我看看？看看到底哪一年出现了“十万公共资金”？还是说在你看来我自己倒卖电子产品的钱也是“公共资金”？\n我交十万给可橙？你自己去确认一下，可橙案我有实际参与行动过吗？\n“完全由他人交租，运营，却被宣传成寒涟漪”，你先给我指个到底有哪个房子是“完全他人交租”和“宣传成寒涟漪”？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061159538615636034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hu_qin_ 你现在已经退化到拿出一些似是而非的事情修改一下然后造谣了？\n“十万公共资金”？你先掏个十万来给我看看？看看到底哪一年出现了“十万公共资金”？还是说在你看来我自己倒卖电子产品的钱也是“公共资金”？\n我交十万给可橙？你自己去确认一下，可橙案我有实际参与行动过吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2061159538615636034",
+        "created_at": "2026-06-01T04:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061300936279245014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "918593759121690625",
+              "start": 0,
+              "username": "hu_qin_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061300936279245014",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你现在已经退化到拿出一些似是而非的事情修改一下然后造谣了？\n“十万公共资金”？你先掏个十万来给我看看？看看到底哪一年出现了“十万公共资金”？还是说在你看来我自己倒卖电子产品的钱也是“公共资金”？\n我交十万给可橙？你自己去确认一下，可橙案我有实际参与行动过吗？\n“完全由他人交租，运营，却被宣传成寒涟漪”，你先给我指个到底有哪个房子是“完全他人交租”和“宣传成寒涟漪”？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061159538615636034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_qin_ 你现在已经退化到拿出一些似是而非的事情修改一下然后造谣了？\n“十万公共资金”？你先掏个十万来给我看看？看看到底哪一年出现了“十万公共资金”？还是说在你看来我自己倒卖电子产品的钱也是“公共资金”？\n我交十万给可橙？你自己去确认一下，可橙案我有实际参与行动过吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "conversation_id": "2061159538615636034",
+        "created_at": "2026-05-31T18:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061159538615636034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2061099964458266715",
+              "start": 143,
+              "url": "https://t.co/EiTEQAmgEc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061159538615636034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1119,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061099964458266715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "金钱砸下去没有解决不了的问题（指寒涟漪挪用十万公共资金给性伴侣投资生意血本无归）\n\n金钱砸下去没有解决不了的问题（指寒涟漪等人交十万给山东宏开让可橙变成助教开始虐待别人）\n\n金钱砸下去没有解决不了的问题（指多处庇护所实际上完全由他人运营、交租，却宣传塑造成这些地方离了寒涟漪就不转了） https://t.co/EiTEQAmgEc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41688,
+          "following_count": 3803,
+          "like_count": 1723,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 2929
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2058661675612663945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 1821,
+          "like_count": 21074,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 5370
+        },
+        "username": "hu_qin_",
+        "verified": false
+      }
+    ]
+  }
+}

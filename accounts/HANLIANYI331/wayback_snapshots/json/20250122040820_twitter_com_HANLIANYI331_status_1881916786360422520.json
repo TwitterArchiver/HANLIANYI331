@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1881912031152067049",
+    "created_at": "2025-01-22T04:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T05:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881916786360422520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566430838434430977",
+          "start": 0,
+          "username": "FlowersRainFall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881916786360422520",
+    "in_reply_to_user_id": "1566430838434430977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881913591781269899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FlowersRainFall 以医学为目的的用药其显著特点是它被包含在某个专业的治疗方案中且在该方案下根据情况用药。\n\n单纯的娱乐性快感情况下达成的极短时间内的“缓解抑郁”并不能算作医学目的或治疗抑郁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1881912031152067049",
+        "created_at": "2025-01-22T04:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881916786360422520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566430838434430977",
+              "start": 0,
+              "username": "FlowersRainFall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881916786360422520",
+        "in_reply_to_user_id": "1566430838434430977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881913591781269899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FlowersRainFall 以医学为目的的用药其显著特点是它被包含在某个专业的治疗方案中且在该方案下根据情况用药。\n\n单纯的娱乐性快感情况下达成的极短时间内的“缓解抑郁”并不能算作医学目的或治疗抑郁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566430838434430977",
+        "conversation_id": "1881912031152067049",
+        "created_at": "2025-01-22T03:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T04:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881913591781269899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "description": "各医疗机构：广东省药学会（以下简称“本会”）2010年发布我国第一个超说明书用药规范——《药品未注册用法专家共识》，明确了超说明书用药的原则；为提高该共识的可操作性，本会2014年发布了《医疗机构超药品说明书用药管理专家共识》；2015年起，为协助各医疗机构制定超说明书用药目录，本会开始发布每年一版的《超药品说明书用药目录》，迄今已经第10版；2021年8月20日，超说明书用药被写入《医师法》法条",
+              "display_url": "sinopharmacy.com.cn/notification/3…",
+              "end": 158,
+              "expanded_url": "http://www.sinopharmacy.com.cn/notification/3066.html",
+              "start": 135,
+              "status": 200,
+              "title": "关于发布《超药品说明书用药目录（2024年版）》的通知-通知公告-广东省药学会网站",
+              "unwound_url": "http://www.sinopharmacy.com.cn/notification/3066.html",
+              "url": "https://t.co/o28cZenlg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881913591781269899",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881912031152067049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 虽然是虚构作品而非现实生活，“主播女孩重度依赖”里的主播过量服用药物是出于娱乐目的、“紧急情况下以治疗抑郁为目的”，还是说要依据游戏内的压力和阴暗值数值来分类讨论？\n我的理解是就算在中文互联网语境下，超处方用药仍不会被称作od，超说明书用药（https://t.co/o28cZenlg7）一般不会被称作od。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1881176409181429832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34841,
+          "following_count": 3480,
+          "like_count": 367,
+          "listed_count": 57,
+          "media_count": 287,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-04T14:19:59.000Z",
+        "description": "雨打梨花深闭门｜专偶恋爱中 @shuiyebush1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "shuiyebush1"
+              }
+            ]
+          }
+        },
+        "id": "1566430838434430977",
+        "location": "🌐地球",
+        "name": "🌧️淋囹",
+        "pinned_tweet_id": "1713230975298330965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858860873160552448/3Dfpc66I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 539,
+          "like_count": 33027,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 2488
+        },
+        "username": "FlowersRainFall",
+        "verified": false
+      }
+    ]
+  }
+}

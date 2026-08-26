@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1837144778968027457",
+    "created_at": "2024-09-20T15:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T16:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837144778968027457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1837137608385905066",
+          "start": 74,
+          "url": "https://t.co/oxZGri5LOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837144778968027457",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837137608385905066",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真逆天，我发讲我个人经历的长推文不到一个小时，就已经有人开始私信问我还接不接援交了，关注角度真刁钻。\n\n绷不住了，你一天给我一万，我天天跟你做爱。 https://t.co/oxZGri5LOM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1837144778968027457",
+        "created_at": "2024-09-20T15:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T16:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837144778968027457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1837137608385905066",
+              "start": 74,
+              "url": "https://t.co/oxZGri5LOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837144778968027457",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837137608385905066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真逆天，我发讲我个人经历的长推文不到一个小时，就已经有人开始私信问我还接不接援交了，关注角度真刁钻。\n\n绷不住了，你一天给我一万，我天天跟你做爱。 https://t.co/oxZGri5LOM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1837137608385905066",
+        "created_at": "2024-09-20T14:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T15:03:41.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837130512563077221",
+          "1837130589864087850",
+          "1837136812768473495",
+          "1837137608385905066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837137608385905066",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 449,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "经常有无数的人问询我的救助经历，若谈论我的救助经历，就避不开钱，若谈论钱，就避不开我的个人经历。我的个人经历和救助经历，认识我多年的人都很熟悉，但这些东西真要细讲，怕是从早上八点讲到第二天早上八点都讲不完，我的历史推文和私人频道其实也谈论极多，此次是看最近问的人多了，再说一点。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 77,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 54,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1835970707144298583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32038,
+          "following_count": 3434,
+          "like_count": 260,
+          "listed_count": 57,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

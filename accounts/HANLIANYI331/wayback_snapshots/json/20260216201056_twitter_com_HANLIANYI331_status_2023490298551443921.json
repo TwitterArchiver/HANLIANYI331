@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2023319481683177681",
+    "created_at": "2026-02-16T20:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T21:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023490298551443921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "990171887367016448",
+          "start": 0,
+          "username": "Bolack_AiDieck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023490298551443921",
+    "in_reply_to_user_id": "990171887367016448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最大的问题是能承受多大比例的资金回撤，而非去比较最终收益率的高低。\n如果不考虑资金回撤，那更优选择显然无数，例如跟着巴菲特投资……资金回撤引起的投资逻辑变形是所有投资亏损和失败的根源。\n否则，梭哈比特币然后去监狱蹲个十年就能财富自由，不然极少有人能够在自己的资金从1到100上蹿下跳的时候拿得住。\n这是高风险金融市场绝大多数人最终都会亏钱的根源。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023488236862193740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bolack_AiDieck 最大的问题是能承受多大比例的资金回撤，而非去比较最终收益率的高低。\n如果不考虑资金回撤，那更优选择显然无数，例如跟着巴菲特投资……资金回撤引起的投资逻辑变形是所有投资亏损和失败的根源。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2023319481683177681",
+        "created_at": "2026-02-16T20:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T21:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023490298551443921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "990171887367016448",
+              "start": 0,
+              "username": "Bolack_AiDieck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023490298551443921",
+        "in_reply_to_user_id": "990171887367016448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最大的问题是能承受多大比例的资金回撤，而非去比较最终收益率的高低。\n如果不考虑资金回撤，那更优选择显然无数，例如跟着巴菲特投资……资金回撤引起的投资逻辑变形是所有投资亏损和失败的根源。\n否则，梭哈比特币然后去监狱蹲个十年就能财富自由，不然极少有人能够在自己的资金从1到100上蹿下跳的时候拿得住。\n这是高风险金融市场绝大多数人最终都会亏钱的根源。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023488236862193740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bolack_AiDieck 最大的问题是能承受多大比例的资金回撤，而非去比较最终收益率的高低。\n如果不考虑资金回撤，那更优选择显然无数，例如跟着巴菲特投资……资金回撤引起的投资逻辑变形是所有投资亏损和失败的根源。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990171887367016448",
+        "conversation_id": "2023319481683177681",
+        "created_at": "2026-02-16T20:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T21:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023488236862193740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023488236862193740",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023486979141497217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 任何策略都必须回测，跟你说的散不散户没什么关系，而且历史数据都只是一方面，量化大厂有模拟撮合引擎，模拟回测策略中实际交易所产生的影响。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41010,
+          "following_count": 3679,
+          "like_count": 1426,
+          "listed_count": 67,
+          "media_count": 383,
+          "tweet_count": 2754
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-28T10:12:29.000Z",
+        "description": "MtF/INFJ/CS、Math、Finance、Philosophy、Physics/无证含糖MtF🍥/同类互fo/来了的话可以关注一下呢~/Transhumanism",
+        "id": "990171887367016448",
+        "location": "Cosmos",
+        "name": "Bolack·AiDieck🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940071435138977792/Zj2X8pI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 803,
+          "like_count": 10469,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 379
+        },
+        "username": "Bolack_AiDieck",
+        "verified": false
+      }
+    ]
+  }
+}

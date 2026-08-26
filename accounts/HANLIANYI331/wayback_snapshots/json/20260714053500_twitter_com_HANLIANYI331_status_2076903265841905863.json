@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2076903265841905863",
+    "created_at": "2026-07-14T05:35:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:35:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076903265841905863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2855850777",
+          "start": 3,
+          "username": "missbeaver32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076903265841905863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076717581822480867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @missbeaver32: 补充一下，小二全程参与了所谓谷书花事件调查组并且编纂了所谓的事件报告，通过对于当事人的诱导性提问，嫁接，对当事人恶意揣测等等方式强行洗白为本事件不是反跨，没有侮辱。在被逐条批驳之后才开始使用救助经验等做为道德武器，原本没人在意是否真话，但是如…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2076903265841905863",
+        "created_at": "2026-07-14T05:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076903265841905863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2855850777",
+              "start": 3,
+              "username": "missbeaver32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076903265841905863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076717581822480867",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @missbeaver32: 补充一下，小二全程参与了所谓谷书花事件调查组并且编纂了所谓的事件报告，通过对于当事人的诱导性提问，嫁接，对当事人恶意揣测等等方式强行洗白为本事件不是反跨，没有侮辱。在被逐条批驳之后才开始使用救助经验等做为道德武器，原本没人在意是否真话，但是如…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2855850777",
+        "conversation_id": "2076717581822480867",
+        "created_at": "2026-07-13T17:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076717581822480867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/noname2095_/status/2076602452259008985",
+              "start": 141,
+              "url": "https://t.co/kZVKvamteC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076717581822480867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 708,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076602452259008985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一下，小二全程参与了所谓谷书花事件调查组并且编纂了所谓的事件报告，通过对于当事人的诱导性提问，嫁接，对当事人恶意揣测等等方式强行洗白为本事件不是反跨，没有侮辱。在被逐条批驳之后才开始使用救助经验等做为道德武器，原本没人在意是否真话，但是如此执着的颠倒黑白，强行洗白，实在可疑， https://t.co/kZVKvamteC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41934,
+          "following_count": 3936,
+          "like_count": 1875,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-02T00:09:43.000Z",
+        "description": "https://t.co/psYQUZZ4vV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/dissidentsguild",
+                "end": 23,
+                "expanded_url": "https://x.com/dissidentsguild",
+                "start": 0,
+                "url": "https://t.co/psYQUZZ4vV"
+              }
+            ]
+          }
+        },
+        "id": "2855850777",
+        "name": "海狸小姐💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060230838441107456/gCxUDaRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 286,
+          "like_count": 1681,
+          "listed_count": 14,
+          "media_count": 664,
+          "tweet_count": 6199
+        },
+        "url": "",
+        "username": "missbeaver32",
+        "verified": false
+      }
+    ]
+  }
+}

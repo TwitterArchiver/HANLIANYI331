@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1978643701673988156",
+    "created_at": "2025-10-16T02:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T03:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978643701673988156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938210111992074240",
+          "start": 3,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978643701673988156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978609344641110112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FJUNNNN: 说起来，从十多年前开始，我经常会带着一些处境不太好的孩子进入到我的行业和生意内\n\n我会教他们如何从零起步，从设计稿，选品，到成品样衣，以及后期的商品图拍摄，网店初步运营的细则\n\n生产上教的并非只是简单的在线上寻找工厂那么简单，会细节到面料选择和摸索缝纫…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1978643701673988156",
+        "created_at": "2025-10-16T02:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T03:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978643701673988156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938210111992074240",
+              "start": 3,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978643701673988156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978609344641110112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FJUNNNN: 说起来，从十多年前开始，我经常会带着一些处境不太好的孩子进入到我的行业和生意内\n\n我会教他们如何从零起步，从设计稿，选品，到成品样衣，以及后期的商品图拍摄，网店初步运营的细则\n\n生产上教的并非只是简单的在线上寻找工厂那么简单，会细节到面料选择和摸索缝纫…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938210111992074240",
+        "conversation_id": "1978609344641110112",
+        "created_at": "2025-10-15T23:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T00:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978609344641110112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978609344641110112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说起来，从十多年前开始，我经常会带着一些处境不太好的孩子进入到我的行业和生意内\n\n我会教他们如何从零起步，从设计稿，选品，到成品样衣，以及后期的商品图拍摄，网店初步运营的细则\n\n生产上教的并非只是简单的在线上寻找工厂那么简单，会细节到面料选择和摸索缝纫设备\n\n比如面料方面，以前我经常直接带着孩子们去面料市场和工厂，教他们用自身的触感去实际的认识不同种类的面料\n\n也会带着一些准备从事本行当的孩子们穿梭于各种城中村的小巷子，教他们寻找版房和代工小作坊\n\n个别兴趣明确的孩子我会花钱送去深度学习专门的技术，比如服装制版，光是这一块，每个人最低学习成本就需要大几千元\n\n这其中包含的任意一项技术，都是不愁工作的\n\n我认为，为那些处于困境中的孩子铺设一条切实可行的人生道路，独立生存的能力，是非常重要的\n\n过去经常听说一些身处困境的性少数的故事，我会想着，这些帮助，能否在更多的mtf或性少数群体里做呢？\n\n我又该如何接触到这些真实处于困境中的性少数人士呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 648,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "说起来，从十多年前开始，我经常会带着一些处境不太好的孩子进入到我的行业和生意内\n\n我会教他们如何从零起步，从设计稿，选品，到成品样衣，以及后期的商品图拍摄，网店初步运营的细则\n\n生产上教的并非只是简单的在线上寻找工厂那么简单，会细节到面料选择和摸索缝纫设备"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39769,
+          "following_count": 3648,
+          "like_count": 1259,
+          "listed_count": 70,
+          "media_count": 351,
+          "tweet_count": 2545
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 475,
+          "like_count": 798,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 303
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

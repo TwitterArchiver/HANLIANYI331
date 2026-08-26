@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1945559007860863350",
+    "created_at": "2025-07-17T09:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T10:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945771856646312392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1214489223400587265",
+          "start": 0,
+          "username": "YY3302211"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 34,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1945693524038693299?t=KRe7pKpk19VjKndQnoLfog&s=19",
+          "start": 11,
+          "url": "https://t.co/ElEm4xyBbd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945771856646312392",
+    "in_reply_to_user_id": "1214489223400587265",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945693524038693299",
+        "type": "quoted"
+      },
+      {
+        "id": "1945770784015970444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YY3302211 https://t.co/ElEm4xyBbd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1945559007860863350",
+        "created_at": "2025-07-17T09:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945771856646312392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1214489223400587265",
+              "start": 0,
+              "username": "YY3302211"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 34,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1945693524038693299?t=KRe7pKpk19VjKndQnoLfog&s=19",
+              "start": 11,
+              "url": "https://t.co/ElEm4xyBbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945771856646312392",
+        "in_reply_to_user_id": "1214489223400587265",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945693524038693299",
+            "type": "quoted"
+          },
+          {
+            "id": "1945770784015970444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YY3302211 https://t.co/ElEm4xyBbd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1945536191308468480",
+        "created_at": "2025-07-17T03:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T04:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945693524038693299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            },
+            {
+              "end": 31,
+              "id": "1523537773143236608",
+              "start": 15,
+              "username": "Homulilly_Alter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945693524038693299",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945689056920416407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 @Homulilly_Alter 小组目前绝大多数的帮助对象都是受助人主动向小组进行求助，其余的则是受助人的亲友代为求助。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1214489223400587265",
+        "conversation_id": "1945559007860863350",
+        "created_at": "2025-07-17T09:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T10:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945770784015970444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945770784015970444",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945559007860863350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 寒 如果一位已经绝望彻底 你救了又怎么样？到最后她还是自杀\n人家只是求个解脱 我不鼓励自杀\n想想为什么有安乐死这东西\n难道是上流社会玩腻了吗？\n你的信念和以前三国时代没什么不同\n刘备起义也是信念就算他是个伪君子\n曹操信念也是一样宁愿做个奸雄\n大家都觉得自己对。\n可是你没有怀疑过自己信念？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38592,
+          "following_count": 3623,
+          "like_count": 820,
+          "listed_count": 64,
+          "media_count": 337,
+          "tweet_count": 2468
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-07T10:09:49.000Z",
+        "description": "我活着只是因为我的父母进行了性行为，所以别去思考活着的意义了",
+        "id": "1214489223400587265",
+        "location": "吉隆坡",
+        "name": "伪娘妮妮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604946853572722688/xrL586B9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 73,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1317
+        },
+        "username": "YY3302211",
+        "verified": false
+      }
+    ]
+  }
+}

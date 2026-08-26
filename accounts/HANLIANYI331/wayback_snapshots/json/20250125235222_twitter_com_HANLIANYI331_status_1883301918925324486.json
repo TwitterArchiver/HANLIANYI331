@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1883301918925324486",
+    "created_at": "2025-01-25T23:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T00:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883301918925324486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1883287290434453857",
+          "start": 138,
+          "url": "https://t.co/TZhzCmxGeQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883301918925324486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "和往常一样，昨晚只睡了四个小时，大早上又开始为钱焦虑\n\n摆在我眼前的永远是钱和时间二选一的难题\n\n如果我靠卖我自己的劳动力赚钱，哪怕是给人做陪聊也至少100元一小时起步，但是这又有什么什么用呢？消耗掉的工作时间仍然需要花钱请人弥补回来。\n\n五年来的经济账单已经越来越难看。\n\n固然，我们可以大义凛然的说：“人命本身就是最大的投资”，有无数人因为我们的努力摆脱了死亡的命运，独立生存活了下去。\n\n但这很难解决当下的柴米油盐问题。\n\n实在不行和五年前一样，下海算了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883287290434453857",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和往常一样，昨晚只睡了四个小时，大早上又开始为钱焦虑\n\n摆在我眼前的永远是钱和时间二选一的难题\n\n如果我靠卖我自己的劳动力赚钱，哪怕是给人做陪聊也至少100元一小时起步，但是这又有什么什么用呢？消耗掉的工作时间仍然需要花钱请人弥补回来。\n\n五年来的经济账单已经越来越难看。… https://t.co/TZhzCmxGeQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1883301918925324486",
+        "created_at": "2025-01-25T23:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T00:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883301918925324486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1883287290434453857",
+              "start": 138,
+              "url": "https://t.co/TZhzCmxGeQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883301918925324486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "和往常一样，昨晚只睡了四个小时，大早上又开始为钱焦虑\n\n摆在我眼前的永远是钱和时间二选一的难题\n\n如果我靠卖我自己的劳动力赚钱，哪怕是给人做陪聊也至少100元一小时起步，但是这又有什么什么用呢？消耗掉的工作时间仍然需要花钱请人弥补回来。\n\n五年来的经济账单已经越来越难看。\n\n固然，我们可以大义凛然的说：“人命本身就是最大的投资”，有无数人因为我们的努力摆脱了死亡的命运，独立生存活了下去。\n\n但这很难解决当下的柴米油盐问题。\n\n实在不行和五年前一样，下海算了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883287290434453857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和往常一样，昨晚只睡了四个小时，大早上又开始为钱焦虑\n\n摆在我眼前的永远是钱和时间二选一的难题\n\n如果我靠卖我自己的劳动力赚钱，哪怕是给人做陪聊也至少100元一小时起步，但是这又有什么什么用呢？消耗掉的工作时间仍然需要花钱请人弥补回来。\n\n五年来的经济账单已经越来越难看。… https://t.co/TZhzCmxGeQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1883287290434453857",
+        "created_at": "2025-01-25T22:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T23:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883287290434453857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1585145286598483968",
+              "start": 9,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1836140749647450237",
+              "start": 126,
+              "url": "https://t.co/fLiNba94eD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883287290434453857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 21,
+                "id": "1585145286598483968",
+                "start": 9,
+                "username": "lianyiganyu"
+              }
+            ]
+          },
+          "text": "涟漪危机干预小组 @lianyiganyu 当前处于活跃（平均每周工作时间大于10小时）的志愿者仅有5人，整个小组仅剩我本人一个督导人员。\n\n按照往常涟漪危机干预小组的正常模式来说，每一个工作人员或志愿者至少应当有一个督导（同时兼具管理人和决策人）\n\n如果存在多个督导，每个督导之间还需要抽出一部分工作时间互相之间进行开会，沟通，交流\n\n而每个督导如果要确保督导的有效性，一般最多只能同时带7个志愿者进行工作（在每周工作40小时以上的基础上），极限情况下不超过10个人（在每周工作60小时以上的基础上）\n\n尽管当前每周都会有新的志愿者申请加入，但是审批和沟通，我全部暂缓了。因为迎接新的志愿者的加入，仍然需要以增加我本人的工作时间为代价。\n\n除非新来的志愿者有足够硬的专业知识或干预经验，且至少愿意接受半全职工作（每周工作20小时以上）\n\n这就导致会陷入一个非常尴尬的境地：\n\n如果要维持涟漪危机干预小组的继续运转，要么重新花钱聘请一个可以全职工作（每周工作40小时以上）的专业人员，且该专业人员最好可以和我本人时常可以线下接触。\n\n要么我本人继续维持每周40小时以上的工作时间（加上我的其他事项，我的工作时间长期在70小时以上）\n\n并且还有一个额外问题：在过去，庇护所项目是作为危机干预的一个最重要的后备手段存在的。庇护所项目可以彻底性的大幅度改变当事人当下的生存环境。\n\n如果缺失了庇护所项目为整个危机干预过程“兜底”。当遇到通过线上干预和线下各项工作均无法彻底解决问题的情况下。要么放弃继续救助当事人，要么耗费工作人员的大量时间与当事人恶劣的生存环境作对扛，且失败率和死亡率仍然会极高。\n\n因此，即使是尽可能想办法逐步减少规模，尽可能想办法淡出救助，我仍然需要面临“摊子铺的太大”的问题。\n\n当下哪怕仅仅是维持项目组的运转，我要么花钱请人，要么继续付出工作时间。\n\n所以我好缺人，缺一个专业水平和工作经验达到“临床与咨询”专业硕士级别以上的人每周40小时以上的时间为我工作，否则我本人仍然需要付出大量的工作时间。\n\n所以我好缺钱，哪怕是不聘请人，我也至少缺90万元人民币来维持接下来三年的救助开支。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 731,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836140749647450237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "涟漪危机干预小组 @lianyiganyu 当前处于活跃（平均每周工作时间大于10小时）的志愿者仅有5人，整个小组仅剩我本人一个督导人员。\n\n按照往常涟漪危机干预小组的正常模式来说，每一个工作人员或志愿者至少应当有一个督导（同时兼具管理人和决策人）… https://t.co/fLiNba94eD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1880862728065359974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35024,
+          "following_count": 3507,
+          "like_count": 411,
+          "listed_count": 57,
+          "media_count": 295,
+          "tweet_count": 2125
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

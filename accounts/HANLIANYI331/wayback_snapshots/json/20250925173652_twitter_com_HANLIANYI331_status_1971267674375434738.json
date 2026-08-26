@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1971267674375434738",
+    "created_at": "2025-09-25T17:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T18:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971267674375434738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "989792932533223424",
+          "start": 3,
+          "username": "Kinodar_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971267674375434738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971218347170869493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kinodar_: tl刷到寒涟漪右肘粉碎性骨折\n\n从医药费报销后20000多的话看伤情和我差不多，保守估计至少也要复健一年，还有可能很长一段时间活动受限，甚至和我一样需要二次手术。鉴于他是右手就更惨了\n\n和他不熟，只能说既然刷到，作为肘友祝他好运早日康复了\n\n没复健过…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1971267674375434738",
+        "created_at": "2025-09-25T17:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T18:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971267674375434738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "989792932533223424",
+              "start": 3,
+              "username": "Kinodar_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971267674375434738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971218347170869493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kinodar_: tl刷到寒涟漪右肘粉碎性骨折\n\n从医药费报销后20000多的话看伤情和我差不多，保守估计至少也要复健一年，还有可能很长一段时间活动受限，甚至和我一样需要二次手术。鉴于他是右手就更惨了\n\n和他不熟，只能说既然刷到，作为肘友祝他好运早日康复了\n\n没复健过…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "989792932533223424",
+        "conversation_id": "1971218347170869493",
+        "created_at": "2025-09-25T14:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971218347170869493"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971218347170869493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "tl刷到寒涟漪右肘粉碎性骨折\n\n从医药费报销后20000多的话看伤情和我差不多，保守估计至少也要复健一年，还有可能很长一段时间活动受限，甚至和我一样需要二次手术。鉴于他是右手就更惨了\n\n和他不熟，只能说既然刷到，作为肘友祝他好运早日康复了\n\n没复健过的，真的难以想象那种会有豆大汗珠的疼痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39297,
+          "following_count": 3657,
+          "like_count": 1254,
+          "listed_count": 69,
+          "media_count": 348,
+          "tweet_count": 2530
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-27T09:06:39.000Z",
+        "description": "男/已婚/37岁 日记推",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinodarz.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://kinodarz.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/DtKsP3fmqS"
+              }
+            ]
+          }
+        },
+        "id": "989792932533223424",
+        "location": "Shanghai",
+        "name": "Kinodar",
+        "pinned_tweet_id": "1688373772225818624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674684426016677889/4ziJHXk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 116,
+          "like_count": 12150,
+          "listed_count": 8,
+          "media_count": 1681,
+          "tweet_count": 7702
+        },
+        "url": "https://t.co/DtKsP3fmqS",
+        "username": "Kinodar_",
+        "verified": false
+      }
+    ]
+  }
+}

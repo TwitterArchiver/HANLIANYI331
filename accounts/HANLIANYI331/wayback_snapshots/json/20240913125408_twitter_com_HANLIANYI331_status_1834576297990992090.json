@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1833801490558804289",
+    "created_at": "2024-09-13T12:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T13:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834576297990992090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1487336894522265601",
+          "start": 0,
+          "username": "HDHZMcDonald"
+        },
+        {
+          "end": 30,
+          "id": "1688233455363219456",
+          "start": 14,
+          "username": "SusieBetelgeuse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834576297990992090",
+    "in_reply_to_user_id": "1487336894522265601",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833969451768611232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HDHZMcDonald @SusieBetelgeuse 这位之前给庇佑所赞赏过好几万元人民币，我证明他说的是真的(๑•ᴗ•๑)♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1833801490558804289",
+        "created_at": "2024-09-13T12:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T13:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834576297990992090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1487336894522265601",
+              "start": 0,
+              "username": "HDHZMcDonald"
+            },
+            {
+              "end": 30,
+              "id": "1688233455363219456",
+              "start": 14,
+              "username": "SusieBetelgeuse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834576297990992090",
+        "in_reply_to_user_id": "1487336894522265601",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833969451768611232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HDHZMcDonald @SusieBetelgeuse 这位之前给庇佑所赞赏过好几万元人民币，我证明他说的是真的(๑•ᴗ•๑)♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487336894522265601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1833801490558804289",
+        "created_at": "2024-09-11T20:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T21:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833969451768611232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "SusieBetelgeuse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833969451768611232",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6495,
+          "like_count": 53,
+          "quote_count": 5,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833801490558804289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SusieBetelgeuse 本top陆高陆本北美留学京爷友跨顺直男没指望谁觉得和我是一类人，但我一年捐助100k+进行跨性别救助，我自己开心就是了😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜庇佑所入住请联系 telegram账号@hanlianyi331｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 110,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 87,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1715942183382180330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31948,
+          "following_count": 3430,
+          "like_count": 259,
+          "listed_count": 57,
+          "tweet_count": 1802
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-29T08:09:04.000Z",
+        "description": "Retired OIer/Cis/LGBT+ friendly/Beijing→🇺🇸\nMidwest/",
+        "id": "1487336894522265601",
+        "location": "United States",
+        "name": "板烧小菜菜",
+        "pinned_tweet_id": "1811642636777783792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487337829470699520/KCbKhMxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 3533,
+          "like_count": 32844,
+          "listed_count": 1,
+          "tweet_count": 2521
+        },
+        "username": "HDHZMcDonald",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "😽🎮 🏳️‍⚧️🍥◂Ⓘ▸",
+        "id": "1688233455363219456",
+        "location": "Betelgeuse, Orion α",
+        "name": "スージー・グリッター#ベテルギウス",
+        "pinned_tweet_id": "1831372862344888683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834529980581138433/s-r-yr0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 669,
+          "like_count": 115011,
+          "listed_count": 5,
+          "tweet_count": 21271
+        },
+        "username": "SusieBetelgeuse",
+        "verified": false
+      }
+    ]
+  }
+}

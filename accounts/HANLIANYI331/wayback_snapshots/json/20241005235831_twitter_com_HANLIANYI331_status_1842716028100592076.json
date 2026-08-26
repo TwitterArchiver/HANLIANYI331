@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1842440847562002500",
+    "created_at": "2024-10-05T23:58:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T00:58:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842716028100592076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        },
+        {
+          "end": 27,
+          "id": "1126154089216262145",
+          "start": 13,
+          "username": "ArtsEpiphany1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842716028100592076",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842713487539352000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 @ArtsEpiphany1 你家寒姐姐这个一米八五，操着男性嗓音的大个子已经替你趟了上百趟女厕（）\n从功利主义的原则来说，怎么省时省力，就怎么操作。\n当进女厕引起的麻烦频率远低于进男厕引起的麻烦频率。进女厕引起的麻烦烈度远低于进男厕引发的麻烦烈度来说。\n哪怕是“担心引起麻烦”的角度而言，进女厕性价比都是更高的。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1842440847562002500",
+        "created_at": "2024-10-05T23:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T00:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842716028100592076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            },
+            {
+              "end": 27,
+              "id": "1126154089216262145",
+              "start": 13,
+              "username": "ArtsEpiphany1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842716028100592076",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842713487539352000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 @ArtsEpiphany1 你家寒姐姐这个一米八五，操着男性嗓音的大个子已经替你趟了上百趟女厕（）\n从功利主义的原则来说，怎么省时省力，就怎么操作。\n当进女厕引起的麻烦频率远低于进男厕引起的麻烦频率。进女厕引起的麻烦烈度远低于进男厕引发的麻烦烈度来说。\n哪怕是“担心引起麻烦”的角度而言，进女厕性价比都是更高的。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703297947121901568",
+        "conversation_id": "1842440847562002500",
+        "created_at": "2024-10-05T23:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T00:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842713487539352000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 28,
+              "id": "1126154089216262145",
+              "start": 14,
+              "username": "ArtsEpiphany1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842713487539352000",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842712090571866350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @ArtsEpiphany1 但是争议本身就很麻烦、本身就是争议\n能不能去异性厕所参见宪法规定了公民有游行示威的权利这么一回事\n我自己外貌＆声音均为一般女性，对于使用厕所的性别焦虑不严重，但是男厕的确带来了许多麻烦，对于女厕又有许多担忧\n（以上为提问前的思考）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32619,
+          "following_count": 3442,
+          "like_count": 281,
+          "listed_count": 56,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "据说长大了的傻孩子x｜持证20.11.11含糖MtF/持“证”ADHD&ASD/已约手术｜｜❤️麻麻@toukorina🥰｜｜女儿@Allenium114 @charge_rif｜｜｜\n每个人都有幸与不幸，愿每个人被善待、善待自己",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "toukorina"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "Allenium114"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "charge_rif"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "⚠️距离您已不足1pm",
+        "name": "🏳️‍⚧️雪织🩷次世代织不唧🍜🍛🍟🍔🍕🌮",
+        "pinned_tweet_id": "1840481662809116957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841829606376312832/re_4oKm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 456,
+          "like_count": 3683,
+          "listed_count": 2,
+          "tweet_count": 1534
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. White is light.  ISTJ?. Traveller. Computer Architect. HPC/AI Product Architect at @NVIDIA. Negative altitude by birth. Opinions are own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 106,
+                "username": "NVIDIA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQVwy0"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu 🍡 スライム 史莱姆",
+        "pinned_tweet_id": "1824357556019495152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821092124789452800/4mIEouA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10278,
+          "following_count": 1417,
+          "like_count": 80812,
+          "listed_count": 51,
+          "tweet_count": 20756
+        },
+        "url": "https://t.co/Xo0VOQVwy0",
+        "username": "ArtsEpiphany1",
+        "verified": true
+      }
+    ]
+  }
+}

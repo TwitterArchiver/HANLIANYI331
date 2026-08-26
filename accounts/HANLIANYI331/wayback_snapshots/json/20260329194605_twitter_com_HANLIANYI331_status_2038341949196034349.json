@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2038341949196034349",
+    "created_at": "2026-03-29T19:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T20:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038341949196034349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938210111992074240",
+          "start": 3,
+          "username": "FJUNNNN"
+        },
+        {
+          "end": 21,
+          "id": "918593759121690625",
+          "start": 13,
+          "username": "hu_qin_"
+        },
+        {
+          "end": 34,
+          "id": "1736265610911428608",
+          "start": 22,
+          "username": "noname2095_"
+        },
+        {
+          "end": 50,
+          "id": "1938295191888400386",
+          "start": 35,
+          "username": "Pikaunderlight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038341949196034349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038283612458828007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FJUNNNN: @hu_qin_ @noname2095_ @Pikaunderlight 有一个很大的问题是，寒涟漪的人格特质和多数人的差异很大，她对外界的流言和变化极其顿感，内心世界非常封闭，这意味着网暴很难对她自身产生足够的精神代价。在早期的时候，寒涟漪对造谣和…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2038341949196034349",
+        "created_at": "2026-03-29T19:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T20:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038341949196034349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938210111992074240",
+              "start": 3,
+              "username": "FJUNNNN"
+            },
+            {
+              "end": 21,
+              "id": "918593759121690625",
+              "start": 13,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 34,
+              "id": "1736265610911428608",
+              "start": 22,
+              "username": "noname2095_"
+            },
+            {
+              "end": 50,
+              "id": "1938295191888400386",
+              "start": 35,
+              "username": "Pikaunderlight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038341949196034349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038283612458828007",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FJUNNNN: @hu_qin_ @noname2095_ @Pikaunderlight 有一个很大的问题是，寒涟漪的人格特质和多数人的差异很大，她对外界的流言和变化极其顿感，内心世界非常封闭，这意味着网暴很难对她自身产生足够的精神代价。在早期的时候，寒涟漪对造谣和…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938210111992074240",
+        "conversation_id": "2038227461494722620",
+        "created_at": "2026-03-29T15:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038283612458828007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "918593759121690625",
+              "start": 0,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 21,
+              "id": "1736265610911428608",
+              "start": 9,
+              "username": "noname2095_"
+            },
+            {
+              "end": 37,
+              "id": "1938295191888400386",
+              "start": 22,
+              "username": "Pikaunderlight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038283612458828007",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有一个很大的问题是，寒涟漪的人格特质和多数人的差异很大，她对外界的流言和变化极其顿感，内心世界非常封闭，这意味着网暴很难对她自身产生足够的精神代价。在早期的时候，寒涟漪对造谣和网暴的情况是完全没有意识到问题的严重性的。在庇护所很多真实发生的案例当中，因为谣言导致的对庇护所的不信任，从而逃避受助和辗转流浪、卖淫、失学和被诈骗，最终导致死亡的案例发生了好几例。这些人的死亡或消失并不会对庇护所本身造成影响，反而会极大的减轻庇护所预期当中的压力。但是这些人恰恰是最需要帮助的那一群人，他们甚至比庇护所目前在住的绝大多数人都更加需要帮助，也更加普通。\n也就是说，这些网暴和谣言导致的最终结果事实上并非是寒涟漪本人在承担，而是这些真正需要被帮助的人承担。\n这种事情是非常糟糕的：网暴让人产生整改动力的作用很难作用于寒涟漪本人，但是网暴带来的毁灭却由受助者承担。旁人以前需要明确和寒涟漪解释清楚“造谣和网暴会导致受助者死亡，因此你需要从根源上就做出预防措施”的逻辑链条，寒涟漪才会按照这套清晰的逻辑去执行对策和行动。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038276004121026566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_qin_ @noname2095_ @Pikaunderlight 有一个很大的问题是，寒涟漪的人格特质和多数人的差异很大，她对外界的流言和变化极其顿感，内心世界非常封闭，这意味着网暴很难对她自身产生足够的精神代价。在早期的时候，寒涟漪对造谣和网暴的情况是完全没有意识到问题的严重性的。在庇护所很多真实发生的案例当中，因为谣言导致的对庇护所的不信任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41082,
+          "following_count": 3661,
+          "like_count": 1555,
+          "listed_count": 69,
+          "media_count": 388,
+          "tweet_count": 2799
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 777,
+          "like_count": 2055,
+          "listed_count": 5,
+          "media_count": 210,
+          "tweet_count": 616
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2037127616176808105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 1800,
+          "like_count": 19734,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 5213
+        },
+        "username": "hu_qin_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 305,
+          "like_count": 3875,
+          "listed_count": 5,
+          "media_count": 288,
+          "tweet_count": 9697
+        },
+        "username": "noname2095_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T17:57:12.000Z",
+        "description": "我吹过你吹过的晚风 是否看过同样风景",
+        "id": "1938295191888400386",
+        "location": "在你意料不到的地方",
+        "name": "暮色前的晨曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938296399868612608/ftdD_yci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 306,
+          "like_count": 3479,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 406
+        },
+        "username": "Pikaunderlight",
+        "verified": false
+      }
+    ]
+  }
+}

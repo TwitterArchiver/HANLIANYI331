@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1920170287280054280",
+    "created_at": "2025-05-10T09:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T10:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921140692115669124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1544285787495157760",
+          "start": 0,
+          "username": "FFFFJUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921140692115669124",
+    "in_reply_to_user_id": "1544285787495157760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实真要细说的话，虽然都属于“中产”，但是目前庇护所大部分住户的父母哪怕拿着把枪逼着让父母给钱，也都很难给出一月一万五。毕竟这些家庭的总收入都远远到不了一月一万五。大部分住户的家庭人均月收入普遍都在两三千。唯二两个父母能掏出一个月一万五的还是坚定的反跨家庭和离异练小号家庭。\n\n另一个方面来讲，太底层的农村出来的孩子，反而因为劳动能力且更能吃苦强，哪怕在抑郁严重的情况下也仍然比娇柔的中产孩子反而更容易救助。普遍在庇护所待个一周半个月就能迅速实现经济自立然后离开庇护所了。偶尔留下来的几个，比如现在在庇护所的一位社会最底层农民超生6个娃流浪家庭出身中学没读完出来打工的某位，当初因为抑郁自杀来庇护所，现在反而长期待在庇护所成了最大劳动力xxx"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920170287280054280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FFFFJUN 其实真要细说的话，虽然都属于“中产”，但是目前庇护所大部分住户的父母哪怕拿着把枪逼着让父母给钱，也都很难给出一月一万五。毕竟这些家庭的总收入都远远到不了一月一万五。大部分住户的家庭人均月收入普遍都在两三千。唯二两个父母能掏出一个月一万五的还是坚定的反跨家庭和离异练小号家庭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1920170287280054280",
+        "created_at": "2025-05-10T09:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T10:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921140692115669124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1544285787495157760",
+              "start": 0,
+              "username": "FFFFJUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921140692115669124",
+        "in_reply_to_user_id": "1544285787495157760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实真要细说的话，虽然都属于“中产”，但是目前庇护所大部分住户的父母哪怕拿着把枪逼着让父母给钱，也都很难给出一月一万五。毕竟这些家庭的总收入都远远到不了一月一万五。大部分住户的家庭人均月收入普遍都在两三千。唯二两个父母能掏出一个月一万五的还是坚定的反跨家庭和离异练小号家庭。\n\n另一个方面来讲，太底层的农村出来的孩子，反而因为劳动能力且更能吃苦强，哪怕在抑郁严重的情况下也仍然比娇柔的中产孩子反而更容易救助。普遍在庇护所待个一周半个月就能迅速实现经济自立然后离开庇护所了。偶尔留下来的几个，比如现在在庇护所的一位社会最底层农民超生6个娃流浪家庭出身中学没读完出来打工的某位，当初因为抑郁自杀来庇护所，现在反而长期待在庇护所成了最大劳动力xxx"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920170287280054280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FFFFJUN 其实真要细说的话，虽然都属于“中产”，但是目前庇护所大部分住户的父母哪怕拿着把枪逼着让父母给钱，也都很难给出一月一万五。毕竟这些家庭的总收入都远远到不了一月一万五。大部分住户的家庭人均月收入普遍都在两三千。唯二两个父母能掏出一个月一万五的还是坚定的反跨家庭和离异练小号家庭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544285787495157760",
+        "conversation_id": "1920170287280054280",
+        "created_at": "2025-05-07T17:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T18:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920170287280054280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanlianyi331/s…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/hanlianyi331/status/1920068368725598333",
+              "start": 88,
+              "url": "https://t.co/YaVWrb3Zki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920170287280054280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920068368725598333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "该公益组织的住户，和当前庇佑所住户的家庭阶级，没有任何区别，大家都是中产阶级的孩子。区别只是住户和家庭之间的关系，又或者说，原生家庭愿意付费给第三方来养育自己孩子的区别罢了。 https://t.co/YaVWrb3Zki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37810,
+          "following_count": 3635,
+          "like_count": 716,
+          "listed_count": 61,
+          "media_count": 325,
+          "tweet_count": 2348
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-05T11:43:32.000Z",
+        "description": "是大龄MTF，可以叫米糊或者芙芙(fufu)哦～坐标湖北和广州～会玩一些摄影器材～",
+        "id": "1544285787495157760",
+        "location": "武汉市，天门市",
+        "name": "F菌-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752825326810636288/CY7rCNkC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 130,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 373
+        },
+        "username": "FFFFJUN",
+        "verified": false
+      }
+    ]
+  }
+}

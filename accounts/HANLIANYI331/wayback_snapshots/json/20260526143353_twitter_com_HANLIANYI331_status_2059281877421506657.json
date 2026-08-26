@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2059281877421506657",
+    "created_at": "2026-05-26T14:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059281877421506657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1938210111992074240",
+          "start": 3,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059281877421506657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059280752165183904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FJUNNNN: 那么我们将话题延伸一下，来大搞文字狱，将更多社会现象一同纳入做一些思考，我举例一下：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2059281877421506657",
+        "created_at": "2026-05-26T14:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059281877421506657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1938210111992074240",
+              "start": 3,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059281877421506657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059280752165183904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FJUNNNN: 那么我们将话题延伸一下，来大搞文字狱，将更多社会现象一同纳入做一些思考，我举例一下：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938210111992074240",
+        "conversation_id": "2059280752165183904",
+        "created_at": "2026-05-26T14:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059280752165183904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanlianyi331/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/hanlianyi331/status/2059263721990684806",
+              "start": 43,
+              "url": "https://t.co/kHU0hvyBYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059280752165183904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "那么我们将话题延伸一下，来大搞文字狱，将更多社会现象一同纳入做一些思考，我举例一下：\n\n我们需要正视世界经济秩序，市场公平，劳动人民权益，所以，需要对（资本家/企业家）和（垄断者）、（腐败权贵资本）、（诈骗型资本），进行明确区分，必须认清大多数正常经营、创造就业和价值的（资本家）并不是压迫根源，所以，对合法资本家去污名化是有必要的。\n把所有财富积累者都打成“吸血鬼”，只会让剥削，压迫，掠夺，更容易隐藏。\n\n同样，还有长期被污名化的（小仙女）\n （小仙女）原意是可爱，精致，生活品位较好的女孩\n而对于真正有害的那部分行为，须另寻更精准的词汇来指代，例如（田园单向索取型女性特权家）把所有追求生活品质，有点小公主心态的女孩都污名化为“小仙女”，只会让正常女性被连坐攻击，最终加剧性别对立。\n\n同样，我们还应该去对每一个个案进行深度研究，对家暴，逼婚，人口贩卖，非法软禁，强迫劳动，进行深入，且清晰严格的调研，以免误伤无辜。\n\n真正的家暴是指长期、系统性的身体伤害、严重心理虐待或控制行为，而家庭之间偶尔的争吵属于正常家庭矛盾\n\n真正的被逼婚是指以暴力、威胁、非法拘禁等手段强迫当事人结婚，而非父母传统的催婚或文化压力\n\n真正的人口贩卖、非法软禁、强迫劳动则涉及跨地区/跨国组织犯罪、剥夺人身自由、商业化剥削等严重刑事行为，而非普通劳资纠纷、家庭看管失当或自愿但后悔的选择\n\n否则，把所有家庭矛盾都上升为家暴，把所有催婚都叫被逼婚，把所有不幸婚姻或劳动都等同于“人口贩卖”只会稀释真正受害者的关注度，让严重犯罪分子在泛化概念中逃避精准打击，同时让大量正常家庭关系、劳动关系被污名化和敌对化\n\n免责声明：以上思考是否为本人意见取决于薛定谔的猫生死状态"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059263721990684806",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么我们将话题延伸一下，来大搞文字狱，将更多社会现象一同纳入做一些思考，我举例一下： https://t.co/kHU0hvyBYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41676,
+          "following_count": 3771,
+          "like_count": 1681,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 2909
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 892,
+          "like_count": 2388,
+          "listed_count": 8,
+          "media_count": 252,
+          "tweet_count": 752
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1807723580744139107",
+    "created_at": "2024-07-01T10:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T11:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1807723580744139107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1807709456249299104",
+          "start": 136,
+          "url": "https://t.co/2mPtVlGLYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807723580744139107",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807709456249299104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "助学贷款和助学金是两个东西，助学贷款不需要审批，向生源地申请，只要申请就有，一年最多申请一万八。助学贷款从大学毕业后开始计算利息，且利息一般低于通货膨胀率。\n\n助学金是直接给你的钱，不需要还，一年最多四千四，需要学校审批。\n\n这种需要学校审批的一般是助学金，而非助学贷。 https://t.co/2mPtVlGLYB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1807723580744139107",
+        "created_at": "2024-07-01T10:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T11:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807723580744139107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1807709456249299104",
+              "start": 136,
+              "url": "https://t.co/2mPtVlGLYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807723580744139107",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807709456249299104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "助学贷款和助学金是两个东西，助学贷款不需要审批，向生源地申请，只要申请就有，一年最多申请一万八。助学贷款从大学毕业后开始计算利息，且利息一般低于通货膨胀率。\n\n助学金是直接给你的钱，不需要还，一年最多四千四，需要学校审批。\n\n这种需要学校审批的一般是助学金，而非助学贷。 https://t.co/2mPtVlGLYB"
+      },
+      {
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1807643552564085034",
+        "created_at": "2024-07-01T09:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T10:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807709456249299104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700878516366299136",
+              "start": 0,
+              "username": "sh6055500113867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807709456249299104",
+        "in_reply_to_user_id": "1700878516366299136",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807643552564085034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sh6055500113867 助学贷不需要学校审批，只需要向生源地申请就行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜庇佑所入住请联系 telegram账号@hanlianyi520｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜推特私信很少看，尽可能通过telegram私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "hanlianyi520"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 110,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 87,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1715942183382180330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30634,
+          "following_count": 3468,
+          "like_count": 235,
+          "listed_count": 59,
+          "tweet_count": 1687
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": false
+      }
+    ]
+  }
+}

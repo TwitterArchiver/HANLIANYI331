@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1881033402977251354",
+    "created_at": "2025-01-19T17:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T18:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881033402977251354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881033402977251354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880862728065359974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 我最早于2012年接触中国互联网跨性别女性社群（以下简称“社群”），2014年以后开始深度接触，当时认识了很多姐姐以后，也曾经听她们讲述过很多更早的情况。\n\n因此我对社群历史的认知大约在2008年至今…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1881033402977251354",
+        "created_at": "2025-01-19T17:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T18:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881033402977251354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881033402977251354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880862728065359974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 我最早于2012年接触中国互联网跨性别女性社群（以下简称“社群”），2014年以后开始深度接触，当时认识了很多姐姐以后，也曾经听她们讲述过很多更早的情况。\n\n因此我对社群历史的认知大约在2008年至今…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1880862728065359974",
+        "created_at": "2025-01-19T06:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T07:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880862728065359974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1761720524634554645",
+              "start": 102,
+              "url": "https://t.co/n1q4eyNGah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880862728065359974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我最早于2012年接触中国互联网跨性别女性社群（以下简称“社群”），2014年以后开始深度接触，当时认识了很多姐姐以后，也曾经听她们讲述过很多更早的情况。\n\n因此我对社群历史的认知大约在2008年至今\n\n据我估计，国内社群的死亡率在2014年之前处于逐渐上升的状态，于2018年以后处于逐渐下降的状态，于2014年至2018年达到顶峰。\n\n原因是：在2012年以前，“跨性别”是一个上流阶级才“玩得起”的东西，阶级稍微低一些的，受到认知差，财富差，信息差的影响，连“跨性别”是啥玩意都不知道，也就是无数的“从小想当女孩子，结果被当成人妖变态，然后自己也觉得自己是人妖变态，于是在村子边的深山里无声无息的自杀”，这批人不会进入到社群里。\n\n因此在2012年以前，尤其是在2010年以前，社群大多数都是社会精英或上流阶级的孩子，她们的环境和条件往往比绝大多数当时的国内普通人要过得好，因此这段时期她们的死亡率并不高。\n\n于此同时，相对安全，成熟，稳定的HRT用药方案直到2020年以后才渐渐普及，普及后也让mtf死亡率出现了大幅度下降。（哪怕是在2019年，不少mtf还吃着每天100，200甚至500毫克的色普龙，吃着对跨女没有任何用处，只有负面作用的黄体酮，妈富隆，mtf吃完就抑郁，抑郁就自杀的案例比比皆是）\n\n更早时期社群的用药方式可谓是“八仙过海，各显神通”，兽药，自制药，避孕药，工业雌粉你能想象到的能吃死人的药当时应有尽有\n\n且当时国内也并没有正规的跨性别序列医疗，甚至在16年之前，甚至全国也才只有一两个医生懂得如何用药，跨性别无法接触到正规用药指导。只能凭着经验吃，凭着感觉吃，用生命不断的试药。\n\n2012年后，随着移动互联网的大规模普及，社群出现了阶级上的飞速下沉，大量普通阶级，一般阶级，工薪阶级甚至底层阶级也开始享受到了互联网，接触到了跨性别的概念，自此以后，社群人数出现激增，十年来人数翻了几十倍不止。\n\n从2014年开始，社群死亡率达到顶峰，不规范的用药，残酷的社会环境，互联网的乱象，自杀的互相感染，近乎没有的医疗资源（那时国内甚至精神科都还不普及），还有因为医疗资源的极端匮乏，大量的“自切”事件发生，把自己切死的案例也大量发生，甚至出现了好几个“自己给自己做srs手术”这样的极端案例。\n\n“一胎政策”的长期推行也大幅度导致了社群普遍生存境况的极端恶化，大量mtf遭受家暴的概率和严重程度也达到的有史以来的最高峰，大量骇人听闻的残酷家庭暴力事件也海量涌现于这一时期，二胎政策的出现明显改善了这样的情况。\n\n那个时期，仅在我接触的底层跨性别社群中，如百度贴吧，QQ等各个平台，很长的一段时间在一个社交网络里，几乎每天都有人自杀死亡，也几乎每周都有人病死和意外身亡。常常一个几百人的社交圈，极端情况下一年后还活着的连3分之2都还不到。\n\n2018年以后，随着社会大环境的持续优化，随着无数mtf社群的前辈和互助者前仆后继的努力，社群的死亡率开始逐年的下降。很多现在可以开证的医生，可以接受到的优质精神科医疗资源，可以接触到的手术资源，包括无数的东西，现在看来不再那么需要拼尽全力，拼尽性命，艰难取得的东西，当年都极端匮乏。\n\n到达2024年，社群的总体死亡率已经下降到了2014至2018年不足一半的水平。\n\n但是据我观察来看，哪怕是仅有的这一半水平的死亡率，也大部分出现在跨性别社群内部存在od行为的社交圈（以下简称“od”圈子）里，但是物质滥用在社群里从来都不是一个新东西，只是更早的在死亡率降下来时期之前，“od”圈子的超高死亡率显得没那么突兀。\n\n如果仅计算“od”行为的mtf，几乎会有3分之1的mtf在出现大量od行为以后在一年以内死亡，这个死亡率是不od的mtf的数倍之多，甚至超出了社群2014年至2018年死亡率最高的时期。\n\n甚至哪怕是这个数据也仍然是大幅度下降后的结果，若在2016年时期，社群曾存在一个广泛流传的知识，“沾染娱乐性药物滥用，必死无疑”（那时还不叫od）\n\n这甚至可以排除幸存者偏差的因素：因为从我个人大量的实践经历和救助经验来看，很多从来都不od的mtf，精神疾病，经济条件，家庭环境，自杀问题常常比很多od的mtf还要更加恶劣，阶级地位要更加底层，但是这批人的死亡率仍然要大幅度低于“od圈子”里的mtf。\n\n从我多年以来深度观察“od圈子”至今，“od圈子”几乎每年都会死3分之1的人（更早时期这个比例还会更高），然后死掉一批以后，下一年又会涌入新的一批人进来，然后再死一批，周而复始。\n\n于是在普通的mtf社群里，从三年前留存至今，仍然在活跃的mtf能占到一小半左右，剩下的绝大部分也仅仅是淡网而非死亡。\n\n但是在od圈子里，“三年前留存下来的仍然在活跃的人”几乎不到五分之一，剩下的多半死亡，少半戒除od\n\n最恶劣的是，od圈子经过一年又一年的大规模死人，和新人的涌入，总会有那么一小部分人在一轮又一轮的死亡中活的好好的。\n\n这批人一般是卖药，教唆od和在把人弄死的过程中攥取利益的，而且往往它们自己不od。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 4611,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1761720524634554645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最早于2012年接触中国互联网跨性别女性社群（以下简称“社群”），2014年以后开始深度接触，当时认识了很多姐姐以后，也曾经听她们讲述过很多更早的情况。\n\n因此我对社群历史的认知大约在2008年至今… https://t.co/n1q4eyNGah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1879279526838190080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34780,
+          "following_count": 3431,
+          "like_count": 343,
+          "listed_count": 57,
+          "media_count": 283,
+          "tweet_count": 2089
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

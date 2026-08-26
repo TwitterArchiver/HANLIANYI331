@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2065336627816435969",
+    "created_at": "2026-06-12T07:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065336627816435969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 30,
+          "id": "1517437669449547776",
+          "start": 18,
+          "username": "YumiChow916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065336627816435969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065312395992719711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: @YumiChow916 这是这套体系归谬法（reductio ad absurdum）的常用例子——如果用专业社工伦理的逻辑严格套用，几乎所有浪漫关系都该被批判，这显然荒谬。原因主要有以下几点（心理学与现实机制结合）：助人互动是人类亲密联结…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2065336627816435969",
+        "created_at": "2026-06-12T07:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065336627816435969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 30,
+              "id": "1517437669449547776",
+              "start": 18,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065336627816435969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065312395992719711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: @YumiChow916 这是这套体系归谬法（reductio ad absurdum）的常用例子——如果用专业社工伦理的逻辑严格套用，几乎所有浪漫关系都该被批判，这显然荒谬。原因主要有以下几点（心理学与现实机制结合）：助人互动是人类亲密联结…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2059801421500014971",
+        "created_at": "2026-06-12T05:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065312395992719711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065312395992719711",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "en.wikipedia.org",
+                "end": 423,
+                "expanded_url": "http://en.wikipedia.org",
+                "start": 400,
+                "url": "https://t.co/bYo6s005nG"
+              }
+            ]
+          },
+          "text": "这是这套体系归谬法（reductio ad absurdum）的常用例子——如果用专业社工伦理的逻辑严格套用，几乎所有浪漫关系都该被批判，这显然荒谬。原因主要有以下几点（心理学与现实机制结合）：助人互动是人类亲密联结的常见启动方式\n人们在情感或实际困难时寻求支持，而提供帮助（倾听、陪伴、实际协助、情感安慰）能快速建立信任、互惠感和正面联结。进化与社会心理学都显示：利他/支持行为是吸引的重要信号。很多恋情正是从“他/她在最需要的时候帮了我/听我倾诉”开始的。情感支持是浪漫关系的核心成分之一，尤其在初期建立安全感时。\n早期阶段普遍存在强烈理想化与投射（类似“移情”）\n恋爱初期常进入limerence（迷恋状态）：这是Dorothy Tennov描述的强烈迷恋阶段，特征就是高度理想化对方（把对方“结晶化”为完美形象）、投射自己渴望的品质、忽略或淡化缺陷、沉浸在“终于找到懂我的人”的感觉中。 \n\rhttps://t.co/bYo6s005nG\n\n这与治疗中的正向移情高度相似：把过去重要关系（父母、前任等）的模式、渴望或未满足需求投射到当前对象身上。帮助行为会强烈放大这种投射——被帮助者容易把帮助者理想化为“可靠、理解、救赎式”的人。\n依恋理论的视角\n成人浪漫依恋本质上就是在寻找/提供“安全基地”。我们倾向于被那些能回应我们情感需求、提供支持的人吸引。关系早期往往就是一方（或双方）在提供情感/实际支持的过程中，逐渐形成依恋联结。\n\n为什么这不构成“应被专业伦理批判”的问题？性质根本不同：专业助人是单向、以案主为中心、有明确终止条件、制度性权力不对等。浪漫关系是双向互惠、平等协商、权力动态可变化，目标是亲密与共同生活，而不是“单方面赋权独立”。\n同意与退出自由：双方都是平等的成人，自愿进入，可随时退出，没有“专业责任”或机构权力。\n如果严格套用专业逻辑，那几乎所有亲密关系（友情、亲情、邻里互助）都该被禁止——因为它们大多包含帮助 + 情感投射。这会摧毁人类最基本的社会纽带。\n现实中，恋爱关系确实存在风险（情感依赖、权力滥用、经济剥削），但解决方式是成熟的沟通、边界意识、自我觉察，而不是禁止“从帮助开始的关系”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065310153637773722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 这是这套体系归谬法（reductio ad absurdum）的常用例子——如果用专业社工伦理的逻辑严格套用，几乎所有浪漫关系都该被批判，这显然荒谬。原因主要有以下几点（心理学与现实机制结合）：助人互动是人类亲密联结的常见启动方式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41756,
+          "following_count": 3806,
+          "like_count": 1751,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2961
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Place Without Fear",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 312,
+          "like_count": 4032,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 3895
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

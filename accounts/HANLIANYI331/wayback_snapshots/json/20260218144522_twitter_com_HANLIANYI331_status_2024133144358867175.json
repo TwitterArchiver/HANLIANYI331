@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2024133144358867175",
+    "created_at": "2026-02-18T14:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024133144358867175"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024133144358867175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "升米恩，斗米仇。农夫与蛇，恩将仇报的故事每天都在发生。我极度不想分享这些斗米仇和恩将仇报的案例，也是因为这些人终究是少数。在我帮助过的数千人当中，绝大多数人都不是这样的。如果一味的宣传和曝光这些农夫与蛇的案例，最终只会让真正需要帮助且善良的人得不到帮助。\n善良的锋芒，既要防范恩将仇报，但也要让真正需要帮助且善良的人得到帮助。\n在中国，诬告和造谣的犯罪成本还是太低了，换在任何一个发达国家，甚至哪怕是在香港，澳门，台湾，这帮诬告和造谣的人也早蹲监狱去了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "升米恩，斗米仇。农夫与蛇，恩将仇报的故事每天都在发生。我极度不想分享这些斗米仇和恩将仇报的案例，也是因为这些人终究是少数。在我帮助过的数千人当中，绝大多数人都不是这样的。如果一味的宣传和曝光这些农夫与蛇的案例，最终只会让真正需要帮助且善良的人得不到帮助。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2024133144358867175",
+        "created_at": "2026-02-18T14:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024133144358867175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024133144358867175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "升米恩，斗米仇。农夫与蛇，恩将仇报的故事每天都在发生。我极度不想分享这些斗米仇和恩将仇报的案例，也是因为这些人终究是少数。在我帮助过的数千人当中，绝大多数人都不是这样的。如果一味的宣传和曝光这些农夫与蛇的案例，最终只会让真正需要帮助且善良的人得不到帮助。\n善良的锋芒，既要防范恩将仇报，但也要让真正需要帮助且善良的人得到帮助。\n在中国，诬告和造谣的犯罪成本还是太低了，换在任何一个发达国家，甚至哪怕是在香港，澳门，台湾，这帮诬告和造谣的人也早蹲监狱去了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "升米恩，斗米仇。农夫与蛇，恩将仇报的故事每天都在发生。我极度不想分享这些斗米仇和恩将仇报的案例，也是因为这些人终究是少数。在我帮助过的数千人当中，绝大多数人都不是这样的。如果一味的宣传和曝光这些农夫与蛇的案例，最终只会让真正需要帮助且善良的人得不到帮助。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41032,
+          "following_count": 3678,
+          "like_count": 1444,
+          "listed_count": 67,
+          "media_count": 383,
+          "tweet_count": 2765
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

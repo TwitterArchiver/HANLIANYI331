@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2000501255681294422",
+    "created_at": "2025-12-15T09:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T10:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000501255681294422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1904315534629622245",
+          "start": 138,
+          "url": "https://t.co/VCq9A6Xm71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000501255681294422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904315534629622245",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永远不要低估人性的善，但也永远不要低估人性的恶。\n无论是诈骗金钱也好，还是盗窃破坏也好，只要有作恶空间，恶人在作恶的时候丝毫不会考虑自己作恶的行为最终会导致多少人痛苦，多少人死亡。\n每一套事务在运作之初，都应预留出“防人之心不可无”。\n从最开始，就不要给任何恶人作恶的机会。 https://t.co/VCq9A6Xm71"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2000501255681294422",
+        "created_at": "2025-12-15T09:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T10:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000501255681294422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1904315534629622245",
+              "start": 138,
+              "url": "https://t.co/VCq9A6Xm71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000501255681294422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904315534629622245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永远不要低估人性的善，但也永远不要低估人性的恶。\n无论是诈骗金钱也好，还是盗窃破坏也好，只要有作恶空间，恶人在作恶的时候丝毫不会考虑自己作恶的行为最终会导致多少人痛苦，多少人死亡。\n每一套事务在运作之初，都应预留出“防人之心不可无”。\n从最开始，就不要给任何恶人作恶的机会。 https://t.co/VCq9A6Xm71"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1904315534629622245",
+        "created_at": "2025-03-24T23:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T00:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904315534629622245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904315534629622245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14215,
+          "like_count": 166,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界上永远都会有恶人，也永远都不缺恶人。\n\n在我和每个人的范围能做的，除了让这些恶人不会再有从我这里得到资源的机会以外，也应让这些恶人不会再有作恶的机会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40409,
+          "following_count": 3668,
+          "like_count": 1321,
+          "listed_count": 68,
+          "media_count": 370,
+          "tweet_count": 2663
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

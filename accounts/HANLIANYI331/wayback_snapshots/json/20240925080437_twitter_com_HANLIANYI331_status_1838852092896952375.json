@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1838852092896952375",
+    "created_at": "2024-09-25T08:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T09:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838852092896952375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510022518526324739",
+          "start": 3,
+          "username": "Hua6160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838852092896952375",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838801722808107037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hua6160: 北京陪伴师单子，具体工作内容大概为长期24小时和孩子待在一起，陪孩子玩，照顾孩子心情，孩子患有厌食症并且长期饮食不均，经常会报复性饮食，体重时上时下，最严重时，自己170以上的身高可以将自己饿到60-70斤，性格自卑，最近还做了下颌角整形，正处手术恢复…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1838852092896952375",
+        "created_at": "2024-09-25T08:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T09:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838852092896952375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510022518526324739",
+              "start": 3,
+              "username": "Hua6160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838852092896952375",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838801722808107037",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hua6160: 北京陪伴师单子，具体工作内容大概为长期24小时和孩子待在一起，陪孩子玩，照顾孩子心情，孩子患有厌食症并且长期饮食不均，经常会报复性饮食，体重时上时下，最严重时，自己170以上的身高可以将自己饿到60-70斤，性格自卑，最近还做了下颌角整形，正处手术恢复…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838801714998317056"
+          ]
+        },
+        "author_id": "1510022518526324739",
+        "conversation_id": "1838801722808107037",
+        "created_at": "2024-09-25T04:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T05:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838801722808107037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6zca6jddy",
+              "end": 168,
+              "expanded_url": "https://twitter.com/Hua6160/status/1838801722808107037/photo/1",
+              "media_key": "3_1838801714998317056",
+              "start": 145,
+              "url": "https://t.co/s6ZcA6jDdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838801722808107037",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "北京陪伴师单子，具体工作内容大概为长期24小时和孩子待在一起，陪孩子玩，照顾孩子心情，孩子患有厌食症并且长期饮食不均，经常会报复性饮食，体重时上时下，最严重时，自己170以上的身高可以将自己饿到60-70斤，性格自卑，最近还做了下颌角整形，正处手术恢复期，日薪最低每日400元，具体可商议 https://t.co/s6ZcA6jDdY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1835970707144298583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32287,
+          "following_count": 3439,
+          "like_count": 278,
+          "listed_count": 56,
+          "tweet_count": 1834
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-01T22:33:40.000Z",
+        "description": "是阿华呦/ 04年/ 正式HRT:24.5.30/ 大抵是一名mtf/ 庇护所暂时关闭/ 对男女都无兴趣，对任何人不抱有期待/  无性别主义/ 即独立又依赖/ 即外向又内向/ 虽然。。。我并没有见到过光，但。。。我会努力的成为光~",
+        "id": "1510022518526324739",
+        "location": "东莞，深圳来回飞，",
+        "name": "阿华 Hua",
+        "pinned_tweet_id": "1801707762164109522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767600552832372742/gG3VaxpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 221,
+          "like_count": 975,
+          "listed_count": 1,
+          "tweet_count": 215
+        },
+        "username": "Hua6160",
+        "verified": false
+      }
+    ]
+  }
+}

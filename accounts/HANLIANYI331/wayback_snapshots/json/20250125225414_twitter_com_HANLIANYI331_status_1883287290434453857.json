@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1883287290434453857",
+    "created_at": "2025-01-25T22:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T23:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883287290434453857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1585145286598483968",
+          "start": 9,
+          "username": "lianyiganyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1836140749647450237",
+          "start": 126,
+          "url": "https://t.co/fLiNba94eD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883287290434453857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 21,
+            "id": "1585145286598483968",
+            "start": 9,
+            "username": "lianyiganyu"
+          }
+        ]
+      },
+      "text": "涟漪危机干预小组 @lianyiganyu 当前处于活跃（平均每周工作时间大于10小时）的志愿者仅有5人，整个小组仅剩我本人一个督导人员。\n\n按照往常涟漪危机干预小组的正常模式来说，每一个工作人员或志愿者至少应当有一个督导（同时兼具管理人和决策人）\n\n如果存在多个督导，每个督导之间还需要抽出一部分工作时间互相之间进行开会，沟通，交流\n\n而每个督导如果要确保督导的有效性，一般最多只能同时带7个志愿者进行工作（在每周工作40小时以上的基础上），极限情况下不超过10个人（在每周工作60小时以上的基础上）\n\n尽管当前每周都会有新的志愿者申请加入，但是审批和沟通，我全部暂缓了。因为迎接新的志愿者的加入，仍然需要以增加我本人的工作时间为代价。\n\n除非新来的志愿者有足够硬的专业知识或干预经验，且至少愿意接受半全职工作（每周工作20小时以上）\n\n这就导致会陷入一个非常尴尬的境地：\n\n如果要维持涟漪危机干预小组的继续运转，要么重新花钱聘请一个可以全职工作（每周工作40小时以上）的专业人员，且该专业人员最好可以和我本人时常可以线下接触。\n\n要么我本人继续维持每周40小时以上的工作时间（加上我的其他事项，我的工作时间长期在70小时以上）\n\n并且还有一个额外问题：在过去，庇护所项目是作为危机干预的一个最重要的后备手段存在的。庇护所项目可以彻底性的大幅度改变当事人当下的生存环境。\n\n如果缺失了庇护所项目为整个危机干预过程“兜底”。当遇到通过线上干预和线下各项工作均无法彻底解决问题的情况下。要么放弃继续救助当事人，要么耗费工作人员的大量时间与当事人恶劣的生存环境作对扛，且失败率和死亡率仍然会极高。\n\n因此，即使是尽可能想办法逐步减少规模，尽可能想办法淡出救助，我仍然需要面临“摊子铺的太大”的问题。\n\n当下哪怕仅仅是维持项目组的运转，我要么花钱请人，要么继续付出工作时间。\n\n所以我好缺人，缺一个专业水平和工作经验达到“临床与咨询”专业硕士级别以上的人每周40小时以上的时间为我工作，否则我本人仍然需要付出大量的工作时间。\n\n所以我好缺钱，哪怕是不聘请人，我也至少缺90万元人民币来维持接下来三年的救助开支。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836140749647450237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "涟漪危机干预小组 @lianyiganyu 当前处于活跃（平均每周工作时间大于10小时）的志愿者仅有5人，整个小组仅剩我本人一个督导人员。\n\n按照往常涟漪危机干预小组的正常模式来说，每一个工作人员或志愿者至少应当有一个督导（同时兼具管理人和决策人）… https://t.co/fLiNba94eD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1883287290434453857",
+        "created_at": "2025-01-25T22:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T23:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883287290434453857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1585145286598483968",
+              "start": 9,
+              "username": "lianyiganyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1836140749647450237",
+              "start": 126,
+              "url": "https://t.co/fLiNba94eD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883287290434453857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 21,
+                "id": "1585145286598483968",
+                "start": 9,
+                "username": "lianyiganyu"
+              }
+            ]
+          },
+          "text": "涟漪危机干预小组 @lianyiganyu 当前处于活跃（平均每周工作时间大于10小时）的志愿者仅有5人，整个小组仅剩我本人一个督导人员。\n\n按照往常涟漪危机干预小组的正常模式来说，每一个工作人员或志愿者至少应当有一个督导（同时兼具管理人和决策人）\n\n如果存在多个督导，每个督导之间还需要抽出一部分工作时间互相之间进行开会，沟通，交流\n\n而每个督导如果要确保督导的有效性，一般最多只能同时带7个志愿者进行工作（在每周工作40小时以上的基础上），极限情况下不超过10个人（在每周工作60小时以上的基础上）\n\n尽管当前每周都会有新的志愿者申请加入，但是审批和沟通，我全部暂缓了。因为迎接新的志愿者的加入，仍然需要以增加我本人的工作时间为代价。\n\n除非新来的志愿者有足够硬的专业知识或干预经验，且至少愿意接受半全职工作（每周工作20小时以上）\n\n这就导致会陷入一个非常尴尬的境地：\n\n如果要维持涟漪危机干预小组的继续运转，要么重新花钱聘请一个可以全职工作（每周工作40小时以上）的专业人员，且该专业人员最好可以和我本人时常可以线下接触。\n\n要么我本人继续维持每周40小时以上的工作时间（加上我的其他事项，我的工作时间长期在70小时以上）\n\n并且还有一个额外问题：在过去，庇护所项目是作为危机干预的一个最重要的后备手段存在的。庇护所项目可以彻底性的大幅度改变当事人当下的生存环境。\n\n如果缺失了庇护所项目为整个危机干预过程“兜底”。当遇到通过线上干预和线下各项工作均无法彻底解决问题的情况下。要么放弃继续救助当事人，要么耗费工作人员的大量时间与当事人恶劣的生存环境作对扛，且失败率和死亡率仍然会极高。\n\n因此，即使是尽可能想办法逐步减少规模，尽可能想办法淡出救助，我仍然需要面临“摊子铺的太大”的问题。\n\n当下哪怕仅仅是维持项目组的运转，我要么花钱请人，要么继续付出工作时间。\n\n所以我好缺人，缺一个专业水平和工作经验达到“临床与咨询”专业硕士级别以上的人每周40小时以上的时间为我工作，否则我本人仍然需要付出大量的工作时间。\n\n所以我好缺钱，哪怕是不聘请人，我也至少缺90万元人民币来维持接下来三年的救助开支。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836140749647450237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "涟漪危机干预小组 @lianyiganyu 当前处于活跃（平均每周工作时间大于10小时）的志愿者仅有5人，整个小组仅剩我本人一个督导人员。\n\n按照往常涟漪危机干预小组的正常模式来说，每一个工作人员或志愿者至少应当有一个督导（同时兼具管理人和决策人）… https://t.co/fLiNba94eD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1836140749647450237",
+        "created_at": "2024-09-17T20:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T21:12:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836136153537495281",
+          "1836140749647450237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1835665924172742755",
+              "start": 98,
+              "url": "https://t.co/0CegoMR3VB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836140749647450237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "几乎没有任何一个大型的公益组织可以仅靠志愿者（每周工作时间10小时以下的人）进行维持。每有效管理一部分志愿者，必须有相对应的全职员工（每周超过20小时工作时间），且该员工需要有足够的专业能力。\n\n而想要让人全职上班，起码得给人发工资，不然要么这个人跟劳模一样打两份工，每周工作80小时以上，要么这个人就得家里有矿，否则得饿死。\n\n在没有全职员工的基础上，我现在能调动的劳动力极限也就是二十人。这已经是建立在我这几个月忙的和陀螺一样的基础上。\n\n之前王安黛在我这工作的时候，这个调动人数也只是翻了一倍，到四十人。\n\n而如果想调动更多人，我需要一些处于中间位置的人，而这些人，必须有专业能力，且全职。\n\n无论是再专业的人，ta如果每周只能拿出几小时的时间，那ta能做的事情也很少，更无法管理其他人。\n\n客观上来说我本身也不是一个合格的社工，只是在无数经验的累积下力大砖飞，才勉强可以做一些事情。因为阿斯伯格本身就不适合做对人工作，但是国内啥情况，我们是个人都知道，现在无数的事情都是在“将就”。\n\n而且，我也从来不指望我自己有多大能力，我从很多年前就知道我不是一个合格的做救助的人。这也是为什么我之前会雇佣社工，会额外邀请一些医生，治疗师。\n\n反而是因为现在我没钱了，所有的事情都变成我自己做了。\n\n没有这些专业人员，志愿者是很难在积极的情况下做事情的，哪怕我自己督导，我也最多培训五六个，之后她们很快又会离开。\n\n每管理20个志愿者，都至少需要有一个全职员工。\n\n而现在，全职的只有我一个。\n\n多年以来，我一方面要投入大量的钱，将我个人的资金消耗殆尽，个人开销压缩到极限。每周又要投入40小时以上的劳动力，同时还要兼顾上学。与之相比，“996”对我来说都是一种福报。\n\n这也是为什么，有无数志愿者想要加入我们，我都有心无力。\n\n因为我需要培训他们，但我没有培训他们的人手。\n\n如果有足够多的钱，几乎所有问题都能解决，说白了，就是没钱。\n\n当然，如果减少救助规模，没钱也凑合，起码我还可以无限的剥削自己的劳动力。\n\n但是每当我这么想的时候，我又会看到有人在自杀的人底下艾特我。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 75198,
+          "like_count": 131,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835665924172742755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几乎没有任何一个大型的公益组织可以仅靠志愿者（每周工作时间10小时以下的人）进行维持。每有效管理一部分志愿者，必须有相对应的全职员工（每周超过20小时工作时间），且该员工需要有足够的专业能力。… https://t.co/0CegoMR3VB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1880862728065359974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35028,
+          "following_count": 3507,
+          "like_count": 410,
+          "listed_count": 57,
+          "media_count": 295,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1840501215215640615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 4,
+          "like_count": 7,
+          "listed_count": 5,
+          "media_count": 26,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": true
+      }
+    ]
+  }
+}

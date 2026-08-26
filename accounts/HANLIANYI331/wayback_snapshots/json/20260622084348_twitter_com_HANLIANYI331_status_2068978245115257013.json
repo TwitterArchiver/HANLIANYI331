@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2068978245115257013",
+    "created_at": "2026-06-22T08:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T09:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068978245115257013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 189,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/2023319481683177681",
+          "start": 166,
+          "url": "https://t.co/hx0HZrrLum"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068978245115257013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "当时发这个贴的时候，纳斯达克100，标普500，黄金，白银，英伟达，苹果，比特币，以太坊，我各自投了1000元用来实盘测试，并且额外预留了资金用来再平衡，每过一段时间或者跌破/涨破阈值都会买入/卖出从而回归1000。\n\n标普500：1046.722\n\n纳斯达克100：1108.528\n\n黄金：934.559\n\n白银：984.54\n\n苹果：1062.12\n\n英伟达：1076.158\n\n比特币：993.214\n\n以太坊：951.623\n\n资产波动越大（尤其是白银，波动比所有资产都要大），再平衡收益越高；单边强势上涨时，会因为减持错失涨幅。\n\n如果全部投入1000买并持有（按照当时的价格和现在的价格：\n\n标普500：约 1092.3\n纳斯达克100：约 1229.7\n黄金：约 863.3\n白银：约 911.9\n苹果：约 1125.5\n英伟达：约 1132.7\n比特币：约 952.4\n以太坊：约 878.1"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023319481683177681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时发这个贴的时候，纳斯达克100，标普500，黄金，白银，英伟达，苹果，比特币，以太坊，我各自投了1000元用来实盘测试，并且额外预留了资金用来再平衡，每过一段时间或者跌破/涨破阈值都会买入/卖出从而回归1000。\n\n标普500：1046.722\n\n纳斯达克100：1108.528\n\n黄金：934.559\n\n白银：984.54 https://t.co/hx0HZrrLum"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2068978245115257013",
+        "created_at": "2026-06-22T08:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068978245115257013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2023319481683177681",
+              "start": 166,
+              "url": "https://t.co/hx0HZrrLum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068978245115257013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当时发这个贴的时候，纳斯达克100，标普500，黄金，白银，英伟达，苹果，比特币，以太坊，我各自投了1000元用来实盘测试，并且额外预留了资金用来再平衡，每过一段时间或者跌破/涨破阈值都会买入/卖出从而回归1000。\n\n标普500：1046.722\n\n纳斯达克100：1108.528\n\n黄金：934.559\n\n白银：984.54\n\n苹果：1062.12\n\n英伟达：1076.158\n\n比特币：993.214\n\n以太坊：951.623\n\n资产波动越大（尤其是白银，波动比所有资产都要大），再平衡收益越高；单边强势上涨时，会因为减持错失涨幅。\n\n如果全部投入1000买并持有（按照当时的价格和现在的价格：\n\n标普500：约 1092.3\n纳斯达克100：约 1229.7\n黄金：约 863.3\n白银：约 911.9\n苹果：约 1125.5\n英伟达：约 1132.7\n比特币：约 952.4\n以太坊：约 878.1"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023319481683177681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时发这个贴的时候，纳斯达克100，标普500，黄金，白银，英伟达，苹果，比特币，以太坊，我各自投了1000元用来实盘测试，并且额外预留了资金用来再平衡，每过一段时间或者跌破/涨破阈值都会买入/卖出从而回归1000。\n\n标普500：1046.722\n\n纳斯达克100：1108.528\n\n黄金：934.559\n\n白银：984.54 https://t.co/hx0HZrrLum"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2023319481683177681",
+        "created_at": "2026-02-16T08:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:25:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023312790887473189",
+          "2023319481683177681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2021829124063736197",
+              "start": 136,
+              "url": "https://t.co/l9Zm5i06fw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023319481683177681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有一个最简单，但也是最有效的长线投资策略：\n\n选择一个价值归0风险最低，且长期一定会上涨到新高的投资标的物，该投资标的物必须有实际价值或坚固共识做支撑，不能是一个纯粹的投机品（这是大前提）\n\n例如：黄金、白银、比特币、以太坊、苹果/英伟达股票等……假定我们现在要投资黄金\n\n投入金额：确保这是一笔三年内都不会紧急动用的钱，假定这笔金额的总仓位是2万元人民币。\n\n初始建仓：先从定投开始，一直定投到总仓位的50％\n\n例如：我们的总仓位是2万元人民币，我们决定投资黄金，于是每天定投100元，坚持定投100天，一直定投到黄金仓位为1万元为止。\n\n其后：我们再动用剩下的现金，在当前黄金价位的110％处挂一个卖出1000元黄金仓位的卖单，并且在当前黄金价位的90％价位处挂一个买入1000元黄金仓位的买单。\n\n如果买单或者卖单触发，则按照这个原则重新挂单，循环往复。\n\n如果要加仓：继续执行定投策略。直到仓位价值加到目标仓位为止。\n\n如果要减仓：撤销下方买单，保留卖单。如果价格下跌10％，则将卖单下移。一直持续到仓位减少到目标仓位为止。\n\n不需要看k线图，不需要看世界局势，不需要看时事新闻，不需要盯盘，机械性执行以上交易纪律，甚至可以写在代码里面让电脑和机器自动跑。\n\n在长达数十年的尺度下，你的投资收益会跑赢金融市场95％以上的投资者\n\nPS：以上策略并不适合贷款后投资，贷款投资会存在额外风险，所有投资都需要避免“穿仓”的情况发生，“穿仓”导致的投资逻辑被迫变形（比如在投资品价格下跌的过程当中被迫卖出投资品从而还债）会导致大幅度影响投资的「期望数学投资收益」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 17953,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829124063736197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一个最简单，但也是最有效的长线投资策略：\n\n选择一个价值归0风险最低，且长期一定会上涨到新高的投资标的物，该投资标的物必须有实际价值或坚固共识做支撑，不能是一个纯粹的投机品（这是大前提）\n\n例如：黄金、白银、比特币、以太坊、苹果/英伟达股票等……假定我们现在要投资黄金 https://t.co/l9Zm5i06fw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41800,
+          "following_count": 3871,
+          "like_count": 1792,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 3001
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

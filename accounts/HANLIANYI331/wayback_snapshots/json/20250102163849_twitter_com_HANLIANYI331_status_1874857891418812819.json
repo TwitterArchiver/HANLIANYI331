@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1874857891418812819",
+    "created_at": "2025-01-02T16:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T17:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1874857891418812819"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1874857891418812819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "庇护所最大的成本就是来自于房租成本，否则庇护所如果开在北上广深，庇护所在管理中遇到的几乎所有问题都能在一线城市的资源聚集效应下大幅度改善。\n\n几乎所有的“不是钱的问题”都是钱不够到位引发的。\n\n如今在有了性价比更高的选择的情况下，需要再一次考虑为房租问题做出妥协：\n\n成都一位跨性别女性愿意将原生家庭的一个宅基地房屋免租金提供给庇护所长期使用。大约可以居住50人，刚好可以容纳武汉庇护所现在的总人数。该宅基地位于成都的远郊区。\n\n尽管将庇护所迁往成都有大量弊端，且我的大部分社交关系都在武汉。但是仅此一项「可以免费使用的房屋和土地」。就足以让我考虑将武汉庇护所整体逐步迁往成都。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "庇护所最大的成本就是来自于房租成本，否则庇护所如果开在北上广深，庇护所在管理中遇到的几乎所有问题都能在一线城市的资源聚集效应下大幅度改善。\n\n几乎所有的“不是钱的问题”都是钱不够到位引发的。\n\n如今在有了性价比更高的选择的情况下，需要再一次考虑为房租问题做出妥协：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1874857891418812819",
+        "created_at": "2025-01-02T16:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T17:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874857891418812819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874857891418812819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "庇护所最大的成本就是来自于房租成本，否则庇护所如果开在北上广深，庇护所在管理中遇到的几乎所有问题都能在一线城市的资源聚集效应下大幅度改善。\n\n几乎所有的“不是钱的问题”都是钱不够到位引发的。\n\n如今在有了性价比更高的选择的情况下，需要再一次考虑为房租问题做出妥协：\n\n成都一位跨性别女性愿意将原生家庭的一个宅基地房屋免租金提供给庇护所长期使用。大约可以居住50人，刚好可以容纳武汉庇护所现在的总人数。该宅基地位于成都的远郊区。\n\n尽管将庇护所迁往成都有大量弊端，且我的大部分社交关系都在武汉。但是仅此一项「可以免费使用的房屋和土地」。就足以让我考虑将武汉庇护所整体逐步迁往成都。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "庇护所最大的成本就是来自于房租成本，否则庇护所如果开在北上广深，庇护所在管理中遇到的几乎所有问题都能在一线城市的资源聚集效应下大幅度改善。\n\n几乎所有的“不是钱的问题”都是钱不够到位引发的。\n\n如今在有了性价比更高的选择的情况下，需要再一次考虑为房租问题做出妥协：…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1809660678439063736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34478,
+          "following_count": 3420,
+          "like_count": 302,
+          "listed_count": 62,
+          "media_count": 265,
+          "tweet_count": 1998
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

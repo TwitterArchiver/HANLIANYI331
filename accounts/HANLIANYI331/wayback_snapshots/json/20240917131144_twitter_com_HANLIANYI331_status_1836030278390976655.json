@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1836030278390976655",
+    "created_at": "2024-09-17T13:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T14:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836030278390976655"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1834244568067571980",
+          "start": 75,
+          "url": "https://t.co/cMGMXfElOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836030278390976655",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834244568067571980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我手上每个月数万元的流水，有时个人开销一个月甚至不超过一千元。几乎每天都在焦虑经济开支和流水。市场出现花呗白条负债上万元又身无分文山穷水尽的地步。… https://t.co/cMGMXfElOX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1836030278390976655",
+        "created_at": "2024-09-17T13:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T14:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836030278390976655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1834244568067571980",
+              "start": 75,
+              "url": "https://t.co/cMGMXfElOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836030278390976655",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834244568067571980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我手上每个月数万元的流水，有时个人开销一个月甚至不超过一千元。几乎每天都在焦虑经济开支和流水。市场出现花呗白条负债上万元又身无分文山穷水尽的地步。… https://t.co/cMGMXfElOX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1834244568067571980",
+        "created_at": "2024-09-12T14:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T15:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834244568067571980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834244568067571980",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 18077,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新租不到一周的房子，房东上门探视，恰巧我和房屋管理者都不在。导致房东和房屋居住者直接产生交流。于是房东以及房东家人因为“房屋居住人存在抑郁情况”试图毁约退租。\n\n虽然和往常惯例一样，我仍然会坚持赔偿违约金才会搬走的原则。但是每一次发生这样的事情都是对时间精力的巨大消耗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 77,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 54,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1715942183382180330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31996,
+          "following_count": 3435,
+          "like_count": 258,
+          "listed_count": 57,
+          "tweet_count": 1808
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

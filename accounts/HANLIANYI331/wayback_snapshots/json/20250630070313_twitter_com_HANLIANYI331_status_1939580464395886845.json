@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1939579626705359059",
+    "created_at": "2025-06-30T07:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T08:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939580464395886845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "988398674479894533",
+          "start": 0,
+          "username": "Maekawa_kasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939580464395886845",
+    "in_reply_to_user_id": "988398674479894533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939579626705359059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maekawa_kasumi 滘口有广州庇护所，你可以联系魔骨问询"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1939579626705359059",
+        "created_at": "2025-06-30T07:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T08:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939580464395886845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "988398674479894533",
+              "start": 0,
+              "username": "Maekawa_kasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939580464395886845",
+        "in_reply_to_user_id": "988398674479894533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939579626705359059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maekawa_kasumi 滘口有广州庇护所，你可以联系魔骨问询"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "988398674479894533",
+        "conversation_id": "1939579626705359059",
+        "created_at": "2025-06-30T06:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939579626705359059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939579626705359059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州你们谁有房子租给我啊😭怎么这么贵啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38397,
+          "following_count": 3635,
+          "like_count": 805,
+          "listed_count": 65,
+          "media_count": 332,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-23T12:46:22.000Z",
+        "description": "应该是mtx/喜欢女孩子/河北or福建/想要和美少女贴贴/拒绝直男拒绝直男拒绝直男/减重ing",
+        "id": "988398674479894533",
+        "location": "Kakamigahara-shi, Gifu",
+        "name": "前川香澄🏳️‍⚧️",
+        "pinned_tweet_id": "1719332092985987441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322234226482163712/V_vV9Hzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4126,
+          "following_count": 1510,
+          "like_count": 11819,
+          "listed_count": 27,
+          "media_count": 487,
+          "tweet_count": 7428
+        },
+        "username": "Maekawa_kasumi",
+        "verified": false
+      }
+    ]
+  }
+}

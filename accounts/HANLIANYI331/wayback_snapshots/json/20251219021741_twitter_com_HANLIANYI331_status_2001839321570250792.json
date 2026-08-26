@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2001839321570250792",
+    "created_at": "2025-12-19T02:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T03:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001839321570250792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lianyiganyu/st…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/lianyiganyu/status/1742027516301467692",
+          "start": 140,
+          "url": "https://t.co/CG3FBfjV7m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001839321570250792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "庇护所开设的最早的初衷，是为了解决「导致自杀的现实原因」。\n\n而在「导致自杀的现实原因」里面，有相当一部分人群的首要原因就是原生家庭。\n\n庇护所则在当事人暂时没有条件在外租房的情况下，提供了和原生家庭分隔的缓冲。\n\n有的人能在这个缓冲下，和原生家庭随着时间和解，而不是激化矛盾。\n\n也有的人能在这个缓冲下，获得独立生存的能力，最终自己离开原生家庭，独自租房，工作，生活。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1742027516301467692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "庇护所开设的最早的初衷，是为了解决「导致自杀的现实原因」。\n\n而在「导致自杀的现实原因」里面，有相当一部分人群的首要原因就是原生家庭。\n\n庇护所则在当事人暂时没有条件在外租房的情况下，提供了和原生家庭分隔的缓冲。\n\n有的人能在这个缓冲下，和原生家庭随着时间和解，而不是激化矛盾。 https://t.co/CG3FBfjV7m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2001839321570250792",
+        "created_at": "2025-12-19T02:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T03:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001839321570250792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lianyiganyu/st…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/lianyiganyu/status/1742027516301467692",
+              "start": 140,
+              "url": "https://t.co/CG3FBfjV7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001839321570250792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "庇护所开设的最早的初衷，是为了解决「导致自杀的现实原因」。\n\n而在「导致自杀的现实原因」里面，有相当一部分人群的首要原因就是原生家庭。\n\n庇护所则在当事人暂时没有条件在外租房的情况下，提供了和原生家庭分隔的缓冲。\n\n有的人能在这个缓冲下，和原生家庭随着时间和解，而不是激化矛盾。\n\n也有的人能在这个缓冲下，获得独立生存的能力，最终自己离开原生家庭，独自租房，工作，生活。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1742027516301467692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "庇护所开设的最早的初衷，是为了解决「导致自杀的现实原因」。\n\n而在「导致自杀的现实原因」里面，有相当一部分人群的首要原因就是原生家庭。\n\n庇护所则在当事人暂时没有条件在外租房的情况下，提供了和原生家庭分隔的缓冲。\n\n有的人能在这个缓冲下，和原生家庭随着时间和解，而不是激化矛盾。 https://t.co/CG3FBfjV7m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585145286598483968",
+        "conversation_id": "1742027516301467692",
+        "created_at": "2024-01-02T03:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-02T04:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1742027516301467692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1588296700543741952",
+              "start": 14,
+              "username": "Jennife80677612"
+            },
+            {
+              "end": 63,
+              "id": "801134110932606976",
+              "start": 48,
+              "username": "jennifer050601"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lianyiganyu/st…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/lianyiganyu/status/1741651962964435094",
+              "start": 152,
+              "url": "https://t.co/6ZMllxR1bD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1742027516301467692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 30,
+                "id": "1588296700543741952",
+                "start": 14,
+                "username": "Jennife80677612"
+              },
+              {
+                "end": 63,
+                "id": "801134110932606976",
+                "start": 48,
+                "username": "Jennifer050601"
+              }
+            ]
+          },
+          "text": "其他信息\n珍妮 X 账号： @Jennife80677612 \n珍妮 telegram 账号： @Jennifer050601 \n常住地：河北张家口\n出生年月日：2005年6月1日\n当事人地址，姓名，电话，微信，QQ，学校，家庭等个人信息均不详\n于2024年1月1日12时报警，但因信息不足，警方未受理\n\n珍妮于11月1日发布的照片最终推算出来的位置在天津市和平区河沿道4号楼\n\n珍妮的收件地址为另一位mtf代收，其线下交接物品的地址是张家口南站\n\n珍妮的生存困境救助难度在我们的干预案例中为「较低」，即只要保证珍妮存活，可以以较低成本帮助其脱离原生家庭和现实困境并实现当事人经济上的自给自足\n\n如果谁有更多信息，请联系我们"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 28570,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1741651962964435094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其他信息\n珍妮 X 账号： @Jennife80677612 \n珍妮 telegram 账号： @Jennifer050601 \n常住地：河北张家口\n出生年月日：2005年6月1日\n当事人地址，姓名，电话，微信，QQ，学校，家庭等个人信息均不详\n于2024年1月1日12时报警，但因信息不足，警方未受理 https://t.co/6ZMllxR1bD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40407,
+          "following_count": 3668,
+          "like_count": 1323,
+          "listed_count": 68,
+          "media_count": 378,
+          "tweet_count": 2677
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-26T05:44:48.000Z",
+        "description": "本号为多人操作账号｜自杀报警求助、救助合作、提供资源（如工作岗位、住处)，申请成为危机干预志愿者（需要相关专业或经历，若无，可先看《助人技术》等书籍），可直接私信本号，或私信小组telegram账号https://t.co/qgwRSeN56m｜小组telegram频道https://t.co/BKQPZ0tsSi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lianyiganyu",
+                "end": 122,
+                "expanded_url": "http://t.me/lianyiganyu",
+                "start": 99,
+                "url": "https://t.co/qgwRSeN56m"
+              },
+              {
+                "display_url": "t.me/lianyixiaozu",
+                "end": 158,
+                "expanded_url": "https://t.me/lianyixiaozu",
+                "start": 135,
+                "url": "https://t.co/BKQPZ0tsSi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/12543045359?…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/12543045359?utm_psn=1855828674772881408",
+                "start": 0,
+                "url": "https://t.co/zkUVQf7Yqi"
+              }
+            ]
+          }
+        },
+        "id": "1585145286598483968",
+        "location": "武汉",
+        "name": "涟漪危机干预小组",
+        "pinned_tweet_id": "1883892557207470495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732688890908307456/9XC7jh08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3513,
+          "following_count": 5,
+          "like_count": 20,
+          "listed_count": 7,
+          "media_count": 34,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/zkUVQf7Yqi",
+        "username": "lianyiganyu",
+        "verified": false
+      }
+    ]
+  }
+}

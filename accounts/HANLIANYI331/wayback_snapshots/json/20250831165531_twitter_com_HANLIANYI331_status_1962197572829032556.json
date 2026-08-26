@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962197555334590464",
+        "3_1962197556123025408"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "1962197572829032556",
+    "created_at": "2025-08-31T16:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962197572829032556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rji57S6z5Q",
+          "end": 166,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1962197572829032556/photo/1",
+          "media_key": "3_1962197555334590464",
+          "start": 143,
+          "url": "https://t.co/Rji57S6z5Q"
+        },
+        {
+          "display_url": "pic.x.com/Rji57S6z5Q",
+          "end": 166,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1962197572829032556/photo/1",
+          "media_key": "3_1962197556123025408",
+          "start": 143,
+          "url": "https://t.co/Rji57S6z5Q"
+        },
+        {
+          "display_url": "x.com/a823149315/sta…",
+          "end": 190,
+          "expanded_url": "https://twitter.com/a823149315/status/1961963081225138323",
+          "start": 167,
+          "url": "https://t.co/RCuUUrz1o6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962197572829032556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961963081225138323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "过去十几年的救助经历告诉我，只要是真的在做事，就一定会被攻讦。过去十多年来，无数个助人者，无数个公益组织，最终都要么黯然退出，要么在“雕刻花瓶”，陷入免责怪圈\n事不关己最轻松，无论多少人死，都不会有责任，如果不是真在帮人解决问题，而是“雕刻花瓶”，无数对我恶意攻讦，从一开始都不会发生 https://t.co/Rji57S6z5Q https://t.co/RCuUUrz1o6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962197555334590464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsgR8jbsAAY9-U.jpg",
+        "width": 716
+      },
+      {
+        "height": 2164,
+        "media_key": "3_1962197556123025408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsgR_faQAAYice.jpg",
+        "width": 591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962197555334590464",
+            "3_1962197556123025408"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1962197572829032556",
+        "created_at": "2025-08-31T16:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962197572829032556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rji57S6z5Q",
+              "end": 166,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962197572829032556/photo/1",
+              "media_key": "3_1962197555334590464",
+              "start": 143,
+              "url": "https://t.co/Rji57S6z5Q"
+            },
+            {
+              "display_url": "pic.x.com/Rji57S6z5Q",
+              "end": 166,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1962197572829032556/photo/1",
+              "media_key": "3_1962197556123025408",
+              "start": 143,
+              "url": "https://t.co/Rji57S6z5Q"
+            },
+            {
+              "display_url": "x.com/a823149315/sta…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/a823149315/status/1961963081225138323",
+              "start": 167,
+              "url": "https://t.co/RCuUUrz1o6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962197572829032556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961963081225138323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "过去十几年的救助经历告诉我，只要是真的在做事，就一定会被攻讦。过去十多年来，无数个助人者，无数个公益组织，最终都要么黯然退出，要么在“雕刻花瓶”，陷入免责怪圈\n事不关己最轻松，无论多少人死，都不会有责任，如果不是真在帮人解决问题，而是“雕刻花瓶”，无数对我恶意攻讦，从一开始都不会发生 https://t.co/Rji57S6z5Q https://t.co/RCuUUrz1o6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "conversation_id": "1961963081225138323",
+        "created_at": "2025-08-31T01:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T02:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961963081225138323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961963081225138323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3059,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上课有感\n很多时候我给别人的回复是为了免责而不是为了解决问题，比如问要不要吃糖，抑郁，焦虑怎么治疗，我给的建议都是先去三甲医院就诊。用处很小，但我一定不被晶哥找上，也不会因此被当事人及家长指摘，当事人od了割手了自杀了怪不到我头上\n关于只为解决问题不顾免责是啥样，参考寒涟漪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38917,
+          "following_count": 3628,
+          "like_count": 837,
+          "listed_count": 70,
+          "media_count": 342,
+          "tweet_count": 2502
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/13年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（校园悬疑推理小说《西土城中学疑案》完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1954027792611549679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954909918613721088/UDNsEOYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36172,
+          "following_count": 163,
+          "like_count": 2424,
+          "listed_count": 95,
+          "media_count": 1792,
+          "tweet_count": 10083
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

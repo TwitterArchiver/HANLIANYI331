@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1889469934218125513",
+    "created_at": "2025-02-12T00:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T01:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889469934218125513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 25,
+          "id": "961552358906802176",
+          "start": 18,
+          "username": "dfdtc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889469934218125513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888596141861933447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: @dfdtc7 书语思函2022年年初刚认识我的时候，她家里人就已经在准备给她办丧事了。当时如果思函不认识我，应该不到半个月的时间就会死在家里了。\n\n后来我打电话给在当地的公安，社区，医院，信访，政府，在各种社会压力下，思函才顺利在我的帮助下…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1889469934218125513",
+        "created_at": "2025-02-12T00:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T01:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889469934218125513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 25,
+              "id": "961552358906802176",
+              "start": 18,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889469934218125513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888596141861933447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: @dfdtc7 书语思函2022年年初刚认识我的时候，她家里人就已经在准备给她办丧事了。当时如果思函不认识我，应该不到半个月的时间就会死在家里了。\n\n后来我打电话给在当地的公安，社区，医院，信访，政府，在各种社会压力下，思函才顺利在我的帮助下…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1888513001025949896",
+        "created_at": "2025-02-09T14:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888596141861933447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888596141861933447",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "书语思函2022年年初刚认识我的时候，她家里人就已经在准备给她办丧事了。当时如果思函不认识我，应该不到半个月的时间就会死在家里了。\n\n后来我打电话给在当地的公安，社区，医院，信访，政府，在各种社会压力下，思函才顺利在我的帮助下挣脱家里人的反对去台山市医院输血。\n\n当时台山医院只是一个二甲医院，刚测完思函的情况，发现血红蛋白指数只有二十多，第一时间以为机器坏了，确认机器没坏以后。护士们慌慌张张的把思函以最快的速度送进了重症监护室，开始输血。\n\n后来就是募捐，募输血，去江门市医院复诊的过程。最终直到一年后的2023年初才在武汉认识你。\n\n2022年初的时候，思函几乎一辈子没离开过台山，但是2022年到2023年，思函因为认识我，游历了全国范围内的很多城市。2023年到2025年，思函更是和你体验了两年多的爱情时光。\n\n往坏处想，我们仍然没能挽回思函。往好处想，思函因为认识我和你，多有了三年生命。多有了三年的青春和精彩。而这是思函2022年以前从来没经历过的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 13953,
+          "like_count": 240,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888513001025949896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 书语思函2022年年初刚认识我的时候，她家里人就已经在准备给她办丧事了。当时如果思函不认识我，应该不到半个月的时间就会死在家里了。\n\n后来我打电话给在当地的公安，社区，医院，信访，政府，在各种社会压力下，思函才顺利在我的帮助下挣脱家里人的反对去台山市医院输血。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35643,
+          "following_count": 3568,
+          "like_count": 488,
+          "listed_count": 59,
+          "media_count": 296,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "大头菜有最爱的人，但她已经不在了...",
+        "id": "961552358906802176",
+        "name": "dfdtc",
+        "pinned_tweet_id": "1887062065833263133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887309919705325568/vm8zJROc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3550,
+          "following_count": 1741,
+          "like_count": 50113,
+          "listed_count": 9,
+          "media_count": 2240,
+          "tweet_count": 16446
+        },
+        "username": "dfdtc7",
+        "verified": false
+      }
+    ]
+  }
+}

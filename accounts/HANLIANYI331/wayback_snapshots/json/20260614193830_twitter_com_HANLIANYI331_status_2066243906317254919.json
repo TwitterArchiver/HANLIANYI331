@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2065323198053335481",
+    "created_at": "2026-06-14T19:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066243906317254919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517437669449547776",
+          "start": 0,
+          "username": "YumiChow916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066243906317254919",
+    "in_reply_to_user_id": "1517437669449547776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "正式制度（心理卫生、社工、最低生活保障、社会救助）在很多场景下覆盖不足或响应迟缓，民间互助本该是重要补丁。但当补丁者被持续道德高危化后，补丁就越来越少，最终最脆弱的那批人（孤立、无资源、精神危机）承受最大代价。他们既得不到制度托底，也越来越难遇到愿意伸手、不求回报的普通人。这是社会信任与合作衰退的恶性循环。当“做好事”的惩罚概率远高于“做坏事（但合法）”时， prosocial behavior（亲社会行为）会显著下降。结果是原子化加剧，大家都“事不关己”，然后集体抱怨“社会冷漠”。\n沒有人天生欠社會一條「救济通道」。道德义务不是天然的、你不是耶稣，我不是圣母，任何一個普通人都不欠底层一个「必須去擦屁股」的义务。社会运动者、互助者也沒有所謂的「道德高地」或先天使命。他們的行动，本质上只是个人意愿的延伸——有人看不下去就出手，有人选择事不关己高高挂起，\n\n但是！\n\n当我们看见有人愿意出手时，為了讓這樣的人更多，我們就不該用倫理放大鏡去過度苛責。这是反對不對稱的懲罰機制的必要行为：不作為：幾乎零成本、零審視（「關我屁事」是社會默認的理性選擇）。\n有作為但不完美：動機被挖、過程被放大、結果一有瑕疵就全盤否定，甚至被貼「害人」「偽善」標籤。\n\n這種機制實際上是在系統性懲罰親社會行為。長期下來，理性人會大量退出，只剩下兩類：完全不碰的明哲保身者和骗子。\n結果就是：底層救濟通道更真空，互助文化更稀薄，需要幫助的人反而更孤立。壞的規則，選出壞的均衡。\n更現實的態度個人層面：出手幫人是可選的奢侈品，不是義務。幫得起就幫，幫不動就別硬上，事後也別被道德綁架自責「我怎麼沒做到完美」。\n我們應該建立更寬鬆的善意容錯空間。「動機善意 + 無重大過失」的情況下，給予推定保護和正面回饋。這樣才能讓更多普通人敢於小步出手，而不是人人自危。\n制度真空在那裡，短期內指望不了。那就別一邊享受這個真空帶來的「自由」（我可以不幫），一邊又用最高標準審判那些試圖補丁的人。這才是真正的雙標。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066240862229537065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumiChow916 正式制度（心理卫生、社工、最低生活保障、社会救助）在很多场景下覆盖不足或响应迟缓，民间互助本该是重要补丁。但当补丁者被持续道德高危化后，补丁就越来越少，最终最脆弱的那批人（孤立、无资源、精神危机）承受最大代价。他们既得不到制度托底，也越来越难遇到愿意伸手、不求回报的普通人。这是社"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T19:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066243906317254919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066243906317254919",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "正式制度（心理卫生、社工、最低生活保障、社会救助）在很多场景下覆盖不足或响应迟缓，民间互助本该是重要补丁。但当补丁者被持续道德高危化后，补丁就越来越少，最终最脆弱的那批人（孤立、无资源、精神危机）承受最大代价。他们既得不到制度托底，也越来越难遇到愿意伸手、不求回报的普通人。这是社会信任与合作衰退的恶性循环。当“做好事”的惩罚概率远高于“做坏事（但合法）”时， prosocial behavior（亲社会行为）会显著下降。结果是原子化加剧，大家都“事不关己”，然后集体抱怨“社会冷漠”。\n沒有人天生欠社會一條「救济通道」。道德义务不是天然的、你不是耶稣，我不是圣母，任何一個普通人都不欠底层一个「必須去擦屁股」的义务。社会运动者、互助者也沒有所謂的「道德高地」或先天使命。他們的行动，本质上只是个人意愿的延伸——有人看不下去就出手，有人选择事不关己高高挂起，\n\n但是！\n\n当我们看见有人愿意出手时，為了讓這樣的人更多，我們就不該用倫理放大鏡去過度苛責。这是反對不對稱的懲罰機制的必要行为：不作為：幾乎零成本、零審視（「關我屁事」是社會默認的理性選擇）。\n有作為但不完美：動機被挖、過程被放大、結果一有瑕疵就全盤否定，甚至被貼「害人」「偽善」標籤。\n\n這種機制實際上是在系統性懲罰親社會行為。長期下來，理性人會大量退出，只剩下兩類：完全不碰的明哲保身者和骗子。\n結果就是：底層救濟通道更真空，互助文化更稀薄，需要幫助的人反而更孤立。壞的規則，選出壞的均衡。\n更現實的態度個人層面：出手幫人是可選的奢侈品，不是義務。幫得起就幫，幫不動就別硬上，事後也別被道德綁架自責「我怎麼沒做到完美」。\n我們應該建立更寬鬆的善意容錯空間。「動機善意 + 無重大過失」的情況下，給予推定保護和正面回饋。這樣才能讓更多普通人敢於小步出手，而不是人人自危。\n制度真空在那裡，短期內指望不了。那就別一邊享受這個真空帶來的「自由」（我可以不幫），一邊又用最高標準審判那些試圖補丁的人。這才是真正的雙標。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066240862229537065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 正式制度（心理卫生、社工、最低生活保障、社会救助）在很多场景下覆盖不足或响应迟缓，民间互助本该是重要补丁。但当补丁者被持续道德高危化后，补丁就越来越少，最终最脆弱的那批人（孤立、无资源、精神危机）承受最大代价。他们既得不到制度托底，也越来越难遇到愿意伸手、不求回报的普通人。这是社"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517437669449547776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T19:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066240862229537065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7d2673c3623fe492"
+        },
+        "id": "2066240862229537065",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066238805422784929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 說難聽點，底層人徹底失去救濟通道這個事實就擺在那裡，關妳啥事？妳去改變它的動機不還是個人主觀意願嗎？不還是妳覺得這種現狀該被改變嗎？就算是擦屁股，妳也不是天生就有道義責任去擦屁股，妳不是耶穌，不需要替任何人受難。社會運動者不具有天然的道德高地，也不對社會現狀負有任何必須的道義責任"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41745,
+          "following_count": 3807,
+          "like_count": 1753,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2970
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Markham, Ontario",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 313,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3915
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

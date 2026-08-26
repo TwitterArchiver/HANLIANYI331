@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2078411571693556088",
+    "created_at": "2026-07-18T09:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078411571693556088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "873489613934927872",
+          "start": 3,
+          "username": "taro_puree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078411571693556088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077544825780584608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taro_puree: 已经遭遇诈骗的人请保留所有聊天转账记录联系我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2078411571693556088",
+        "created_at": "2026-07-18T09:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078411571693556088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "873489613934927872",
+              "start": 3,
+              "username": "taro_puree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078411571693556088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077544825780584608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taro_puree: 已经遭遇诈骗的人请保留所有聊天转账记录联系我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "873489613934927872",
+        "conversation_id": "2077544825780584608",
+        "created_at": "2026-07-16T00:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077544825780584608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taro_puree/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/taro_puree/status/2077072083507413212",
+              "start": 24,
+              "url": "https://t.co/FfXKL0wQSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077544825780584608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077072083507413212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经遭遇诈骗的人请保留所有聊天转账记录联系我！ https://t.co/FfXKL0wQSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41985,
+          "following_count": 3949,
+          "like_count": 1916,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 3086
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/autoandrophilia/深柜潜在家暴党/专业自我扭转10余年成为精神跨男/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1947368625045967299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 298,
+          "like_count": 25215,
+          "listed_count": 1,
+          "media_count": 369,
+          "tweet_count": 4032
+        },
+        "url": "",
+        "username": "taro_puree",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1899069158769508448",
+    "created_at": "2025-03-10T12:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T13:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899069158769508448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 137,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1815849069383954672",
+          "start": 114,
+          "url": "https://t.co/XTZacfgZ1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899069158769508448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "即使我未来有一天会淡出救助，但也仍然会对一部分人群保持救助，保持有求必应，尤其是在该人群困难的时候。\n\n这个人群就是：在过去的几十年来，尤其是对我，涟漪危机干预小组，跨性别社群，乃至整个社会进行过帮助，也同样救助过别人的人。\n\n为众人抱薪者，不可冻毙于风雪。至少我会在我的能力范围以内，不惜一切代价，达成“好人有好报”这样最朴素的共愿"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815849069383954672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "即使我未来有一天会淡出救助，但也仍然会对一部分人群保持救助，保持有求必应，尤其是在该人群困难的时候。\n\n这个人群就是：在过去的几十年来，尤其是对我，涟漪危机干预小组，跨性别社群，乃至整个社会进行过帮助，也同样救助过别人的人。… https://t.co/XTZacfgZ1O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1899069158769508448",
+        "created_at": "2025-03-10T12:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T13:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899069158769508448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1815849069383954672",
+              "start": 114,
+              "url": "https://t.co/XTZacfgZ1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899069158769508448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "即使我未来有一天会淡出救助，但也仍然会对一部分人群保持救助，保持有求必应，尤其是在该人群困难的时候。\n\n这个人群就是：在过去的几十年来，尤其是对我，涟漪危机干预小组，跨性别社群，乃至整个社会进行过帮助，也同样救助过别人的人。\n\n为众人抱薪者，不可冻毙于风雪。至少我会在我的能力范围以内，不惜一切代价，达成“好人有好报”这样最朴素的共愿"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815849069383954672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "即使我未来有一天会淡出救助，但也仍然会对一部分人群保持救助，保持有求必应，尤其是在该人群困难的时候。\n\n这个人群就是：在过去的几十年来，尤其是对我，涟漪危机干预小组，跨性别社群，乃至整个社会进行过帮助，也同样救助过别人的人。… https://t.co/XTZacfgZ1O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1815849069383954672",
+        "created_at": "2024-07-23T20:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T21:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815849069383954672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1739654642097913900",
+              "start": 139,
+              "url": "https://t.co/hC9FWrLZvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815849069383954672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "东郭先生与狼、农夫与蛇、郝建与老太太的故事，每天都在上演。\n\n虽然你好心救我，但我还是要在背后给你一刀。\n\n为什么正义的声音越来越少，为什么敢于做事的人越来越少，为什么世道变得越来越坏，社会风气变得越来越糟糕。\n\n不是贪官奸商太可恨，不是不法分子太猖獗，不是坏人奸人太凶恶。\n\n杀死卫道者和正义者的，不只是这些黑恶势力，还有被卫道者和正义者所维护的某些“可怜人”，他们在背后，杀死了在前方和恶势力厮杀的卫道者。\n\n“他们偷了一袋银子，在阴暗的角落里窃喜，却不知那一袋银子，是他们用灵魂跟魔鬼，做的交易”。\n\n“我们点燃了一束火炬，在黑夜里照亮了前方的道路，以为可以唤醒更多沉睡的人，一齐高举火炬，驱散阴霾，却不知点燃火炬的那一瞬间暴露了自己的位置，被背后射来的冷箭，封喉致命”。\n\n终有一天，我会陈述一出最悲的悲剧，来见证世人最无耻的高尚。\n\n没什么大不了，卫道者一个接着一个的都死绝了，宵小之徒的子孙后代，就能跟着蛇虫鼠蚁、妖魔鬼怪、魑魅魍魉、贪官奸商的后面摇着尾巴混口饭吃了。\n\n我们也许可以帮一百个人，一千个人，一万个人。也许最终这一万人里面有九千人可以脱离困苦，过上生存无忧，事不关己，高高挂起的生活。也许又有九百人在得到帮助后，选择再一次的燃烧自己，为更多濒死的人照亮。然后再一次和她们的前辈们一起死在了她们本可以选择不来的路上。但只要有一个人，就可以用帮助者帮助他得来的资源换来的刀，杀死帮助他的人。帮助者死后，就再也不会有第一万零一个人，有机会得到她的帮助了。\n\n让高尚的人干净的死去，让卑劣的人龌龊的活着。\n\n喂马劈柴，混吃等死，变卖灵魂，苟且偷生，众生颓靡。\n\n这结局，如你所愿吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 27855,
+          "like_count": 154,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1739654642097913900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "东郭先生与狼、农夫与蛇、郝建与老太太的故事，每天都在上演。\n\n虽然你好心救我，但我还是要在背后给你一刀。\n\n为什么正义的声音越来越少，为什么敢于做事的人越来越少，为什么世道变得越来越坏，社会风气变得越来越糟糕。\n\n不是贪官奸商太可恨，不是不法分子太猖獗，不是坏人奸人太凶恶。… https://t.co/hC9FWrLZvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询｜语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883897989900701855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36420,
+          "following_count": 3582,
+          "like_count": 584,
+          "listed_count": 59,
+          "media_count": 312,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

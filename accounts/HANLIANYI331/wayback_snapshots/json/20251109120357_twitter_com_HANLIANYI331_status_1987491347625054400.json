@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987491304247525376",
+        "3_1987491308357967872"
+      ],
+      "media_source_tweet_id": [
+        "1987491320563470717",
+        "1987491320563470717"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "1987491347625054400",
+    "created_at": "2025-11-09T12:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T13:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987491347625054400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 29,
+          "id": "1580893568675106817",
+          "start": 18,
+          "username": "reveriennn"
+        },
+        {
+          "end": 45,
+          "id": "1523552276119711745",
+          "start": 30,
+          "username": "DeorctheOrigin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pG05pbnn0P",
+          "end": 136,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1987491320563470717/photo/1",
+          "media_key": "3_1987491304247525376",
+          "start": 113,
+          "url": "https://t.co/pG05pbnn0P"
+        },
+        {
+          "display_url": "pic.x.com/pG05pbnn0P",
+          "end": 136,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1987491320563470717/photo/1",
+          "media_key": "3_1987491308357967872",
+          "start": 113,
+          "url": "https://t.co/pG05pbnn0P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987491347625054400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987491320563470717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: @reveriennn @DeorctheOrigin 可以使用极低剂量的醋酸环丙孕酮（如每天6.25毫克或每天3.125毫克）来和雌二醇形成联动效应，以大量降低拮抗雄激素所需的雌二醇指标 https://t.co/pG05pbnn0P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1987491304247525376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5T8z5_aAAAiJ2_.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1987491308357967872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5T80JTaYAAm1v4.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987491304247525376",
+            "3_1987491308357967872"
+          ],
+          "media_source_tweet_id": [
+            "1987491320563470717",
+            "1987491320563470717"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1987491347625054400",
+        "created_at": "2025-11-09T12:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987491347625054400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 29,
+              "id": "1580893568675106817",
+              "start": 18,
+              "username": "reveriennn"
+            },
+            {
+              "end": 45,
+              "id": "1523552276119711745",
+              "start": 30,
+              "username": "DeorctheOrigin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pG05pbnn0P",
+              "end": 136,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1987491320563470717/photo/1",
+              "media_key": "3_1987491304247525376",
+              "start": 113,
+              "url": "https://t.co/pG05pbnn0P"
+            },
+            {
+              "display_url": "pic.x.com/pG05pbnn0P",
+              "end": 136,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1987491320563470717/photo/1",
+              "media_key": "3_1987491308357967872",
+              "start": 113,
+              "url": "https://t.co/pG05pbnn0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987491347625054400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987491320563470717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: @reveriennn @DeorctheOrigin 可以使用极低剂量的醋酸环丙孕酮（如每天6.25毫克或每天3.125毫克）来和雌二醇形成联动效应，以大量降低拮抗雄激素所需的雌二醇指标 https://t.co/pG05pbnn0P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987491304247525376",
+            "3_1987491308357967872"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1987434653599613243",
+        "created_at": "2025-11-09T12:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T13:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987491320563470717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580893568675106817",
+              "start": 0,
+              "username": "reveriennn"
+            },
+            {
+              "end": 27,
+              "id": "1523552276119711745",
+              "start": 12,
+              "username": "DeorctheOrigin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pG05pbnn0P",
+              "end": 118,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1987491320563470717/photo/1",
+              "media_key": "3_1987491304247525376",
+              "start": 95,
+              "url": "https://t.co/pG05pbnn0P"
+            },
+            {
+              "display_url": "pic.x.com/pG05pbnn0P",
+              "end": 118,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1987491320563470717/photo/1",
+              "media_key": "3_1987491308357967872",
+              "start": 95,
+              "url": "https://t.co/pG05pbnn0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987491320563470717",
+        "in_reply_to_user_id": "1580893568675106817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987490378178760872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reveriennn @DeorctheOrigin 可以使用极低剂量的醋酸环丙孕酮（如每天6.25毫克或每天3.125毫克）来和雌二醇形成联动效应，以大量降低拮抗雄激素所需的雌二醇指标 https://t.co/pG05pbnn0P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40130,
+          "following_count": 3676,
+          "like_count": 1287,
+          "listed_count": 69,
+          "media_count": 356,
+          "tweet_count": 2596
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-14T12:09:43.000Z",
+        "description": "这里什么也没有哦...",
+        "id": "1580893568675106817",
+        "name": "梦梦#心宿二",
+        "pinned_tweet_id": "1916116852817989637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581873239374319616/8uAOm084_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 1716,
+          "like_count": 22189,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 4615
+        },
+        "username": "reveriennn",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T06:35:57.000Z",
+        "description": "Dark Ambience & Nature's Lover. Medival & Victoria Gothicism. Cure Seeker. Empath/HSP but ASD. Median. She/Her. You are safe with me🏳️‍⚧️🏳️‍🌈.",
+        "id": "1523552276119711745",
+        "name": "{{the Original Star}}",
+        "pinned_tweet_id": "1914168147600687604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880614058904416256/rjD4Reyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 288,
+          "like_count": 62078,
+          "listed_count": 2,
+          "media_count": 611,
+          "tweet_count": 17980
+        },
+        "username": "DeorctheOrigin",
+        "verified": false
+      }
+    ]
+  }
+}

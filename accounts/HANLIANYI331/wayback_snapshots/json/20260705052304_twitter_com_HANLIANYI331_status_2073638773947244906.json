@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2073638773947244906",
+    "created_at": "2026-07-05T05:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073638773947244906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1568268459674574848",
+          "start": 3,
+          "username": "calsys456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073638773947244906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073470314961645950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @calsys456: 随着我本人的离职和我伴侣的工作变动，我们可能在一个月内搬离武汉。这也意味着我持续一年的线下成规模个案救助、家庭救助、避难所运营和管理即将结束。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2073638773947244906",
+        "created_at": "2026-07-05T05:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073638773947244906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1568268459674574848",
+              "start": 3,
+              "username": "calsys456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073638773947244906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073470314961645950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @calsys456: 随着我本人的离职和我伴侣的工作变动，我们可能在一个月内搬离武汉。这也意味着我持续一年的线下成规模个案救助、家庭救助、避难所运营和管理即将结束。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "conversation_id": "2073470314961645950",
+        "created_at": "2026-07-04T18:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T19:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073470314961645950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073470314961645950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "随着我本人的离职和我伴侣的工作变动，我们可能在一个月内搬离武汉。这也意味着我持续一年的线下成规模个案救助、家庭救助、避难所运营和管理即将结束。\n\n这一年来受我帮助而前来居住过的人并不算多，满打满算只有九位，其中过半是我线上干预的个案，剩下的几位来自寒涟漪及其她助人者的转介；绝大多数受助者在居住期间接受我的家庭干预、心理辅导、诊疗陪护、用药辅导、应急处置或精神疾病干预；除少部分有回馈意愿且有经济能力，或者对居住条件有要求的人以外，我未向其她任何受助者分摊租金，且所有住户的水电燃气费均由我承担。此外，我和所有受助者均建立了良好的关系。\n\n相比寒涟漪的经营模式，结合了个案工作的庇护是效果斐然的。有的受助者在这里学到了处事的经验，有的在这里找到了伴侣；绝大多数受助者经过休养和帮助，精神问题得到了相当程度的改善，最终有能力、并且业已离开避难所，前去面对自己应当争取的生活。\n\n然而代价也是显著的。过去一年里，我需要同时兼顾自己的工作、避难所的运营维护，以及针对每位受助者的个案工作。虽然凭借着充足的经验和专业知识，这些工作并不给我造成超额的精神压力，但是运营避难所所需的房租水电家具家电厨卫日化床品等支出，以及个案工作中垫付的各种费用，依旧能耗尽我每个月税后小七千的工资，以至于我不得不频繁借贷和请求寒涟漪的帮助。离职以后，这些工作更是完全无以为继。\n\n或许我在金钱的管理上还欠缺许多经验，但我自认为过去一年里没有做出过可以称之为错误的事情。唯一感觉花的不太值的一次是我买的一张大床。当时上一任租客留下来的床摇摇欲坠了，正好那个月工资宽裕，想着能安稳长久地住下去，就花一千买了张一米八的实木大床，又花一千买了最喜欢的乳胶床垫，十厘米厚，睡着很舒服。现在看来，既然我选择了这条路，有些东西可能注定是无法奢求的吧。\n\n尽管总有许多人诟病寒涟漪在避难所的运营上有种种问题，但我仍旧认为她的做法是非常好的，甚至是无法复制的。有所得必有所失，正是她的种种缺点给了她无惧风险、不气馁、保持精神稳定、保持善良的能力，而这些才是支撑避难所挺过困难时刻所必备的，也是社群中最稀缺的。至于那些缺点，我希望我们能去补足它，这也是我过去一年所努力的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1729,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "随着我本人的离职和我伴侣的工作变动，我们可能在一个月内搬离武汉。这也意味着我持续一年的线下成规模个案救助、家庭救助、避难所运营和管理即将结束。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41881,
+          "following_count": 3893,
+          "like_count": 1841,
+          "listed_count": 2,
+          "media_count": 401,
+          "tweet_count": 3037
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ADHD & BPD & C-PTSD & DID & MDD & Schizophrenia | Write in Lisp | Sister @Simone_Luxem @AsdQWD358224, Lover @HANLIANYI331 @wired_hero @Caroline_9870 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "wired_hero"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "calsys.org",
+                "end": 23,
+                "expanded_url": "https://calsys.org",
+                "start": 0,
+                "url": "https://t.co/MUWDEAOVp9"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Wuhan",
+        "name": "北雁月月「月历系统」🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010619340497043456/kc6DVAN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2371,
+          "following_count": 1127,
+          "like_count": 49592,
+          "listed_count": 8,
+          "media_count": 275,
+          "tweet_count": 5009
+        },
+        "url": "https://t.co/MUWDEAOVp9",
+        "username": "calsys456",
+        "verified": true
+      }
+    ]
+  }
+}

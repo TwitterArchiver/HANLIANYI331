@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1904275523284422860",
+    "created_at": "2025-03-24T23:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T00:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904319854242673004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1568268459674574848",
+          "start": 0,
+          "username": "apr_simone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904319854242673004",
+    "in_reply_to_user_id": "1568268459674574848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904275523284422860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apr_simone 之所以会出现“帮助同温层”效率更高的情况，更主要的问题是阶级会带来认知的差异。认知的差异就会带来“何不食肉糜”的问题。\n\n阶级更高的情况下死亡率一般会更低——这点在2019年之前尤为明显；年均生活成本在2万元以下的跨性别群体的死亡率能达到年均生活成本在12万元人民币以上的跨性别群体的近十倍。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1904275523284422860",
+        "created_at": "2025-03-24T23:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T00:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904319854242673004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1568268459674574848",
+              "start": 0,
+              "username": "apr_simone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904319854242673004",
+        "in_reply_to_user_id": "1568268459674574848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904275523284422860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apr_simone 之所以会出现“帮助同温层”效率更高的情况，更主要的问题是阶级会带来认知的差异。认知的差异就会带来“何不食肉糜”的问题。\n\n阶级更高的情况下死亡率一般会更低——这点在2019年之前尤为明显；年均生活成本在2万元以下的跨性别群体的死亡率能达到年均生活成本在12万元人民币以上的跨性别群体的近十倍。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1904275523284422860",
+        "created_at": "2025-03-24T20:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T21:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904275523284422860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chunier520/sta…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Chunier520/status/1904179546615873953",
+              "start": 146,
+              "url": "https://t.co/xCpJVtQAnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904275523284422860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这还真不算是矛盾。无论从物质层面还是精神层面，主要对象跨层级的救助往往都事倍功半+产生额外的麻烦，相信做过救助的都感觉到过。而无论穷人/富人、精神病/健康人，ASD/NT等对立的群体，双方都同样会面对焦虑、疾病、死亡的威胁，所以“着重帮助同温层”确实是最优解。跨层级的援助是必须的，例如我去给没生过很多病的小药娘科普&处理分离障碍、精神分裂症的苗头，或者NT人去阿斯堆里教授必要的社交技巧；但它尽量不要是主要的，否则容易造成资源的浪费"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904179546615873953",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这还真不算是矛盾。无论从物质层面还是精神层面，主要对象跨层级的救助往往都事倍功半+产生额外的麻烦，相信做过救助的都感觉到过。而无论穷人/富人、精神病/健康人，ASD/NT等对立的群体，双方都同样会面对焦虑、疾病、死亡的威胁，所以“着重帮助同温层”确实是最优解。跨层级的援助是必须的，例如我去 https://t.co/xCpJVtQAnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883897989900701855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36916,
+          "following_count": 3587,
+          "like_count": 644,
+          "listed_count": 60,
+          "media_count": 316,
+          "tweet_count": 2288
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ASD & BPD & C-PTSD & DID & Schizophrenia & TRDD | Write in Lisp | Sister @Simone_Luxem , Lover @HANLIANYI331 @S_S_Asuka_02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "S_S_Asuka_02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/apr-ma…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/apr-may.bsky.social",
+                "start": 0,
+                "url": "https://t.co/wp1rLHaY6c"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Amsterdam",
+        "name": "April & May - The Calendar System🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898804235514368000/QV2HgGTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 961,
+          "like_count": 42334,
+          "listed_count": 6,
+          "media_count": 218,
+          "tweet_count": 4263
+        },
+        "url": "https://t.co/wp1rLHaY6c",
+        "username": "apr_simone",
+        "verified": true
+      }
+    ]
+  }
+}

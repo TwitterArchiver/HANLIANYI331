@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2065323198053335481",
+    "created_at": "2026-06-15T07:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066415754757722257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517437669449547776",
+          "start": 0,
+          "username": "YumiChow916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20653…",
+          "end": 120,
+          "expanded_url": "https://x.com/i/status/2065312395992719711",
+          "start": 97,
+          "url": "https://t.co/MaGccRr4GR"
+        },
+        {
+          "display_url": "x.com/i/status/20662…",
+          "end": 145,
+          "expanded_url": "https://x.com/i/status/2066256139000660459",
+          "start": 122,
+          "url": "https://t.co/ZCKVOS1JeJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066415754757722257",
+    "in_reply_to_user_id": "1517437669449547776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066256139000660459",
+        "type": "quoted"
+      },
+      {
+        "id": "2066292990373474375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumiChow916 我感觉我和你讲了几万字，彻底白讲了。\n\n如果你把所有人的助人行为当中的受助者和助人者都看做“个案”和“社工”，那人类社会，包括你自己，每天都在做“违反伦理”的事情。\n\nhttps://t.co/MaGccRr4GR\n\nhttps://t.co/ZCKVOS1JeJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-15T07:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066415754757722257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20653…",
+              "end": 120,
+              "expanded_url": "https://x.com/i/status/2065312395992719711",
+              "start": 97,
+              "url": "https://t.co/MaGccRr4GR"
+            },
+            {
+              "display_url": "x.com/i/status/20662…",
+              "end": 145,
+              "expanded_url": "https://x.com/i/status/2066256139000660459",
+              "start": 122,
+              "url": "https://t.co/ZCKVOS1JeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066415754757722257",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066256139000660459",
+            "type": "quoted"
+          },
+          {
+            "id": "2066292990373474375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 我感觉我和你讲了几万字，彻底白讲了。\n\n如果你把所有人的助人行为当中的受助者和助人者都看做“个案”和“社工”，那人类社会，包括你自己，每天都在做“违反伦理”的事情。\n\nhttps://t.co/MaGccRr4GR\n\nhttps://t.co/ZCKVOS1JeJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T20:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T21:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066256139000660459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066256139000660459",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们中文语境下说的“捞女”“PUA大师”“知心导师”可不仅仅只是前者所举例的商业服务提供的情况。而且，这一类人群的受害者远远不止一般的脆弱群体（甚至包括很多25到50岁的男性，一般人眼里的强势群体）\n社工关注环境如何放大个体脆弱性。这些操纵者则反其道而行之：针对脆弱人群定位（Targeting Vulnerabilities）：社工会评估孤独、焦虑、低自尊、经济压力、疾病、老年等风险因素，提供支持。这些人却主动筛选这类目标（老人、情感空虚者、精神危机者），利用“生命任务”或“关系需求”切入。 \n\r制造虚假赋权与信任建立（False Rapport Building）：表面像社工的“共情+倾听”，实际是grooming（ grooming 过程）：先 love bombing（过度赞美、关注、情感价值输出），制造“只有我懂你”的错觉，快速建立亲密感和独特性感。社工追求真实赋权，他们则制造情感依赖。 \n\r隔离与去赋权（Isolation and Disempowerment）：社工帮助重建支持网络；他们反之切断受害者原有关系（贬低家人朋友、制造冲突），让受害者只依赖自己。这符合权力与控制轮（Power and Control Wheel）中的隔离、情感虐待、责备等模式。 \n\r资源榨取与维持控制：经济（捞女索取物质）、情感/性（PUA）、时间/注意力（知心导师持续咨询）。通过间歇强化（intermittent reinforcement：忽冷忽热）维持成瘾式依恋。\n\r这些技巧多源于黑暗心理学、操纵文献，常被包装成“关系技巧”：Negging（贬低/背手恭维）：故意轻微贬低对方自尊（如“你挺漂亮的，但如果再瘦点就完美了”），制造不安全感，让受害者寻求肯定。心理学上利用自尊威胁增加顺从性。 \n\rLove Bombing + 推拉（Push-Pull）：初期大量情感投入，后突然冷淡/撤退，制造焦虑与渴求。类似间歇性强化，激活多巴胺系统，形成情感成瘾。 \n\rGaslighting（煤气灯效应）：扭曲现实（如“你太敏感了，我没说过那种话”），让受害者自我怀疑，丧失判断力。长期导致认知失调（cognitive dissonance），受害者更依赖操纵者“定义现实”。 \n\r虚假脆弱性与哀兵策略（False Vulnerability）：分享“只有你懂的”过去创伤，激发同理心与拯救欲（savior complex）。这制造“互惠”幻觉，降低警惕。 \n\r情绪勒索（FOG：Fear, Obligation, Guilt）：利用恐惧、义务、内疚操控（如“如果你离开我，我就完了”）。常见于知心导师持续“指导”制造依赖。 \n\rKino Escalation / 渐进边界测试：逐步升级肢体/情感亲密，测试并正常化越界。结合 premature intimacy（过早制造深层情感联结）。 \n\r五步/多步陷阱：好奇→探索→迷恋→破坏→虐待/榨取。系统化破坏自尊后维持控制。 \n\r社工视角的危害与反制这些行为属于情感虐待（emotional abuse）和剥削性关系，导致受害者自尊崩解、PTSD-like症状、财务损失、社会孤立。社工理论强调反压迫实践（anti-oppressive practice）：识别权力不对等，恢复受害者自主权。\n\n但是在现实中，这一类人群却从来不需要遵守什么伦理，也从来没有承担任何法律风险，甚至很可能都不会被指责！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066253093432414660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 我们中文语境下说的“捞女”“PUA大师”“知心导师”可不仅仅只是前者所举例的商业服务提供的情况。而且，这一类人群的受害者远远不止一般的脆弱群体（甚至包括很多25到50岁的男性，一般人眼里的强势群体）\n社工关注环境如何放大个体脆弱性。这些操纵者则反其道而行之：针对脆弱人群定位（Targeting"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517437669449547776",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T22:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066292990373474375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7d2673c3623fe492"
+        },
+        "id": "2066292990373474375",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我指的就是事情發生的條件，這一堆限定詞其實排除了很多情況沒有作出回答，比如：\n1. 即使是性同意下的性行為或邀約，但是這種同意是基於受助者錯誤的移情（比如單方面把妳當作戀人或家人，無論是發生在救助中還是救助後）\n2. 即使是性同意下的性行為或邀約，即使發生在救助結束後，並且按妳說的接下來沒有救助需求的情況下，但是這種同意是基於受助者對未來萬一再度需要救助的恐懼而做出\n3. 脆弱性並不因救助的結束而結束，一個無依無靠，缺少社會連結的人，完全可能基於脆弱性做出性同意或邀約\n4. 即使是性同意下的性行為或邀約，即使發生在救助結束後，並且按妳說的接下來沒有救助需求的情況下，被救助者出於報恩心態而做出的性同意或邀約\n\n還有很多一一列舉不完，我不是說這些一定發生過，而是Q&A的問題巧妙的避開了這些情況，而這些情況恰恰是救助倫理中最隱蔽的。當然，以上很多情況妳並不是主動的，甚至可能是不知情的，但不等於是不可預見的，在可預見的情況下無論是主動還是被動接受，都是不和倫理的，並且是對脆弱性的利用。也正是因為庇護所這樣一個高度人口販運風險的結構，我才會一直關心倫理和脆弱性。而妳一直在找外部因素試圖證明倫理可以不完全遵守，並且不應該被苛責\n\n幾乎所有倫理實踐都是從源頭上就盡可能避免出現自己可能在被動或不知情的情況下違背倫理的情況。我的親身經歷是在加拿大，個案工作者對這些情況（指容易被誤會的情況，而不是指救助本身）避之不及，誰都不想惹一身騷說不清，最好的辦法就是避免出現可能被誤會的情況，包括很多機構的工作守則第一條就是“如果個案提出浪漫關係或性邀約，應該立即向上報告”。而妳的行事邏輯恰恰相反，不斷的主動製造和進入這樣的充滿倫理風險的容易被誤會的情景，又容不得輿論來監督和質疑，一直不正面回答，甚至妳自己還認為倫理可以有瑕疵而不能被苛責，這不得不讓人產生好奇心和懷疑\n\n以前也有人說過類似“跟個案談戀愛/發生性關係，是為了給個案以希望”這種話，尤其是在危機干預場景中，說“拒絕個案會導致危機”，在我看來就是扯淡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066284132423127402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 我指的就是事情發生的條件，這一堆限定詞其實排除了很多情況沒有作出回答，比如：\n1. 即使是性同意下的性行為或邀約，但是這種同意是基於受助者錯誤的移情（比如單方面把妳當作戀人或家人，無論是發生在救助中還是救助後）\n2."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41739,
+          "following_count": 3807,
+          "like_count": 1754,
+          "listed_count": 2,
+          "media_count": 398,
+          "tweet_count": 2991
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Markham, Ontario",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 313,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3944
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

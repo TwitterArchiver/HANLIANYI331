@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1983350203693576566",
+    "created_at": "2025-10-29T01:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T02:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983350203693576566"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "zhuanlan.zhihu.com/p/655895746?sh…",
+          "end": 67,
+          "expanded_url": "https://zhuanlan.zhihu.com/p/655895746?share_code=AgCXhy559xZ3&utm_psn=1966799599890069293",
+          "start": 44,
+          "unwound_url": "https://zhuanlan.zhihu.com/p/655895746?share_code=AgCXhy559xZ3&utm_psn=1966799599890069293",
+          "url": "https://t.co/ovZ5o5gmag"
+        },
+        {
+          "display_url": "x.com/MizukiWorkshop…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/MizukiWorkshop/status/1983079408022733066",
+          "start": 121,
+          "url": "https://t.co/LTwjh9e281"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983350203693576566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "zhuanlan.zhihu.com/p/655895746?sh…",
+            "end": 67,
+            "expanded_url": "https://zhuanlan.zhihu.com/p/655895746?share_code=AgCXhy559xZ3&utm_psn=1966799599890069293",
+            "start": 44,
+            "url": "https://t.co/IPI9B4r5Ao"
+          }
+        ]
+      },
+      "text": "关于夏欧妮娅和雾雨咖啡店的事情的全程经过，我在2年前已经完整的整理在这篇知乎文章当中\n\nhttps://t.co/IPI9B4r5Ao\n\n关于“拿着日雌在雾雨咖啡店门口打卡”的行为，均为打卡当事人针对夏欧妮娅事件的不满或纪念的一种表现形式。\n\n实际上，这种行为已经非常温和，尽管双方行为都存在诸多问题，但是当事人双方已经私下和解。只是店方当年为了尽快避开风头，减少麻烦，在误会解除后，优先选择了自保。\n\n这种行为无可厚非，但2年前当事人因自杀进入ICU已成事实。\n\n那也无可怪乎有人来此“打卡”了——事实上，这已经是所有矛盾争端中最温和的表现形式，并不会有人造成任何实质上的损失。\n\n但如果恰好有人觉得心理不舒服，感觉到自己被“跳脸”。那就不妨想想，一个15岁的女孩，仅因为做了一个既符合道德，又符合法律，还被多个世界性公益组织鼓励的“公开医药注射”行为，就遭到了空前绝后的网络暴力最终致其自杀。\n\n而她的失误仅类似于：“半夜在一个治安不好的国家的大街上穿着性感暴露的衣服，遭致强奸”"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983079408022733066",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于夏欧妮娅和雾雨咖啡店的事情的全程经过，我在2年前已经完整的整理在这篇知乎文章当中\n\nhttps://t.co/ovZ5o5gmag\n\n关于“拿着日雌在雾雨咖啡店门口打卡”的行为，均为打卡当事人针对夏欧妮娅事件的不满或纪念的一种表现形式。 https://t.co/LTwjh9e281"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1983350203693576566",
+        "created_at": "2025-10-29T01:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983350203693576566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "zhuanlan.zhihu.com/p/655895746?sh…",
+              "end": 67,
+              "expanded_url": "https://zhuanlan.zhihu.com/p/655895746?share_code=AgCXhy559xZ3&utm_psn=1966799599890069293",
+              "start": 44,
+              "unwound_url": "https://zhuanlan.zhihu.com/p/655895746?share_code=AgCXhy559xZ3&utm_psn=1966799599890069293",
+              "url": "https://t.co/ovZ5o5gmag"
+            },
+            {
+              "display_url": "x.com/MizukiWorkshop…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/MizukiWorkshop/status/1983079408022733066",
+              "start": 121,
+              "url": "https://t.co/LTwjh9e281"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983350203693576566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/655895746?sh…",
+                "end": 67,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/655895746?share_code=AgCXhy559xZ3&utm_psn=1966799599890069293",
+                "start": 44,
+                "url": "https://t.co/IPI9B4r5Ao"
+              }
+            ]
+          },
+          "text": "关于夏欧妮娅和雾雨咖啡店的事情的全程经过，我在2年前已经完整的整理在这篇知乎文章当中\n\nhttps://t.co/IPI9B4r5Ao\n\n关于“拿着日雌在雾雨咖啡店门口打卡”的行为，均为打卡当事人针对夏欧妮娅事件的不满或纪念的一种表现形式。\n\n实际上，这种行为已经非常温和，尽管双方行为都存在诸多问题，但是当事人双方已经私下和解。只是店方当年为了尽快避开风头，减少麻烦，在误会解除后，优先选择了自保。\n\n这种行为无可厚非，但2年前当事人因自杀进入ICU已成事实。\n\n那也无可怪乎有人来此“打卡”了——事实上，这已经是所有矛盾争端中最温和的表现形式，并不会有人造成任何实质上的损失。\n\n但如果恰好有人觉得心理不舒服，感觉到自己被“跳脸”。那就不妨想想，一个15岁的女孩，仅因为做了一个既符合道德，又符合法律，还被多个世界性公益组织鼓励的“公开医药注射”行为，就遭到了空前绝后的网络暴力最终致其自杀。\n\n而她的失误仅类似于：“半夜在一个治安不好的国家的大街上穿着性感暴露的衣服，遭致强奸”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983079408022733066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于夏欧妮娅和雾雨咖啡店的事情的全程经过，我在2年前已经完整的整理在这篇知乎文章当中\n\nhttps://t.co/ovZ5o5gmag\n\n关于“拿着日雌在雾雨咖啡店门口打卡”的行为，均为打卡当事人针对夏欧妮娅事件的不满或纪念的一种表现形式。 https://t.co/LTwjh9e281"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "1982823381612605468",
+        "created_at": "2025-10-28T07:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T08:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983079408022733066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1806995588145467392",
+              "start": 0,
+              "username": "Nonzenki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983079408022733066",
+        "in_reply_to_user_id": "1806995588145467392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7325,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982823381612605468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nonzenki 前情提要：这家店的老板之前造谣一个在他店附近打日雌的人是在吸毒并煽动网暴，事后又辩解说自己是受到别人误导，试图把自己摘出去美美隐身。所以拿着有此事相关要素的物品去这家店表演就成了对其表达不满的一种方式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40053,
+          "following_count": 3671,
+          "like_count": 1283,
+          "listed_count": 69,
+          "media_count": 355,
+          "tweet_count": 2572
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 1048,
+          "like_count": 104958,
+          "listed_count": 9,
+          "media_count": 1386,
+          "tweet_count": 19845
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

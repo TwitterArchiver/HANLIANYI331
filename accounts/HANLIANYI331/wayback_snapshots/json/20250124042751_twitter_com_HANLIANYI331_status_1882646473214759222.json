@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1882356371196371154",
+    "created_at": "2025-01-24T04:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T05:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882646473214759222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        },
+        {
+          "end": 20,
+          "id": "1567505290026958848",
+          "start": 11,
+          "username": "woshiami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882646473214759222",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "谁提供的亚硝酸钠，谁跟yuri说要一起“约死”结果最后yuri死了自己活着，谁害怕担责延误了二十多分钟的抢救时间不报警等人血氧归0了才打120，你们自己心里门清\n\nyuri刚死的时候派出所找我交流过，只是说为了不影响她家里人，派出所也想快点结案，为了不造成二次伤害，这事最终就这么过去了罢了\n\n非要我把事情捅大一次，指名道姓的骂出来才满意？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882465391404020085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 @woshiami 谁提供的亚硝酸钠，谁跟yuri说要一起“约死”结果最后yuri死了自己活着，谁害怕担责延误了二十多分钟的抢救时间不报警等人血氧归0了才打120，你们自己心里门清\n\nyuri刚死的时候派出所找我交流过，只是说为了不影响她家里人，派出所也想快点结案，为了不造成二次伤害，这事最终就这么过去了罢了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1882356371196371154",
+        "created_at": "2025-01-24T04:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T05:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882646473214759222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            },
+            {
+              "end": 20,
+              "id": "1567505290026958848",
+              "start": 11,
+              "username": "woshiami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882646473214759222",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "谁提供的亚硝酸钠，谁跟yuri说要一起“约死”结果最后yuri死了自己活着，谁害怕担责延误了二十多分钟的抢救时间不报警等人血氧归0了才打120，你们自己心里门清\n\nyuri刚死的时候派出所找我交流过，只是说为了不影响她家里人，派出所也想快点结案，为了不造成二次伤害，这事最终就这么过去了罢了\n\n非要我把事情捅大一次，指名道姓的骂出来才满意？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882465391404020085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 @woshiami 谁提供的亚硝酸钠，谁跟yuri说要一起“约死”结果最后yuri死了自己活着，谁害怕担责延误了二十多分钟的抢救时间不报警等人血氧归0了才打120，你们自己心里门清\n\nyuri刚死的时候派出所找我交流过，只是说为了不影响她家里人，派出所也想快点结案，为了不造成二次伤害，这事最终就这么过去了罢了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "1882356371196371154",
+        "created_at": "2025-01-23T16:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T17:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882465391404020085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1567505290026958848",
+              "start": 0,
+              "username": "woshiami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882465391404020085",
+        "in_reply_to_user_id": "1567505290026958848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 390,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882356371196371154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshiami 不清楚做了什么 但是我认识的一个人离开他那之后因为自己感情缘故自杀了(有本人聊天记录等证据)，寒却发帖说是被谣言影响离开而且磕药精神错乱自杀，让我觉得很虚伪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1881176409181429832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34955,
+          "following_count": 3487,
+          "like_count": 378,
+          "listed_count": 57,
+          "media_count": 293,
+          "tweet_count": 2123
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的小药娘٩(˃̶͈̀௰˂̶͈́)و\n已有男友，是正经人\ntg群组https://t.co/kvz722N3ba\nQQ2332956562\n每天都会辐射76，76群号230022364",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+s-NP42sLYX43M…",
+                "end": 66,
+                "expanded_url": "https://t.me/+s-NP42sLYX43M2I1",
+                "start": 43,
+                "url": "https://t.co/kvz722N3ba"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "name": "折筱orisam🏳️‍⚧️",
+        "pinned_tweet_id": "1854797658738901284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865215072014073856/40yTIenw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 206,
+          "like_count": 8122,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1175
+        },
+        "username": "orisam123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T13:29:57.000Z",
+        "description": "我是格鲁特我是格鲁特我是格鲁特",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/woshiami",
+                "end": 23,
+                "expanded_url": "https://ngl.link/woshiami",
+                "start": 0,
+                "url": "https://t.co/5BLeIu7ql7"
+              }
+            ]
+          }
+        },
+        "id": "1567505290026958848",
+        "location": "未知领域",
+        "name": "阿mi",
+        "pinned_tweet_id": "1876099002103746722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873008320698826756/gHpW8XqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 1762,
+          "like_count": 50997,
+          "listed_count": 1,
+          "media_count": 669,
+          "tweet_count": 3796
+        },
+        "url": "https://t.co/5BLeIu7ql7",
+        "username": "woshiami",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2047065446252478539",
+    "created_at": "2026-04-23T00:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047111496954745041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1131710205551624192",
+          "start": 0,
+          "username": "cottonbullet"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20246…",
+          "end": 80,
+          "expanded_url": "https://x.com/i/status/2024689742009250042",
+          "start": 57,
+          "url": "https://t.co/9wifvFUca7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047111496954745041",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024689742009250042",
+        "type": "quoted"
+      },
+      {
+        "id": "2047107149499904305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cottonbullet 也可以用25％黄金，25％美债，25％现金和25％标普500的再平衡方式来预防风险。\nhttps://t.co/9wifvFUca7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2047065446252478539",
+        "created_at": "2026-04-23T00:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047111496954745041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1131710205551624192",
+              "start": 0,
+              "username": "cottonbullet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20246…",
+              "end": 80,
+              "expanded_url": "https://x.com/i/status/2024689742009250042",
+              "start": 57,
+              "url": "https://t.co/9wifvFUca7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047111496954745041",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024689742009250042",
+            "type": "quoted"
+          },
+          {
+            "id": "2047107149499904305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cottonbullet 也可以用25％黄金，25％美债，25％现金和25％标普500的再平衡方式来预防风险。\nhttps://t.co/9wifvFUca7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2024689742009250042",
+        "created_at": "2026-02-20T03:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:36:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024689471179149736",
+          "2024689742009250042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2024026246297120830",
+              "start": 150,
+              "url": "https://t.co/eUp1gpOgJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024689742009250042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有些人觉得这个策略仍然对散户来说有些复杂，因为散户极有可能找不到足够好的投资标的物。\n\n那还有一个更无脑的投资方法，它的年化期望收益大约是8％～10％，而且最大回撤几乎不可能超过5％（基于该策略过去60年的历史数据）\n\n那就是「永恒投资策略」具体策略：\n\n将资金分成四等份，各占25%：\n25％黄金\n25% 股票：推荐全球或美股指数ETF，如标普500 ETF\n25% 长期债券：例如国债\n25% 现金或短期债券\n\n每当某一个资产的价值占比超过35％或者低于15％时，则对这四个资产进行一次再平衡，让它重新回到25％\n\n如果要加仓：将钱买入到价值占比最低的资产当中\n如果要减仓：卖出价值占比最高的资产\n\n详细或者更细节的东西可以询问AI或者上网查找。\n\n这个策略真正做到了无脑，适用于地球上的所有人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 10052,
+          "like_count": 38,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024026246297120830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些人觉得这个策略仍然对散户来说有些复杂，因为散户极有可能找不到足够好的投资标的物。\n\n那还有一个更无脑的投资方法，它的年化期望收益大约是8％～10％，而且最大回撤几乎不可能超过5％（基于该策略过去60年的历史数据）\n\n那就是「永恒投资策略」具体策略：\n\n将资金分成四等份，各占25%：\n25％黄金 https://t.co/eUp1gpOgJ9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2047065446252478539",
+        "created_at": "2026-04-23T00:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047107149499904305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1131710205551624192",
+              "start": 0,
+              "username": "cottonbullet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047107149499904305",
+        "in_reply_to_user_id": "1131710205551624192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "网格策略已经算是最保守的策略了，即使是长期持有，也最好和巴菲特一样留有大约一半左右的现金和美债，用来在下跌时买入和摊平成本。但是有的人不仅全仓杠杆还拉到3～5倍，这已经完全失去容错空间了。都不用等08年金融危机那种规模的暴跌，哪怕是2020年这种30％～40％的回撤，也足以被迫为了防止爆仓而减仓导致价格即使回到原来的位置也带来亏损很多年的收益"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047065446252478539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cottonbullet 网格策略已经算是最保守的策略了，即使是长期持有，也最好和巴菲特一样留有大约一半左右的现金和美债，用来在下跌时买入和摊平成本。但是有的人不仅全仓杠杆还拉到3～5倍，这已经完全失去容错空间了。都不用等08年金融危机那种规模的暴跌，哪怕是2020年这种30％～40％的回撤，也足以被迫为了防止爆仓而"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40852,
+          "following_count": 3704,
+          "like_count": 1605,
+          "listed_count": 70,
+          "media_count": 390,
+          "tweet_count": 2834
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-23T23:55:13.000Z",
+        "description": "偶尔炒股喵",
+        "id": "1131710205551624192",
+        "location": "花之王冠在此收束",
+        "name": "棉花子弹 Part. III",
+        "pinned_tweet_id": "2047063918800244881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605151892019240961/BBdth3Zf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3397,
+          "following_count": 801,
+          "like_count": 10303,
+          "listed_count": 13,
+          "media_count": 98,
+          "tweet_count": 1187
+        },
+        "username": "cottonbullet",
+        "verified": false
+      }
+    ]
+  }
+}

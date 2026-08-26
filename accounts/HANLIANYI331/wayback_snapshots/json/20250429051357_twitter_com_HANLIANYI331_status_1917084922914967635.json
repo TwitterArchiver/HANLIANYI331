@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1916721970818978068",
+    "created_at": "2025-04-29T05:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T06:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917084922914967635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "Kaohchuancity"
+        },
+        {
+          "end": 30,
+          "id": "1831339223716372480",
+          "start": 15,
+          "username": "monteopanquieu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917084922914967635",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917047541939818960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaohchuancity @monteopanquieu 对方也可以选择不雇佣你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1916721970818978068",
+        "created_at": "2025-04-29T05:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T06:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917084922914967635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "Kaohchuancity"
+            },
+            {
+              "end": 30,
+              "id": "1831339223716372480",
+              "start": 15,
+              "username": "monteopanquieu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917084922914967635",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917047541939818960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaohchuancity @monteopanquieu 对方也可以选择不雇佣你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "1916721970818978068",
+        "created_at": "2025-04-29T02:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T03:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917047541939818960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 29,
+              "id": "1831339223716372480",
+              "start": 14,
+              "username": "monteopanquieu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917047541939818960",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916934339763601798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @monteopanquieu 并不会，就算会，你可以干他，因为违规，他管不着你的头发，我现在整天顶着长发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37543,
+          "following_count": 3640,
+          "like_count": 711,
+          "listed_count": 61,
+          "media_count": 325,
+          "tweet_count": 2340
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "我是一颗星，4亿岁了。\n里推：@thelastchaoxinx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "thelastchaoxinx"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "星空文明摄平星系云屏市北云区星辰官邸",
+        "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（摇光星）",
+        "pinned_tweet_id": "1916995232606130563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909572096617009152/nAwZoSaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 365,
+          "like_count": 797,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 963
+        },
+        "username": "Kaohchuancity",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T14:32:03.000Z",
+        "description": "MD, PhD | UTokyo | Cardiologist | ReCreate & Valuation | HEOR | 臨床開発",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "monteopanquieu.github.io",
+                "end": 23,
+                "expanded_url": "https://monteopanquieu.github.io/",
+                "start": 0,
+                "url": "https://t.co/AqYMZ1cmBA"
+              }
+            ]
+          }
+        },
+        "id": "1831339223716372480",
+        "name": "孟徳斑鳩MadaraHato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906672129137119232/QNTntfFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 226,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/AqYMZ1cmBA",
+        "username": "monteopanquieu",
+        "verified": true
+      }
+    ]
+  }
+}

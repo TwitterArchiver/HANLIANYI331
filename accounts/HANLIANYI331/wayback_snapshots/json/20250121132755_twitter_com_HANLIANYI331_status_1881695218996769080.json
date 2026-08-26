@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881695127892267008",
+        "3_1881695175019573248",
+        "3_1881695106211942400",
+        "3_1881695103808610305"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1881695218996769080",
+    "created_at": "2025-01-21T13:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T14:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881695218996769080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nlqE97UAVF",
+          "end": 100,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1881695218996769080/photo/1",
+          "media_key": "3_1881695127892267008",
+          "start": 77,
+          "url": "https://t.co/nlqE97UAVF"
+        },
+        {
+          "display_url": "pic.x.com/nlqE97UAVF",
+          "end": 100,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1881695218996769080/photo/1",
+          "media_key": "3_1881695175019573248",
+          "start": 77,
+          "url": "https://t.co/nlqE97UAVF"
+        },
+        {
+          "display_url": "pic.x.com/nlqE97UAVF",
+          "end": 100,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1881695218996769080/photo/1",
+          "media_key": "3_1881695106211942400",
+          "start": 77,
+          "url": "https://t.co/nlqE97UAVF"
+        },
+        {
+          "display_url": "pic.x.com/nlqE97UAVF",
+          "end": 100,
+          "expanded_url": "https://x.com/HANLIANYI331/status/1881695218996769080/photo/1",
+          "media_key": "3_1881695103808610305",
+          "start": 77,
+          "url": "https://t.co/nlqE97UAVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881695218996769080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "所有对我敲诈勒索的行为，我是一分钱也不会给的。\n\n早在我中学时期，在深圳路边做一些见义勇为结果最终被讹诈的行为后，我就会和对方死磕，一分钱都不可能赔。\n\n24年下旬一个敲诈勒索的惯犯，来到庇护所。向庇护所叙述自己的悲惨经历后。我给她介绍心理咨询的资源，介绍工作岗位，介绍技能培训，介绍如何利用政策回归学业。\n\n结果这人每天满脑子只想着“爆金币”，啥活也百般推脱不愿意干，天天做着“被有钱人包养”的美梦。\n\n被我赶走的时候威胁我说如果我不给两万块钱供她去芬兰留学就诬告我强奸，这个价钱最终从两万一路降到两千，一千\n\n见我一分钱也不可能给，这人恼羞成怒，去我学校和辖区派出所大闹，被我学校老师和派出所民警当成傻子看待。\n\n同样的道理：\n\n造谣我“强奸”和“肉偿抵房租”其实并不需要和我有过性行为，和我有没有过性行为也不重要，只需要有一个手机就够了。\n\n其实我很费解，把我往死里得罪到底有什么好处，生怕我没把这群人送进监狱。也就我这种烂好人会考虑mtf如果蹲过监狱的话就很难改证了。如果换成任何一个人，这群人早进局子里。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有对我敲诈勒索的行为，我是一分钱也不会给的。\n\n早在我中学时期，在深圳路边做一些见义勇为结果最终被讹诈的行为后，我就会和对方死磕，一分钱都不可能赔。… https://t.co/nlqE97UAVF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1881695127892267008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh0fv8maEAAZo7e.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1174,
+        "media_key": "3_1881695175019573248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh0fysKbsAA2keC.jpg",
+        "width": 1219
+      },
+      {
+        "height": 241,
+        "media_key": "3_1881695106211942400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh0fur1akAAWXDC.jpg",
+        "width": 1220
+      },
+      {
+        "height": 370,
+        "media_key": "3_1881695103808610305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh0fui4aoAEsx12.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881695127892267008",
+            "3_1881695175019573248",
+            "3_1881695106211942400",
+            "3_1881695103808610305"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1881695218996769080",
+        "created_at": "2025-01-21T13:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T14:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881695218996769080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlqE97UAVF",
+              "end": 100,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1881695218996769080/photo/1",
+              "media_key": "3_1881695127892267008",
+              "start": 77,
+              "url": "https://t.co/nlqE97UAVF"
+            },
+            {
+              "display_url": "pic.x.com/nlqE97UAVF",
+              "end": 100,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1881695218996769080/photo/1",
+              "media_key": "3_1881695175019573248",
+              "start": 77,
+              "url": "https://t.co/nlqE97UAVF"
+            },
+            {
+              "display_url": "pic.x.com/nlqE97UAVF",
+              "end": 100,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1881695218996769080/photo/1",
+              "media_key": "3_1881695106211942400",
+              "start": 77,
+              "url": "https://t.co/nlqE97UAVF"
+            },
+            {
+              "display_url": "pic.x.com/nlqE97UAVF",
+              "end": 100,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1881695218996769080/photo/1",
+              "media_key": "3_1881695103808610305",
+              "start": 77,
+              "url": "https://t.co/nlqE97UAVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881695218996769080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所有对我敲诈勒索的行为，我是一分钱也不会给的。\n\n早在我中学时期，在深圳路边做一些见义勇为结果最终被讹诈的行为后，我就会和对方死磕，一分钱都不可能赔。\n\n24年下旬一个敲诈勒索的惯犯，来到庇护所。向庇护所叙述自己的悲惨经历后。我给她介绍心理咨询的资源，介绍工作岗位，介绍技能培训，介绍如何利用政策回归学业。\n\n结果这人每天满脑子只想着“爆金币”，啥活也百般推脱不愿意干，天天做着“被有钱人包养”的美梦。\n\n被我赶走的时候威胁我说如果我不给两万块钱供她去芬兰留学就诬告我强奸，这个价钱最终从两万一路降到两千，一千\n\n见我一分钱也不可能给，这人恼羞成怒，去我学校和辖区派出所大闹，被我学校老师和派出所民警当成傻子看待。\n\n同样的道理：\n\n造谣我“强奸”和“肉偿抵房租”其实并不需要和我有过性行为，和我有没有过性行为也不重要，只需要有一个手机就够了。\n\n其实我很费解，把我往死里得罪到底有什么好处，生怕我没把这群人送进监狱。也就我这种烂好人会考虑mtf如果蹲过监狱的话就很难改证了。如果换成任何一个人，这群人早进局子里。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有对我敲诈勒索的行为，我是一分钱也不会给的。\n\n早在我中学时期，在深圳路边做一些见义勇为结果最终被讹诈的行为后，我就会和对方死磕，一分钱都不可能赔。… https://t.co/nlqE97UAVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1881176409181429832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34786,
+          "following_count": 3476,
+          "like_count": 363,
+          "listed_count": 57,
+          "media_count": 285,
+          "tweet_count": 2100
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

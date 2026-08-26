@@ -1,0 +1,633 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "2021337631930581399",
+    "created_at": "2026-02-10T21:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T22:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021337631930581399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OKX517BTC/stat…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/OKX517BTC/status/2020861734534132195",
+          "start": 141,
+          "url": "https://t.co/sZPhZPVJQM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021337631930581399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "2017年至2018年时，我当年的一个亲密关系（一个深圳的顺性别女性）还在世时，她的社交圈内就有一个炒比特币的玩家。\n\n那个玩家在一轮比特币下跌的过程中疯狂补仓和加仓，前后投入了一千万元人民币进去用来补充保证金，后来她终于等到了翻本的那天：她的一千万人民币最终变成了六千万人民币。\n\n但是最终的结局是：这笔钱在交易所里再也提不出来了。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020861734534132195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2017年至2018年时，我当年的一个亲密关系（一个深圳的顺性别女性）还在世时，她的社交圈内就有一个炒比特币的玩家。\n\n那个玩家在一轮比特币下跌的过程中疯狂补仓和加仓，前后投入了一千万元人民币进去用来补充保证金，后来她终于等到了翻本的那天：她的一千万人民币最终变成了六千万人民币。 https://t.co/sZPhZPVJQM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83170,
+        "height": 1264,
+        "media_key": "13_2020859815908777984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020859815908777984/img/Fn7NuFcbKeJXuvZq.jpg",
+        "public_metrics": {
+          "view_count": 32819
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020859815908777984/vid/avc1/320x560/CzSwg5Oq6_MtrgwI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020859815908777984/vid/avc1/480x842/YzP3505PeXWQEegm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020859815908777984/vid/avc1/720x1264/xR0I0XAicJkoNWCw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020859815908777984/pl/EIrypdp0n_S05dcy.m3u8?v=da3"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2021337631930581399",
+        "created_at": "2026-02-10T21:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T22:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021337631930581399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OKX517BTC/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/OKX517BTC/status/2020861734534132195",
+              "start": 141,
+              "url": "https://t.co/sZPhZPVJQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021337631930581399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2017年至2018年时，我当年的一个亲密关系（一个深圳的顺性别女性）还在世时，她的社交圈内就有一个炒比特币的玩家。\n\n那个玩家在一轮比特币下跌的过程中疯狂补仓和加仓，前后投入了一千万元人民币进去用来补充保证金，后来她终于等到了翻本的那天：她的一千万人民币最终变成了六千万人民币。\n\n但是最终的结局是：这笔钱在交易所里再也提不出来了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020861734534132195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2017年至2018年时，我当年的一个亲密关系（一个深圳的顺性别女性）还在世时，她的社交圈内就有一个炒比特币的玩家。\n\n那个玩家在一轮比特币下跌的过程中疯狂补仓和加仓，前后投入了一千万元人民币进去用来补充保证金，后来她终于等到了翻本的那天：她的一千万人民币最终变成了六千万人民币。 https://t.co/sZPhZPVJQM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020859815908777984"
+          ]
+        },
+        "author_id": "2020854707460374528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Binance CEO.",
+              "id": "1603445515831545856",
+              "name": "Changpeng Zhao"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1579488006225874944",
+              "name": "OKX"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2020861734534132195",
+        "created_at": "2026-02-09T14:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020861734534132195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "867617849208037377",
+              "start": 19,
+              "username": "okx"
+            },
+            {
+              "end": 100,
+              "id": "2985599460",
+              "start": 91,
+              "username": "star_okx"
+            },
+            {
+              "end": 135,
+              "id": "902839045356744704",
+              "start": 121,
+              "username": "justinsuntron"
+            },
+            {
+              "end": 148,
+              "id": "1003840309166366721",
+              "start": 136,
+              "username": "heyibinance"
+            },
+            {
+              "end": 160,
+              "id": "902926941413453824",
+              "start": 149,
+              "username": "cz_binance"
+            },
+            {
+              "end": 173,
+              "id": "739948645",
+              "start": 161,
+              "username": "ChandlerGuo"
+            },
+            {
+              "end": 183,
+              "id": "928523953156399104",
+              "start": 174,
+              "username": "punk8185"
+            },
+            {
+              "end": 198,
+              "id": "1829498397184946176",
+              "start": 184,
+              "username": "liangxihuigui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s26SIUaLJo",
+              "end": 222,
+              "expanded_url": "https://x.com/OKX517BTC/status/2020861734534132195/video/1",
+              "media_key": "13_2020859815908777984",
+              "start": 199,
+              "url": "https://t.co/s26SIUaLJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020861734534132195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 742451,
+          "like_count": 616,
+          "quote_count": 90,
+          "reply_count": 281,
+          "retweet_count": 222
+        },
+        "reply_settings": "everyone",
+        "text": "欧易用户杨秀春全网实名曝光：\n欧易平台@okx 以涉嫌“操控BTC市场”为由冻结账户并强制平仓，导致5万多个BTC多头合约爆仓，其中欧易钱包内517.86 BTC至今未返还。\n徐明星@star_okx 请给出不返还517.86个BTC的理由。@justinsuntron @heyibinance @cz_binance @ChandlerGuo @punk8185 @liangxihuigui https://t.co/s26SIUaLJo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40975,
+          "following_count": 3674,
+          "like_count": 1412,
+          "listed_count": 68,
+          "media_count": 383,
+          "tweet_count": 2734
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-09T13:38:15.000Z",
+        "description": "",
+        "id": "2020854707460374528",
+        "name": "OKX冻结517BTC",
+        "pinned_tweet_id": "2020861734534132195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020856502479953920/sJ5dVoX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 55,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "username": "OKX517BTC",
+        "verified": true
+      }
+    ]
+  }
+}

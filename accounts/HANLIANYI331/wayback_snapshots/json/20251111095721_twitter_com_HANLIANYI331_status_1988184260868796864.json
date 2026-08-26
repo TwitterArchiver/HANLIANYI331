@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1988184260868796864",
+    "created_at": "2025-11-11T09:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T10:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988184260868796864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988184260868796864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我之所以迟迟没有SRS的计划，尽管经济压力排第一原因，但是实际上还有一个很重要的原因就是：我认为当前全球的SRS技术水平仍然太落后了，术后的很多方面的功能仍然远远没有达到让人满意的水平。\n\n我推测未来数十年期间，SRS前沿技术会有一次突破性的进步。在性别焦虑没有危害到生命安全的前提下，如果我能够等待到那时，且如果那时我还活着，且有经济实力，我会再进行考虑。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之所以迟迟没有SRS的计划，尽管经济压力排第一原因，但是实际上还有一个很重要的原因就是：我认为当前全球的SRS技术水平仍然太落后了，术后的很多方面的功能仍然远远没有达到让人满意的水平。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1988184260868796864",
+        "created_at": "2025-11-11T09:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988184260868796864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988184260868796864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我之所以迟迟没有SRS的计划，尽管经济压力排第一原因，但是实际上还有一个很重要的原因就是：我认为当前全球的SRS技术水平仍然太落后了，术后的很多方面的功能仍然远远没有达到让人满意的水平。\n\n我推测未来数十年期间，SRS前沿技术会有一次突破性的进步。在性别焦虑没有危害到生命安全的前提下，如果我能够等待到那时，且如果那时我还活着，且有经济实力，我会再进行考虑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之所以迟迟没有SRS的计划，尽管经济压力排第一原因，但是实际上还有一个很重要的原因就是：我认为当前全球的SRS技术水平仍然太落后了，术后的很多方面的功能仍然远远没有达到让人满意的水平。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40188,
+          "following_count": 3675,
+          "like_count": 1287,
+          "listed_count": 69,
+          "media_count": 357,
+          "tweet_count": 2610
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1878505291610005548",
+    "created_at": "2025-01-12T18:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T19:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878512751581999529"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1878512751581999529",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878505291610005548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据推友信息，警方已经找到当事人，正在抢救"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1878505291610005548",
+        "created_at": "2025-01-12T18:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T19:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878512751581999529"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1878512751581999529",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878505291610005548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据推友信息，警方已经找到当事人，正在抢救"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878505288749510656"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1878505291610005548",
+        "created_at": "2025-01-12T18:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T19:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878505291610005548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zc02O4s6cF",
+              "end": 165,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1878505291610005548/photo/1",
+              "media_key": "3_1878505288749510656",
+              "start": 142,
+              "url": "https://t.co/zc02O4s6cF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878505291610005548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这位跨性别女性正在尝试自杀，目前已知信息\n\n3193282552\n\n2007年9月18日出生\n\n高三在读\n\n家庭地址和学校大致位于成都市龙泉驿区\n\n如果有更多信息麻烦联系我然后方便我报警\n\n另外：任何一个正常人看到尝试自杀的信息，反应都应该是“以最快的速度搜集个人信息然后报警”。\n\n而不是：“天啊！太遗憾了，晚安”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这位跨性别女性正在尝试自杀，目前已知信息\n\n3193282552\n\n2007年9月18日出生\n\n高三在读\n\n家庭地址和学校大致位于成都市龙泉驿区\n\n如果有更多信息麻烦联系我然后方便我报警\n\n另外：任何一个正常人看到尝试自杀的信息，反应都应该是“以最快的速度搜集个人信息然后报警”。… https://t.co/zc02O4s6cF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有公益类信息请私信X账号@lianyiganyu｜如需私信我本人请联系telegram账号https://t.co/DPmfCokcD1｜如需咨询我问题，可通过知乎向我进行付费文字咨询、语音咨询需提前向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 40,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 96,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 73,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/video/BV1S3411…",
+                "end": 23,
+                "expanded_url": "http://m.bilibili.com/video/BV1S3411G7dM?buvid=XUA1737AEADAE783A1227C9BDA67C0B1B3B27&from_spmid=mai",
+                "start": 0,
+                "url": "https://t.co/XYsDjikNgZ"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1877041388342395074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34671,
+          "following_count": 3425,
+          "like_count": 310,
+          "listed_count": 58,
+          "media_count": 272,
+          "tweet_count": 2041
+        },
+        "url": "https://t.co/XYsDjikNgZ",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

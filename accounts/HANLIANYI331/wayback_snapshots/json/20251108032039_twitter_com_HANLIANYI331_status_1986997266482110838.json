@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1986838845825163359",
+    "created_at": "2025-11-08T03:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T04:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986997266482110838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1711373198242320384",
+          "start": 0,
+          "username": "HRT_pharmacist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986997266482110838",
+    "in_reply_to_user_id": "1711373198242320384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "纯粹从商业逻辑来说：就像拼多多商家的退货退款或者“补偿5元”一样，一般遇到这种付款备注的情况，风险最小和利益最大化的选择是“承担损失，换另一个支付宝账号退款后拉黑买家”，而非“直接把买家逼急”（在我见过的大部分药商里面，即使针对这种情况扣钱，也不会直接扣七百，而是扣个一百到两百差不多），不然出现买家和商家鱼死网破（和某些其他报复方式比，投诉让你损失一千都是小事了）的情况非常正常（尤其是社群内这种普遍经济紧张和精神不稳定的情况下）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986838845825163359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HRT_pharmacist 纯粹从商业逻辑来说：就像拼多多商家的退货退款或者“补偿5元”一样，一般遇到这种付款备注的情况，风险最小和利益最大化的选择是“承担损失，换另一个支付宝账号退款后拉黑买家”，而非“直接把买家逼急”（在我见过的大部分药商里面，即使针对这种情况扣钱，也不会直接扣七百，而是扣个一百到两百差不多）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1986838845825163359",
+        "created_at": "2025-11-08T03:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T04:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986997266482110838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1711373198242320384",
+              "start": 0,
+              "username": "HRT_pharmacist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986997266482110838",
+        "in_reply_to_user_id": "1711373198242320384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "纯粹从商业逻辑来说：就像拼多多商家的退货退款或者“补偿5元”一样，一般遇到这种付款备注的情况，风险最小和利益最大化的选择是“承担损失，换另一个支付宝账号退款后拉黑买家”，而非“直接把买家逼急”（在我见过的大部分药商里面，即使针对这种情况扣钱，也不会直接扣七百，而是扣个一百到两百差不多），不然出现买家和商家鱼死网破（和某些其他报复方式比，投诉让你损失一千都是小事了）的情况非常正常（尤其是社群内这种普遍经济紧张和精神不稳定的情况下）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986838845825163359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HRT_pharmacist 纯粹从商业逻辑来说：就像拼多多商家的退货退款或者“补偿5元”一样，一般遇到这种付款备注的情况，风险最小和利益最大化的选择是“承担损失，换另一个支付宝账号退款后拉黑买家”，而非“直接把买家逼急”（在我见过的大部分药商里面，即使针对这种情况扣钱，也不会直接扣七百，而是扣个一百到两百差不多）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711373198242320384",
+        "conversation_id": "1986838845825163359",
+        "created_at": "2025-11-07T16:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T17:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986838845825163359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/HYuusui1999/status/1986603348875735428",
+              "start": 73,
+              "url": "https://t.co/xXr1onlOMI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986838845825163359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2268,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986603348875735428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这位备注之后还支付宝上面投诉了，这种我们会给码商赔付1000左右，她这票我们是倒赔钱的。况且二维码明说了备注不发货不退款，自己不识字我们是真没辙 https://t.co/xXr1onlOMI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40119,
+          "following_count": 3674,
+          "like_count": 1284,
+          "listed_count": 69,
+          "media_count": 355,
+          "tweet_count": 2588
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-09T13:29:39.000Z",
+        "description": "🍬🏪",
+        "id": "1711373198242320384",
+        "name": "某神秘的kanna(HRT药商)",
+        "pinned_tweet_id": "1838565305435750896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776597423412166656/dEFvCy2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 188,
+          "like_count": 220,
+          "listed_count": 15,
+          "media_count": 124,
+          "tweet_count": 551
+        },
+        "username": "HRT_pharmacist",
+        "verified": false
+      }
+    ]
+  }
+}

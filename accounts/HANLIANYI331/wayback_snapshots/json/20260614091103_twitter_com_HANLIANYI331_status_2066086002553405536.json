@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2066086002553405536",
+    "created_at": "2026-06-14T09:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T10:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066086002553405536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 30,
+          "id": "1517437669449547776",
+          "start": 18,
+          "username": "YumiChow916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066086002553405536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066077323989024914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: @YumiChow916 在无法链接到可有效介入的公安，社区，政府，合格的亲人，机构等外部资源的情况下：\n明确或默示的同意； \n紧急避险 / 即时防止严重伤害的道德与法律例外（client 因疾病暂时丧失判断力，不介入会导致死亡或永久严重伤害…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2066086002553405536",
+        "created_at": "2026-06-14T09:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066086002553405536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 30,
+              "id": "1517437669449547776",
+              "start": 18,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066086002553405536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066077323989024914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: @YumiChow916 在无法链接到可有效介入的公安，社区，政府，合格的亲人，机构等外部资源的情况下：\n明确或默示的同意； \n紧急避险 / 即时防止严重伤害的道德与法律例外（client 因疾病暂时丧失判断力，不介入会导致死亡或永久严重伤害…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2065323198053335481",
+        "created_at": "2026-06-14T08:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066077323989024914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066077323989024914",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在无法链接到可有效介入的公安，社区，政府，合格的亲人，机构等外部资源的情况下：\n明确或默示的同意； \n紧急避险 / 即时防止严重伤害的道德与法律例外（client 因疾病暂时丧失判断力，不介入会导致死亡或永久严重伤害时）。\n即时风险评估：有明确的自杀意图、计划、手段、可及性，且保护因素薄弱。\n能力受损：精神疾病导致client 当下决定能力明显受损（无法理解后果、无法权衡选项）。\n伦理权衡：在这种极端情境下，防止不可逆的重大伤害（死亡）优先于暂时性的自主权限制。这是“行善 + 不伤害”原则在急性危机中的应用，类似电车难题中的“拉杆”逻辑 \n在加拿大，有很多公共资源可以救助，但是在大陆地区这个扭曲的环境下，拉杆问题必然存在。只是一味的去问“你有什么权利干涉别人”，最后导致的结果和“不是你撞的，你为什么要扶”没有任何区别。\n如果你过度、随意地质疑“救助者是不是为了私利做事”，很容易把真正愿意做事的人逼走。很多人哪怕动机纯正，也会因为反复被质疑、被道德绑架、被要求“证明自己不是为了私利”而感到心寒、疲惫，最终选择退出。这在过去十多年的各种助人社群里，已经反复上演过。 \n核心问题不是“要不要质疑”，而是“如何质疑才不会杀死行动力”。更务实的做法是把关注点从“动机”转向“行为、过程和结果”优先看“做了什么、怎么做的、结果如何”而不是“心里是不是为了私利”\n动机很难被外部彻底验证，也很容易被恶意解读。 \n但行为和过程是可以被观察、记录、复盘的。 （助人者多年以来的助人行为对助人者本人造成了哪些正面影响和负面影响，是利大于弊还是弊大于利？受助者如果不被受助会怎么，被受助后又会怎么样？如果一味的强调“是否合规”，那受助者能否真正意义上受到“合规”的帮助资源，而不是在无人问津的情况下死去？）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066070396869165383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 在无法链接到可有效介入的公安，社区，政府，合格的亲人，机构等外部资源的情况下：\n明确或默示的同意； \n紧急避险 / 即时防止严重伤害的道德与法律例外（client 因疾病暂时丧失判断力，不介入会导致死亡或永久严重伤害时）。\n即时风险评估：有明确的自杀意图、计划、手段、可及性，且保护因素薄弱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41749,
+          "following_count": 3808,
+          "like_count": 1753,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 2967
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，我們都不過是在用自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🕊️",
+        "id": "1517437669449547776",
+        "location": "Markham, Ontario",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 313,
+          "like_count": 4036,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3908
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}

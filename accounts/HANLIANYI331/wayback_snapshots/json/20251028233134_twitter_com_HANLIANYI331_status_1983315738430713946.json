@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1982823381612605468",
+    "created_at": "2025-10-28T23:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T00:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983315738430713946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1261051528061861888",
+          "start": 0,
+          "username": "vru8JvwdzpO909i"
+        },
+        {
+          "end": 26,
+          "id": "1806995588145467392",
+          "start": 17,
+          "username": "Nonzenki"
+        },
+        {
+          "end": 39,
+          "id": "1472910881986019330",
+          "start": 27,
+          "username": "xiaochuAnZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983315738430713946",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "另外，假定你所叙述的行为都如实存在，你也同样提到店方正确的处理方式是“劝阻和报警处理”。店方如果真的报警处理，那最后双方一点事都没有。\n\n但是，店方的处理方式却是公布未成年当事人的照片和个人社交账户信息，并且传递错误信息，导致当事人遭到网络恶俗人的网暴，导致当事人因自杀进入ICU。且事后店方坚决拒绝公开道歉，平息网暴，只愿意私底下和当事人道歉和解，公开场面却一言不发，澄清误会和谣言。\n\n这是符合法律，符合道德的处理方式？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983312581893992540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vru8JvwdzpO909i @Nonzenki @xiaochuAnZu 另外，假定你所叙述的行为都如实存在，你也同样提到店方正确的处理方式是“劝阻和报警处理”。店方如果真的报警处理，那最后双方一点事都没有。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1982823381612605468",
+        "created_at": "2025-10-28T23:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T00:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983315738430713946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1261051528061861888",
+              "start": 0,
+              "username": "vru8JvwdzpO909i"
+            },
+            {
+              "end": 26,
+              "id": "1806995588145467392",
+              "start": 17,
+              "username": "Nonzenki"
+            },
+            {
+              "end": 39,
+              "id": "1472910881986019330",
+              "start": 27,
+              "username": "xiaochuAnZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983315738430713946",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "另外，假定你所叙述的行为都如实存在，你也同样提到店方正确的处理方式是“劝阻和报警处理”。店方如果真的报警处理，那最后双方一点事都没有。\n\n但是，店方的处理方式却是公布未成年当事人的照片和个人社交账户信息，并且传递错误信息，导致当事人遭到网络恶俗人的网暴，导致当事人因自杀进入ICU。且事后店方坚决拒绝公开道歉，平息网暴，只愿意私底下和当事人道歉和解，公开场面却一言不发，澄清误会和谣言。\n\n这是符合法律，符合道德的处理方式？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983312581893992540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vru8JvwdzpO909i @Nonzenki @xiaochuAnZu 另外，假定你所叙述的行为都如实存在，你也同样提到店方正确的处理方式是“劝阻和报警处理”。店方如果真的报警处理，那最后双方一点事都没有。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1982823381612605468",
+        "created_at": "2025-10-28T23:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T00:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983312581893992540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1261051528061861888",
+              "start": 0,
+              "username": "vru8JvwdzpO909i"
+            },
+            {
+              "end": 26,
+              "id": "1806995588145467392",
+              "start": 17,
+              "username": "Nonzenki"
+            },
+            {
+              "end": 39,
+              "id": "1472910881986019330",
+              "start": 27,
+              "username": "xiaochuAnZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983312581893992540",
+        "in_reply_to_user_id": "1261051528061861888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你是在就事论事还在单纯讨论“公共场所公开医疗注射”这个行为本身？\n如果是后者，那你补充的这些信息并不在讨论话题内，就像我们在讨论是否可以在马路上开车，你叙述“喝酒后不能开车”一样，没有意义。\n如果是前者，那你是通过什么信息知道“当事人没有处方（患者只要有任意药品处方，相同化学物质的药品同样可以使用）”，“当事人没有按照公共卫生标准进行注射”以及“当事人扰乱公共秩序（扰乱公共秩序的定义是妨害社会活动稳定运行，八竿子沾不上边）”这些信息？以及，给自己注射药品，不需要医护资质，给别人才需要。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983302844263657841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vru8JvwdzpO909i @Nonzenki @xiaochuAnZu 你是在就事论事还在单纯讨论“公共场所公开医疗注射”这个行为本身？\n如果是后者，那你补充的这些信息并不在讨论话题内，就像我们在讨论是否可以在马路上开车，你叙述“喝酒后不能开车”一样，没有意义。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40045,
+          "following_count": 3669,
+          "like_count": 1283,
+          "listed_count": 69,
+          "media_count": 353,
+          "tweet_count": 2565
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-14T21:51:38.000Z",
+        "description": "累了，随缘营业吧，看缘分🇮🇹",
+        "id": "1261051528061861888",
+        "name": "色即是空 我就是空",
+        "pinned_tweet_id": "1607343017882533888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327997823741284353/KdS22KIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 217,
+          "like_count": 4678,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 830
+        },
+        "username": "vru8JvwdzpO909i",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T10:18:25.000Z",
+        "description": "06/东方project/喜欢cos/偶尔女装😉/SCP:SL/写作/单机游戏/creepypasta/考古‖陪我一路走来的重要的人:@ShengMingSen  @MIcedblacktea @tuanyuehuan @JianYu233 @ZC225031_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "ShengMingSen"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "MIcedblacktea"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "tuanyuehuan"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "JianYu233"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "ZC225031_"
+              }
+            ]
+          }
+        },
+        "id": "1806995588145467392",
+        "location": "Unknown",
+        "name": "Neinzenki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854494345191383040/QqhQvkPe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 804,
+          "like_count": 22571,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 2665
+        },
+        "username": "Nonzenki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-20T12:45:02.000Z",
+        "description": "",
+        "id": "1472910881986019330",
+        "name": "澄曦🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982437758577565696/QGLfwQKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 152,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 138
+        },
+        "username": "xiaochuAnZu",
+        "verified": false
+      }
+    ]
+  }
+}

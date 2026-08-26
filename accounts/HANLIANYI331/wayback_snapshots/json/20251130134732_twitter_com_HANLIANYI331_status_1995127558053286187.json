@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1995086193873354919",
+    "created_at": "2025-11-30T13:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T14:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995127558053286187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1158253773233328128",
+          "start": 0,
+          "username": "DeerThrowaway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995127558053286187",
+    "in_reply_to_user_id": "1158253773233328128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "关于这点我倒是忘记叠“配图不代表我完全认同配图观点”的免责声明了，这个配图的目的是我用于切入话题的一个角度。之所以我没有额外批判配图的侮辱性用词，是因为配图中同时将台湾人，内地人，香港人三个地区群体都无差别的贬义为了“陆支”，“台巴”，“港猴”，所以我暂且可以认为这是一种无差别的贬义性称谓，因此我只引用配图其观点，而没有对此贬义性称谓进行额外说明。\n\n发这个推文的起因是我看到有很多言论在这次香港火灾中将香港的超高层模式归咎于“人多地少”，从而论证香港建筑超高层以及超低人均居住面积的合理性，因此我才会只说明香港所谓的“人多地少”实际上是伪命题，而非直接为此次火灾定性“火灾灾害是因为人口密度过高”。\n\n固然，我们都知道此次火灾造成来源多方面的原因，包括制度腐败，贪污，监管不透明等多方面问题（例如竹架还是金属架孰优孰劣这种小命题实际上只是众多问题的其中极小一部分），但是当灾难刚发生时，只顾着批判问题来源显然无异于问题解决。因此尽管我早在香港此次火灾刚发生时就已经在关注此次火灾，但是我故意并未在灾难刚发生时的三天时间内发表任何观点（火灾的扑灭，受灾者的安置，人员的抢救都至少需要三天时间），因此我会选择在大火已经扑灭，人员已经基本安置完毕的时间点发表观点。至于火灾本身的定性，显然还需要更长的时间（至少需要数周），因此最终我会选择在第四天的时间仅针对人口密度这一单一命题发表观点。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 367,
+      "like_count": 8,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995117044396634322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeerThrowaway 关于这点我倒是忘记叠“配图不代表我完全认同配图观点”的免责声明了，这个配图的目的是我用于切入话题的一个角度。之所以我没有额外批判配图的侮辱性用词，是因为配图中同时将台湾人，内地人，香港人三个地区群体都无差别的贬义为了“陆支”，“台巴”，“港猴”，所以我暂且可以认为这是一种无差别的贬义性称"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1995086193873354919",
+        "created_at": "2025-11-30T13:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995127558053286187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1158253773233328128",
+              "start": 0,
+              "username": "DeerThrowaway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995127558053286187",
+        "in_reply_to_user_id": "1158253773233328128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "关于这点我倒是忘记叠“配图不代表我完全认同配图观点”的免责声明了，这个配图的目的是我用于切入话题的一个角度。之所以我没有额外批判配图的侮辱性用词，是因为配图中同时将台湾人，内地人，香港人三个地区群体都无差别的贬义为了“陆支”，“台巴”，“港猴”，所以我暂且可以认为这是一种无差别的贬义性称谓，因此我只引用配图其观点，而没有对此贬义性称谓进行额外说明。\n\n发这个推文的起因是我看到有很多言论在这次香港火灾中将香港的超高层模式归咎于“人多地少”，从而论证香港建筑超高层以及超低人均居住面积的合理性，因此我才会只说明香港所谓的“人多地少”实际上是伪命题，而非直接为此次火灾定性“火灾灾害是因为人口密度过高”。\n\n固然，我们都知道此次火灾造成来源多方面的原因，包括制度腐败，贪污，监管不透明等多方面问题（例如竹架还是金属架孰优孰劣这种小命题实际上只是众多问题的其中极小一部分），但是当灾难刚发生时，只顾着批判问题来源显然无异于问题解决。因此尽管我早在香港此次火灾刚发生时就已经在关注此次火灾，但是我故意并未在灾难刚发生时的三天时间内发表任何观点（火灾的扑灭，受灾者的安置，人员的抢救都至少需要三天时间），因此我会选择在大火已经扑灭，人员已经基本安置完毕的时间点发表观点。至于火灾本身的定性，显然还需要更长的时间（至少需要数周），因此最终我会选择在第四天的时间仅针对人口密度这一单一命题发表观点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995117044396634322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeerThrowaway 关于这点我倒是忘记叠“配图不代表我完全认同配图观点”的免责声明了，这个配图的目的是我用于切入话题的一个角度。之所以我没有额外批判配图的侮辱性用词，是因为配图中同时将台湾人，内地人，香港人三个地区群体都无差别的贬义为了“陆支”，“台巴”，“港猴”，所以我暂且可以认为这是一种无差别的贬义性称"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1158253773233328128",
+        "conversation_id": "1995086193873354919",
+        "created_at": "2025-11-30T13:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995117044396634322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995117044396634322",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995086193873354919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 即便你和香港没有什么情感联系，无法与火灾后大家还在遭受的情感创伤共情，也请不要这么急着去归纳总结香港经验并以怒其不争的口吻隔空喊话。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40307,
+          "following_count": 3667,
+          "like_count": 1301,
+          "listed_count": 69,
+          "media_count": 364,
+          "tweet_count": 2631
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-05T05:49:53.000Z",
+        "description": "She/they/佢/🦌🦌🦌/Art History/Powered by Translate!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gazafunds.com",
+                "end": 23,
+                "expanded_url": "https://gazafunds.com",
+                "start": 0,
+                "url": "https://t.co/08qgvWCShZ"
+              }
+            ]
+          }
+        },
+        "id": "1158253773233328128",
+        "location": "海防道與彌敦道交界路口",
+        "name": "ρ!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902218386127646722/-bsfIVFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 527,
+          "like_count": 10896,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2245
+        },
+        "url": "https://t.co/08qgvWCShZ",
+        "username": "DeerThrowaway",
+        "verified": false
+      }
+    ]
+  }
+}

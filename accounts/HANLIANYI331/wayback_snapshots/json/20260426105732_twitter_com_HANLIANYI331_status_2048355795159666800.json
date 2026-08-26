@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2048355795159666800",
+    "created_at": "2026-04-26T10:57:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048355795159666800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1998138329334980664",
+          "start": 151,
+          "url": "https://t.co/ngMu4GvNin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048355795159666800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998138329334980664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "庇护所（共计6个房屋）在5月1日需要交付36000元的租金，5月15日需要交付11400元的租金\n\n因为4月份出现了一些公益的意外紧急资金支出，目前出现了一些资金缺口。希望大家能够在资金宽裕的前提下进行一些资金支持\n\n如果资金不宽裕请勿勉强，如果到期后仍有资金缺口，我会通过新增银行负债的方式补足差额 https://t.co/ngMu4GvNin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_1998138325551767552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rQOHKbYAAhYB6.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1335,
+        "media_key": "3_1998138325727944704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rQOH0boAAWR-T.jpg",
+        "width": 1142
+      },
+      {
+        "height": 1301,
+        "media_key": "3_1998138326084362240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rQOJJaIAAgKOW.jpg",
+        "width": 1301
+      },
+      {
+        "height": 1910,
+        "media_key": "3_1998138326055096320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rQOJCbkAAWfoM.jpg",
+        "width": 1403
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2048355795159666800",
+        "created_at": "2026-04-26T10:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048355795159666800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1998138329334980664",
+              "start": 151,
+              "url": "https://t.co/ngMu4GvNin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048355795159666800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998138329334980664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "庇护所（共计6个房屋）在5月1日需要交付36000元的租金，5月15日需要交付11400元的租金\n\n因为4月份出现了一些公益的意外紧急资金支出，目前出现了一些资金缺口。希望大家能够在资金宽裕的前提下进行一些资金支持\n\n如果资金不宽裕请勿勉强，如果到期后仍有资金缺口，我会通过新增银行负债的方式补足差额 https://t.co/ngMu4GvNin"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998138325551767552",
+            "3_1998138325727944704",
+            "3_1998138326084362240",
+            "3_1998138326055096320"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "1998138329334980664",
+        "created_at": "2025-12-08T21:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T22:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998138329334980664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vephchm3k6",
+              "end": 171,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1998138329334980664/photo/1",
+              "media_key": "3_1998138325551767552",
+              "start": 148,
+              "url": "https://t.co/vephchm3k6"
+            },
+            {
+              "display_url": "pic.x.com/vephchm3k6",
+              "end": 171,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1998138329334980664/photo/1",
+              "media_key": "3_1998138325727944704",
+              "start": 148,
+              "url": "https://t.co/vephchm3k6"
+            },
+            {
+              "display_url": "pic.x.com/vephchm3k6",
+              "end": 171,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1998138329334980664/photo/1",
+              "media_key": "3_1998138326084362240",
+              "start": 148,
+              "url": "https://t.co/vephchm3k6"
+            },
+            {
+              "display_url": "pic.x.com/vephchm3k6",
+              "end": 171,
+              "expanded_url": "https://x.com/HANLIANYI331/status/1998138329334980664/photo/1",
+              "media_key": "3_1998138326055096320",
+              "start": 148,
+              "url": "https://t.co/vephchm3k6"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1980138233741848754",
+              "start": 172,
+              "url": "https://t.co/6Uexv9iWBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998138329334980664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "paypal.me/hanlianyi520",
+                "end": 247,
+                "expanded_url": "http://paypal.me/hanlianyi520",
+                "start": 224,
+                "url": "https://t.co/bhAUQ0oBt7"
+              }
+            ]
+          },
+          "text": "本帖为对寒涟漪（或涟漪危机干预小组）赞赏方式的合集更新整理，分别为支付宝，微信，PayPal，加密货币，香港银行卡，中国内地银行卡，欧洲银行卡\n\n支付宝：hanlianyi520@outlook.com（用户名：涟漪危机干预小组）（实名：潘佳彤）（图一为该账户付款码）（图二为该账户添加好友码）\n\n微信：hanlianyi520outlook（用户名：流光逝梦）（实名：潘佳彤）（图三为该微信账户赞赏码）（图四为该微信账户付款码）\n\nPayPal：https://t.co/bhAUQ0oBt7\n\n加密货币（为避免一些风险，后续的加密货币赞赏我会通过币安交易所账户接收，但是原来的USDT和BTC钱包的收款地址仍然有效，若通过此方式赞赏，请转账同时联系寒涟漪确认）：\n币安交易所：（币安UID）1170295012（用户名：寒涟漪）\n\n香港银行卡：\n持有人名称：PAN JIATONG\n账户号码：884000209261\n银行编号/银行名：395 Airstar Bank Limited （天星银行有限公司）\n分行编号（如需）：755\nSWIFT代码：AIRRHKHHXXX\n银行地址：SUITES 3201-07, TOWER 5, THE GATEWAY, HARBOUR CITY, KOWLOON, HONG KONG\n\n中国内地银行卡：\n工商银行 6212254000004180343 （潘佳彤）\n\n欧州银行卡：\nName：R ZHU\n\nIBAN：NL56 ABNA 0104 5078 37\n\nBIC：ABNANL2A"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32585,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980138233741848754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本帖为对寒涟漪（或涟漪危机干预小组）赞赏方式的合集更新整理，分别为支付宝，微信，PayPal，加密货币，香港银行卡，中国内地银行卡，欧洲银行卡\n\n支付宝：hanlianyi520@outlook.com（用户名：涟漪危机干预小组）（实名：潘佳彤）（图一为该账户付款码）（图二为该账户添加好友码） https://t.co/vephchm3k6 https://t.co/6Uexv9iWBe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 99,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 76,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41305,
+          "following_count": 3720,
+          "like_count": 1622,
+          "listed_count": 71,
+          "media_count": 390,
+          "tweet_count": 2846
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

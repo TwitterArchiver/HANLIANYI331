@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1916721378713326016",
+    "created_at": "2025-04-28T05:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T06:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916721378713326016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/1446671993403699204",
+          "start": 139,
+          "url": "https://t.co/VZHZVOmyYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916721378713326016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这四年来，在所有出国留学、工作、移民的跨性别群体当中，日本是“去而复返”（到了日本后发现日本还不如中国又再次回国）或“二次移民”（对日本社会失望后最终决定拿日本当跳板再次移民到其他国家）发生率最高的国家。\n\n几个事实：\n\n日本社会整体比中国社会整体要更加反跨，尤其涉及到工作。\n\n日本某个外交官员曾因被翻出一张二十多年前的女装照最终被迫离职。\n\n在日本，想要变更身份证性别，门槛比中国更高。已经完成性别重置手术，却无法更改身份证性别的情况大量存在。\n\n相比起中国，日本的职场环境对跨性别群体更加不友善。\n\n日本社会整体排外，中国人在日本会遭受到排挤，尤其是职场。\n\n相比起个人能力和素养，日本社会更看重“人情世故”，这一点比中国更加严重。\n\n如果不是为了和自己所爱的人团聚，或者在特殊工作或学术领域必须在日本进行发展，或者其他特殊原因。\n\n不建议去日本。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1446671993403699204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这四年来，在所有出国留学、工作、移民的跨性别群体当中，日本是“去而复返”（到了日本后发现日本还不如中国又再次回国）或“二次移民”（对日本社会失望后最终决定拿日本当跳板再次移民到其他国家）发生率最高的国家。\n\n几个事实：\n\n日本社会整体比中国社会整体要更加反跨，尤其涉及到工作。 https://t.co/VZHZVOmyYN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1581,
+        "media_key": "3_1446671580394778626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FBOcIzgVcAIeW-b.jpg",
+        "width": 769
+      },
+      {
+        "height": 1995,
+        "media_key": "3_1446671795562508288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FBOcVVEUcAAl5aA.jpg",
+        "width": 898
+      },
+      {
+        "height": 1995,
+        "media_key": "3_1446671952010043392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FBOceb4UYAADlns.jpg",
+        "width": 898
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1916721378713326016",
+        "created_at": "2025-04-28T05:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T06:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916721378713326016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1446671993403699204",
+              "start": 139,
+              "url": "https://t.co/VZHZVOmyYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916721378713326016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这四年来，在所有出国留学、工作、移民的跨性别群体当中，日本是“去而复返”（到了日本后发现日本还不如中国又再次回国）或“二次移民”（对日本社会失望后最终决定拿日本当跳板再次移民到其他国家）发生率最高的国家。\n\n几个事实：\n\n日本社会整体比中国社会整体要更加反跨，尤其涉及到工作。\n\n日本某个外交官员曾因被翻出一张二十多年前的女装照最终被迫离职。\n\n在日本，想要变更身份证性别，门槛比中国更高。已经完成性别重置手术，却无法更改身份证性别的情况大量存在。\n\n相比起中国，日本的职场环境对跨性别群体更加不友善。\n\n日本社会整体排外，中国人在日本会遭受到排挤，尤其是职场。\n\n相比起个人能力和素养，日本社会更看重“人情世故”，这一点比中国更加严重。\n\n如果不是为了和自己所爱的人团聚，或者在特殊工作或学术领域必须在日本进行发展，或者其他特殊原因。\n\n不建议去日本。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1446671993403699204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这四年来，在所有出国留学、工作、移民的跨性别群体当中，日本是“去而复返”（到了日本后发现日本还不如中国又再次回国）或“二次移民”（对日本社会失望后最终决定拿日本当跳板再次移民到其他国家）发生率最高的国家。\n\n几个事实：\n\n日本社会整体比中国社会整体要更加反跨，尤其涉及到工作。 https://t.co/VZHZVOmyYN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1446671580394778626",
+            "3_1446671795562508288",
+            "3_1446671952010043392"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1446671993403699204",
+        "created_at": "2021-10-09T03:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2021-10-09T03:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1446671993403699204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zANsJs8QyI",
+              "end": 172,
+              "expanded_url": "https://x.com/HANLIANYI520/status/1446671993403699204/photo/1",
+              "media_key": "3_1446671580394778626",
+              "start": 149,
+              "url": "https://t.co/zANsJs8QyI"
+            },
+            {
+              "display_url": "pic.x.com/zANsJs8QyI",
+              "end": 172,
+              "expanded_url": "https://x.com/HANLIANYI520/status/1446671993403699204/photo/1",
+              "media_key": "3_1446671795562508288",
+              "start": 149,
+              "url": "https://t.co/zANsJs8QyI"
+            },
+            {
+              "display_url": "pic.x.com/zANsJs8QyI",
+              "end": 172,
+              "expanded_url": "https://x.com/HANLIANYI520/status/1446671993403699204/photo/1",
+              "media_key": "3_1446671952010043392",
+              "start": 149,
+              "url": "https://t.co/zANsJs8QyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1446671993403699204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 0,
+          "like_count": 263,
+          "quote_count": 58,
+          "reply_count": 34,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "我发现了一个普遍性现象\n\n很多MtF都感觉去日本后能过的很好\n\n但比在中国这边过的还糟糕\n\n去留学/工作后发现日本并不是自己想象的样子\n \n但是好像还是有很多很多药娘向往日本……\n \n感觉她们是被日漫骗了…… \n \n我之前加的一个佐仓学院群，里面好多MtF都以为在日本能过的很好，做各种努力去日本 https://t.co/zANsJs8QyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37535,
+          "following_count": 3638,
+          "like_count": 705,
+          "listed_count": 61,
+          "media_count": 325,
+          "tweet_count": 2337
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

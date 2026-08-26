@@ -1,0 +1,258 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1813589136928063767",
+    "created_at": "2024-07-17T14:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T15:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813589136928063767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1468470422073012227",
+          "start": 3,
+          "username": "Alvin17110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813589136928063767",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813576255763280180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alvin17110: 长沙县星沙四区单人公寓转租，工作原因8月要离开长沙，房子还有两个月才到期，有要租房子的可以看一看。\n附近环境很好，有地下商场，地铁站走路七八分钟，家电齐全，我都收拾干净了。真的很干净！！！\n月租1000押一付一\n宽带物业费70/月\n水费30元一个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1813589136928063767",
+        "created_at": "2024-07-17T14:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T15:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813589136928063767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1468470422073012227",
+              "start": 3,
+              "username": "Alvin17110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813589136928063767",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813576255763280180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alvin17110: 长沙县星沙四区单人公寓转租，工作原因8月要离开长沙，房子还有两个月才到期，有要租房子的可以看一看。\n附近环境很好，有地下商场，地铁站走路七八分钟，家电齐全，我都收拾干净了。真的很干净！！！\n月租1000押一付一\n宽带物业费70/月\n水费30元一个…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813576167313625088",
+            "3_1813576187408437248",
+            "3_1813576216370122752",
+            "3_1813576251858100224"
+          ]
+        },
+        "author_id": "1468470422073012227",
+        "conversation_id": "1813576255763280180",
+        "created_at": "2024-07-17T14:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T15:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813576255763280180"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "长沙县"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "转租"
+            },
+            {
+              "end": 150,
+              "start": 145,
+              "tag": "单身公寓"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UFFmKa2aEv",
+              "end": 174,
+              "expanded_url": "https://twitter.com/Alvin17110/status/1813576255763280180/photo/1",
+              "media_key": "3_1813576167313625088",
+              "start": 151,
+              "url": "https://t.co/UFFmKa2aEv"
+            },
+            {
+              "display_url": "pic.twitter.com/UFFmKa2aEv",
+              "end": 174,
+              "expanded_url": "https://twitter.com/Alvin17110/status/1813576255763280180/photo/1",
+              "media_key": "3_1813576187408437248",
+              "start": 151,
+              "url": "https://t.co/UFFmKa2aEv"
+            },
+            {
+              "display_url": "pic.twitter.com/UFFmKa2aEv",
+              "end": 174,
+              "expanded_url": "https://twitter.com/Alvin17110/status/1813576255763280180/photo/1",
+              "media_key": "3_1813576216370122752",
+              "start": 151,
+              "url": "https://t.co/UFFmKa2aEv"
+            },
+            {
+              "display_url": "pic.twitter.com/UFFmKa2aEv",
+              "end": 174,
+              "expanded_url": "https://twitter.com/Alvin17110/status/1813576255763280180/photo/1",
+              "media_key": "3_1813576251858100224",
+              "start": 151,
+              "url": "https://t.co/UFFmKa2aEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813576255763280180",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "长沙县星沙四区单人公寓转租，工作原因8月要离开长沙，房子还有两个月才到期，有要租房子的可以看一看。\n附近环境很好，有地下商场，地铁站走路七八分钟，家电齐全，我都收拾干净了。真的很干净！！！\n月租1000押一付一\n宽带物业费70/月\n水费30元一个月随便用\n电费1元1度\n#长沙县  #转租 #单身公寓 https://t.co/UFFmKa2aEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜庇佑所入住请联系 telegram账号@hanlianyi331｜bilibili名称 少女寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜涟漪危机干预小组公共账户@lianyiganyu｜推特私信很少看，尽可能通过telegram私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 110,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 87,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1715942183382180330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30759,
+          "following_count": 3461,
+          "like_count": 222,
+          "listed_count": 59,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-08T06:40:17.000Z",
+        "description": "infj  🚪100 湘\n看清楚了，目前还是男的，不线下",
+        "id": "1468470422073012227",
+        "name": "七七🏳️‍⚧️",
+        "pinned_tweet_id": "1696511730828947462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618226013091295232/99-OuyJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 624,
+          "like_count": 9456,
+          "listed_count": 7,
+          "tweet_count": 4107
+        },
+        "username": "Alvin17110",
+        "verified": false
+      }
+    ]
+  }
+}

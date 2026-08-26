@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "1864361913423155435",
+    "created_at": "2024-12-04T17:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T18:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864366926304301334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "957935539293847552",
+          "start": 0,
+          "username": "yozakura_momij1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864366926304301334",
+    "in_reply_to_user_id": "957935539293847552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864363845529293147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yozakura_momij1 法考不承认辅修法学或法学双学位（主学位非法学），只承认法学本科，法学第二学士，法学硕士，法学博士。\n除了法学专业和医学专业，其他专业倒是不存在类似问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-04T17:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T18:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864366926304301334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "957935539293847552",
+              "start": 0,
+              "username": "yozakura_momij1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864366926304301334",
+        "in_reply_to_user_id": "957935539293847552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864363845529293147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yozakura_momij1 法考不承认辅修法学或法学双学位（主学位非法学），只承认法学本科，法学第二学士，法学硕士，法学博士。\n除了法学专业和医学专业，其他专业倒是不存在类似问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "957935539293847552",
+        "conversation_id": "1864361913423155435",
+        "created_at": "2024-12-04T17:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T18:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864363845529293147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864363845529293147",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864361913423155435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 只想换专业不换学校可以双学位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33916,
+          "following_count": 3423,
+          "like_count": 294,
+          "listed_count": 60,
+          "media_count": 264,
+          "tweet_count": 1935
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-29T11:16:44.000Z",
+        "description": "⭐高功ADHD：拖延症+启动困难+不回消息\n⭐强迫症+抑郁症+焦虑状态\n⭐应该没有双相+不是ASD",
+        "id": "957935539293847552",
+        "location": "西安，中国西北部",
+        "name": "白条条（白层层的家养猫）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800713457723203584/752JEzrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16099,
+          "following_count": 1321,
+          "like_count": 47532,
+          "listed_count": 28,
+          "media_count": 1811,
+          "tweet_count": 22992
+        },
+        "username": "yozakura_momij1",
+        "verified": false
+      }
+    ]
+  }
+}

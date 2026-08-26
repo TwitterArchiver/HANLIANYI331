@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2068938978716459510",
+    "created_at": "2026-06-22T06:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068938978716459510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2068880801320804521",
+          "start": 143,
+          "url": "https://t.co/CWRSNIMYQd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068938978716459510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068880801320804521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这样背后捅刀子的事情在我做救助的十多年来，几乎每年都会发生\n\n但是绝大多数的受助者都是善良的，我永远不会因为其中的部分对我恩将仇报，背后捅刀子的人，而去怪罪其他受助者\n\n绝大多数的人也都值得帮助，我也永远不会因为其中有一部分人一边接受我的帮助，一边算计，坑害我。而去后悔我做救助的行为 https://t.co/CWRSNIMYQd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2068880791283875840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLYkHkcawAA1a-V.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2068938978716459510",
+        "created_at": "2026-06-22T06:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068938978716459510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2068880801320804521",
+              "start": 143,
+              "url": "https://t.co/CWRSNIMYQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068938978716459510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068880801320804521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样背后捅刀子的事情在我做救助的十多年来，几乎每年都会发生\n\n但是绝大多数的受助者都是善良的，我永远不会因为其中的部分对我恩将仇报，背后捅刀子的人，而去怪罪其他受助者\n\n绝大多数的人也都值得帮助，我也永远不会因为其中有一部分人一边接受我的帮助，一边算计，坑害我。而去后悔我做救助的行为 https://t.co/CWRSNIMYQd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068880791283875840"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2068880801320804521",
+        "created_at": "2026-06-22T02:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068880801320804521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcH1fAHDXL",
+              "end": 102,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2068880801320804521/photo/1",
+              "media_key": "3_2068880791283875840",
+              "start": 79,
+              "url": "https://t.co/AcH1fAHDXL"
+            },
+            {
+              "display_url": "x.com/AraBh_channels…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/AraBh_channels/status/2068659530087748014",
+              "start": 103,
+              "url": "https://t.co/oz5b0i67GX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068880801320804521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1609,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068659530087748014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "☹️你知道这个人出来后\n做伪证跟着教官把我们起诉了\n现在要我们赔七万块钱么\n没人开他的盒子\n没人去私信辱骂他\n而甚至像这样的抱怨也有你这样的圣人站出来讲两句 https://t.co/AcH1fAHDXL https://t.co/oz5b0i67GX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41802,
+          "following_count": 3852,
+          "like_count": 1786,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 2999
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067506601251205120/4q9AFRO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5935,
+          "following_count": 3198,
+          "like_count": 3420,
+          "listed_count": 19,
+          "media_count": 467,
+          "tweet_count": 3097
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

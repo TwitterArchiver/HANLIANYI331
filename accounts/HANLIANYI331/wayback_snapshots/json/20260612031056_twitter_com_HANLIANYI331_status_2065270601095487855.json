@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2059801421500014971",
+    "created_at": "2026-06-12T03:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065270601095487855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1517437669449547776",
+          "start": 0,
+          "username": "YumiChow916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065270601095487855",
+    "in_reply_to_user_id": "1517437669449547776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065252404472238492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumiChow916 如果真的是学术讨论这种细节伦理细则，我确实会很有兴趣详细讲讲这方面的内容。但是很显然造谣者远远没有关心到这些深层方面的东西，他们绝大多数都在编织谣言，停留在“我只想让你死”的恶意上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2059801421500014971",
+        "created_at": "2026-06-12T03:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065270601095487855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1517437669449547776",
+              "start": 0,
+              "username": "YumiChow916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065270601095487855",
+        "in_reply_to_user_id": "1517437669449547776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065252404472238492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumiChow916 如果真的是学术讨论这种细节伦理细则，我确实会很有兴趣详细讲讲这方面的内容。但是很显然造谣者远远没有关心到这些深层方面的东西，他们绝大多数都在编织谣言，停留在“我只想让你死”的恶意上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517437669449547776",
+        "conversation_id": "2059801421500014971",
+        "created_at": "2026-06-12T01:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065252404472238492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7d2673c3623fe492"
+        },
+        "id": "2065252404472238492",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我不知道到底發生了啥，不過單從Q&A來看，我認為關於救助倫理還有一個問題沒有被提出和回答：即使現階段的救助關係告一段落，即使受助者是同意的甚至主動的，妳是否在「已知或應知這種意願是基於受助者對救助關係中的移情的認知偏差、或對於自身可能再次需要救助的合理恐懼，而做出的」的情況下，同意或默許，進而在主觀或事實上產生了救助關係及救助前已有的關係（如網友、社群連結等）之外的任何私人關係或情感連結（包括但不限於性關係、浪漫關係、財務關係、租務關係、僱傭關係）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059801421500014971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 我不知道到底發生了啥，不過單從Q&amp;A來看，我認為關於救助倫理還有一個問題沒有被提出和回答：即使現階段的救助關係告一段落，即使受助者是同意的甚至主動的，妳是否在「已知或應知這種意願是基於受助者對救助關係中的移情的認知偏差、或對於自身可能再次需要救助的合理恐懼，而做出的」的情況下，同意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41758,
+          "following_count": 3805,
+          "like_count": 1751,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 2948
+        },
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-22T09:38:40.000Z",
+        "description": "一代人有一代人的逃亡，背井離鄉只是為了去國懷鄉。我們都不過是在以自己的方式感知這個世界，心安之處便是家 🏳️‍🌈🏳️‍⚧️🇺🇳",
+        "id": "1517437669449547776",
+        "location": "Place Without Fear",
+        "name": "Yumi唔係🌽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752884216453332992/KxgPXo_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 312,
+          "like_count": 4032,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 3884
+        },
+        "username": "YumiChow916",
+        "verified": true
+      }
+    ]
+  }
+}
