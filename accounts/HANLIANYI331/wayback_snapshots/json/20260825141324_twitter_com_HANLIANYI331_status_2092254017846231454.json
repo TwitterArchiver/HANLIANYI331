@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2090132879053648249",
+    "created_at": "2026-08-25T14:13:24.000Z",
+    "display_text_range": [
+      28,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092254017846231454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1808189781471551488",
+          "start": 0,
+          "username": "77KawaiiQwQ"
+        },
+        {
+          "end": 27,
+          "id": "1825148164057534464",
+          "start": 13,
+          "username": "0x47653C1C_BE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092254017846231454",
+    "in_reply_to_user_id": "1808189781471551488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092253182630195706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77KawaiiQwQ @0x47653C1C_BE 还真是这个小区，同小区均价五千，当时捡了个漏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2090132879053648249",
+        "created_at": "2026-08-25T14:13:24.000Z",
+        "display_text_range": [
+          28,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092254017846231454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1808189781471551488",
+              "start": 0,
+              "username": "77KawaiiQwQ"
+            },
+            {
+              "end": 27,
+              "id": "1825148164057534464",
+              "start": 13,
+              "username": "0x47653C1C_BE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092254017846231454",
+        "in_reply_to_user_id": "1808189781471551488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092253182630195706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77KawaiiQwQ @0x47653C1C_BE 还真是这个小区，同小区均价五千，当时捡了个漏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808189781471551488",
+        "conversation_id": "2090132879053648249",
+        "created_at": "2026-08-25T14:10:05.000Z",
+        "display_text_range": [
+          29,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092253182630195706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825148164057534464",
+              "start": 0,
+              "username": "0x47653C1C_BE"
+            },
+            {
+              "end": 28,
+              "id": "1300828282061877249",
+              "start": 15,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092253182630195706",
+        "in_reply_to_user_id": "1825148164057534464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090817124231258140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x47653C1C_BE @HANLIANYI331 招笑吗，月租3700有这种房？把宣传图当真？随便谷歌一下就贴上来？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2092254017846231454",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42251,
+          "following_count": 3974,
+          "like_count": 2005,
+          "listed_count": 4,
+          "media_count": 411,
+          "tweet_count": 3112
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-02T17:23:49.000Z",
+        "description": "08/上海/自动化，talk is cheap，呼唤对边缘群体的实践性救助｜English ok｜欢迎互关，联系方式可DM｜希望能让每一个出现在我生活中的人都获得幸福｜https://t.co/QpoLjB3HHq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiro_kiya",
+                "end": 107,
+                "expanded_url": "https://ngl.link/kiro_kiya",
+                "start": 84,
+                "url": "https://t.co/QpoLjB3HHq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seroliya.github.io",
+                "end": 23,
+                "expanded_url": "http://seroliya.github.io",
+                "start": 0,
+                "url": "https://t.co/RM7rQwzHj2"
+              }
+            ]
+          }
+        },
+        "id": "1808189781471551488",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2092253182630195706",
+        "name": "kiro-kiya",
+        "pinned_tweet_id": "2014977813397528858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808189781471551488/1761416073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823625106087927813/6oXuodo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 138,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/RM7rQwzHj2",
+        "username": "77KawaiiQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-18T12:30:22.000Z",
+        "description": "无聊无趣无礼的幻想小号（已黑化），混乱中立，欢愉令使，如与现实相关纯属巧合。\n\npronoun any/all，含糖术后友跨男娘。\n\n我们应当从跨圈历史中学到的唯一教训就是——生活推不要用大号发暴论！",
+        "id": "1825148164057534464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092213142126539124",
+        "name": "0x47653C1C (BE)",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825149328476016640/nv7fWfYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 51,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "0x47653C1C_BE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
