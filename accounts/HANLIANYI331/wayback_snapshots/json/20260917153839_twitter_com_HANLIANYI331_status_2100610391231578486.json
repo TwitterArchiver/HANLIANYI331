@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2100607402039189708",
+    "created_at": "2026-09-17T15:38:39.000Z",
+    "display_text_range": [
+      30,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100610391231578486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442362841193795593",
+          "start": 0,
+          "username": "kusunoki_riko"
+        },
+        {
+          "end": 29,
+          "id": "1858339494371680256",
+          "start": 15,
+          "username": "xxWuchangxx_R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100610391231578486",
+    "in_reply_to_user_id": "1442362841193795593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100609216289583147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kusunoki_riko @xxWuchangxx_R 汪康夫本人多次回忆审讯时的情况：办案人员反复对他说“我们重证据、轻口供”“不是你承认了就是事实，我们重证据不轻信口供”，让他尽管交代，结果他几乎把全班女生的名字都说了出来。后来他发现这是诱导，起诉时用的并不是他以为的那种“证据”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2100607402039189708",
+        "created_at": "2026-09-17T15:38:39.000Z",
+        "display_text_range": [
+          30,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100610391231578486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442362841193795593",
+              "start": 0,
+              "username": "kusunoki_riko"
+            },
+            {
+              "end": 29,
+              "id": "1858339494371680256",
+              "start": 15,
+              "username": "xxWuchangxx_R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100610391231578486",
+        "in_reply_to_user_id": "1442362841193795593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100609216289583147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kusunoki_riko @xxWuchangxx_R 汪康夫本人多次回忆审讯时的情况：办案人员反复对他说“我们重证据、轻口供”“不是你承认了就是事实，我们重证据不轻信口供”，让他尽管交代，结果他几乎把全班女生的名字都说了出来。后来他发现这是诱导，起诉时用的并不是他以为的那种“证据”。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442362841193795593",
+        "conversation_id": "2100607402039189708",
+        "created_at": "2026-09-17T15:33:59.000Z",
+        "display_text_range": [
+          29,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100609216289583147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858339494371680256",
+              "start": 0,
+              "username": "xxWuchangxx_R"
+            },
+            {
+              "end": 28,
+              "id": "1300828282061877249",
+              "start": 15,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100609216289583147",
+        "in_reply_to_user_id": "1858339494371680256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100608314065441150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxWuchangxx_R @HANLIANYI331 我觉得是「被引导“重证据轻口供”，所以你现在说几个名字，就可以好好休息了。没事的，没证据上法院也判不了你，你说了就能睡觉了哦」"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2100610391231578486",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42682,
+          "following_count": 4169,
+          "like_count": 2320,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3151
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-27T05:38:10.000Z",
+        "description": "是非在己，毁誉由人，得失不论‖\n匿名提问箱：\nhttps://t.co/N7GBPQKIYY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/bxigpwgwwmbr8e…",
+                "end": 46,
+                "expanded_url": "https://marshmallow-qa.com/bxigpwgwwmbr8e0?t=le0DzQ&utm_medium=url_text&utm_source=promotion",
+                "start": 23,
+                "url": "https://t.co/N7GBPQKIYY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kusunoki_riko",
+                "end": 23,
+                "expanded_url": "https://t.me/kusunoki_riko",
+                "start": 0,
+                "url": "https://t.co/n7zJdOnlgI"
+              }
+            ]
+          }
+        },
+        "id": "1442362841193795593",
+        "is_identity_verified": false,
+        "location": "此心安处是吾乡",
+        "most_recent_tweet_id": "2100609371990524050",
+        "name": "楠•理子",
+        "pinned_tweet_id": "2083491575318155443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442362841193795593/1787237632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100028633796792320/MIvBOdhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8253,
+          "following_count": 1651,
+          "like_count": 109260,
+          "listed_count": 32,
+          "media_count": 4602,
+          "tweet_count": 60459
+        },
+        "url": "https://t.co/n7zJdOnlgI",
+        "username": "kusunoki_riko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-18T02:40:49.000Z",
+        "description": "断糖药娘、贝斯手\n我学音乐就是为了以后有人愿意排着队花钱买票在台下挤着看我在台上犯精神病\n————————\n妈妈😭@LittleYue04551\n最爱的妹妹🥰@caicaihi1110\n我会永远记得你✨@XingZ60",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "LittleYue04551"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "caicaihi1110"
+              },
+              {
+                "end": 109,
+                "start": 101,
+                "username": "XingZ60"
+              }
+            ]
+          }
+        },
+        "id": "1858339494371680256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100608314065441150",
+        "name": "无常奶绿电锯🍥(人生重来版",
+        "pinned_tweet_id": "2087491030379839958",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858339494371680256/1731898380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007283995822948353/PxKe6TqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 36,
+          "like_count": 9514,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 546
+        },
+        "url": "",
+        "username": "xxWuchangxx_R",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

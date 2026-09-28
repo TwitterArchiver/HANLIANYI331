@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2102054758181916984",
+    "created_at": "2026-09-22T13:07:56.000Z",
+    "display_text_range": [
+      44,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T14:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102384402542325776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1520199851342176256",
+          "start": 0,
+          "username": "meph4786"
+        },
+        {
+          "end": 26,
+          "id": "1843201902550634496",
+          "start": 10,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 43,
+          "id": "1313383273079345152",
+          "start": 27,
+          "username": "ValeriaEulabeia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/2102075611032564216",
+          "start": 72,
+          "url": "https://t.co/1InNYlDhzE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102384402542325776",
+    "in_reply_to_user_id": "1520199851342176256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102075611032564216",
+        "type": "quoted"
+      },
+      {
+        "id": "2102383557595595254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meph4786 @LwrDHYyuxR22499 @ValeriaEulabeia 说这话的前提是为了解决他人的苦难而自己真金白银的掏过钱 https://t.co/1InNYlDhzE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2102054758181916984",
+        "created_at": "2026-09-22T13:07:56.000Z",
+        "display_text_range": [
+          44,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102384402542325776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1520199851342176256",
+              "start": 0,
+              "username": "meph4786"
+            },
+            {
+              "end": 26,
+              "id": "1843201902550634496",
+              "start": 10,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 43,
+              "id": "1313383273079345152",
+              "start": 27,
+              "username": "ValeriaEulabeia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2102075611032564216",
+              "start": 72,
+              "url": "https://t.co/1InNYlDhzE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102384402542325776",
+        "in_reply_to_user_id": "1520199851342176256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102075611032564216",
+            "type": "quoted"
+          },
+          {
+            "id": "2102383557595595254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meph4786 @LwrDHYyuxR22499 @ValeriaEulabeia 说这话的前提是为了解决他人的苦难而自己真金白银的掏过钱 https://t.co/1InNYlDhzE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520199851342176256",
+        "conversation_id": "2102054758181916984",
+        "created_at": "2026-09-22T13:04:35.000Z",
+        "display_text_range": [
+          48,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102383557595595254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 30,
+              "id": "1843201902550634496",
+              "start": 14,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 47,
+              "id": "1313383273079345152",
+              "start": 31,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102383557595595254",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102072270445482297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @LwrDHYyuxR22499 @ValeriaEulabeia 反对自杀干预也未必真是什么坏心思……太多人冷静地觉得人间不值得了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2102075611032564216",
+        "created_at": "2026-09-21T16:40:55.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102075611032564216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1656456180913537026",
+              "start": 116,
+              "url": "https://t.co/GtS4zLdJlE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102075611032564216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果某些人是抱着“我们要尽快解决当事人的痛苦”为理由，而去鼓励当事人自杀。\n\n那么在鼓励当事人自杀之前，这些人至少应该“为了解决当事人的痛苦而去倾力倾财的帮助过当事人去解决痛苦”\n\n无论是家暴，治病，学业，这些都是可以用钱解决的。\n\n一分钱也不愿意去掏，还要鼓励当事人自杀，还要在自杀干预的志愿者工作的时候说风凉话。\n\n那说直白一些，这些人根本不是真的在意当事人的痛苦，他们只是喜欢打着这种光鲜亮丽的旗号，满足自己看别人自杀的肮脏欲望。他们就是那些迫害人自杀的校园霸凌的施暴者旁边摇旗助喊的看热闹不嫌事大的旁观者。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2853,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1656456180913537026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果某些人是抱着“我们要尽快解决当事人的痛苦”为理由，而去鼓励当事人自杀。\n\n那么在鼓励当事人自杀之前，这些人至少应该“为了解决当事人的痛苦而去倾力倾财的帮助过当事人去解决痛苦”\n\n无论是家暴，治病，学业，这些都是可以用钱解决的。 https://t.co/GtS4zLdJlE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2102384402542325776",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42763,
+          "following_count": 4169,
+          "like_count": 2329,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3163
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-30T00:34:33.000Z",
+        "description": "老婆@maoxian1527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "maoxian1527"
+              }
+            ]
+          }
+        },
+        "id": "1520199851342176256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102383557595595254",
+        "name": "Meph4786",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520200140602376192/3BOR4ACN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 59,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "meph4786",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102075432216772737",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843201902550634496/1728288725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7440,
+          "following_count": 3435,
+          "like_count": 4831,
+          "listed_count": 20,
+          "media_count": 590,
+          "tweet_count": 4069
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ValeriaEulabeia",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ValeriaEulabeia",
+                "start": 0,
+                "url": "https://t.co/nm8Jkm6Xnu"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "is_identity_verified": false,
+        "location": "Queensland, Australia",
+        "most_recent_tweet_id": "2102369093148201296",
+        "name": "🏴‍☠️Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2099714439259824481",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313383273079345152/1776957256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082274819450732544/2k3gw41X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7188,
+          "following_count": 4352,
+          "like_count": 181869,
+          "listed_count": 21,
+          "media_count": 3036,
+          "tweet_count": 30084
+        },
+        "url": "https://t.co/nm8Jkm6Xnu",
+        "username": "ValeriaEulabeia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

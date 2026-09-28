@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2103532611964719559",
+    "created_at": "2026-09-25T17:10:31.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T18:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103532611964719559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1431699715163262978",
+          "start": 3,
+          "username": "LittleYue04551"
+        },
+        {
+          "end": 28,
+          "id": "918593759121690625",
+          "start": 20,
+          "username": "hu_qin_"
+        },
+        {
+          "end": 40,
+          "id": "1115304322454044681",
+          "start": 29,
+          "username": "nagoribird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103532611964719559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103094266889396388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LittleYue04551: @hu_qin_ @nagoribird 如果你说的是三月甘霖 ，那我会感到更加奇怪，尽管三月甘霖在庇护所住的时间并不长，但是哪怕是对三月甘霖有一丝一毫的了解，都不可能会有任何人能够得出“三月甘霖是受到了寒涟漪的伤害而去世”的结论，如果让…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2103532611964719559",
+        "created_at": "2026-09-25T17:10:31.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103532611964719559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1431699715163262978",
+              "start": 3,
+              "username": "LittleYue04551"
+            },
+            {
+              "end": 28,
+              "id": "918593759121690625",
+              "start": 20,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 40,
+              "id": "1115304322454044681",
+              "start": 29,
+              "username": "nagoribird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103532611964719559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103094266889396388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LittleYue04551: @hu_qin_ @nagoribird 如果你说的是三月甘霖 ，那我会感到更加奇怪，尽管三月甘霖在庇护所住的时间并不长，但是哪怕是对三月甘霖有一丝一毫的了解，都不可能会有任何人能够得出“三月甘霖是受到了寒涟漪的伤害而去世”的结论，如果让…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431699715163262978",
+        "conversation_id": "2103047621942382981",
+        "created_at": "2026-09-24T12:08:41.000Z",
+        "display_text_range": [
+          21,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103094266889396388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "918593759121690625",
+              "start": 0,
+              "username": "hu_qin_"
+            },
+            {
+              "end": 20,
+              "id": "1115304322454044681",
+              "start": 9,
+              "username": "nagoribird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103094266889396388",
+        "in_reply_to_user_id": "918593759121690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "app.box.com/notes/10036340…",
+                "end": 251,
+                "expanded_url": "https://app.box.com/notes/1003634024561?s=u8t2ux4ymguf64u7cmtmqo5v50il1lvv",
+                "start": 228,
+                "url": "https://t.co/BBXgVbWq0h"
+              }
+            ]
+          },
+          "text": "如果你说的是三月甘霖 ，那我会感到更加奇怪，尽管三月甘霖在庇护所住的时间并不长，但是哪怕是对三月甘霖有一丝一毫的了解，都不可能会有任何人能够得出“三月甘霖是受到了寒涟漪的伤害而去世”的结论，如果让三月甘霖知道了，第一件事情就是把棺材板掀了过来拿刀砍你\n\n如果你真的在意三月甘霖一丝一毫，在意的是一个真实的人，而不是一个用来攻讦寒涟漪的人血馒头和工具，你是不是应该至少先哪怕一丝一毫先了解她是一个什么样的人？\n\n哪怕不说了解她的一生，哪怕看完她写的长文？\n\nhttps://t.co/BBXgVbWq0h\n\n三月甘霖从小对整个人类社会，整个宇宙是彻底绝望的，她本人亲口跟我说过，如果没有寒涟漪，她早在2020年就死了。她曾经以为寒涟漪是那个“和所有人都不一样的给宇宙带来新的东西的人”，后来发现寒涟漪不是她期望的那个“神”，当然，也不可能有人是那个“神”\n\n所以她最终选择了死亡\n\n“寒寒不要我了”\n\n你真的了解这句话哪怕一丝一毫的含义，语境，前因后果，因果缘由吗？\n\n她如果知道自己的死被像你这样的人嘴碎到这种地步，她会怎么想？\n\n欺负死人不会说话是吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3459,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103088144572731860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu_qin_ @nagoribird 如果你说的是三月甘霖 ，那我会感到更加奇怪，尽管三月甘霖在庇护所住的时间并不长，但是哪怕是对三月甘霖有一丝一毫的了解，都不可能会有任何人能够得出“三月甘霖是受到了寒涟漪的伤害而去世”的结论，如果让三月甘霖知道了，第一件事情就是把棺材板掀了过来拿刀砍你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2103532611964719559",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42773,
+          "following_count": 4164,
+          "like_count": 2338,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 3167
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-28T19:26:35.000Z",
+        "description": "mtf 158cm/45kg 持证含糖 同好可互fo贴贴咪 常驻武汉 高强度刷推 转发代表认同 扩列可以私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LittleYueqwq",
+                "end": 23,
+                "expanded_url": "https://t.me/LittleYueqwq",
+                "start": 0,
+                "url": "https://t.co/N5GSmLngYb"
+              }
+            ]
+          }
+        },
+        "id": "1431699715163262978",
+        "is_identity_verified": false,
+        "location": "月光把天空照亮 洒下一点光芒点缀海洋",
+        "most_recent_tweet_id": "2103451407567458322",
+        "name": "间月🍥",
+        "pinned_tweet_id": "2002684986550624309",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431699715163262978/1760809771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074021189673226240/roivMmKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 620,
+          "like_count": 13062,
+          "listed_count": 12,
+          "media_count": 265,
+          "tweet_count": 2455
+        },
+        "url": "https://t.co/N5GSmLngYb",
+        "username": "LittleYue04551",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, trans, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "is_identity_verified": false,
+        "location": "P.R.China／UK／transfem🏳️‍⚧",
+        "most_recent_tweet_id": "2103376120691503514",
+        "name": "胡琴",
+        "pinned_tweet_id": "2081362569181134887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/918593759121690625/1568448031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 1862,
+          "like_count": 23439,
+          "listed_count": 4,
+          "media_count": 289,
+          "tweet_count": 5959
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-08T17:24:06.000Z",
+        "description": "🏳️‍⚧️ she/they·zh/en/ja·视觉小说爱好者·百合控·摩托车驾驶员·竞技麻将裁判员\n希望某一天你发现我戴上面具之后的样子，也不会讨厌现在身处这里的我……",
+        "id": "1115304322454044681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103528090903195886",
+        "name": "名残鳥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083089914439036928/yORtPdeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 205,
+          "like_count": 1293,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 474
+        },
+        "url": "",
+        "username": "nagoribird",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

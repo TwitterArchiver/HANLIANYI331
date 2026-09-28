@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2097570653734121487",
+    "created_at": "2026-09-09T08:47:34.000Z",
+    "display_text_range": [
+      12,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T09:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097607838348820521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1746470058761887744",
+          "start": 0,
+          "username": "qingyue820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097607838348820521",
+    "in_reply_to_user_id": "1746470058761887744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097570653734121487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingyue820 感觉你的做事风格很有ASD的风味（笑哭）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2775,
+        "media_key": "3_2097570614794231808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwRXFoboAAF4Kn.jpg",
+        "width": 3273
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097570624864690176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwRXrJaoAAErh9.jpg",
+        "width": 3276
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097570634780041216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwRYQFa4AA1bbD.jpg",
+        "width": 3276
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2097570643747516416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwRYxfbsAA2n-M.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2097570653734121487",
+        "created_at": "2026-09-09T08:47:34.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097607838348820521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1746470058761887744",
+              "start": 0,
+              "username": "qingyue820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097607838348820521",
+        "in_reply_to_user_id": "1746470058761887744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097570653734121487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyue820 感觉你的做事风格很有ASD的风味（笑哭）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097570614794231808",
+            "3_2097570624864690176",
+            "3_2097570634780041216",
+            "3_2097570643747516416"
+          ]
+        },
+        "author_id": "1746470058761887744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097570653734121487",
+        "created_at": "2026-09-09T06:19:49.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097570653734121487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9oKlqyBKZR",
+              "end": 138,
+              "expanded_url": "https://x.com/qingyue820/status/2097570653734121487/photo/1",
+              "media_key": "3_2097570614794231808",
+              "start": 115,
+              "url": "https://t.co/9oKlqyBKZR"
+            },
+            {
+              "display_url": "pic.x.com/9oKlqyBKZR",
+              "end": 138,
+              "expanded_url": "https://x.com/qingyue820/status/2097570653734121487/photo/1",
+              "media_key": "3_2097570624864690176",
+              "start": 115,
+              "url": "https://t.co/9oKlqyBKZR"
+            },
+            {
+              "display_url": "pic.x.com/9oKlqyBKZR",
+              "end": 138,
+              "expanded_url": "https://x.com/qingyue820/status/2097570653734121487/photo/1",
+              "media_key": "3_2097570634780041216",
+              "start": 115,
+              "url": "https://t.co/9oKlqyBKZR"
+            },
+            {
+              "display_url": "pic.x.com/9oKlqyBKZR",
+              "end": 138,
+              "expanded_url": "https://x.com/qingyue820/status/2097570653734121487/photo/1",
+              "media_key": "3_2097570643747516416",
+              "start": 115,
+              "url": "https://t.co/9oKlqyBKZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097570653734121487",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097570614794231808"
+          },
+          {
+            "media_key": "3_2097570624864690176"
+          },
+          {
+            "media_key": "3_2097570634780041216"
+          },
+          {
+            "media_key": "3_2097570643747516416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "暂时分析不了那个半导体产业链了，等下再研究博通妈死了没，先跟大家讲一下约前女友失败的故事。\n\n补充一些前情提要，我们不算开放婚姻，感情也好，起码超越99% 的夫妻，平时24 小时在一起，游戏一起玩动漫一起看，看书学习啥的都一起。\n\n但是他对性生活这块一直不太满意，大概就是觉得我这个服务意识和服务能力都跟不上，搞得他有点压抑。\n\n我尝试过提高服务质量，但能力有限，而且懒得动，加上我有点早泄，爽完了之后对方如果还没完事还搁那动我会控制不住发脾气，因为这个吵了很多次。\n\n关键我自我认知有偏差，谈上之前我说我是 7x24 小时服务型 m，谈上之后发现这一切都是我看小黄文想象出来的，我每天只 m3-5 分钟，其余时间都很强势，这让他有一种被骗的感觉。\n\n结果就是我对性生活比较满意，他非常性压抑。\n\n性压抑是很影响生活幸福感且不阳痿就无法忽略的问题。他由于感到不公，中间一度发展到“大家都别爽了，各自打各自的飞机算了吧”。\n\n我俩有大半年时间就天天在床上对着对方打飞机，也不说话，上床就冷战，这导致我也开始感受到性压抑了。\n\n性压抑，是只有打炮才能解决的问题！除此之外，擦边、打飞机、聊骚，一切手段都是隔靴搔痒！\n\n意识到自己的错误之后，我就跟他商量“要不这样，你隔一段时间出去玩一次，只要不影响生活我绝不逼逼。”然后他就问我是不是也想出去玩，他不能接受我出去玩，我说咱俩恢复之前的性生活就 ok，我性生活这块比较满意，而且需求量小，这块供大于需，不可能出去玩的，这也不符合我时间管理投入产出比这块的审美。\n\n他比较粘人，一个人也不想出去，需要我陪伴，我一想那也可以，一份投入两个人享受投产比拉满，然后我们就@“#&#%\n\n结果前几天约到一个性冷淡的妹子😅，打了替尔泊肽，没有性欲，躺尸，搁那刷手机，他妈的最后就我一个人挨草。\n巧的是那个妹子的小名和他初恋一样，当时他口嗨说黑化了要去找初恋，然后射完之后他又不想找了。\n\n我心里特别不舒服，因为约来的这个妹妹拿钱不办事，付了三天的钱，结果呆了一小时就让她走了（因为她的性冷淡影响气氛），钱只退了一半，我无法忍受这种亏损！必须让那个名字相同之人补回来！就一直怂恿他给初恋打个电话。\n\n这里还要补充一些情节，我俩在一起他各方面做的都比我好，让我很愧疚，也很有紧迫感，我就问他为什么你在这方面做的比我好很多，你的思维模式是什么样的？有什么我可以学习的经验吗？我也想进步。\n\n他说他原来也很魔丸，但谈过一个很好的女孩子（就他初恋），很包容他，教会了他怎么去爱一个人，然后跟我说了很多他们在一起的细节，我就想这个世界上还有这么好的女孩子吗？我非常地感谢她。\n\n还有就是我们性生活不和谐的时候，聊到过他初恋，他说他初恋这方面没让他受过委屈，也跟我细节描写了很多床戏，我虽然脑子听懂了，但无法融会贯通，因为这个“学非探其花，要自拔其根”。\n\n我就说那找机会约着学习一下，他说不行，找熟人会把事情搞复杂，可能会影响生活，我一想那也是，人生总有学不到的知识，不过还是觉得有点可惜，因为我这个人还是比较好学的。\n\n所以前几天聊到找初恋那个话题，我就一直推波助澜，让他务必去找，鼓励他先打个电话试探一下。\n\n他被我说动了，打了个电话过去发现被拉黑了。\n\n我说没事，我随身携带20张电话卡，咱们换着打😈换了一张后打通了，对方一听到他的声音立马就挂了。\n\n这时候又换了一张打，他打过去就说“能聊会天吗？一分钟100”，对方就让他有屁快放。\n\n怎么说呢，他一直跟我说初恋对他的温柔体贴，但那会电话里传来的语气不知道地还以为是打给了杀父仇人。\n\n对方就问他到底有什么事要骚扰她，他说“我能操你吗，我特别想和你打一炮”\n，对方同意了，说“你赶紧草艹完赶紧滚。”\n\n约好了之后我心里越想越不是滋味，天下哪有给外人（那个死鱼）花钱如流水，给自己人（初恋）花钱斤斤计较的道理！于是趁夜去了最近的商场，赶在关门前买了两袋礼物，一袋香奈儿的套装一袋ysl的套装，花了七八千，我刻意将价格控制在给那个死鱼的之上😡然后在他初恋老家最贵的酒店订了一个豪华行政湖景套房。\n\n这里面其实还有一点别的因素，我对我初恋也很愧疚，但是余生已经无法弥补，我弥补一下他的初恋代餐一下。\n\n我俩过去之后他一直在打退堂鼓，我跟他说来都来了，钱不能白花，压力了他几句，我就出去玩了，让他俩单独在酒店。结果没一会他就给我打电话，说聊崩了，差点打起来，人已经走了，让我速回。\n\n回去之后我就看见他一直坐在床上懊悔，一直在跟朋友聊天，然后时不时地发出尖锐爆鸣声，说“我为什么蠢的像一头老母猪”，说实话有点吵到我炒股了😡\n\n唉而且由于这个事昨天好几个美股没挂上单，再看盘已经拉起来了，涨幅没吃到，妈的。\n\n不过想到两袋礼物现在都是我的了，感觉上回了点血，还行。\n\n约炮失败的具体细节等我吃完饭再发第二篇，字数限制了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 31791,
+          "like_count": 186,
+          "quote_count": 16,
+          "reply_count": 114,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "暂时分析不了那个半导体产业链了，等下再研究博通妈死了没，先跟大家讲一下约前女友失败的故事。\n\n补充一些前情提要，我们不算开放婚姻，感情也好，起码超越99% 的夫妻，平时24 小时在一起，游戏一起玩动漫一起看，看书学习啥的都一起。 https://t.co/9oKlqyBKZR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2097607838348820521",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42352,
+          "following_count": 3974,
+          "like_count": 2063,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3130
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-14T09:51:44.000Z",
+        "description": "AI/美股/资讯/投研/币圈一站式分享教学/\n直播通知/观点交流/私人微信/美股社群获取方式请进https://t.co/UeAXCqNvad",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+RN-t7Qw6hB42N…",
+                "end": 71,
+                "expanded_url": "https://t.me/+RN-t7Qw6hB42Njll",
+                "start": 48,
+                "url": "https://t.co/UeAXCqNvad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@qingyuex",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@qingyuex",
+                "start": 0,
+                "url": "https://t.co/b8jhPrIfuH"
+              }
+            ]
+          }
+        },
+        "id": "1746470058761887744",
+        "is_identity_verified": false,
+        "location": "YouTube正在更新",
+        "most_recent_tweet_id": "2097607334596104316",
+        "name": "清月已经不困了",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746470058761887744/1735252095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872408779700264961/olmDhjmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49554,
+          "following_count": 135,
+          "like_count": 145,
+          "listed_count": 178,
+          "media_count": 305,
+          "tweet_count": 1887
+        },
+        "url": "https://t.co/b8jhPrIfuH",
+        "username": "qingyue820",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

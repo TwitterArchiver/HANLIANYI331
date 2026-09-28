@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1300828282061877249",
+    "conversation_id": "2102021949165813843",
+    "created_at": "2026-09-21T13:07:41.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102021949165813843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HANLIANYI331/s…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/HANLIANYI331/status/2079918478077939845",
+          "start": 50,
+          "url": "https://t.co/op2KMIoWGS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102021949165813843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在有足够的雌激素摄入的情况下，是不需要再去额外补充抗雄激素的，因为雌二醇本身就有拮抗雄激素的作用。\n\n传统的色普龙+雌二醇方案是因为在有微量色普龙的情况下，可以用更少的雌二醇来拮抗雄激素，这实际上更多是为了考虑经济性（花更少的钱），而非是这个方案的整体副作用更小（纯雌激素方案并没有额外坏处）\n\n因此在经济条件允许或者色普龙获取困难的情况下，纯雌激素方案是完全可行的（补佳乐、雌二醇凝胶、雌二醇贴片等）"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079918478077939845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在有足够的雌激素摄入的情况下，是不需要再去额外补充抗雄激素的，因为雌二醇本身就有拮抗雄激素的作用。 https://t.co/op2KMIoWGS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2102021949165813843",
+        "created_at": "2026-09-21T13:07:41.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102021949165813843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2079918478077939845",
+              "start": 50,
+              "url": "https://t.co/op2KMIoWGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102021949165813843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在有足够的雌激素摄入的情况下，是不需要再去额外补充抗雄激素的，因为雌二醇本身就有拮抗雄激素的作用。\n\n传统的色普龙+雌二醇方案是因为在有微量色普龙的情况下，可以用更少的雌二醇来拮抗雄激素，这实际上更多是为了考虑经济性（花更少的钱），而非是这个方案的整体副作用更小（纯雌激素方案并没有额外坏处）\n\n因此在经济条件允许或者色普龙获取困难的情况下，纯雌激素方案是完全可行的（补佳乐、雌二醇凝胶、雌二醇贴片等）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079918478077939845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在有足够的雌激素摄入的情况下，是不需要再去额外补充抗雄激素的，因为雌二醇本身就有拮抗雄激素的作用。 https://t.co/op2KMIoWGS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2079918478077939845",
+        "created_at": "2026-07-22T13:16:22.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:09:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079916780173336919",
+          "2079918478077939845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1940042896243318880",
+              "start": 129,
+              "url": "https://t.co/InQjHZCB9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079918478077939845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "只要不遇到高温、潮湿、暴晒等情况，醋酸环丙孕酮（色普龙），戊酸雌二醇（补佳乐），雌二醇（诺坤复），雌二醇凝胶（爱斯妥）等HRT药物的实际保质期均在商品保质期的两倍以上，甚至理论上在阴凉、干燥（如冷藏冰箱）的环境下，储存十年仍然对药效难以产生统计学上的影响。\n\n无需对hrt药物的过期问题产生过度忧虑，药品的储存条件才是重中之重。\n\n依据来源：\n\n1. 关于HRT药物（醋酸环丙孕酮/色普龙、戊酸雌二醇/补佳乐、雌二醇等）的实际保质期远超标示日期\n支持证据：大量科学研究和FDA的Shelf Life Extension Program (SLEP) 显示，许多固体口服药物和某些制剂在适当储存条件下**（阴凉、干燥、避光、无高温/潮湿/暴晒）， potency（效力）可保留90%以上多年。SLEP测试显示88%的药物批次可延长有效期，平均延长66个月（约5.5年），最长可达15年以上甚至更久。\n口服片剂（如色普龙/Androcur）和雌激素制剂（如Estradiol valerate）通常属于较稳定的类别。社区和有限临床讨论中提到，正确储存的estradiol valerate注射剂或片剂可能在过期后2-5年仍保持良好稳定性（前提是外观无变化、无污染）。\n“储存十年仍难以产生统计学影响”（尤其是冷藏干燥环境下）\n\n关键限制：\n注射剂开封后通常仅推荐28天内使用（无菌考虑）。\n外观检查重要：变色、结块、异味等即丢弃。\n\n2. 储存条件远比“是否过期”重要**，过度焦虑过期标签不必要，许多药物实际耐用性强。储存时保持阴凉干燥是通用好习惯。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 18513,
+          "like_count": 98,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940042896243318880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要不遇到高温、潮湿、暴晒等情况，醋酸环丙孕酮（色普龙），戊酸雌二醇（补佳乐），雌二醇（诺坤复），雌二醇凝胶（爱斯妥）等HRT药物的实际保质期均在商品保质期的两倍以上，甚至理论上在阴凉、干燥（如冷藏冰箱）的环境下，储存十年仍然对药效难以产生统计学上的影响。 https://t.co/InQjHZCB9n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2102021949165813843",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42734,
+          "following_count": 4167,
+          "like_count": 2328,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3156
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

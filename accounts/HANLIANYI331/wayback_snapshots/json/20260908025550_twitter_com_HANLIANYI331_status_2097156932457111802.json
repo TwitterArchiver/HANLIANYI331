@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090906908001542144",
+        "3_2090906917363236864",
+        "3_2090906926229889025",
+        "3_2090906935889444864"
+      ],
+      "media_source_tweet_id": [
+        "2090906943506591883",
+        "2090906943506591883",
+        "2090906943506591883",
+        "2090906943506591883"
+      ]
+    },
+    "author_id": "1300828282061877249",
+    "conversation_id": "2097156932457111802",
+    "created_at": "2026-09-08T02:55:50.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T03:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097156932457111802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1963598567727411201",
+          "start": 3,
+          "username": "shizifuchuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5K7md7A4X",
+          "end": 61,
+          "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+          "media_key": "3_2090906908001542144",
+          "start": 38,
+          "url": "https://t.co/o5K7md7A4X"
+        },
+        {
+          "display_url": "pic.x.com/o5K7md7A4X",
+          "end": 61,
+          "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+          "media_key": "3_2090906917363236864",
+          "start": 38,
+          "url": "https://t.co/o5K7md7A4X"
+        },
+        {
+          "display_url": "pic.x.com/o5K7md7A4X",
+          "end": 61,
+          "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+          "media_key": "3_2090906926229889025",
+          "start": 38,
+          "url": "https://t.co/o5K7md7A4X"
+        },
+        {
+          "display_url": "pic.x.com/o5K7md7A4X",
+          "end": 61,
+          "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+          "media_key": "3_2090906935889444864",
+          "start": 38,
+          "url": "https://t.co/o5K7md7A4X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097156932457111802",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090906908001542144"
+      },
+      {
+        "media_key": "3_2090906917363236864"
+      },
+      {
+        "media_key": "3_2090906926229889025"
+      },
+      {
+        "media_key": "3_2090906935889444864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090906943506591883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shizifuchuan: 买糖被骗，大家警惕2176649042 https://t.co/o5K7md7A4X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2090906908001542144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRkwTXXoAAloPi.jpg",
+        "width": 884
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2090906917363236864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRkw2PXwAATnvy.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2090906926229889025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRkxXRWIAE7e8E.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2640,
+        "media_key": "3_2090906935889444864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRkx7QXQAA2NmQ.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090906908001542144",
+            "3_2090906917363236864",
+            "3_2090906926229889025",
+            "3_2090906935889444864"
+          ],
+          "media_source_tweet_id": [
+            "2090906943506591883",
+            "2090906943506591883",
+            "2090906943506591883",
+            "2090906943506591883"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2097156932457111802",
+        "created_at": "2026-09-08T02:55:50.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097156932457111802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1963598567727411201",
+              "start": 3,
+              "username": "shizifuchuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5K7md7A4X",
+              "end": 61,
+              "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+              "media_key": "3_2090906908001542144",
+              "start": 38,
+              "url": "https://t.co/o5K7md7A4X"
+            },
+            {
+              "display_url": "pic.x.com/o5K7md7A4X",
+              "end": 61,
+              "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+              "media_key": "3_2090906917363236864",
+              "start": 38,
+              "url": "https://t.co/o5K7md7A4X"
+            },
+            {
+              "display_url": "pic.x.com/o5K7md7A4X",
+              "end": 61,
+              "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+              "media_key": "3_2090906926229889025",
+              "start": 38,
+              "url": "https://t.co/o5K7md7A4X"
+            },
+            {
+              "display_url": "pic.x.com/o5K7md7A4X",
+              "end": 61,
+              "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+              "media_key": "3_2090906935889444864",
+              "start": 38,
+              "url": "https://t.co/o5K7md7A4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097156932457111802",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090906908001542144"
+          },
+          {
+            "media_key": "3_2090906917363236864"
+          },
+          {
+            "media_key": "3_2090906926229889025"
+          },
+          {
+            "media_key": "3_2090906935889444864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090906943506591883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shizifuchuan: 买糖被骗，大家警惕2176649042 https://t.co/o5K7md7A4X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090906908001542144",
+            "3_2090906917363236864",
+            "3_2090906926229889025",
+            "3_2090906935889444864"
+          ]
+        },
+        "author_id": "1963598567727411201",
+        "conversation_id": "2090906943506591883",
+        "created_at": "2026-08-21T21:00:37.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T22:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090906943506591883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5K7md7A4X",
+              "end": 43,
+              "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+              "media_key": "3_2090906908001542144",
+              "start": 20,
+              "url": "https://t.co/o5K7md7A4X"
+            },
+            {
+              "display_url": "pic.x.com/o5K7md7A4X",
+              "end": 43,
+              "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+              "media_key": "3_2090906917363236864",
+              "start": 20,
+              "url": "https://t.co/o5K7md7A4X"
+            },
+            {
+              "display_url": "pic.x.com/o5K7md7A4X",
+              "end": 43,
+              "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+              "media_key": "3_2090906926229889025",
+              "start": 20,
+              "url": "https://t.co/o5K7md7A4X"
+            },
+            {
+              "display_url": "pic.x.com/o5K7md7A4X",
+              "end": 43,
+              "expanded_url": "https://x.com/shizifuchuan/status/2090906943506591883/photo/1",
+              "media_key": "3_2090906935889444864",
+              "start": 20,
+              "url": "https://t.co/o5K7md7A4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090906943506591883",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090906908001542144"
+          },
+          {
+            "media_key": "3_2090906917363236864"
+          },
+          {
+            "media_key": "3_2090906926229889025"
+          },
+          {
+            "media_key": "3_2090906935889444864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "买糖被骗，大家警惕2176649042 https://t.co/o5K7md7A4X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "ASD｜ADHD｜如有危机干预信息请私信X账号@lianyiganyu｜咨询复杂问题可以向我预约时间付费咨询，如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜因为消息繁多，如遇不回复消息的情况请重复向我发送信息｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 98,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 75,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2097156932457111802",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42337,
+          "following_count": 3972,
+          "like_count": 2059,
+          "listed_count": 4,
+          "media_count": 414,
+          "tweet_count": 3128
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-04T13:43:05.000Z",
+        "description": "含糖mtx",
+        "id": "1963598567727411201",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095574502407323856",
+        "name": "云泥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090905373624475648/Ksv1WOiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 868,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "shizifuchuan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
